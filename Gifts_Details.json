@@ -534,6 +534,41 @@
       "full_name": "Xmas Stocking",
       "short_name": "xmas_stocking",
       "regular_id": "6003767644426076664"
+    },
+    {
+      "full_name": "Upgraded Backpack",
+      "short_name": "upgraded_backpack",
+      "regular_id": "5886756255493523118"
+    },
+    {
+      "full_name": "Timeless Book",
+      "short_name": "timeless_book",
+      "regular_id": "5886387158889005864"
+    },
+    {
+      "full_name": "Vice Cream",
+      "short_name": "vice_cream",
+      "regular_id": "5898012527257715797"
+    },
+    {
+      "full_name": "Upgraded Eagle",
+      "short_name": "upgraded_eagle",
+      "regular_id": "5999116401002939514"
+    },
+    {
+      "full_name": "Victory Medal",
+      "short_name": "victory_medal",
+      "regular_id": "5830340739074097859"
+    },
+    {
+      "full_name": "Pool Float",
+      "short_name": "pool_float",
+      "regular_id": "5832644211639321671"
+    },
+    {
+      "full_name": "Upgraded Torch",
+      "short_name": "upgraded_torch",
+      "regular_id": "5999277561060787166"
     }
   ],
   "unupgraded": [
@@ -548,19 +583,9 @@
       "id": "5818708013426410448"
     },
     {
-      "full_name": "Backpack",
-      "short_name": "backpack",
-      "id": "5886756255493523118"
-    },
-    {
       "full_name": "Bird Mark",
       "short_name": "bird_mark",
       "id": "5832325860073407546"
-    },
-    {
-      "full_name": "Book",
-      "short_name": "book",
-      "id": "5886387158889005864"
     },
     {
       "full_name": "Case",
@@ -578,11 +603,6 @@
       "id": "5776227780391864916"
     },
     {
-      "full_name": "Cone IceCream",
-      "short_name": "cone_icecream",
-      "id": "5898012527257715797"
-    },
-    {
       "full_name": "Cream IceCream",
       "short_name": "cream_icecream",
       "id": "5897607679345427347"
@@ -598,11 +618,6 @@
       "id": "6003477390536213997"
     },
     {
-      "full_name": "Eagle",
-      "short_name": "eagle",
-      "id": "5999116401002939514"
-    },
-    {
       "full_name": "Easter Cake",
       "short_name": "easter_cake",
       "id": "5773791997064119815"
@@ -611,11 +626,6 @@
       "full_name": "Eight Roses",
       "short_name": "eight_roses",
       "id": "5933770397739647689"
-    },
-    {
-      "full_name": "Golden Medal",
-      "short_name": "golden_medal",
-      "id": "5830340739074097859"
     },
     {
       "full_name": "Gravestone",
@@ -641,11 +651,6 @@
       "full_name": "Pencil",
       "short_name": "pencil",
       "id": "5882129648002794519"
-    },
-    {
-      "full_name": "Pink Flamingo",
-      "short_name": "pink_flamingo",
-      "id": "5832644211639321671"
     },
     {
       "full_name": "REDO",
@@ -681,16 +686,6 @@
       "full_name": "Durov's Coat",
       "short_name": "durovs_coat",
       "id": "6001425315291727333"
-    },
-    {
-      "full_name": "Torch",
-      "short_name": "torch",
-      "id": "5999277561060787166"
-    },
-    {
-      "full_name": "UFC box",
-      "short_name": "ufc_box",
-      "id": "5882260270843168924"
     },
     {
       "full_name": "Trojan Horse",
