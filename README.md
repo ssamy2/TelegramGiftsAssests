@@ -18,9 +18,9 @@ Example: `https://nft.fragment.com/gift/plushpepe-2133.medium.jpg`
 **Unupgraded Gifts:**
 Use short_name from this repository:
 ```
-https://cdn.jsdelivr.net/gh/ssamy2/TG_Photos@main/by_name/{short_name}.webp
+https://cdn.jsdelivr.net/gh/ssamy2/TG_Photos@main/webp/by_name/{short_name}.webp
 ```
-Example: `https://cdn.jsdelivr.net/gh/ssamy2/TG_Photos@main/by_name/plush_pepe.webp`
+Example: `https://cdn.jsdelivr.net/gh/ssamy2/TG_Photos@main/webp/by_name/plush_pepe.webp`
 
 ### Short Name Convention
 
@@ -39,8 +39,12 @@ Examples:
 
 ## Files
 
-- `by_id/` - Images named by gift ID (133 images)
-- `by_name/` - Images named by short name (133 images)
+- `webp/` - WebP image files (by ID and by short name)
+  - `by_id/` - Named by gift ID
+  - `by_name/` - Named by short name
+- `tgs/` - TGS animation files (by ID and by short name)
+  - `by_id/` - Named by gift ID
+  - `by_name/` - Named by short name
 - `Gifts_Details.json` - Full gift data with names and IDs
 
 ## Gift Data Structure
