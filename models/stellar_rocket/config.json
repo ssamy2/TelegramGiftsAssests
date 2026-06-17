@@ -1,0 +1,352 @@
+[
+  {
+    "name": "first_step",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/first_step.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/first_step.webp",
+    "custom_emoji_id": "5264996732227317864"
+  },
+  {
+    "name": "jet_bike",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/jet_bike.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/jet_bike.webp",
+    "custom_emoji_id": "5267483050140266422"
+  },
+  {
+    "name": "fishing_cat",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/fishing_cat.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/fishing_cat.webp",
+    "custom_emoji_id": "5339115807488112112"
+  },
+  {
+    "name": "cardboard",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/cardboard.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/cardboard.webp",
+    "custom_emoji_id": "5354961754319256787"
+  },
+  {
+    "name": "pepelatz",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/pepelatz.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/pepelatz.webp",
+    "custom_emoji_id": "5449583358478679072"
+  },
+  {
+    "name": "mission_uranus",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/mission_uranus.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/mission_uranus.webp",
+    "custom_emoji_id": "5451642181116785832"
+  },
+  {
+    "name": "neon_fuel",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/neon_fuel.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/neon_fuel.webp",
+    "custom_emoji_id": "5188160544690961551"
+  },
+  {
+    "name": "worm_gun",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/worm_gun.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/worm_gun.webp",
+    "custom_emoji_id": "5193091072657489107"
+  },
+  {
+    "name": "sky_ghost",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/sky_ghost.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/sky_ghost.webp",
+    "custom_emoji_id": "5195206833677038385"
+  },
+  {
+    "name": "normandy",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/normandy.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/normandy.webp",
+    "custom_emoji_id": "5195041009284711672"
+  },
+  {
+    "name": "unicorn",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/unicorn.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/unicorn.webp",
+    "custom_emoji_id": "5213380210400982478"
+  },
+  {
+    "name": "squirrel",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/squirrel.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/squirrel.webp",
+    "custom_emoji_id": "5217590446582169740"
+  },
+  {
+    "name": "planet_express",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/planet_express.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/planet_express.webp",
+    "custom_emoji_id": "5287695977984061820"
+  },
+  {
+    "name": "black_wing",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/black_wing.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/black_wing.webp",
+    "custom_emoji_id": "5355180063211944815"
+  },
+  {
+    "name": "chrome",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/chrome.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/chrome.webp",
+    "custom_emoji_id": "5451886620590505595"
+  },
+  {
+    "name": "knowledge",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/knowledge.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/knowledge.webp",
+    "custom_emoji_id": "5449403747241329977"
+  },
+  {
+    "name": "astro_peach",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/astro_peach.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/astro_peach.webp",
+    "custom_emoji_id": "5474226613807773923"
+  },
+  {
+    "name": "hornet",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/hornet.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/hornet.webp",
+    "custom_emoji_id": "5195269780717729488"
+  },
+  {
+    "name": "lollipop",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/lollipop.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/lollipop.webp",
+    "custom_emoji_id": "5195436850650576751"
+  },
+  {
+    "name": "bitcoin",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/bitcoin.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/bitcoin.webp",
+    "custom_emoji_id": "5211208206784687810"
+  },
+  {
+    "name": "checkered",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/checkered.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/checkered.webp",
+    "custom_emoji_id": "5213386566952580017"
+  },
+  {
+    "name": "rocket_plush",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/rocket_plush.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/rocket_plush.webp",
+    "custom_emoji_id": "5213286202156806623"
+  },
+  {
+    "name": "pencil",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/pencil.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/pencil.webp",
+    "custom_emoji_id": "5269604806934163374"
+  },
+  {
+    "name": "doomsday",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/doomsday.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/doomsday.webp",
+    "custom_emoji_id": "5332376819117093266"
+  },
+  {
+    "name": "mega_death",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/mega_death.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/mega_death.webp",
+    "custom_emoji_id": "5355234570641896373"
+  },
+  {
+    "name": "alien_pizza",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/alien_pizza.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/alien_pizza.webp",
+    "custom_emoji_id": "5449789538383724664"
+  },
+  {
+    "name": "ruby_sparkle",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/ruby_sparkle.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/ruby_sparkle.webp",
+    "custom_emoji_id": "5188536066566553356"
+  },
+  {
+    "name": "clever_bird",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/clever_bird.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/clever_bird.webp",
+    "custom_emoji_id": "5194983572687059736"
+  },
+  {
+    "name": "jewels",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/jewels.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/jewels.webp",
+    "custom_emoji_id": "5195310063215999275"
+  },
+  {
+    "name": "lava_lamp",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/lava_lamp.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/lava_lamp.webp",
+    "custom_emoji_id": "5194911838143282994"
+  },
+  {
+    "name": "to_the_moon",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/to_the_moon.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/to_the_moon.webp",
+    "custom_emoji_id": "5211116642376909065"
+  },
+  {
+    "name": "vintage_toy",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/vintage_toy.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/vintage_toy.webp",
+    "custom_emoji_id": "5215716195868635571"
+  },
+  {
+    "name": "flower_power",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/flower_power.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/flower_power.webp",
+    "custom_emoji_id": "5285079505382177910"
+  },
+  {
+    "name": "baby_carrot",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/baby_carrot.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/baby_carrot.webp",
+    "custom_emoji_id": "5285420070518945957"
+  },
+  {
+    "name": "space_bot",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/space_bot.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/space_bot.webp",
+    "custom_emoji_id": "5452007768733022758"
+  },
+  {
+    "name": "popsicle",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/popsicle.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/popsicle.webp",
+    "custom_emoji_id": "5194990814001917532"
+  },
+  {
+    "name": "gunship",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/gunship.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/gunship.webp",
+    "custom_emoji_id": "5210805514945985107"
+  },
+  {
+    "name": "banana",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/banana.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/banana.webp",
+    "custom_emoji_id": "5332726038612961440"
+  },
+  {
+    "name": "little_journey",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/little_journey.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/little_journey.webp",
+    "custom_emoji_id": "5352917100778255766"
+  },
+  {
+    "name": "silver_ride",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/silver_ride.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/silver_ride.webp",
+    "custom_emoji_id": "5451864196566250830"
+  },
+  {
+    "name": "nostromo",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/nostromo.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/nostromo.webp",
+    "custom_emoji_id": "5211069904542792026"
+  },
+  {
+    "name": "space_veggie",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/space_veggie.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/space_veggie.webp",
+    "custom_emoji_id": "5355104158254923346"
+  },
+  {
+    "name": "telegram",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/telegram.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/telegram.webp",
+    "custom_emoji_id": "5210975866233848603"
+  },
+  {
+    "name": "laika",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/laika.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/laika.webp",
+    "custom_emoji_id": "5210716733677008867"
+  },
+  {
+    "name": "fireworks",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/fireworks.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/fireworks.webp",
+    "custom_emoji_id": "5289714788706841965"
+  },
+  {
+    "name": "police_box",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/police_box.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/police_box.webp",
+    "custom_emoji_id": "5192807454492097332"
+  },
+  {
+    "name": "green_jelly",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/green_jelly.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/green_jelly.webp",
+    "custom_emoji_id": "5188153870311781207"
+  },
+  {
+    "name": "soap_bubbles",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/soap_bubbles.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/soap_bubbles.webp",
+    "custom_emoji_id": "5193179501739145102"
+  },
+  {
+    "name": "malfunction",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/malfunction.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/malfunction.webp",
+    "custom_emoji_id": "5287284979678606077"
+  },
+  {
+    "name": "submarine",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/stellar_rocket/submarine.tgs",
+    "webp_path": "TG_Photos_repo/models/stellar_rocket/submarine.webp",
+    "custom_emoji_id": "5474367918231814938"
+  }
+]
