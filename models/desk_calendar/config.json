@@ -1,0 +1,121 @@
+[
+  {
+    "name": "may",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/desk_calendar/may.tgs",
+    "webp_path": "TG_Photos_repo/models/desk_calendar/may.webp",
+    "custom_emoji_id": "5228721683258437499"
+  },
+  {
+    "name": "balloon_face",
+    "rarity_permille": 0.2,
+    "tgs_path": "TG_Photos_repo/models/desk_calendar/balloon_face.tgs",
+    "webp_path": "TG_Photos_repo/models/desk_calendar/balloon_face.webp",
+    "custom_emoji_id": "5226497315400871881"
+  },
+  {
+    "name": "golden_years",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/desk_calendar/golden_years.tgs",
+    "webp_path": "TG_Photos_repo/models/desk_calendar/golden_years.webp",
+    "custom_emoji_id": "5229132514060167056"
+  },
+  {
+    "name": "checklist",
+    "rarity_permille": 0.4,
+    "tgs_path": "TG_Photos_repo/models/desk_calendar/checklist.tgs",
+    "webp_path": "TG_Photos_repo/models/desk_calendar/checklist.webp",
+    "custom_emoji_id": "5226581251946736406"
+  },
+  {
+    "name": "fresh_start",
+    "rarity_permille": 0.8,
+    "tgs_path": "TG_Photos_repo/models/desk_calendar/fresh_start.tgs",
+    "webp_path": "TG_Photos_repo/models/desk_calendar/fresh_start.webp",
+    "custom_emoji_id": "5226722934327896581"
+  },
+  {
+    "name": "going_green",
+    "rarity_permille": 1.3,
+    "tgs_path": "TG_Photos_repo/models/desk_calendar/going_green.tgs",
+    "webp_path": "TG_Photos_repo/models/desk_calendar/going_green.webp",
+    "custom_emoji_id": "5233631969044096044"
+  },
+  {
+    "name": "bright_coral",
+    "rarity_permille": 1.4,
+    "tgs_path": "TG_Photos_repo/models/desk_calendar/bright_coral.tgs",
+    "webp_path": "TG_Photos_repo/models/desk_calendar/bright_coral.webp",
+    "custom_emoji_id": "5233255983312040368"
+  },
+  {
+    "name": "choco_top",
+    "rarity_permille": 1.3,
+    "tgs_path": "TG_Photos_repo/models/desk_calendar/choco_top.tgs",
+    "webp_path": "TG_Photos_repo/models/desk_calendar/choco_top.webp",
+    "custom_emoji_id": "5233523108803010524"
+  },
+  {
+    "name": "black_flip",
+    "rarity_permille": 1.4,
+    "tgs_path": "TG_Photos_repo/models/desk_calendar/black_flip.tgs",
+    "webp_path": "TG_Photos_repo/models/desk_calendar/black_flip.webp",
+    "custom_emoji_id": "5235804625495416769"
+  },
+  {
+    "name": "plum_peach",
+    "rarity_permille": 1.4,
+    "tgs_path": "TG_Photos_repo/models/desk_calendar/plum_peach.tgs",
+    "webp_path": "TG_Photos_repo/models/desk_calendar/plum_peach.webp",
+    "custom_emoji_id": "5233539760391221050"
+  },
+  {
+    "name": "golden_touch",
+    "rarity_permille": 1.4,
+    "tgs_path": "TG_Photos_repo/models/desk_calendar/golden_touch.tgs",
+    "webp_path": "TG_Photos_repo/models/desk_calendar/golden_touch.webp",
+    "custom_emoji_id": "5233535465423926830"
+  },
+  {
+    "name": "pink_planner",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/desk_calendar/pink_planner.tgs",
+    "webp_path": "TG_Photos_repo/models/desk_calendar/pink_planner.webp",
+    "custom_emoji_id": "5235963994551902172"
+  },
+  {
+    "name": "durov_day",
+    "rarity_permille": 0.4,
+    "tgs_path": "TG_Photos_repo/models/desk_calendar/durov_day.tgs",
+    "webp_path": "TG_Photos_repo/models/desk_calendar/durov_day.webp",
+    "custom_emoji_id": "5231096091503515302"
+  },
+  {
+    "name": "independence",
+    "rarity_permille": 0.2,
+    "tgs_path": "TG_Photos_repo/models/desk_calendar/independence.tgs",
+    "webp_path": "TG_Photos_repo/models/desk_calendar/independence.webp",
+    "custom_emoji_id": "5238073703962535808"
+  },
+  {
+    "name": "heartbreak",
+    "rarity_permille": 0.6,
+    "tgs_path": "TG_Photos_repo/models/desk_calendar/heartbreak.tgs",
+    "webp_path": "TG_Photos_repo/models/desk_calendar/heartbreak.webp",
+    "custom_emoji_id": "5231154137986521978"
+  },
+  {
+    "name": "hodler",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/desk_calendar/hodler.tgs",
+    "webp_path": "TG_Photos_repo/models/desk_calendar/hodler.webp",
+    "custom_emoji_id": "5233261334841289002"
+  },
+  {
+    "name": "purple_mint",
+    "rarity_permille": 1.3,
+    "tgs_path": "TG_Photos_repo/models/desk_calendar/purple_mint.tgs",
+    "webp_path": "TG_Photos_repo/models/desk_calendar/purple_mint.webp",
+    "custom_emoji_id": "5235829433226518672"
+  }
+]
