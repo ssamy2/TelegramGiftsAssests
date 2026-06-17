@@ -4,363 +4,415 @@
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/prismatic.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/prismatic.webp",
-    "custom_emoji_id": "5449859417501627909"
+    "custom_emoji_id": "5879820978527152502",
+    "model_id": "5449859417501627909"
   },
   {
     "name": "comics",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/comics.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/comics.webp",
-    "custom_emoji_id": "5449864820570481488"
+    "custom_emoji_id": "5879999558972349883",
+    "model_id": "5449864820570481488"
   },
   {
     "name": "crystal_queen",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/crystal_queen.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/crystal_queen.webp",
-    "custom_emoji_id": "5447511388945675866"
+    "custom_emoji_id": "5879785523572120674",
+    "model_id": "5447511388945675866"
   },
   {
     "name": "cultist",
     "rarity_permille": 1.5,
     "tgs_path": "TG_Photos_repo/models/light_sword/cultist.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/cultist.webp",
-    "custom_emoji_id": "5449883370534238228"
+    "custom_emoji_id": "5879961325173481317",
+    "model_id": "5449883370534238228"
   },
   {
     "name": "absinthe",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/absinthe.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/absinthe.webp",
-    "custom_emoji_id": "5449751416254002554"
+    "custom_emoji_id": "5879833820479364661",
+    "model_id": "5449751416254002554"
   },
   {
     "name": "fruit_katana",
     "rarity_permille": 0.5,
     "tgs_path": "TG_Photos_repo/models/light_sword/fruit_katana.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/fruit_katana.webp",
-    "custom_emoji_id": "5449770408599383571"
+    "custom_emoji_id": "5879631145267634492",
+    "model_id": "5449770408599383571"
   },
   {
     "name": "steve",
     "rarity_permille": 0.5,
     "tgs_path": "TG_Photos_repo/models/light_sword/steve.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/steve.webp",
-    "custom_emoji_id": "5447322513463864919"
+    "custom_emoji_id": "5879490841570977875",
+    "model_id": "5447322513463864919"
   },
   {
     "name": "eva_unit-01",
     "rarity_permille": 0.5,
     "tgs_path": "TG_Photos_repo/models/light_sword/eva_unit-01.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/eva_unit-01.webp",
-    "custom_emoji_id": "5449758567374547220"
+    "custom_emoji_id": "5879611182259642353",
+    "model_id": "5449758567374547220"
   },
   {
     "name": "doom_slayer",
     "rarity_permille": 0.5,
     "tgs_path": "TG_Photos_repo/models/light_sword/doom_slayer.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/doom_slayer.webp",
-    "custom_emoji_id": "5449841584797413927"
+    "custom_emoji_id": "5879899868486442737",
+    "model_id": "5449841584797413927"
   },
   {
     "name": "jedi_luke",
     "rarity_permille": 0.2,
     "tgs_path": "TG_Photos_repo/models/light_sword/jedi_luke.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/jedi_luke.webp",
-    "custom_emoji_id": "5449640258205418747"
+    "custom_emoji_id": "5879805168752532653",
+    "model_id": "5449640258205418747"
   },
   {
     "name": "the_skywalker",
     "rarity_permille": 0.2,
     "tgs_path": "TG_Photos_repo/models/light_sword/the_skywalker.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/the_skywalker.webp",
-    "custom_emoji_id": "5449913680118445663"
+    "custom_emoji_id": "5879763812512440017",
+    "model_id": "5449913680118445663"
   },
   {
     "name": "wrath_of_vader",
     "rarity_permille": 0.1,
     "tgs_path": "TG_Photos_repo/models/light_sword/wrath_of_vader.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/wrath_of_vader.webp",
-    "custom_emoji_id": "5449673587151634581"
+    "custom_emoji_id": "5879781954454298923",
+    "model_id": "5449673587151634581"
   },
   {
     "name": "windu",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/windu.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/windu.webp",
-    "custom_emoji_id": "5449442341817448288"
+    "custom_emoji_id": "5880006533999238987",
+    "model_id": "5449442341817448288"
   },
   {
     "name": "police_droid",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/police_droid.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/police_droid.webp",
-    "custom_emoji_id": "5447302962772734264"
+    "custom_emoji_id": "5879513368674444434",
+    "model_id": "5447302962772734264"
   },
   {
     "name": "lotus_saber",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/lotus_saber.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/lotus_saber.webp",
-    "custom_emoji_id": "5449823240992091075"
+    "custom_emoji_id": "5879890161860354116",
+    "model_id": "5449823240992091075"
   },
   {
     "name": "bananakin",
     "rarity_permille": 2.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/bananakin.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/bananakin.webp",
-    "custom_emoji_id": "5449858369529605582"
+    "custom_emoji_id": "5879520545564795155",
+    "model_id": "5449858369529605582"
   },
   {
     "name": "phantom",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/phantom.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/phantom.webp",
-    "custom_emoji_id": "5449440954543009378"
+    "custom_emoji_id": "5879787928753806040",
+    "model_id": "5449440954543009378"
   },
   {
     "name": "stargazer",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/stargazer.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/stargazer.webp",
-    "custom_emoji_id": "5449917360905416366"
+    "custom_emoji_id": "5879915682556025503",
+    "model_id": "5449917360905416366"
   },
   {
     "name": "tsunami",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/tsunami.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/tsunami.webp",
-    "custom_emoji_id": "5251610740799862505"
+    "custom_emoji_id": "5879723980985737444",
+    "model_id": "5251610740799862505"
   },
   {
     "name": "love_samurai",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/love_samurai.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/love_samurai.webp",
-    "custom_emoji_id": "5449811472781700831"
+    "custom_emoji_id": "5879691858925329574",
+    "model_id": "5449811472781700831"
   },
   {
     "name": "fury_of_kylo",
     "rarity_permille": 0.2,
     "tgs_path": "TG_Photos_repo/models/light_sword/fury_of_kylo.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/fury_of_kylo.webp",
-    "custom_emoji_id": "5449657824621656719"
+    "custom_emoji_id": "5880001534657306422",
+    "model_id": "5449657824621656719"
   },
   {
     "name": "enforcer",
     "rarity_permille": 1.5,
     "tgs_path": "TG_Photos_repo/models/light_sword/enforcer.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/enforcer.webp",
-    "custom_emoji_id": "5465155174727181965"
+    "custom_emoji_id": "5879711675904433180",
+    "model_id": "5465155174727181965"
   },
   {
     "name": "low_battery",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/low_battery.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/low_battery.webp",
-    "custom_emoji_id": "5449568076985036191"
+    "custom_emoji_id": "5879647805445775646",
+    "model_id": "5449568076985036191"
   },
   {
     "name": "jet_fuel",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/jet_fuel.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/jet_fuel.webp",
-    "custom_emoji_id": "5452056263208758720"
+    "custom_emoji_id": "5877698470113976272",
+    "model_id": "5452056263208758720"
   },
   {
     "name": "andromeda",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/andromeda.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/andromeda.webp",
-    "custom_emoji_id": "5451834574176808126"
+    "custom_emoji_id": "5879812083649879596",
+    "model_id": "5451834574176808126"
   },
   {
     "name": "polygon",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/polygon.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/polygon.webp",
-    "custom_emoji_id": "5447469890971662862"
+    "custom_emoji_id": "5879856094179761924",
+    "model_id": "5447469890971662862"
   },
   {
     "name": "fukushimmer",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/fukushimmer.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/fukushimmer.webp",
-    "custom_emoji_id": "5449792123954033907"
+    "custom_emoji_id": "5879727550103559756",
+    "model_id": "5449792123954033907"
   },
   {
     "name": "lava_lash",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/lava_lash.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/lava_lash.webp",
-    "custom_emoji_id": "5249403226393964965"
+    "custom_emoji_id": "5879555686987210165",
+    "model_id": "5249403226393964965"
   },
   {
     "name": "hoth_aurora",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/hoth_aurora.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/hoth_aurora.webp",
-    "custom_emoji_id": "5447510147700125545"
+    "custom_emoji_id": "5879880253370802236",
+    "model_id": "5447510147700125545"
   },
   {
     "name": "valhalla",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/valhalla.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/valhalla.webp",
-    "custom_emoji_id": "5449881845820845745"
+    "custom_emoji_id": "5879978938834362087",
+    "model_id": "5449881845820845745"
   },
   {
     "name": "super_saiyan",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/super_saiyan.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/super_saiyan.webp",
-    "custom_emoji_id": "5449868651681317077"
+    "custom_emoji_id": "5879892081710735723",
+    "model_id": "5449868651681317077"
   },
   {
     "name": "jedi_princess",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/jedi_princess.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/jedi_princess.webp",
-    "custom_emoji_id": "5449460711392571960"
+    "custom_emoji_id": "5879856935993351353",
+    "model_id": "5449460711392571960"
   },
   {
     "name": "dragonfire",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/dragonfire.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/dragonfire.webp",
-    "custom_emoji_id": "5447468860179509892"
+    "custom_emoji_id": "5879962265771319001",
+    "model_id": "5447468860179509892"
   },
   {
     "name": "clown_wars",
     "rarity_permille": 1.5,
     "tgs_path": "TG_Photos_repo/models/light_sword/clown_wars.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/clown_wars.webp",
-    "custom_emoji_id": "5463191975240956338"
+    "custom_emoji_id": "5879508253368395058",
+    "model_id": "5463191975240956338"
   },
   {
     "name": "lava_forge",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/lava_forge.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/lava_forge.webp",
-    "custom_emoji_id": "5447279224488490651"
+    "custom_emoji_id": "5880001624851619653",
+    "model_id": "5447279224488490651"
   },
   {
     "name": "the_tempest",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/the_tempest.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/the_tempest.webp",
-    "custom_emoji_id": "5449631646795983100"
+    "custom_emoji_id": "5879980613871607551",
+    "model_id": "5449631646795983100"
   },
   {
     "name": "darksaber",
     "rarity_permille": 0.4,
     "tgs_path": "TG_Photos_repo/models/light_sword/darksaber.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/darksaber.webp",
-    "custom_emoji_id": "5447642857894605874"
+    "custom_emoji_id": "5879724431957302541",
+    "model_id": "5447642857894605874"
   },
   {
     "name": "master_yoda",
     "rarity_permille": 0.2,
     "tgs_path": "TG_Photos_repo/models/light_sword/master_yoda.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/master_yoda.webp",
-    "custom_emoji_id": "5449359470423488880"
+    "custom_emoji_id": "5879959710265778190",
+    "model_id": "5449359470423488880"
   },
   {
     "name": "might_of_maul",
     "rarity_permille": 0.2,
     "tgs_path": "TG_Photos_repo/models/light_sword/might_of_maul.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/might_of_maul.webp",
-    "custom_emoji_id": "5449800774018168273"
+    "custom_emoji_id": "5879700165392081088",
+    "model_id": "5449800774018168273"
   },
   {
     "name": "refraction",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/refraction.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/refraction.webp",
-    "custom_emoji_id": "5447457207933232849"
+    "custom_emoji_id": "5879682190953946035",
+    "model_id": "5447457207933232849"
   },
   {
     "name": "nunchaku",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/nunchaku.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/nunchaku.webp",
-    "custom_emoji_id": "5449781824622456579"
+    "custom_emoji_id": "5879648999446683682",
+    "model_id": "5449781824622456579"
   },
   {
     "name": "toy_blade",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/toy_blade.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/toy_blade.webp",
-    "custom_emoji_id": "5449494529965056984"
+    "custom_emoji_id": "5879528650168082417",
+    "model_id": "5449494529965056984"
   },
   {
     "name": "duelist",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/duelist.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/duelist.webp",
-    "custom_emoji_id": "5449450072758580349"
+    "custom_emoji_id": "5879763872641982367",
+    "model_id": "5449450072758580349"
   },
   {
     "name": "hyperdrive",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/hyperdrive.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/hyperdrive.webp",
-    "custom_emoji_id": "5449486726009482945"
+    "custom_emoji_id": "5879534444078964957",
+    "model_id": "5449486726009482945"
   },
   {
     "name": "stick",
     "rarity_permille": 2.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/stick.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/stick.webp",
-    "custom_emoji_id": "5449355931370417539"
+    "custom_emoji_id": "5879613084930153914",
+    "model_id": "5449355931370417539"
   },
   {
     "name": "quasar",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/quasar.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/quasar.webp",
-    "custom_emoji_id": "5449717589091579466"
+    "custom_emoji_id": "5879527735340050601",
+    "model_id": "5449717589091579466"
   },
   {
     "name": "electric_force",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/electric_force.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/electric_force.webp",
-    "custom_emoji_id": "5449638222390915087"
+    "custom_emoji_id": "5879618170171433390",
+    "model_id": "5449638222390915087"
   },
   {
     "name": "brand_name",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/brand_name.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/brand_name.webp",
-    "custom_emoji_id": "5449572827218866878"
+    "custom_emoji_id": "5879672797860470405",
+    "model_id": "5449572827218866878"
   },
   {
     "name": "gaslight",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/gaslight.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/gaslight.webp",
-    "custom_emoji_id": "5449754916652348061"
+    "custom_emoji_id": "5879533262962957122",
+    "model_id": "5449754916652348061"
   },
   {
     "name": "double_time",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/double_time.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/double_time.webp",
-    "custom_emoji_id": "5449779157447769723"
+    "custom_emoji_id": "5877243749041447177",
+    "model_id": "5449779157447769723"
   },
   {
     "name": "sensei",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/sensei.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/sensei.webp",
-    "custom_emoji_id": "5447273129929895043"
+    "custom_emoji_id": "5879962428980075736",
+    "model_id": "5447273129929895043"
   },
   {
     "name": "bifrost",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/light_sword/bifrost.tgs",
     "webp_path": "TG_Photos_repo/models/light_sword/bifrost.webp",
-    "custom_emoji_id": "5449674806922341083"
+    "custom_emoji_id": "5879924989750156152",
+    "model_id": "5449674806922341083"
   }
 ]
