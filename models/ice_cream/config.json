@@ -4,349 +4,399 @@
     "rarity_permille": 1.5,
     "tgs_path": "TG_Photos_repo/models/ice_cream/granite.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/granite.webp",
-    "custom_emoji_id": "5348545695949289935"
+    "custom_emoji_id": "5879479288108949106",
+    "model_id": "5348545695949289935"
   },
   {
     "name": "watermelon",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/watermelon.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/watermelon.webp",
-    "custom_emoji_id": "5195261890862806945"
+    "custom_emoji_id": "5877469178989911363",
+    "model_id": "5195261890862806945"
   },
   {
     "name": "kiwi_sorbet",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/kiwi_sorbet.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/kiwi_sorbet.webp",
-    "custom_emoji_id": "5195050617126550326"
+    "custom_emoji_id": "5877464656389349291",
+    "model_id": "5195050617126550326"
   },
   {
     "name": "strawberry",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/strawberry.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/strawberry.webp",
-    "custom_emoji_id": "5195198587339829957"
+    "custom_emoji_id": "5877338349991107883",
+    "model_id": "5195198587339829957"
   },
   {
     "name": "bite-size",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/bite-size.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/bite-size.webp",
-    "custom_emoji_id": "5240322067802390007"
+    "custom_emoji_id": "5877512764318031040",
+    "model_id": "5240322067802390007"
   },
   {
     "name": "shivery",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/shivery.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/shivery.webp",
-    "custom_emoji_id": "5316590336108166776"
+    "custom_emoji_id": "5877432950940770756",
+    "model_id": "5316590336108166776"
   },
   {
     "name": "ice_craft",
     "rarity_permille": 1.5,
     "tgs_path": "TG_Photos_repo/models/ice_cream/ice_craft.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/ice_craft.webp",
-    "custom_emoji_id": "5332705070582627661"
+    "custom_emoji_id": "5879916520074648800",
+    "model_id": "5332705070582627661"
   },
   {
     "name": "divine_justice",
     "rarity_permille": 1.5,
     "tgs_path": "TG_Photos_repo/models/ice_cream/divine_justice.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/divine_justice.webp",
-    "custom_emoji_id": "5332579399839546413"
+    "custom_emoji_id": "5877305832793710096",
+    "model_id": "5332579399839546413"
   },
   {
     "name": "pigeon",
     "rarity_permille": 2.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/pigeon.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/pigeon.webp",
-    "custom_emoji_id": "5370557295967112258"
+    "custom_emoji_id": "5877431074040062132",
+    "model_id": "5370557295967112258"
   },
   {
     "name": "cucumber",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/cucumber.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/cucumber.webp",
-    "custom_emoji_id": "5370814066291934137"
+    "custom_emoji_id": "5877315114218036760",
+    "model_id": "5370814066291934137"
   },
   {
     "name": "poopsicle",
     "rarity_permille": 0.2,
     "tgs_path": "TG_Photos_repo/models/ice_cream/poopsicle.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/poopsicle.webp",
-    "custom_emoji_id": "5366433792355498819"
+    "custom_emoji_id": "5877442112106014207",
+    "model_id": "5366433792355498819"
   },
   {
     "name": "vice_dream",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/vice_dream.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/vice_dream.webp",
-    "custom_emoji_id": "5366129940599178946"
+    "custom_emoji_id": "5879586262859390280",
+    "model_id": "5366129940599178946"
   },
   {
     "name": "plastic_pop",
     "rarity_permille": 2.5,
     "tgs_path": "TG_Photos_repo/models/ice_cream/plastic_pop.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/plastic_pop.webp",
-    "custom_emoji_id": "5195288493890238786"
+    "custom_emoji_id": "5877463879000268768",
+    "model_id": "5195288493890238786"
   },
   {
     "name": "whisker",
     "rarity_permille": 2.5,
     "tgs_path": "TG_Photos_repo/models/ice_cream/whisker.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/whisker.webp",
-    "custom_emoji_id": "5242192977031364148"
+    "custom_emoji_id": "5877294833382464392",
+    "model_id": "5242192977031364148"
   },
   {
     "name": "cyclone",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/cyclone.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/cyclone.webp",
-    "custom_emoji_id": "5239958610489932393"
+    "custom_emoji_id": "5877227582784544430",
+    "model_id": "5239958610489932393"
   },
   {
     "name": "berry_split",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/berry_split.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/berry_split.webp",
-    "custom_emoji_id": "5240047585032437751"
+    "custom_emoji_id": "5877263067804344222",
+    "model_id": "5240047585032437751"
   },
   {
     "name": "ghost_biters",
     "rarity_permille": 1.5,
     "tgs_path": "TG_Photos_repo/models/ice_cream/ghost_biters.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/ghost_biters.webp",
-    "custom_emoji_id": "5314473716095162865"
+    "custom_emoji_id": "5877679177120881851",
+    "model_id": "5314473716095162865"
   },
   {
     "name": "fresh_berry",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/fresh_berry.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/fresh_berry.webp",
-    "custom_emoji_id": "5368312754648155974"
+    "custom_emoji_id": "5879880618443021936",
+    "model_id": "5368312754648155974"
   },
   {
     "name": "crude_oil",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/crude_oil.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/crude_oil.webp",
-    "custom_emoji_id": "5359497244078800574"
+    "custom_emoji_id": "5877712514657033094",
+    "model_id": "5359497244078800574"
   },
   {
     "name": "precious",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/precious.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/precious.webp",
-    "custom_emoji_id": "5370809913058556832"
+    "custom_emoji_id": "5877545711012159462",
+    "model_id": "5370809913058556832"
   },
   {
     "name": "stardust",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/stardust.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/stardust.webp",
-    "custom_emoji_id": "5370724799691654757"
+    "custom_emoji_id": "5877284851878470680",
+    "model_id": "5370724799691654757"
   },
   {
     "name": "starship",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/starship.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/starship.webp",
-    "custom_emoji_id": "5458770890525278704"
+    "custom_emoji_id": "5877602765357719637",
+    "model_id": "5458770890525278704"
   },
   {
     "name": "citrus",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/citrus.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/citrus.webp",
-    "custom_emoji_id": "5195419395903485210"
+    "custom_emoji_id": "5879848015346278643",
+    "model_id": "5195419395903485210"
   },
   {
     "name": "cupid_aim",
     "rarity_permille": 2.5,
     "tgs_path": "TG_Photos_repo/models/ice_cream/cupid_aim.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/cupid_aim.webp",
-    "custom_emoji_id": "5240347352274861155"
+    "custom_emoji_id": "5877402886169700407",
+    "model_id": "5240347352274861155"
   },
   {
     "name": "bitecoin",
     "rarity_permille": 1.5,
     "tgs_path": "TG_Photos_repo/models/ice_cream/bitecoin.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/bitecoin.webp",
-    "custom_emoji_id": "5314684938291806236"
+    "custom_emoji_id": "5877309620954865954",
+    "model_id": "5314684938291806236"
   },
   {
     "name": "apple_dip",
     "rarity_permille": 2.5,
     "tgs_path": "TG_Photos_repo/models/ice_cream/apple_dip.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/apple_dip.webp",
-    "custom_emoji_id": "5332814042492864743"
+    "custom_emoji_id": "5877489550019795205",
+    "model_id": "5332814042492864743"
   },
   {
     "name": "utya_pop",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/utya_pop.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/utya_pop.webp",
-    "custom_emoji_id": "5332492997982454128"
+    "custom_emoji_id": "5877445951806775020",
+    "model_id": "5332492997982454128"
   },
   {
     "name": "ton_cone",
     "rarity_permille": 1.5,
     "tgs_path": "TG_Photos_repo/models/ice_cream/ton_cone.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/ton_cone.webp",
-    "custom_emoji_id": "5332571428380246841"
+    "custom_emoji_id": "5877502134273975790",
+    "model_id": "5332571428380246841"
   },
   {
     "name": "funky_disco",
     "rarity_permille": 2.5,
     "tgs_path": "TG_Photos_repo/models/ice_cream/funky_disco.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/funky_disco.webp",
-    "custom_emoji_id": "5359285588090451565"
+    "custom_emoji_id": "5877322510151720104",
+    "model_id": "5359285588090451565"
   },
   {
     "name": "beehive",
     "rarity_permille": 2.5,
     "tgs_path": "TG_Photos_repo/models/ice_cream/beehive.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/beehive.webp",
-    "custom_emoji_id": "5368756278740943156"
+    "custom_emoji_id": "5877409758117372310",
+    "model_id": "5368756278740943156"
   },
   {
     "name": "cold_fusion",
     "rarity_permille": 2.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/cold_fusion.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/cold_fusion.webp",
-    "custom_emoji_id": "5348419041658700082"
+    "custom_emoji_id": "5877628904528683290",
+    "model_id": "5348419041658700082"
   },
   {
     "name": "extra_spicy",
     "rarity_permille": 2.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/extra_spicy.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/extra_spicy.webp",
-    "custom_emoji_id": "5350717154104742970"
+    "custom_emoji_id": "5877518347775516654",
+    "model_id": "5350717154104742970"
   },
   {
     "name": "choco_almond",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/choco_almond.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/choco_almond.webp",
-    "custom_emoji_id": "5242420713377266630"
+    "custom_emoji_id": "5879772398152064620",
+    "model_id": "5242420713377266630"
   },
   {
     "name": "cryo_pepe",
     "rarity_permille": 0.1,
     "tgs_path": "TG_Photos_repo/models/ice_cream/cryo_pepe.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/cryo_pepe.webp",
-    "custom_emoji_id": "5332330747002910847"
+    "custom_emoji_id": "5877339303473848842",
+    "model_id": "5332330747002910847"
   },
   {
     "name": "gold_ingot",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/gold_ingot.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/gold_ingot.webp",
-    "custom_emoji_id": "5350403234945070109"
+    "custom_emoji_id": "5877623080553029865",
+    "model_id": "5350403234945070109"
   },
   {
     "name": "tnt_stick",
     "rarity_permille": 1.5,
     "tgs_path": "TG_Photos_repo/models/ice_cream/tnt_stick.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/tnt_stick.webp",
-    "custom_emoji_id": "5458557701233607033"
+    "custom_emoji_id": "5877610702457281971",
+    "model_id": "5458557701233607033"
   },
   {
     "name": "emperor",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/emperor.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/emperor.webp",
-    "custom_emoji_id": "5359805635615554493"
+    "custom_emoji_id": "5877738426194732629",
+    "model_id": "5359805635615554493"
   },
   {
     "name": "pharaoh",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/pharaoh.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/pharaoh.webp",
-    "custom_emoji_id": "5366569624991205079"
+    "custom_emoji_id": "5877270047126198910",
+    "model_id": "5366569624991205079"
   },
   {
     "name": "crystal",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/crystal.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/crystal.webp",
-    "custom_emoji_id": "5350647348001272191"
+    "custom_emoji_id": "5879992270412849203",
+    "model_id": "5350647348001272191"
   },
   {
     "name": "fried_chicken",
     "rarity_permille": 1.5,
     "tgs_path": "TG_Photos_repo/models/ice_cream/fried_chicken.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/fried_chicken.webp",
-    "custom_emoji_id": "5240271344238622711"
+    "custom_emoji_id": "5877385972588486627",
+    "model_id": "5240271344238622711"
   },
   {
     "name": "trio_scoop",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/trio_scoop.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/trio_scoop.webp",
-    "custom_emoji_id": "5359771786978295848"
+    "custom_emoji_id": "5877455009892802346",
+    "model_id": "5359771786978295848"
   },
   {
     "name": "kraken",
     "rarity_permille": 0.5,
     "tgs_path": "TG_Photos_repo/models/ice_cream/kraken.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/kraken.webp",
-    "custom_emoji_id": "5366592753390093400"
+    "custom_emoji_id": "5877594149653323333",
+    "model_id": "5366592753390093400"
   },
   {
     "name": "brain_freeze",
     "rarity_permille": 1.5,
     "tgs_path": "TG_Photos_repo/models/ice_cream/brain_freeze.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/brain_freeze.webp",
-    "custom_emoji_id": "5316661868788482016"
+    "custom_emoji_id": "5877511261079478042",
+    "model_id": "5316661868788482016"
   },
   {
     "name": "resistance",
     "rarity_permille": 0.2,
     "tgs_path": "TG_Photos_repo/models/ice_cream/resistance.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/resistance.webp",
-    "custom_emoji_id": "5332295854688601204"
+    "custom_emoji_id": "5877287184045711416",
+    "model_id": "5332295854688601204"
   },
   {
     "name": "cold_steel",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/cold_steel.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/cold_steel.webp",
-    "custom_emoji_id": "5368578003238419778"
+    "custom_emoji_id": "5877546995207380951",
+    "model_id": "5368578003238419778"
   },
   {
     "name": "pawpsicle",
     "rarity_permille": 2.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/pawpsicle.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/pawpsicle.webp",
-    "custom_emoji_id": "5197699748659756081"
+    "custom_emoji_id": "5879821730146427512",
+    "model_id": "5197699748659756081"
   },
   {
     "name": "starlit",
     "rarity_permille": 2.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/starlit.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/starlit.webp",
-    "custom_emoji_id": "5242281401818055657"
+    "custom_emoji_id": "5877696082112160974",
+    "model_id": "5242281401818055657"
   },
   {
     "name": "golden_drake",
     "rarity_permille": 0.5,
     "tgs_path": "TG_Photos_repo/models/ice_cream/golden_drake.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/golden_drake.webp",
-    "custom_emoji_id": "5366226641787846519"
+    "custom_emoji_id": "5879706019432506110",
+    "model_id": "5366226641787846519"
   },
   {
     "name": "banana",
     "rarity_permille": 3.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/banana.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/banana.webp",
-    "custom_emoji_id": "5194943397562970620"
+    "custom_emoji_id": "5877357707408710433",
+    "model_id": "5194943397562970620"
   },
   {
     "name": "bubbles",
     "rarity_permille": 2.0,
     "tgs_path": "TG_Photos_repo/models/ice_cream/bubbles.tgs",
     "webp_path": "TG_Photos_repo/models/ice_cream/bubbles.webp",
-    "custom_emoji_id": "5314362158614611167"
+    "custom_emoji_id": "5877399488850566831",
+    "model_id": "5314362158614611167"
   }
 ]
