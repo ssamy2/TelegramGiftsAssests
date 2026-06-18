@@ -1,0 +1,402 @@
+[
+  {
+    "name": "party_cat",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/party_cat.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/party_cat.webp",
+    "custom_emoji_id": "5882041764381992226",
+    "model_id": "5334517825954405712"
+  },
+  {
+    "name": "pyramid",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/pyramid.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/pyramid.webp",
+    "custom_emoji_id": "5882095520192667728",
+    "model_id": "5334523576915615883"
+  },
+  {
+    "name": "inversion",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/inversion.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/inversion.webp",
+    "custom_emoji_id": "5882032525907336992",
+    "model_id": "5334565362652441983"
+  },
+  {
+    "name": "caramel",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/caramel.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/caramel.webp",
+    "custom_emoji_id": "5882190529164223275",
+    "model_id": "5334579660598568548"
+  },
+  {
+    "name": "diamond",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/diamond.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/diamond.webp",
+    "custom_emoji_id": "5884226472511544405",
+    "model_id": "5334597596381996733"
+  },
+  {
+    "name": "amethyst",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/amethyst.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/amethyst.webp",
+    "custom_emoji_id": "5881765576510020909",
+    "model_id": "5334642337056321530"
+  },
+  {
+    "name": "dracula",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/dracula.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/dracula.webp",
+    "custom_emoji_id": "5881794301251297185",
+    "model_id": "5334695190923863444"
+  },
+  {
+    "name": "garnet_dawn",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/garnet_dawn.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/garnet_dawn.webp",
+    "custom_emoji_id": "5881986595527072781",
+    "model_id": "5334698218875810217"
+  },
+  {
+    "name": "lost_color",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/lost_color.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/lost_color.webp",
+    "custom_emoji_id": "5881993656453307703",
+    "model_id": "5334723318664685455"
+  },
+  {
+    "name": "pepe_frost",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/pepe_frost.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/pepe_frost.webp",
+    "custom_emoji_id": "5881845750664535734",
+    "model_id": "5334735683875533189"
+  },
+  {
+    "name": "emerald",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/emerald.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/emerald.webp",
+    "custom_emoji_id": "5882104238976278320",
+    "model_id": "5334743741234178039"
+  },
+  {
+    "name": "bag_end",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/bag_end.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/bag_end.webp",
+    "custom_emoji_id": "5882128569966010648",
+    "model_id": "5334770705038861198"
+  },
+  {
+    "name": "spring",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/spring.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/spring.webp",
+    "custom_emoji_id": "5881709711870402092",
+    "model_id": "5334785376647142701"
+  },
+  {
+    "name": "house_of_cards",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/house_of_cards.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/house_of_cards.webp",
+    "custom_emoji_id": "5881896650321959964",
+    "model_id": "5334797290886424319"
+  },
+  {
+    "name": "green_villa",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/green_villa.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/green_villa.webp",
+    "custom_emoji_id": "5882149516521512709",
+    "model_id": "5334815617511875992"
+  },
+  {
+    "name": "midas_manor",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/midas_manor.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/midas_manor.webp",
+    "custom_emoji_id": "5881760598642925338",
+    "model_id": "5334835039353986984"
+  },
+  {
+    "name": "autumn",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/autumn.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/autumn.webp",
+    "custom_emoji_id": "5881990667156069903",
+    "model_id": "5334862797727624913"
+  },
+  {
+    "name": "mango_lodge",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/mango_lodge.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/mango_lodge.webp",
+    "custom_emoji_id": "5882141596601818770",
+    "model_id": "5334914685227526166"
+  },
+  {
+    "name": "sea_whisper",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/sea_whisper.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/sea_whisper.webp",
+    "custom_emoji_id": "5882222870267961274",
+    "model_id": "5334953554681556547"
+  },
+  {
+    "name": "ginger_house",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/ginger_house.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/ginger_house.webp",
+    "custom_emoji_id": "5882063007290237807",
+    "model_id": "5334955276963440351"
+  },
+  {
+    "name": "pink_dreams",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/pink_dreams.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/pink_dreams.webp",
+    "custom_emoji_id": "5882026053391622130",
+    "model_id": "5334962282055100148"
+  },
+  {
+    "name": "choco_waffle",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/choco_waffle.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/choco_waffle.webp",
+    "custom_emoji_id": "5881925920524084620",
+    "model_id": "5334992625999047056"
+  },
+  {
+    "name": "rose_pink",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/rose_pink.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/rose_pink.webp",
+    "custom_emoji_id": "5882246913494884271",
+    "model_id": "5334994202252044485"
+  },
+  {
+    "name": "sky_terrace",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/sky_terrace.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/sky_terrace.webp",
+    "custom_emoji_id": "5881899798532988895",
+    "model_id": "5335035219189722649"
+  },
+  {
+    "name": "meadow",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/meadow.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/meadow.webp",
+    "custom_emoji_id": "5881940905664978228",
+    "model_id": "5335066503731503787"
+  },
+  {
+    "name": "ocean_oasis",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/ocean_oasis.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/ocean_oasis.webp",
+    "custom_emoji_id": "5882044053599559041",
+    "model_id": "5336847484935234575"
+  },
+  {
+    "name": "secret_gift",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/secret_gift.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/secret_gift.webp",
+    "custom_emoji_id": "5881735155256663565",
+    "model_id": "5336873898984106585"
+  },
+  {
+    "name": "bikini_bottom",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/bikini_bottom.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/bikini_bottom.webp",
+    "custom_emoji_id": "5881844990455323069",
+    "model_id": "5336906283037517100"
+  },
+  {
+    "name": "wild_west",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/wild_west.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/wild_west.webp",
+    "custom_emoji_id": "5882088308942577633",
+    "model_id": "5336907081901432601"
+  },
+  {
+    "name": "baobab",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/baobab.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/baobab.webp",
+    "custom_emoji_id": "5881750475405008747",
+    "model_id": "5336908567960118287"
+  },
+  {
+    "name": "bronze_temple",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/bronze_temple.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/bronze_temple.webp",
+    "custom_emoji_id": "5881987746578309233",
+    "model_id": "5336915555871911162"
+  },
+  {
+    "name": "bedrock",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/bedrock.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/bedrock.webp",
+    "custom_emoji_id": "5882107765144428293",
+    "model_id": "5336954008714109639"
+  },
+  {
+    "name": "orange_tale",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/orange_tale.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/orange_tale.webp",
+    "custom_emoji_id": "5882038113659853883",
+    "model_id": "5336959042415779693"
+  },
+  {
+    "name": "apocalypse",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/apocalypse.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/apocalypse.webp",
+    "custom_emoji_id": "5882036606126269554",
+    "model_id": "5336976720501171302"
+  },
+  {
+    "name": "cherry_duck",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/cherry_duck.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/cherry_duck.webp",
+    "custom_emoji_id": "5881759829843779783",
+    "model_id": "5336981140022518801"
+  },
+  {
+    "name": "minehouse",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/minehouse.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/minehouse.webp",
+    "custom_emoji_id": "5882205819247796631",
+    "model_id": "5337003057240635264"
+  },
+  {
+    "name": "smurf_cabin",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/smurf_cabin.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/smurf_cabin.webp",
+    "custom_emoji_id": "5881769983146468817",
+    "model_id": "5337003624176312742"
+  },
+  {
+    "name": "silver_frost",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/silver_frost.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/silver_frost.webp",
+    "custom_emoji_id": "5881709368273019336",
+    "model_id": "5337017217747805348"
+  },
+  {
+    "name": "ender_estate",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/ender_estate.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/ender_estate.webp",
+    "custom_emoji_id": "5881776747719957354",
+    "model_id": "5337035355394697092"
+  },
+  {
+    "name": "crimson_cabin",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/crimson_cabin.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/crimson_cabin.webp",
+    "custom_emoji_id": "5882250199144864950",
+    "model_id": "5337041003276691619"
+  },
+  {
+    "name": "night_snow",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/night_snow.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/night_snow.webp",
+    "custom_emoji_id": "5882080771274974243",
+    "model_id": "5337057122288951420"
+  },
+  {
+    "name": "piggy_bank",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/piggy_bank.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/piggy_bank.webp",
+    "custom_emoji_id": "5882246084566195845",
+    "model_id": "5337060055751616891"
+  },
+  {
+    "name": "happy_town",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/happy_town.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/happy_town.webp",
+    "custom_emoji_id": "5882189914983898575",
+    "model_id": "5337180808757143920"
+  },
+  {
+    "name": "musk",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/musk.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/musk.webp",
+    "custom_emoji_id": "5882179688666767406",
+    "model_id": "5337199174037302668"
+  },
+  {
+    "name": "winter",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/winter.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/winter.webp",
+    "custom_emoji_id": "5881978044247186439",
+    "model_id": "5337253475308823174"
+  },
+  {
+    "name": "lavender",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/lavender.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/lavender.webp",
+    "custom_emoji_id": "5881735988480319961",
+    "model_id": "5337256700829261534"
+  },
+  {
+    "name": "white_day",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/white_day.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/white_day.webp",
+    "custom_emoji_id": "5882158050621529297",
+    "model_id": "5337277716104241219"
+  },
+  {
+    "name": "fish_tank",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/fish_tank.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/fish_tank.webp",
+    "custom_emoji_id": "5882049430898613704",
+    "model_id": "5337282702561272491"
+  },
+  {
+    "name": "summer",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/summer.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/summer.webp",
+    "custom_emoji_id": "5881838354730852274",
+    "model_id": "5337298288997588756"
+  },
+  {
+    "name": "nether_house",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/snow_globe/nether_house.tgs",
+    "webp_path": "TG_Photos_repo/models/snow_globe/nether_house.webp",
+    "custom_emoji_id": "5882049521092926512",
+    "model_id": "5337321078094064156"
+  }
+]
