@@ -1,0 +1,16 @@
+[
+  {
+    "name": "pro_gamer",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/artisan_brick/pro_gamer.tgs",
+    "webp_path": "TG_Photos_repo/models/artisan_brick/pro_gamer.webp",
+    "custom_emoji_id": "5195366267158033241"
+  },
+  {
+    "name": "chocolate",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/artisan_brick/chocolate.tgs",
+    "webp_path": "TG_Photos_repo/models/artisan_brick/chocolate.webp",
+    "custom_emoji_id": "5195401369925743842"
+  }
+]
