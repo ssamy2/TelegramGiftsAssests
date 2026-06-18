@@ -4,419 +4,479 @@
     "rarity_permille": 0.5,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/sky_diver.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/sky_diver.webp",
-    "custom_emoji_id": "5336912291696767358"
+    "custom_emoji_id": "5882109663519973569",
+    "model_id": "5336912291696767358"
   },
   {
     "name": "wild_cat",
     "rarity_permille": 0.5,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/wild_cat.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/wild_cat.webp",
-    "custom_emoji_id": "5337173777895680352"
+    "custom_emoji_id": "5882142253731815787",
+    "model_id": "5337173777895680352"
   },
   {
     "name": "hell_rider",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/hell_rider.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/hell_rider.webp",
-    "custom_emoji_id": "5341703181686565674"
+    "custom_emoji_id": "5881893472046161269",
+    "model_id": "5341703181686565674"
   },
   {
     "name": "sonic_rave",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/sonic_rave.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/sonic_rave.webp",
-    "custom_emoji_id": "5348026322734052147"
+    "custom_emoji_id": "5884468674307300751",
+    "model_id": "5348026322734052147"
   },
   {
     "name": "princess",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/princess.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/princess.webp",
-    "custom_emoji_id": "5348506083465918299"
+    "custom_emoji_id": "5881771254456786770",
+    "model_id": "5348506083465918299"
   },
   {
     "name": "frostbear",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/frostbear.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/frostbear.webp",
-    "custom_emoji_id": "5348551992371342536"
+    "custom_emoji_id": "5882148236621258853",
+    "model_id": "5348551992371342536"
   },
   {
     "name": "tokyo_sunset",
     "rarity_permille": 2.5,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/tokyo_sunset.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/tokyo_sunset.webp",
-    "custom_emoji_id": "5350477980260921566"
+    "custom_emoji_id": "5882134668819571381",
+    "model_id": "5350477980260921566"
   },
   {
     "name": "jade_breeze",
     "rarity_permille": 2.5,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/jade_breeze.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/jade_breeze.webp",
-    "custom_emoji_id": "5350612283888267222"
+    "custom_emoji_id": "5884474201930210543",
+    "model_id": "5350612283888267222"
   },
   {
     "name": "silver_surfer",
     "rarity_permille": 2.7,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/silver_surfer.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/silver_surfer.webp",
-    "custom_emoji_id": "5350613430644536364"
+    "custom_emoji_id": "5881730855994400763",
+    "model_id": "5350613430644536364"
   },
   {
     "name": "grey_shark",
     "rarity_permille": 1.5,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/grey_shark.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/grey_shark.webp",
-    "custom_emoji_id": "5350729317452113907"
+    "custom_emoji_id": "5881982060041609822",
+    "model_id": "5350729317452113907"
   },
   {
     "name": "cotton_drift",
     "rarity_permille": 2.5,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/cotton_drift.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/cotton_drift.webp",
-    "custom_emoji_id": "5350783631608540818"
+    "custom_emoji_id": "5881987536124912555",
+    "model_id": "5350783631608540818"
   },
   {
     "name": "panther",
     "rarity_permille": 2.5,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/panther.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/panther.webp",
-    "custom_emoji_id": "5350798221612446519"
+    "custom_emoji_id": "5884319943884807192",
+    "model_id": "5350798221612446519"
   },
   {
     "name": "queen_bee",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/queen_bee.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/queen_bee.webp",
-    "custom_emoji_id": "5350822775940472993"
+    "custom_emoji_id": "5884484771844725841",
+    "model_id": "5350822775940472993"
   },
   {
     "name": "lagoon",
     "rarity_permille": 2.5,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/lagoon.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/lagoon.webp",
-    "custom_emoji_id": "5350829841161681670"
+    "custom_emoji_id": "5881729563209245557",
+    "model_id": "5350829841161681670"
   },
   {
     "name": "acid_punch",
     "rarity_permille": 2.7,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/acid_punch.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/acid_punch.webp",
-    "custom_emoji_id": "5352549211059544524"
+    "custom_emoji_id": "5884115795499294253",
+    "model_id": "5352549211059544524"
   },
   {
     "name": "biker_girl",
     "rarity_permille": 2.0,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/biker_girl.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/biker_girl.webp",
-    "custom_emoji_id": "5352620885473782014"
+    "custom_emoji_id": "5881995425979834691",
+    "model_id": "5352620885473782014"
   },
   {
     "name": "copper_alloy",
     "rarity_permille": 2.7,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/copper_alloy.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/copper_alloy.webp",
-    "custom_emoji_id": "5352681736570432645"
+    "custom_emoji_id": "5881721394181447232",
+    "model_id": "5352681736570432645"
   },
   {
     "name": "steampunk",
     "rarity_permille": 1.5,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/steampunk.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/steampunk.webp",
-    "custom_emoji_id": "5352682196131931479"
+    "custom_emoji_id": "5882172507481448459",
+    "model_id": "5352682196131931479"
   },
   {
     "name": "red_shift",
     "rarity_permille": 2.5,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/red_shift.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/red_shift.webp",
-    "custom_emoji_id": "5352732704947334759"
+    "custom_emoji_id": "5884421592875801121",
+    "model_id": "5352732704947334759"
   },
   {
     "name": "hothead",
     "rarity_permille": 2.5,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/hothead.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/hothead.webp",
-    "custom_emoji_id": "5352766252936883948"
+    "custom_emoji_id": "5882030666186497467",
+    "model_id": "5352766252936883948"
   },
   {
     "name": "nebula",
     "rarity_permille": 2.5,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/nebula.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/nebula.webp",
-    "custom_emoji_id": "5352796850283898591"
+    "custom_emoji_id": "5882228432250608684",
+    "model_id": "5352796850283898591"
   },
   {
     "name": "poison_ivy",
     "rarity_permille": 2.0,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/poison_ivy.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/poison_ivy.webp",
-    "custom_emoji_id": "5352800290552700994"
+    "custom_emoji_id": "5884421219213647305",
+    "model_id": "5352800290552700994"
   },
   {
     "name": "lime_juice",
     "rarity_permille": 2.7,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/lime_juice.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/lime_juice.webp",
-    "custom_emoji_id": "5352812733072958437"
+    "custom_emoji_id": "5882166593311480613",
+    "model_id": "5352812733072958437"
   },
   {
     "name": "caffeine",
     "rarity_permille": 2.7,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/caffeine.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/caffeine.webp",
-    "custom_emoji_id": "5352818673012728958"
+    "custom_emoji_id": "5884263486539700934",
+    "model_id": "5352818673012728958"
   },
   {
     "name": "gold_rush",
     "rarity_permille": 1.5,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/gold_rush.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/gold_rush.webp",
-    "custom_emoji_id": "5352847762826227932"
+    "custom_emoji_id": "5884471466036042414",
+    "model_id": "5352847762826227932"
   },
   {
     "name": "chrome",
     "rarity_permille": 2.0,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/chrome.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/chrome.webp",
-    "custom_emoji_id": "5352858362805512179"
+    "custom_emoji_id": "5881944032401170408",
+    "model_id": "5352858362805512179"
   },
   {
     "name": "databreak",
     "rarity_permille": 2.5,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/databreak.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/databreak.webp",
-    "custom_emoji_id": "5352885515588759863"
+    "custom_emoji_id": "5881768587282095800",
+    "model_id": "5352885515588759863"
   },
   {
     "name": "optimus_prime",
     "rarity_permille": 2.5,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/optimus_prime.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/optimus_prime.webp",
-    "custom_emoji_id": "5352911560270442451"
+    "custom_emoji_id": "5884088243284090649",
+    "model_id": "5352911560270442451"
   },
   {
     "name": "shockwave",
     "rarity_permille": 2.7,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/shockwave.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/shockwave.webp",
-    "custom_emoji_id": "5352914218855196914"
+    "custom_emoji_id": "5882039294775796211",
+    "model_id": "5352914218855196914"
   },
   {
     "name": "dalmatian",
     "rarity_permille": 0.5,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/dalmatian.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/dalmatian.webp",
-    "custom_emoji_id": "5352916946159430246"
+    "custom_emoji_id": "5881783465048809807",
+    "model_id": "5352916946159430246"
   },
   {
     "name": "twister",
     "rarity_permille": 2.0,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/twister.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/twister.webp",
-    "custom_emoji_id": "5352937016541605992"
+    "custom_emoji_id": "5884450137228451708",
+    "model_id": "5352937016541605992"
   },
   {
     "name": "solar_glare",
     "rarity_permille": 2.7,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/solar_glare.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/solar_glare.webp",
-    "custom_emoji_id": "5352943635086210017"
+    "custom_emoji_id": "5881765756898648803",
+    "model_id": "5352943635086210017"
   },
   {
     "name": "cookie_monster",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/cookie_monster.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/cookie_monster.webp",
-    "custom_emoji_id": "5352995922018065699"
+    "custom_emoji_id": "5881762196370760154",
+    "model_id": "5352995922018065699"
   },
   {
     "name": "night_race",
     "rarity_permille": 2.5,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/night_race.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/night_race.webp",
-    "custom_emoji_id": "5353012088274970968"
+    "custom_emoji_id": "5882220817273593670",
+    "model_id": "5353012088274970968"
   },
   {
     "name": "ultravolt",
     "rarity_permille": 2.5,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/ultravolt.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/ultravolt.webp",
-    "custom_emoji_id": "5353052284873894519"
+    "custom_emoji_id": "5881751677995851883",
+    "model_id": "5353052284873894519"
   },
   {
     "name": "road_queen",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/road_queen.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/road_queen.webp",
-    "custom_emoji_id": "5354884406253221239"
+    "custom_emoji_id": "5882085199386256198",
+    "model_id": "5354884406253221239"
   },
   {
     "name": "wild_daisy",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/wild_daisy.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/wild_daisy.webp",
-    "custom_emoji_id": "5355034880432433724"
+    "custom_emoji_id": "5884427459801128705",
+    "model_id": "5355034880432433724"
   },
   {
     "name": "techno",
     "rarity_permille": 2.0,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/techno.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/techno.webp",
-    "custom_emoji_id": "5355103303556426944"
+    "custom_emoji_id": "5884465629175487868",
+    "model_id": "5355103303556426944"
   },
   {
     "name": "white_rabbit",
     "rarity_permille": 0.5,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/white_rabbit.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/white_rabbit.webp",
-    "custom_emoji_id": "5355132066952406648"
+    "custom_emoji_id": "5882006446865915534",
+    "model_id": "5355132066952406648"
   },
   {
     "name": "starry_sky",
     "rarity_permille": 1.5,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/starry_sky.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/starry_sky.webp",
-    "custom_emoji_id": "5355135275292976964"
+    "custom_emoji_id": "5881811137523097831",
+    "model_id": "5355135275292976964"
   },
   {
     "name": "ladybug",
     "rarity_permille": 1.5,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/ladybug.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/ladybug.webp",
-    "custom_emoji_id": "5355229747393620209"
+    "custom_emoji_id": "5882091663312035135",
+    "model_id": "5355229747393620209"
   },
   {
     "name": "retro-future",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/retro-future.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/retro-future.webp",
-    "custom_emoji_id": "5355336966957201337"
+    "custom_emoji_id": "5883967941250130409",
+    "model_id": "5355336966957201337"
   },
   {
     "name": "bulldog_bob",
     "rarity_permille": 0.5,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/bulldog_bob.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/bulldog_bob.webp",
-    "custom_emoji_id": "5357068229619508080"
+    "custom_emoji_id": "5881719912417731185",
+    "model_id": "5357068229619508080"
   },
   {
     "name": "formula_one",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/formula_one.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/formula_one.webp",
-    "custom_emoji_id": "5357085280639676449"
+    "custom_emoji_id": "5884299332336755320",
+    "model_id": "5357085280639676449"
   },
   {
     "name": "astronaut",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/astronaut.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/astronaut.webp",
-    "custom_emoji_id": "5357111703278476773"
+    "custom_emoji_id": "5881827767636467522",
+    "model_id": "5357111703278476773"
   },
   {
     "name": "lightspeed",
     "rarity_permille": 2.0,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/lightspeed.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/lightspeed.webp",
-    "custom_emoji_id": "5357121856581165486"
+    "custom_emoji_id": "5881722184455429602",
+    "model_id": "5357121856581165486"
   },
   {
     "name": "strawberry",
     "rarity_permille": 2.0,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/strawberry.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/strawberry.webp",
-    "custom_emoji_id": "5357143258403201559"
+    "custom_emoji_id": "5882178967112262086",
+    "model_id": "5357143258403201559"
   },
   {
     "name": "glitch",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/glitch.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/glitch.webp",
-    "custom_emoji_id": "5357157809752402706"
+    "custom_emoji_id": "5881710270216150544",
+    "model_id": "5357157809752402706"
   },
   {
     "name": "unicorn",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/unicorn.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/unicorn.webp",
-    "custom_emoji_id": "5357171446273566862"
+    "custom_emoji_id": "5882050818173050253",
+    "model_id": "5357171446273566862"
   },
   {
     "name": "blackout",
     "rarity_permille": 2.3,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/blackout.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/blackout.webp",
-    "custom_emoji_id": "5357176918061901529"
+    "custom_emoji_id": "5882259652367884058",
+    "model_id": "5357176918061901529"
   },
   {
     "name": "kawaii",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/kawaii.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/kawaii.webp",
-    "custom_emoji_id": "5357278159031001831"
+    "custom_emoji_id": "5881876197687696840",
+    "model_id": "5357278159031001831"
   },
   {
     "name": "hornet",
     "rarity_permille": 2.5,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/hornet.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/hornet.webp",
-    "custom_emoji_id": "5357330733725673172"
+    "custom_emoji_id": "5884056456231131598",
+    "model_id": "5357330733725673172"
   },
   {
     "name": "disco_ball",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/disco_ball.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/disco_ball.webp",
-    "custom_emoji_id": "5357420146354842110"
+    "custom_emoji_id": "5881802998560071064",
+    "model_id": "5357420146354842110"
   },
   {
     "name": "whiteout",
     "rarity_permille": 2.3,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/whiteout.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/whiteout.webp",
-    "custom_emoji_id": "5357460609241738746"
+    "custom_emoji_id": "5882166614786318819",
+    "model_id": "5357460609241738746"
   },
   {
     "name": "maneki_neko",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/maneki_neko.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/maneki_neko.webp",
-    "custom_emoji_id": "5357486409110284691"
+    "custom_emoji_id": "5882229372848448062",
+    "model_id": "5357486409110284691"
   },
   {
     "name": "mad_clown",
     "rarity_permille": 0.5,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/mad_clown.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/mad_clown.webp",
-    "custom_emoji_id": "5357487689010539518"
+    "custom_emoji_id": "5882007013801598530",
+    "model_id": "5357487689010539518"
   },
   {
     "name": "savage",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/savage.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/savage.webp",
-    "custom_emoji_id": "5357532146217018406"
+    "custom_emoji_id": "5882179456738531852",
+    "model_id": "5357532146217018406"
   },
   {
     "name": "turbo_frog",
     "rarity_permille": 0.5,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/turbo_frog.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/turbo_frog.webp",
-    "custom_emoji_id": "5357557825826479742"
+    "custom_emoji_id": "5881999115356741817",
+    "model_id": "5357557825826479742"
   },
   {
     "name": "dullahan",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/dullahan.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/dullahan.webp",
-    "custom_emoji_id": "5357578884051134482"
+    "custom_emoji_id": "5882081935211111288",
+    "model_id": "5357578884051134482"
   },
   {
     "name": "love_ghost",
     "rarity_permille": 1.0,
     "tgs_path": "TG_Photos_repo/models/neko_helmet/love_ghost.tgs",
     "webp_path": "TG_Photos_repo/models/neko_helmet/love_ghost.webp",
-    "custom_emoji_id": "5359479853756211458"
+    "custom_emoji_id": "5882078671035965960",
+    "model_id": "5359479853756211458"
   }
 ]
