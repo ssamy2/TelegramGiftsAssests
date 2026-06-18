@@ -1,0 +1,394 @@
+[
+  {
+    "name": "desert_camo",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/desert_camo.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/desert_camo.webp",
+    "custom_emoji_id": "5882239822503878924",
+    "model_id": "5336803152282806599"
+  },
+  {
+    "name": "mercurial",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/mercurial.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/mercurial.webp",
+    "custom_emoji_id": "5883990335209610818",
+    "model_id": "5337005767364994592"
+  },
+  {
+    "name": "milk_legend",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/milk_legend.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/milk_legend.webp",
+    "custom_emoji_id": "5884046805439618857",
+    "model_id": "5337087294434210640"
+  },
+  {
+    "name": "inferno",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/inferno.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/inferno.webp",
+    "custom_emoji_id": "5881975029180145088",
+    "model_id": "5337267210614239026"
+  },
+  {
+    "name": "hippotigris",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/hippotigris.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/hippotigris.webp",
+    "custom_emoji_id": "5881863737987571892",
+    "model_id": "5339057889854118693"
+  },
+  {
+    "name": "king_midas",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/king_midas.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/king_midas.webp",
+    "custom_emoji_id": "5882212253108805984",
+    "model_id": "5339280979045411010"
+  },
+  {
+    "name": "steampunk",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/steampunk.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/steampunk.webp",
+    "custom_emoji_id": "5881984366439047902",
+    "model_id": "5339423992866434296"
+  },
+  {
+    "name": "old_leather",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/old_leather.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/old_leather.webp",
+    "custom_emoji_id": "5883961777972059215",
+    "model_id": "5341288605673348600"
+  },
+  {
+    "name": "neon_legion",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/neon_legion.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/neon_legion.webp",
+    "custom_emoji_id": "5881715003270112098",
+    "model_id": "5343989732080642044"
+  },
+  {
+    "name": "skeleton",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/skeleton.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/skeleton.webp",
+    "custom_emoji_id": "5881917940474847292",
+    "model_id": "5346007838428784049"
+  },
+  {
+    "name": "chieftain",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/chieftain.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/chieftain.webp",
+    "custom_emoji_id": "5881945926481746978",
+    "model_id": "5346243456039676101"
+  },
+  {
+    "name": "centurion",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/centurion.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/centurion.webp",
+    "custom_emoji_id": "5884330191676775874",
+    "model_id": "5348047441088245270"
+  },
+  {
+    "name": "son_of_ares",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/son_of_ares.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/son_of_ares.webp",
+    "custom_emoji_id": "5881734072924905009",
+    "model_id": "5348503794248346122"
+  },
+  {
+    "name": "pale_guard",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/pale_guard.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/pale_guard.webp",
+    "custom_emoji_id": "5881985169597932808",
+    "model_id": "5348511284671310112"
+  },
+  {
+    "name": "liberty",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/liberty.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/liberty.webp",
+    "custom_emoji_id": "5881913731406897210",
+    "model_id": "5373167472146934855"
+  },
+  {
+    "name": "atlantis",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/atlantis.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/atlantis.webp",
+    "custom_emoji_id": "5881875295744564992",
+    "model_id": "5373186855334340740"
+  },
+  {
+    "name": "maya_warrior",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/maya_warrior.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/maya_warrior.webp",
+    "custom_emoji_id": "5884420197011430163",
+    "model_id": "5379753082940844919"
+  },
+  {
+    "name": "blue_parrot",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/blue_parrot.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/blue_parrot.webp",
+    "custom_emoji_id": "5881974217431325685",
+    "model_id": "5379767827563570942"
+  },
+  {
+    "name": "bounty_hunter",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/bounty_hunter.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/bounty_hunter.webp",
+    "custom_emoji_id": "5881717172228596086",
+    "model_id": "5386352390385464142"
+  },
+  {
+    "name": "king_leonidas",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/king_leonidas.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/king_leonidas.webp",
+    "custom_emoji_id": "5881849285422620220",
+    "model_id": "5386497779323398447"
+  },
+  {
+    "name": "biker_warrior",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/biker_warrior.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/biker_warrior.webp",
+    "custom_emoji_id": "5881854353484029908",
+    "model_id": "5389076821285299579"
+  },
+  {
+    "name": "ancient_gold",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/ancient_gold.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/ancient_gold.webp",
+    "custom_emoji_id": "5884277638456942076",
+    "model_id": "5391017124300877229"
+  },
+  {
+    "name": "chainsaw",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/chainsaw.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/chainsaw.webp",
+    "custom_emoji_id": "5881964755618373090",
+    "model_id": "5393294328846118126"
+  },
+  {
+    "name": "punk_skull",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/punk_skull.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/punk_skull.webp",
+    "custom_emoji_id": "5881795877504294799",
+    "model_id": "5393529873442566208"
+  },
+  {
+    "name": "frozen_aegis",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/frozen_aegis.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/frozen_aegis.webp",
+    "custom_emoji_id": "5881835455627927955",
+    "model_id": "5395349651085882587"
+  },
+  {
+    "name": "hard_hat",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/hard_hat.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/hard_hat.webp",
+    "custom_emoji_id": "5882159510910412186",
+    "model_id": "5395389250684365004"
+  },
+  {
+    "name": "equalizer",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/equalizer.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/equalizer.webp",
+    "custom_emoji_id": "5884238923621735192",
+    "model_id": "5395484594663352398"
+  },
+  {
+    "name": "giraffe",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/giraffe.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/giraffe.webp",
+    "custom_emoji_id": "5884455316959010559",
+    "model_id": "5397615005816353485"
+  },
+  {
+    "name": "bengal_tiger",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/bengal_tiger.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/bengal_tiger.webp",
+    "custom_emoji_id": "5881922841032531486",
+    "model_id": "5397778824458955272"
+  },
+  {
+    "name": "phoenix",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/phoenix.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/phoenix.webp",
+    "custom_emoji_id": "5882221474403589044",
+    "model_id": "5400236576544420147"
+  },
+  {
+    "name": "watermelon",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/watermelon.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/watermelon.webp",
+    "custom_emoji_id": "5882039685617819687",
+    "model_id": "5400311927450659528"
+  },
+  {
+    "name": "gladiator",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/gladiator.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/gladiator.webp",
+    "custom_emoji_id": "5882247407416123256",
+    "model_id": "5402110887387494885"
+  },
+  {
+    "name": "galea_alba",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/galea_alba.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/galea_alba.webp",
+    "custom_emoji_id": "5882182424560935004",
+    "model_id": "5402253695050084597"
+  },
+  {
+    "name": "spartan",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/spartan.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/spartan.webp",
+    "custom_emoji_id": "5884242089012633132",
+    "model_id": "5402255876893474792"
+  },
+  {
+    "name": "praetorian",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/praetorian.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/praetorian.webp",
+    "custom_emoji_id": "5882051758770888830",
+    "model_id": "5402355202307157780"
+  },
+  {
+    "name": "aegean_sea",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/aegean_sea.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/aegean_sea.webp",
+    "custom_emoji_id": "5882081265196212152",
+    "model_id": "5402369384289170152"
+  },
+  {
+    "name": "mythic_green",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/mythic_green.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/mythic_green.webp",
+    "custom_emoji_id": "5882029416351014292",
+    "model_id": "5402482234554869958"
+  },
+  {
+    "name": "nekonidas",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/nekonidas.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/nekonidas.webp",
+    "custom_emoji_id": "5882240775986619164",
+    "model_id": "5404411224626588379"
+  },
+  {
+    "name": "athena",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/athena.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/athena.webp",
+    "custom_emoji_id": "5881782910998033902",
+    "model_id": "5406725481854692967"
+  },
+  {
+    "name": "black_thorn",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/black_thorn.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/black_thorn.webp",
+    "custom_emoji_id": "5884255944577130873",
+    "model_id": "5406725898466518222"
+  },
+  {
+    "name": "aphrodite",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/aphrodite.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/aphrodite.webp",
+    "custom_emoji_id": "5884429212147786627",
+    "model_id": "5406941570249287220"
+  },
+  {
+    "name": "pickelhaube",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/pickelhaube.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/pickelhaube.webp",
+    "custom_emoji_id": "5881768484202880887",
+    "model_id": "5408929199509498288"
+  },
+  {
+    "name": "quackus",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/quackus.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/quackus.webp",
+    "custom_emoji_id": "5882257530654039826",
+    "model_id": "5409300714180604197"
+  },
+  {
+    "name": "unicorn",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/unicorn.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/unicorn.webp",
+    "custom_emoji_id": "5881712993225417049",
+    "model_id": "5409382322854192408"
+  },
+  {
+    "name": "dynamo",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/dynamo.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/dynamo.webp",
+    "custom_emoji_id": "5884239988773625414",
+    "model_id": "5411291534601514317"
+  },
+  {
+    "name": "cyberpunk",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/cyberpunk.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/cyberpunk.webp",
+    "custom_emoji_id": "5881838114212683123",
+    "model_id": "5411295743669462575"
+  },
+  {
+    "name": "happy_frog",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/happy_frog.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/happy_frog.webp",
+    "custom_emoji_id": "5881811300731855041",
+    "model_id": "5411380577863497021"
+  },
+  {
+    "name": "pancake",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/pancake.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/pancake.webp",
+    "custom_emoji_id": "5881811910617209763",
+    "model_id": "5411475135863484887"
+  },
+  {
+    "name": "ladybug",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/heroic_helmet/ladybug.tgs",
+    "webp_path": "TG_Photos_repo/models/heroic_helmet/ladybug.webp",
+    "custom_emoji_id": "5882012051798236961",
+    "model_id": "5411613330731200812"
+  }
+]
