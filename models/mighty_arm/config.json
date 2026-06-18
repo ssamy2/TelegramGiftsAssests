@@ -1,0 +1,394 @@
+[
+  {
+    "name": "salted_flex",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/salted_flex.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/salted_flex.webp",
+    "custom_emoji_id": "5884224058739924094",
+    "model_id": "5197154670065256221"
+  },
+  {
+    "name": "body_builder",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/body_builder.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/body_builder.webp",
+    "custom_emoji_id": "5882193350957737117",
+    "model_id": "5197196807989391807"
+  },
+  {
+    "name": "fatality",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/fatality.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/fatality.webp",
+    "custom_emoji_id": "5882056126752628251",
+    "model_id": "5197686524455452153"
+  },
+  {
+    "name": "champion",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/champion.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/champion.webp",
+    "custom_emoji_id": "5881978697082216562",
+    "model_id": "5204234700314410820"
+  },
+  {
+    "name": "gem_brawler",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/gem_brawler.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/gem_brawler.webp",
+    "custom_emoji_id": "5884376620273245567",
+    "model_id": "5204338058702389154"
+  },
+  {
+    "name": "silver_knight",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/silver_knight.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/silver_knight.webp",
+    "custom_emoji_id": "5884185627372560031",
+    "model_id": "5204415776135610407"
+  },
+  {
+    "name": "frostbite",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/frostbite.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/frostbite.webp",
+    "custom_emoji_id": "5882040651985461364",
+    "model_id": "5206187536044554393"
+  },
+  {
+    "name": "jade_titan",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/jade_titan.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/jade_titan.webp",
+    "custom_emoji_id": "5881902233779445359",
+    "model_id": "5206519030210393770"
+  },
+  {
+    "name": "gold_dragon",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/gold_dragon.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/gold_dragon.webp",
+    "custom_emoji_id": "5883981247058812578",
+    "model_id": "5231215246781215529"
+  },
+  {
+    "name": "we_can_do_it!",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/we_can_do_it!.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/we_can_do_it!.webp",
+    "custom_emoji_id": "5881779651117851256",
+    "model_id": "5278317251173316373"
+  },
+  {
+    "name": "paladin",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/paladin.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/paladin.webp",
+    "custom_emoji_id": "5882041579698397564",
+    "model_id": "5278757021464690121"
+  },
+  {
+    "name": "bone_warrior",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/bone_warrior.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/bone_warrior.webp",
+    "custom_emoji_id": "5882181969294401004",
+    "model_id": "5280603530984454898"
+  },
+  {
+    "name": "poor_yorick",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/poor_yorick.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/poor_yorick.webp",
+    "custom_emoji_id": "5882061469691945333",
+    "model_id": "5280696847738915747"
+  },
+  {
+    "name": "ex_machina",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/ex_machina.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/ex_machina.webp",
+    "custom_emoji_id": "5884026679222869956",
+    "model_id": "5280973224589427196"
+  },
+  {
+    "name": "night_bat",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/night_bat.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/night_bat.webp",
+    "custom_emoji_id": "5881981445861285548",
+    "model_id": "5281010766898559463"
+  },
+  {
+    "name": "pizza_pump",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/pizza_pump.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/pizza_pump.webp",
+    "custom_emoji_id": "5884233301509546473",
+    "model_id": "5287243421575055285"
+  },
+  {
+    "name": "predator",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/predator.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/predator.webp",
+    "custom_emoji_id": "5881901714088403441",
+    "model_id": "5287476535220010743"
+  },
+  {
+    "name": "bicep_curls",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/bicep_curls.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/bicep_curls.webp",
+    "custom_emoji_id": "5884134908103760442",
+    "model_id": "5287587530059842181"
+  },
+  {
+    "name": "valhalla",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/valhalla.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/valhalla.webp",
+    "custom_emoji_id": "5881864343577960603",
+    "model_id": "5287686851178564041"
+  },
+  {
+    "name": "liberator",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/liberator.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/liberator.webp",
+    "custom_emoji_id": "5881719890942892830",
+    "model_id": "5287724479387044368"
+  },
+  {
+    "name": "cratos",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/cratos.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/cratos.webp",
+    "custom_emoji_id": "5882056298551321170",
+    "model_id": "5289532188172254594"
+  },
+  {
+    "name": "overlord",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/overlord.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/overlord.webp",
+    "custom_emoji_id": "5882008920767078147",
+    "model_id": "5294117469487660797"
+  },
+  {
+    "name": "magma_man",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/magma_man.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/magma_man.webp",
+    "custom_emoji_id": "5882141351788682107",
+    "model_id": "5294236044944766199"
+  },
+  {
+    "name": "infinity",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/infinity.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/infinity.webp",
+    "custom_emoji_id": "5882159029874074283",
+    "model_id": "5294324559925772854"
+  },
+  {
+    "name": "gladiator",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/gladiator.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/gladiator.webp",
+    "custom_emoji_id": "5884032662112312653",
+    "model_id": "5294543130811465378"
+  },
+  {
+    "name": "icebreaker",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/icebreaker.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/icebreaker.webp",
+    "custom_emoji_id": "5882039612603374267",
+    "model_id": "5298586760916267162"
+  },
+  {
+    "name": "crystal_fist",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/crystal_fist.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/crystal_fist.webp",
+    "custom_emoji_id": "5884252242315320485",
+    "model_id": "5298793151274710797"
+  },
+  {
+    "name": "best_muscles",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/best_muscles.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/best_muscles.webp",
+    "custom_emoji_id": "5882027019759264118",
+    "model_id": "5301178477326664793"
+  },
+  {
+    "name": "dragonborn",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/dragonborn.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/dragonborn.webp",
+    "custom_emoji_id": "5884179013122924337",
+    "model_id": "5303021452088340977"
+  },
+  {
+    "name": "genie",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/genie.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/genie.webp",
+    "custom_emoji_id": "5881817279326331519",
+    "model_id": "5456144973290305199"
+  },
+  {
+    "name": "snake_charmer",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/snake_charmer.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/snake_charmer.webp",
+    "custom_emoji_id": "5882115805323206721",
+    "model_id": "5456190130576454973"
+  },
+  {
+    "name": "gymhotep",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/gymhotep.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/gymhotep.webp",
+    "custom_emoji_id": "5881968526599661616",
+    "model_id": "5456198875129870260"
+  },
+  {
+    "name": "iron_hook",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/iron_hook.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/iron_hook.webp",
+    "custom_emoji_id": "5884341831038147909",
+    "model_id": "5456237701634224979"
+  },
+  {
+    "name": "petrified",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/petrified.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/petrified.webp",
+    "custom_emoji_id": "5883960206014028830",
+    "model_id": "5456247867821814641"
+  },
+  {
+    "name": "hercules",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/hercules.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/hercules.webp",
+    "custom_emoji_id": "5882200046811750873",
+    "model_id": "5456437683901463801"
+  },
+  {
+    "name": "heavy_metal",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/heavy_metal.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/heavy_metal.webp",
+    "custom_emoji_id": "5881818232809071122",
+    "model_id": "5456520641194783545"
+  },
+  {
+    "name": "werewolf",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/werewolf.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/werewolf.webp",
+    "custom_emoji_id": "5884072918840779234",
+    "model_id": "5456642433582404591"
+  },
+  {
+    "name": "cat_power",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/cat_power.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/cat_power.webp",
+    "custom_emoji_id": "5884008631770292349",
+    "model_id": "5458367902333828366"
+  },
+  {
+    "name": "heisenberg",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/heisenberg.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/heisenberg.webp",
+    "custom_emoji_id": "5882016587283704051",
+    "model_id": "5458389600508607754"
+  },
+  {
+    "name": "squeaker",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/squeaker.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/squeaker.webp",
+    "custom_emoji_id": "5883986967955250278",
+    "model_id": "5458453694305565552"
+  },
+  {
+    "name": "robocop",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/robocop.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/robocop.webp",
+    "custom_emoji_id": "5881709677510664288",
+    "model_id": "5458476985913212141"
+  },
+  {
+    "name": "popeye",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/popeye.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/popeye.webp",
+    "custom_emoji_id": "5884436960268787886",
+    "model_id": "5458487792050927030"
+  },
+  {
+    "name": "frankenstein",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/frankenstein.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/frankenstein.webp",
+    "custom_emoji_id": "5884251026839576354",
+    "model_id": "5458524441006863370"
+  },
+  {
+    "name": "xeno_grip",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/xeno_grip.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/xeno_grip.webp",
+    "custom_emoji_id": "5881764489883294848",
+    "model_id": "5458580919826806354"
+  },
+  {
+    "name": "homer",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/homer.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/homer.webp",
+    "custom_emoji_id": "5881847618975310968",
+    "model_id": "5458665058236134091"
+  },
+  {
+    "name": "knockout",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/knockout.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/knockout.webp",
+    "custom_emoji_id": "5881730344893292033",
+    "model_id": "5458751833755383430"
+  },
+  {
+    "name": "crab_crusher",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/crab_crusher.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/crab_crusher.webp",
+    "custom_emoji_id": "5882145977468460834",
+    "model_id": "5458780317978490492"
+  },
+  {
+    "name": "t800",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/t800.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/t800.webp",
+    "custom_emoji_id": "5884500736238166606",
+    "model_id": "5458803137139733614"
+  },
+  {
+    "name": "paramedic",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/mighty_arm/paramedic.tgs",
+    "webp_path": "TG_Photos_repo/models/mighty_arm/paramedic.webp",
+    "custom_emoji_id": "5882049594107371156",
+    "model_id": "5458875503043703259"
+  }
+]
