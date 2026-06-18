@@ -1,0 +1,754 @@
+[
+  {
+    "name": "moai_figure",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/moai_figure.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/moai_figure.webp",
+    "custom_emoji_id": "5884199594606205802",
+    "model_id": "5230934712402339213"
+  },
+  {
+    "name": "eye_candy",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/eye_candy.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/eye_candy.webp",
+    "custom_emoji_id": "5881930121002098638",
+    "model_id": "5230951381170416084"
+  },
+  {
+    "name": "tribal_idol",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/tribal_idol.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/tribal_idol.webp",
+    "custom_emoji_id": "5884433910842006790",
+    "model_id": "5230985040829111218"
+  },
+  {
+    "name": "static",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/static.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/static.webp",
+    "custom_emoji_id": "5884511400641961723",
+    "model_id": "5230991852647244897"
+  },
+  {
+    "name": "sunset_idol",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/sunset_idol.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/sunset_idol.webp",
+    "custom_emoji_id": "5884334336320217276",
+    "model_id": "5231004741844098076"
+  },
+  {
+    "name": "golfer",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/golfer.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/golfer.webp",
+    "custom_emoji_id": "5884316838623452798",
+    "model_id": "5231045578393151599"
+  },
+  {
+    "name": "producer",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/producer.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/producer.webp",
+    "custom_emoji_id": "5884320124273433619",
+    "model_id": "5231082618191111353"
+  },
+  {
+    "name": "dracula",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/dracula.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/dracula.webp",
+    "custom_emoji_id": "5881923596946775930",
+    "model_id": "5231140385501242188"
+  },
+  {
+    "name": "sour_gummy",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/sour_gummy.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/sour_gummy.webp",
+    "custom_emoji_id": "5881823747547078378",
+    "model_id": "5231157058564284563"
+  },
+  {
+    "name": "pirate",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/pirate.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/pirate.webp",
+    "custom_emoji_id": "5881988261974385208",
+    "model_id": "5231186333061372472"
+  },
+  {
+    "name": "banana",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/banana.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/banana.webp",
+    "custom_emoji_id": "5884180821304156320",
+    "model_id": "5231188102587899411"
+  },
+  {
+    "name": "grape_cola",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/grape_cola.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/grape_cola.webp",
+    "custom_emoji_id": "5881814629331508611",
+    "model_id": "5231191018870697930"
+  },
+  {
+    "name": "woody_allen",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/woody_allen.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/woody_allen.webp",
+    "custom_emoji_id": "5882135252935124483",
+    "model_id": "5231197478501507582"
+  },
+  {
+    "name": "hot_shots",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/hot_shots.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/hot_shots.webp",
+    "custom_emoji_id": "5884106071693336103",
+    "model_id": "5231201532950635438"
+  },
+  {
+    "name": "spirulina",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/spirulina.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/spirulina.webp",
+    "custom_emoji_id": "5884117406112030466",
+    "model_id": "5231259862901479927"
+  },
+  {
+    "name": "khajiit",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/khajiit.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/khajiit.webp",
+    "custom_emoji_id": "5884173193442237326",
+    "model_id": "5231277661245956037"
+  },
+  {
+    "name": "deep_freeze",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/deep_freeze.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/deep_freeze.webp",
+    "custom_emoji_id": "5881825362454781096",
+    "model_id": "5231299466794919085"
+  },
+  {
+    "name": "aztec_god",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/aztec_god.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/aztec_god.webp",
+    "custom_emoji_id": "5882156169425854046",
+    "model_id": "5231328973220241450"
+  },
+  {
+    "name": "giraffe",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/giraffe.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/giraffe.webp",
+    "custom_emoji_id": "5882033908886806151",
+    "model_id": "5231374980909917170"
+  },
+  {
+    "name": "cyclopes",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/cyclopes.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/cyclopes.webp",
+    "custom_emoji_id": "5882109448771607640",
+    "model_id": "5231419030094504601"
+  },
+  {
+    "name": "makeup",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/makeup.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/makeup.webp",
+    "custom_emoji_id": "5881760551398286458",
+    "model_id": "5231451049075696350"
+  },
+  {
+    "name": "stuntman",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/stuntman.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/stuntman.webp",
+    "custom_emoji_id": "5881951514234201259",
+    "model_id": "5231473258351584920"
+  },
+  {
+    "name": "mars_attacks",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/mars_attacks.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/mars_attacks.webp",
+    "custom_emoji_id": "5881886917926068664",
+    "model_id": "5233187607432684720"
+  },
+  {
+    "name": "finest_fish",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/finest_fish.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/finest_fish.webp",
+    "custom_emoji_id": "5884456755773053739",
+    "model_id": "5233188663994640472"
+  },
+  {
+    "name": "mummy",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/mummy.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/mummy.webp",
+    "custom_emoji_id": "5884388710606184504",
+    "model_id": "5233200844521889617"
+  },
+  {
+    "name": "jokester",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/jokester.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/jokester.webp",
+    "custom_emoji_id": "5881782266752934677",
+    "model_id": "5233202747192401107"
+  },
+  {
+    "name": "the_deep",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/the_deep.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/the_deep.webp",
+    "custom_emoji_id": "5884084270439342089",
+    "model_id": "5233217728038331843"
+  },
+  {
+    "name": "fiery-hot",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/fiery-hot.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/fiery-hot.webp",
+    "custom_emoji_id": "5884189845030444670",
+    "model_id": "5233221730947849974"
+  },
+  {
+    "name": "nominee",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/nominee.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/nominee.webp",
+    "custom_emoji_id": "5884174804054974014",
+    "model_id": "5233226506951484352"
+  },
+  {
+    "name": "cold_feet",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/cold_feet.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/cold_feet.webp",
+    "custom_emoji_id": "5884031176053629916",
+    "model_id": "5233232266502627592"
+  },
+  {
+    "name": "violet",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/violet.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/violet.webp",
+    "custom_emoji_id": "5884077454326242696",
+    "model_id": "5233242316726099876"
+  },
+  {
+    "name": "pigeon",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/pigeon.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/pigeon.webp",
+    "custom_emoji_id": "5881793888934436666",
+    "model_id": "5233252998309766859"
+  },
+  {
+    "name": "dark_side",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/dark_side.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/dark_side.webp",
+    "custom_emoji_id": "5884418818326930684",
+    "model_id": "5233255424966285632"
+  },
+  {
+    "name": "gas_mask",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/gas_mask.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/gas_mask.webp",
+    "custom_emoji_id": "5881759013799994128",
+    "model_id": "5233273326389979294"
+  },
+  {
+    "name": "caveman",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/caveman.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/caveman.webp",
+    "custom_emoji_id": "5881753576371395746",
+    "model_id": "5233283093145607038"
+  },
+  {
+    "name": "neon_police",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/neon_police.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/neon_police.webp",
+    "custom_emoji_id": "5884089823832055145",
+    "model_id": "5233298842790683235"
+  },
+  {
+    "name": "welder",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/welder.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/welder.webp",
+    "custom_emoji_id": "5884440739840008777",
+    "model_id": "5233308300308670230"
+  },
+  {
+    "name": "speaker",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/speaker.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/speaker.webp",
+    "custom_emoji_id": "5881947893576770384",
+    "model_id": "5233320313332195052"
+  },
+  {
+    "name": "scream",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/scream.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/scream.webp",
+    "custom_emoji_id": "5881903303226301819",
+    "model_id": "5233320377756706384"
+  },
+  {
+    "name": "main_villain",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/main_villain.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/main_villain.webp",
+    "custom_emoji_id": "5884467007859990043",
+    "model_id": "5233321962599638607"
+  },
+  {
+    "name": "ballerino",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/ballerino.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/ballerino.webp",
+    "custom_emoji_id": "5881939685894267841",
+    "model_id": "5233329199619531555"
+  },
+  {
+    "name": "action_film",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/action_film.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/action_film.webp",
+    "custom_emoji_id": "5881742001434533960",
+    "model_id": "5233346053071199589"
+  },
+  {
+    "name": "silver_zebra",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/silver_zebra.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/silver_zebra.webp",
+    "custom_emoji_id": "5884499447747979171",
+    "model_id": "5233350202009608588"
+  },
+  {
+    "name": "zesty",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/zesty.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/zesty.webp",
+    "custom_emoji_id": "5884458697098271559",
+    "model_id": "5233352912133973834"
+  },
+  {
+    "name": "robocop",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/robocop.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/robocop.webp",
+    "custom_emoji_id": "5881830447696061442",
+    "model_id": "5233353028098091742"
+  },
+  {
+    "name": "laser_scan",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/laser_scan.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/laser_scan.webp",
+    "custom_emoji_id": "5881975368482561095",
+    "model_id": "5233392524617341681"
+  },
+  {
+    "name": "sprunki",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/sprunki.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/sprunki.webp",
+    "custom_emoji_id": "5884201892413710441",
+    "model_id": "5233397906211365024"
+  },
+  {
+    "name": "android",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/android.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/android.webp",
+    "custom_emoji_id": "5882059661510712720",
+    "model_id": "5233402656445194673"
+  },
+  {
+    "name": "undead",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/undead.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/undead.webp",
+    "custom_emoji_id": "5884240169162254185",
+    "model_id": "5233427270902770694"
+  },
+  {
+    "name": "nebula",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/nebula.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/nebula.webp",
+    "custom_emoji_id": "5884305933701491211",
+    "model_id": "5233428640997333836"
+  },
+  {
+    "name": "best_comedy",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/best_comedy.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/best_comedy.webp",
+    "custom_emoji_id": "5881802152451513959",
+    "model_id": "5233477418940919757"
+  },
+  {
+    "name": "cobalt",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/cobalt.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/cobalt.webp",
+    "custom_emoji_id": "5881864648520638477",
+    "model_id": "5233490213648490477"
+  },
+  {
+    "name": "spidey",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/spidey.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/spidey.webp",
+    "custom_emoji_id": "5881892144901266950",
+    "model_id": "5233491948815281239"
+  },
+  {
+    "name": "prestige",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/prestige.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/prestige.webp",
+    "custom_emoji_id": "5881727909646835633",
+    "model_id": "5233495530818003672"
+  },
+  {
+    "name": "catwoman",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/catwoman.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/catwoman.webp",
+    "custom_emoji_id": "5881769411915818008",
+    "model_id": "5233511963362889762"
+  },
+  {
+    "name": "crusader",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/crusader.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/crusader.webp",
+    "custom_emoji_id": "5881989889766991714",
+    "model_id": "5233516168135861476"
+  },
+  {
+    "name": "emerald",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/emerald.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/emerald.webp",
+    "custom_emoji_id": "5881963312509361595",
+    "model_id": "5233518624857154041"
+  },
+  {
+    "name": "patina",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/patina.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/patina.webp",
+    "custom_emoji_id": "5881906593171250760",
+    "model_id": "5233522219744782529"
+  },
+  {
+    "name": "seraphim",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/seraphim.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/seraphim.webp",
+    "custom_emoji_id": "5882020723337209330",
+    "model_id": "5233553276653298978"
+  },
+  {
+    "name": "christmas",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/christmas.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/christmas.webp",
+    "custom_emoji_id": "5881960039744282194",
+    "model_id": "5233555381187274131"
+  },
+  {
+    "name": "molten_gold",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/molten_gold.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/molten_gold.webp",
+    "custom_emoji_id": "5881802955610398099",
+    "model_id": "5233558778506406252"
+  },
+  {
+    "name": "amanita",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/amanita.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/amanita.webp",
+    "custom_emoji_id": "5882241128173936149",
+    "model_id": "5233561497220702013"
+  },
+  {
+    "name": "skeleton",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/skeleton.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/skeleton.webp",
+    "custom_emoji_id": "5882120585621806194",
+    "model_id": "5233561686199264306"
+  },
+  {
+    "name": "rear_end",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/rear_end.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/rear_end.webp",
+    "custom_emoji_id": "5881819375270370797",
+    "model_id": "5233566286109236985"
+  },
+  {
+    "name": "legionary",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/legionary.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/legionary.webp",
+    "custom_emoji_id": "5884076646872390372",
+    "model_id": "5233586399441085822"
+  },
+  {
+    "name": "pumpkin",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/pumpkin.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/pumpkin.webp",
+    "custom_emoji_id": "5884415210554400256",
+    "model_id": "5233587958514214933"
+  },
+  {
+    "name": "flexible",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/flexible.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/flexible.webp",
+    "custom_emoji_id": "5881882605778901816",
+    "model_id": "5233594937836068831"
+  },
+  {
+    "name": "leopard",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/leopard.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/leopard.webp",
+    "custom_emoji_id": "5882254305133601866",
+    "model_id": "5233598017327622018"
+  },
+  {
+    "name": "brainiac",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/brainiac.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/brainiac.webp",
+    "custom_emoji_id": "5884244146301967490",
+    "model_id": "5233598043097432374"
+  },
+  {
+    "name": "chieftain",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/chieftain.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/chieftain.webp",
+    "custom_emoji_id": "5884104418130927015",
+    "model_id": "5233600624372769681"
+  },
+  {
+    "name": "mango_tango",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/mango_tango.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/mango_tango.webp",
+    "custom_emoji_id": "5882130889248350187",
+    "model_id": "5233607925817174212"
+  },
+  {
+    "name": "electric",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/electric.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/electric.webp",
+    "custom_emoji_id": "5884306822759718528",
+    "model_id": "5233610893639575610"
+  },
+  {
+    "name": "radioactive",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/radioactive.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/radioactive.webp",
+    "custom_emoji_id": "5881995602073492908",
+    "model_id": "5233618787789465063"
+  },
+  {
+    "name": "viking",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/viking.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/viking.webp",
+    "custom_emoji_id": "5884358641540144847",
+    "model_id": "5233646030767021539"
+  },
+  {
+    "name": "solid_bronze",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/solid_bronze.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/solid_bronze.webp",
+    "custom_emoji_id": "5884389183052588671",
+    "model_id": "5233657713078068155"
+  },
+  {
+    "name": "nightmare",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/nightmare.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/nightmare.webp",
+    "custom_emoji_id": "5883964226103417806",
+    "model_id": "5233659272151196130"
+  },
+  {
+    "name": "red_carpet",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/red_carpet.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/red_carpet.webp",
+    "custom_emoji_id": "5884222838969213235",
+    "model_id": "5233662523441438894"
+  },
+  {
+    "name": "blue_sky",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/blue_sky.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/blue_sky.webp",
+    "custom_emoji_id": "5884470383704283821",
+    "model_id": "5233680536534279300"
+  },
+  {
+    "name": "pharaoh",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/pharaoh.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/pharaoh.webp",
+    "custom_emoji_id": "5881861766597583713",
+    "model_id": "5233688276065346263"
+  },
+  {
+    "name": "trailer",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/trailer.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/trailer.webp",
+    "custom_emoji_id": "5881850561027906847",
+    "model_id": "5233688576713056230"
+  },
+  {
+    "name": "poseidon",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/poseidon.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/poseidon.webp",
+    "custom_emoji_id": "5881936602107748087",
+    "model_id": "5233689147943708361"
+  },
+  {
+    "name": "fading_flare",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/fading_flare.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/fading_flare.webp",
+    "custom_emoji_id": "5884229491873554217",
+    "model_id": "5233692540967873806"
+  },
+  {
+    "name": "blue_lagoon",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/blue_lagoon.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/blue_lagoon.webp",
+    "custom_emoji_id": "5881901898771996630",
+    "model_id": "5233701367125665930"
+  },
+  {
+    "name": "obsidian",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/obsidian.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/obsidian.webp",
+    "custom_emoji_id": "5882177665737170334",
+    "model_id": "5233710051549535386"
+  },
+  {
+    "name": "santa_claus",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/santa_claus.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/santa_claus.webp",
+    "custom_emoji_id": "5881706486349963006",
+    "model_id": "5233720578514382501"
+  },
+  {
+    "name": "boulevard",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/boulevard.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/boulevard.webp",
+    "custom_emoji_id": "5882087647517614124",
+    "model_id": "5233722451120121176"
+  },
+  {
+    "name": "pink_guard",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/pink_guard.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/pink_guard.webp",
+    "custom_emoji_id": "5884278978486738559",
+    "model_id": "5233722730292994766"
+  },
+  {
+    "name": "dark_knight",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/dark_knight.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/dark_knight.webp",
+    "custom_emoji_id": "5881938521958129011",
+    "model_id": "5233725436122393055"
+  },
+  {
+    "name": "premiere",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/premiere.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/premiere.webp",
+    "custom_emoji_id": "5884025188869217485",
+    "model_id": "5233735640964687688"
+  },
+  {
+    "name": "red_dream",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/red_dream.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/red_dream.webp",
+    "custom_emoji_id": "5881872783188696722",
+    "model_id": "5233736950929712431"
+  },
+  {
+    "name": "regent",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/regent.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/regent.webp",
+    "custom_emoji_id": "5881723253902289514",
+    "model_id": "5233739686823880286"
+  },
+  {
+    "name": "blockbuster",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/blockbuster.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/blockbuster.webp",
+    "custom_emoji_id": "5881853511670439843",
+    "model_id": "5233742500027458124"
+  },
+  {
+    "name": "astronaut",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/astronaut.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/astronaut.webp",
+    "custom_emoji_id": "5881737414409460873",
+    "model_id": "5233744020445882453"
+  },
+  {
+    "name": "hobgoblin",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/mini_oscar/hobgoblin.tgs",
+    "webp_path": "TG_Photos_repo/models/mini_oscar/hobgoblin.webp",
+    "custom_emoji_id": "5882027483615732806",
+    "model_id": "5233744969633653087"
+  }
+]
