@@ -1,0 +1,562 @@
+[
+  {
+    "name": "chronos",
+    "rarity_permille": 1.2,
+    "tgs_path": "TG_Photos_repo/models/top_hat/chronos.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/chronos.webp",
+    "custom_emoji_id": "5881802238350859291",
+    "model_id": "5309793146635317038"
+  },
+  {
+    "name": "celestial",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/celestial.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/celestial.webp",
+    "custom_emoji_id": "5882062298620632770",
+    "model_id": "5309793747930738079"
+  },
+  {
+    "name": "pickle_jar",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/top_hat/pickle_jar.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/pickle_jar.webp",
+    "custom_emoji_id": "5881934068077043825",
+    "model_id": "5309949582229138627"
+  },
+  {
+    "name": "witch_doctor",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/witch_doctor.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/witch_doctor.webp",
+    "custom_emoji_id": "5882054563384533760",
+    "model_id": "5310007718906459745"
+  },
+  {
+    "name": "bull_baron",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/top_hat/bull_baron.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/bull_baron.webp",
+    "custom_emoji_id": "5881875175485482332",
+    "model_id": "5310214169394441882"
+  },
+  {
+    "name": "lucifer",
+    "rarity_permille": 0.3,
+    "tgs_path": "TG_Photos_repo/models/top_hat/lucifer.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/lucifer.webp",
+    "custom_emoji_id": "5882243705154314447",
+    "model_id": "5310230842457484342"
+  },
+  {
+    "name": "black_raven",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/black_raven.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/black_raven.webp",
+    "custom_emoji_id": "5881745278494580578",
+    "model_id": "5312032117381686987"
+  },
+  {
+    "name": "green_stars",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/top_hat/green_stars.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/green_stars.webp",
+    "custom_emoji_id": "5881840128552344567",
+    "model_id": "5312109173389946186"
+  },
+  {
+    "name": "performer",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/performer.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/performer.webp",
+    "custom_emoji_id": "5882247480430567055",
+    "model_id": "5312289497591868496"
+  },
+  {
+    "name": "low_rider",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/low_rider.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/low_rider.webp",
+    "custom_emoji_id": "5881987003548966374",
+    "model_id": "5312290021577878222"
+  },
+  {
+    "name": "hippie",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/top_hat/hippie.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/hippie.webp",
+    "custom_emoji_id": "5882047700026793093",
+    "model_id": "5312429461986111392"
+  },
+  {
+    "name": "mr._whiskers",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/top_hat/mr._whiskers.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/mr._whiskers.webp",
+    "custom_emoji_id": "5882133680977092231",
+    "model_id": "5312461206089393211"
+  },
+  {
+    "name": "brainiac",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/top_hat/brainiac.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/brainiac.webp",
+    "custom_emoji_id": "5882241755239161334",
+    "model_id": "5312512221710935949"
+  },
+  {
+    "name": "uncle_sam",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/top_hat/uncle_sam.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/uncle_sam.webp",
+    "custom_emoji_id": "5882221641907314747",
+    "model_id": "5312524672821128384"
+  },
+  {
+    "name": "huntsman",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/top_hat/huntsman.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/huntsman.webp",
+    "custom_emoji_id": "5881931555521174613",
+    "model_id": "5312531832531608598"
+  },
+  {
+    "name": "bubble_top",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/top_hat/bubble_top.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/bubble_top.webp",
+    "custom_emoji_id": "5881913727111930000",
+    "model_id": "5314384071537749751"
+  },
+  {
+    "name": "maestro",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/maestro.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/maestro.webp",
+    "custom_emoji_id": "5882020710452305511",
+    "model_id": "5314399413160929373"
+  },
+  {
+    "name": "mad_hatter",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/mad_hatter.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/mad_hatter.webp",
+    "custom_emoji_id": "5882242420959094579",
+    "model_id": "5314403987301100683"
+  },
+  {
+    "name": "golden_ratio",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/golden_ratio.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/golden_ratio.webp",
+    "custom_emoji_id": "5881726208839786115",
+    "model_id": "5314425028345881360"
+  },
+  {
+    "name": "steampunk",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/steampunk.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/steampunk.webp",
+    "custom_emoji_id": "5881998788939227753",
+    "model_id": "5314437415031565085"
+  },
+  {
+    "name": "grey_gatsby",
+    "rarity_permille": 0.3,
+    "tgs_path": "TG_Photos_repo/models/top_hat/grey_gatsby.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/grey_gatsby.webp",
+    "custom_emoji_id": "5881935227718213527",
+    "model_id": "5314443230417284779"
+  },
+  {
+    "name": "solar_system",
+    "rarity_permille": 0.3,
+    "tgs_path": "TG_Photos_repo/models/top_hat/solar_system.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/solar_system.webp",
+    "custom_emoji_id": "5882076759775518236",
+    "model_id": "5314476860011209119"
+  },
+  {
+    "name": "tree_stump",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/top_hat/tree_stump.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/tree_stump.webp",
+    "custom_emoji_id": "5882095262494630473",
+    "model_id": "5314484393383846437"
+  },
+  {
+    "name": "spectrum",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/spectrum.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/spectrum.webp",
+    "custom_emoji_id": "5881770309563981420",
+    "model_id": "5314512400865583695"
+  },
+  {
+    "name": "dreamwave",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/dreamwave.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/dreamwave.webp",
+    "custom_emoji_id": "5881830563660177249",
+    "model_id": "5314533789802719486"
+  },
+  {
+    "name": "blake",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/top_hat/blake.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/blake.webp",
+    "custom_emoji_id": "5881994403777617265",
+    "model_id": "5314606074102308604"
+  },
+  {
+    "name": "purple_rain",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/purple_rain.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/purple_rain.webp",
+    "custom_emoji_id": "5882227397163490650",
+    "model_id": "5314623490194694556"
+  },
+  {
+    "name": "edison",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/top_hat/edison.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/edison.webp",
+    "custom_emoji_id": "5882178181133246030",
+    "model_id": "5314756440907341294"
+  },
+  {
+    "name": "snowstorm",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/top_hat/snowstorm.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/snowstorm.webp",
+    "custom_emoji_id": "5882188519119527606",
+    "model_id": "5314787115563773683"
+  },
+  {
+    "name": "atlantis",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/top_hat/atlantis.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/atlantis.webp",
+    "custom_emoji_id": "5882113413026421319",
+    "model_id": "5314803870231190881"
+  },
+  {
+    "name": "cardinal",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/cardinal.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/cardinal.webp",
+    "custom_emoji_id": "5881878916401995213",
+    "model_id": "5314807606852743760"
+  },
+  {
+    "name": "lincoln",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/lincoln.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/lincoln.webp",
+    "custom_emoji_id": "5882232473814834543",
+    "model_id": "5316535845858081086"
+  },
+  {
+    "name": "elegance",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/top_hat/elegance.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/elegance.webp",
+    "custom_emoji_id": "5881752365190618299",
+    "model_id": "5316556221182928791"
+  },
+  {
+    "name": "sceleritas_fel",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/top_hat/sceleritas_fel.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/sceleritas_fel.webp",
+    "custom_emoji_id": "5881878186257555040",
+    "model_id": "5316560013639052087"
+  },
+  {
+    "name": "romantic",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/top_hat/romantic.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/romantic.webp",
+    "custom_emoji_id": "5881929090209947246",
+    "model_id": "5316585955241520811"
+  },
+  {
+    "name": "burned_brass",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/burned_brass.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/burned_brass.webp",
+    "custom_emoji_id": "5882029626804412163",
+    "model_id": "5316604586809647504"
+  },
+  {
+    "name": "polygon",
+    "rarity_permille": 0.3,
+    "tgs_path": "TG_Photos_repo/models/top_hat/polygon.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/polygon.webp",
+    "custom_emoji_id": "5881752966486041423",
+    "model_id": "5316702640913019076"
+  },
+  {
+    "name": "constable",
+    "rarity_permille": 0.3,
+    "tgs_path": "TG_Photos_repo/models/top_hat/constable.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/constable.webp",
+    "custom_emoji_id": "5882034196649615639",
+    "model_id": "5316707511405929436"
+  },
+  {
+    "name": "clockwork",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/clockwork.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/clockwork.webp",
+    "custom_emoji_id": "5882137859980271378",
+    "model_id": "5316733268324803313"
+  },
+  {
+    "name": "blood_veil",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/blood_veil.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/blood_veil.webp",
+    "custom_emoji_id": "5882104187436671178",
+    "model_id": "5316751229878033912"
+  },
+  {
+    "name": "blackjack",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/blackjack.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/blackjack.webp",
+    "custom_emoji_id": "5882125322970733599",
+    "model_id": "5316771562253215673"
+  },
+  {
+    "name": "alien_invasion",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/top_hat/alien_invasion.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/alien_invasion.webp",
+    "custom_emoji_id": "5881823249330874187",
+    "model_id": "5316783721305627579"
+  },
+  {
+    "name": "prestige",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/top_hat/prestige.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/prestige.webp",
+    "custom_emoji_id": "5882002667294695208",
+    "model_id": "5316789837339059406"
+  },
+  {
+    "name": "graphite",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/graphite.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/graphite.webp",
+    "custom_emoji_id": "5882232804527316961",
+    "model_id": "5316797353531825943"
+  },
+  {
+    "name": "cranberry",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/top_hat/cranberry.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/cranberry.webp",
+    "custom_emoji_id": "5882247278567105276",
+    "model_id": "5316804045090875670"
+  },
+  {
+    "name": "willy_wonka",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/willy_wonka.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/willy_wonka.webp",
+    "custom_emoji_id": "5881778727699882312",
+    "model_id": "5316805535444528431"
+  },
+  {
+    "name": "glam_safari",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/glam_safari.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/glam_safari.webp",
+    "custom_emoji_id": "5882121762442845855",
+    "model_id": "5316843889502483414"
+  },
+  {
+    "name": "abracadabra",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/top_hat/abracadabra.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/abracadabra.webp",
+    "custom_emoji_id": "5882048447351104064",
+    "model_id": "5316845147927898157"
+  },
+  {
+    "name": "crosswalk",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/crosswalk.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/crosswalk.webp",
+    "custom_emoji_id": "5881949216426696916",
+    "model_id": "5316846659756388327"
+  },
+  {
+    "name": "pixel_perfect",
+    "rarity_permille": 0.2,
+    "tgs_path": "TG_Photos_repo/models/top_hat/pixel_perfect.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/pixel_perfect.webp",
+    "custom_emoji_id": "5881844389159902732",
+    "model_id": "5316861292709962583"
+  },
+  {
+    "name": "grandmaster",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/grandmaster.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/grandmaster.webp",
+    "custom_emoji_id": "5882142910861811749",
+    "model_id": "5316882569977950703"
+  },
+  {
+    "name": "alabaster",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/alabaster.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/alabaster.webp",
+    "custom_emoji_id": "5882041987720290577",
+    "model_id": "5316890601566793467"
+  },
+  {
+    "name": "silver_glass",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/top_hat/silver_glass.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/silver_glass.webp",
+    "custom_emoji_id": "5881874140398362486",
+    "model_id": "5316891619474039834"
+  },
+  {
+    "name": "is_it_cake?",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/top_hat/is_it_cake?.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/is_it_cake?.webp",
+    "custom_emoji_id": "5882172193948836722",
+    "model_id": "5316904349757106267"
+  },
+  {
+    "name": "limoncello",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/limoncello.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/limoncello.webp",
+    "custom_emoji_id": "5881871198345763804",
+    "model_id": "5316907772846042295"
+  },
+  {
+    "name": "victorian_era",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/victorian_era.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/victorian_era.webp",
+    "custom_emoji_id": "5882071751843651412",
+    "model_id": "5316946534925888275"
+  },
+  {
+    "name": "dairy_dandy",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/dairy_dandy.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/dairy_dandy.webp",
+    "custom_emoji_id": "5882231052180663285",
+    "model_id": "5316972880255278995"
+  },
+  {
+    "name": "scrooge",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/scrooge.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/scrooge.webp",
+    "custom_emoji_id": "5882189799019781701",
+    "model_id": "5316987637762912962"
+  },
+  {
+    "name": "leprechaun",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/top_hat/leprechaun.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/leprechaun.webp",
+    "custom_emoji_id": "5881814006561251563",
+    "model_id": "5317025128532438910"
+  },
+  {
+    "name": "bloodline",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/bloodline.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/bloodline.webp",
+    "custom_emoji_id": "5882260365332455281",
+    "model_id": "5317025884446680622"
+  },
+  {
+    "name": "charlie",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/charlie.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/charlie.webp",
+    "custom_emoji_id": "5882256074660126847",
+    "model_id": "5317042050703581896"
+  },
+  {
+    "name": "hat_toss",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/top_hat/hat_toss.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/hat_toss.webp",
+    "custom_emoji_id": "5881956805633907512",
+    "model_id": "5318819746257333101"
+  },
+  {
+    "name": "maroon",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/maroon.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/maroon.webp",
+    "custom_emoji_id": "5881958545095663058",
+    "model_id": "5318828177278131566"
+  },
+  {
+    "name": "white_windsor",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/white_windsor.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/white_windsor.webp",
+    "custom_emoji_id": "5882216518011329732",
+    "model_id": "5318893920342537557"
+  },
+  {
+    "name": "antiquity",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/antiquity.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/antiquity.webp",
+    "custom_emoji_id": "5882230498129878775",
+    "model_id": "5318952276063183337"
+  },
+  {
+    "name": "hypnosis",
+    "rarity_permille": 0.3,
+    "tgs_path": "TG_Photos_repo/models/top_hat/hypnosis.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/hypnosis.webp",
+    "custom_emoji_id": "5884429602989809512",
+    "model_id": "5319003880095242702"
+  },
+  {
+    "name": "starlight",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/starlight.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/starlight.webp",
+    "custom_emoji_id": "5882261653822643798",
+    "model_id": "5319094581214603754"
+  },
+  {
+    "name": "megawatt",
+    "rarity_permille": 0.3,
+    "tgs_path": "TG_Photos_repo/models/top_hat/megawatt.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/megawatt.webp",
+    "custom_emoji_id": "5882034956858825849",
+    "model_id": "5319109879888109959"
+  },
+  {
+    "name": "pink_bunny",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/pink_bunny.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/pink_bunny.webp",
+    "custom_emoji_id": "5881956457741557054",
+    "model_id": "5319230495454681732"
+  },
+  {
+    "name": "submarine",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/top_hat/submarine.tgs",
+    "webp_path": "TG_Photos_repo/models/top_hat/submarine.webp",
+    "custom_emoji_id": "5881867057997291027",
+    "model_id": "5319232673003104446"
+  }
+]
