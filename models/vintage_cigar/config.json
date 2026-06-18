@@ -341,47 +341,5 @@
     "tgs_path": "TG_Photos_repo/models/vintage_cigar/stained_glass.tgs",
     "webp_path": "TG_Photos_repo/models/vintage_cigar/stained_glass.webp",
     "custom_emoji_id": "5429615784936627979"
-  },
-  {
-    "name": "thermal",
-    "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/vintage_cigar/thermal.tgs",
-    "webp_path": "TG_Photos_repo/models/vintage_cigar/thermal.webp",
-    "custom_emoji_id": "5429624838727690024"
-  },
-  {
-    "name": "silver_fox",
-    "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/vintage_cigar/silver_fox.tgs",
-    "webp_path": "TG_Photos_repo/models/vintage_cigar/silver_fox.webp",
-    "custom_emoji_id": "5429631783689807001"
-  },
-  {
-    "name": "subtle_purple",
-    "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/vintage_cigar/subtle_purple.tgs",
-    "webp_path": "TG_Photos_repo/models/vintage_cigar/subtle_purple.webp",
-    "custom_emoji_id": "5429634188871492860"
-  },
-  {
-    "name": "pink_plume",
-    "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/vintage_cigar/pink_plume.tgs",
-    "webp_path": "TG_Photos_repo/models/vintage_cigar/pink_plume.webp",
-    "custom_emoji_id": "5429640648502306892"
-  },
-  {
-    "name": "centurion",
-    "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/vintage_cigar/centurion.tgs",
-    "webp_path": "TG_Photos_repo/models/vintage_cigar/centurion.webp",
-    "custom_emoji_id": "5429649393055720320"
-  },
-  {
-    "name": "desert_night",
-    "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/vintage_cigar/desert_night.tgs",
-    "webp_path": "TG_Photos_repo/models/vintage_cigar/desert_night.webp",
-    "custom_emoji_id": "5429649689408463436"
   }
 ]
