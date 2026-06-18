@@ -1,0 +1,386 @@
+[
+  {
+    "name": "tangerine",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/tangerine.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/tangerine.webp",
+    "custom_emoji_id": "5881776528676630049",
+    "model_id": "5224384659642672434"
+  },
+  {
+    "name": "rose_quartz",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/rose_quartz.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/rose_quartz.webp",
+    "custom_emoji_id": "5882094704148881322",
+    "model_id": "5224628618080051805"
+  },
+  {
+    "name": "neon_green",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/neon_green.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/neon_green.webp",
+    "custom_emoji_id": "5882157599649963682",
+    "model_id": "5224684109057514315"
+  },
+  {
+    "name": "indigo_husk",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/indigo_husk.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/indigo_husk.webp",
+    "custom_emoji_id": "5881857862472310503",
+    "model_id": "5226438096391792510"
+  },
+  {
+    "name": "bone_white",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/bone_white.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/bone_white.webp",
+    "custom_emoji_id": "5882018915155975888",
+    "model_id": "5226539835577100016"
+  },
+  {
+    "name": "solar_stone",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/solar_stone.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/solar_stone.webp",
+    "custom_emoji_id": "5884104701598768025",
+    "model_id": "5226710341483783844"
+  },
+  {
+    "name": "metal_shade",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/metal_shade.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/metal_shade.webp",
+    "custom_emoji_id": "5881859941236481662",
+    "model_id": "5226757899656653098"
+  },
+  {
+    "name": "corpse_mint",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/corpse_mint.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/corpse_mint.webp",
+    "custom_emoji_id": "5881736899013386128",
+    "model_id": "5228799916087730081"
+  },
+  {
+    "name": "deadly_sweet",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/deadly_sweet.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/deadly_sweet.webp",
+    "custom_emoji_id": "5882233272678751412",
+    "model_id": "5229217713326418154"
+  },
+  {
+    "name": "radiant",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/radiant.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/radiant.webp",
+    "custom_emoji_id": "5884360600045232311",
+    "model_id": "5231272060608605715"
+  },
+  {
+    "name": "chromatic",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/chromatic.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/chromatic.webp",
+    "custom_emoji_id": "5884510863771050335",
+    "model_id": "5231299565579168844"
+  },
+  {
+    "name": "red_death",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/red_death.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/red_death.webp",
+    "custom_emoji_id": "5882014182102015229",
+    "model_id": "5235554624039049914"
+  },
+  {
+    "name": "deadman",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/deadman.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/deadman.webp",
+    "custom_emoji_id": "5884148183847673942",
+    "model_id": "5235583627953203318"
+  },
+  {
+    "name": "ruby_eyes",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/ruby_eyes.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/ruby_eyes.webp",
+    "custom_emoji_id": "5884369765505441428",
+    "model_id": "5235588562870625501"
+  },
+  {
+    "name": "herbal_glow",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/herbal_glow.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/herbal_glow.webp",
+    "custom_emoji_id": "5881849826588499654",
+    "model_id": "5235755701522954119"
+  },
+  {
+    "name": "zombie",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/zombie.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/zombie.webp",
+    "custom_emoji_id": "5884335324162694574",
+    "model_id": "5235865523836705972"
+  },
+  {
+    "name": "brass_fossil",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/brass_fossil.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/brass_fossil.webp",
+    "custom_emoji_id": "5884164027982027733",
+    "model_id": "5237829565136530213"
+  },
+  {
+    "name": "nightfall",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/nightfall.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/nightfall.webp",
+    "custom_emoji_id": "5881819401040175235",
+    "model_id": "5237900977557761551"
+  },
+  {
+    "name": "sunset_veil",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/sunset_veil.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/sunset_veil.webp",
+    "custom_emoji_id": "5882114770236088421",
+    "model_id": "5238131694610966953"
+  },
+  {
+    "name": "frost_wraith",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/frost_wraith.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/frost_wraith.webp",
+    "custom_emoji_id": "5881935747409256943",
+    "model_id": "5240178444096006253"
+  },
+  {
+    "name": "phantom",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/phantom.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/phantom.webp",
+    "custom_emoji_id": "5882122836184669815",
+    "model_id": "5240299313065650157"
+  },
+  {
+    "name": "diablo",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/diablo.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/diablo.webp",
+    "custom_emoji_id": "5882219756416671085",
+    "model_id": "5240403152489965214"
+  },
+  {
+    "name": "happy_end",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/happy_end.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/happy_end.webp",
+    "custom_emoji_id": "5881904149334859001",
+    "model_id": "5244807400933845703"
+  },
+  {
+    "name": "half_alive",
+    "rarity_permille": 0.8,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/half_alive.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/half_alive.webp",
+    "custom_emoji_id": "5884339765158879213",
+    "model_id": "5244996778926829082"
+  },
+  {
+    "name": "twisted_heart",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/twisted_heart.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/twisted_heart.webp",
+    "custom_emoji_id": "5882085813566577993",
+    "model_id": "5251472417083124709"
+  },
+  {
+    "name": "void_totem",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/void_totem.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/void_totem.webp",
+    "custom_emoji_id": "5882032152245181303",
+    "model_id": "5255733076180371174"
+  },
+  {
+    "name": "starborn",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/starborn.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/starborn.webp",
+    "custom_emoji_id": "5884190059778810353",
+    "model_id": "5257996365031565228"
+  },
+  {
+    "name": "cute_monster",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/cute_monster.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/cute_monster.webp",
+    "custom_emoji_id": "5881783606782730417",
+    "model_id": "5262738507142556943"
+  },
+  {
+    "name": "wild_desire",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/wild_desire.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/wild_desire.webp",
+    "custom_emoji_id": "5882102353485634727",
+    "model_id": "5262882165208674816"
+  },
+  {
+    "name": "dead_kitty",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/dead_kitty.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/dead_kitty.webp",
+    "custom_emoji_id": "5882161503775236266",
+    "model_id": "5269299701047388200"
+  },
+  {
+    "name": "smiley",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/smiley.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/smiley.webp",
+    "custom_emoji_id": "5882086212998536521",
+    "model_id": "5273871496165484467"
+  },
+  {
+    "name": "creeper_berry",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/creeper_berry.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/creeper_berry.webp",
+    "custom_emoji_id": "5884141642612480822",
+    "model_id": "5278245770032605608"
+  },
+  {
+    "name": "nightmare",
+    "rarity_permille": 0.3,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/nightmare.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/nightmare.webp",
+    "custom_emoji_id": "5884334795881718228",
+    "model_id": "5278527605786565637"
+  },
+  {
+    "name": "clockwork",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/clockwork.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/clockwork.webp",
+    "custom_emoji_id": "5884273536763174310",
+    "model_id": "5287431940574568539"
+  },
+  {
+    "name": "ink_skull",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/ink_skull.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/ink_skull.webp",
+    "custom_emoji_id": "5881907589603663586",
+    "model_id": "5289911579813376959"
+  },
+  {
+    "name": "dead_apple",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/dead_apple.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/dead_apple.webp",
+    "custom_emoji_id": "5881958686829592517",
+    "model_id": "5301271733951558054"
+  },
+  {
+    "name": "bubblegum",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/bubblegum.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/bubblegum.webp",
+    "custom_emoji_id": "5882098586799316894",
+    "model_id": "5314311168762867991"
+  },
+  {
+    "name": "calavera",
+    "rarity_permille": 0.3,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/calavera.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/calavera.webp",
+    "custom_emoji_id": "5881754014458059997",
+    "model_id": "5314634785958690954"
+  },
+  {
+    "name": "hellfire",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/hellfire.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/hellfire.webp",
+    "custom_emoji_id": "5884450669804397145",
+    "model_id": "5316600283252415491"
+  },
+  {
+    "name": "starman",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/starman.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/starman.webp",
+    "custom_emoji_id": "5881994412367552907",
+    "model_id": "5321194403610515191"
+  },
+  {
+    "name": "polka_dead",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/polka_dead.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/polka_dead.webp",
+    "custom_emoji_id": "5882071541390253787",
+    "model_id": "5323335608016334602"
+  },
+  {
+    "name": "divinity",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/divinity.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/divinity.webp",
+    "custom_emoji_id": "5881784513020828821",
+    "model_id": "5323558761632129571"
+  },
+  {
+    "name": "cobweb",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/cobweb.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/cobweb.webp",
+    "custom_emoji_id": "5881803501071245069",
+    "model_id": "5325634777024323234"
+  },
+  {
+    "name": "cactus",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/cactus.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/cactus.webp",
+    "custom_emoji_id": "5881833630266827906",
+    "model_id": "5328050670358520186"
+  },
+  {
+    "name": "fiesta",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/fiesta.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/fiesta.webp",
+    "custom_emoji_id": "5330336052521497060",
+    "model_id": "5330336052521497060"
+  },
+  {
+    "name": "bad_fortune",
+    "rarity_permille": 0.3,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/bad_fortune.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/bad_fortune.webp",
+    "custom_emoji_id": "5330524966658008870",
+    "model_id": "5330524966658008870"
+  },
+  {
+    "name": "gentleman",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/gentleman.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/gentleman.webp",
+    "custom_emoji_id": "5330537898804537169",
+    "model_id": "5330537898804537169"
+  },
+  {
+    "name": "terminator",
+    "rarity_permille": 0.3,
+    "tgs_path": "TG_Photos_repo/models/electric_skull/terminator.tgs",
+    "webp_path": "TG_Photos_repo/models/electric_skull/terminator.webp",
+    "custom_emoji_id": "5348530173937479425",
+    "model_id": "5348530173937479425"
+  }
+]
