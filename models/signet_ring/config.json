@@ -1,0 +1,352 @@
+[
+  {
+    "name": "hearts",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/hearts.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/hearts.webp",
+    "custom_emoji_id": "5431345991036985574"
+  },
+  {
+    "name": "spades",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/spades.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/spades.webp",
+    "custom_emoji_id": "5431348052621288433"
+  },
+  {
+    "name": "skull",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/skull.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/skull.webp",
+    "custom_emoji_id": "5431439135992735525"
+  },
+  {
+    "name": "jade_lord",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/jade_lord.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/jade_lord.webp",
+    "custom_emoji_id": "5431447515473929701"
+  },
+  {
+    "name": "citrine",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/citrine.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/citrine.webp",
+    "custom_emoji_id": "5431528136305043215"
+  },
+  {
+    "name": "silverscreen",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/silverscreen.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/silverscreen.webp",
+    "custom_emoji_id": "5431542103538689559"
+  },
+  {
+    "name": "pristine",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/pristine.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/pristine.webp",
+    "custom_emoji_id": "5431544272497174450"
+  },
+  {
+    "name": "blue_gold",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/blue_gold.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/blue_gold.webp",
+    "custom_emoji_id": "5431552295496082014"
+  },
+  {
+    "name": "skibidi",
+    "rarity_permille": 0.3,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/skibidi.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/skibidi.webp",
+    "custom_emoji_id": "5431572649346098150"
+  },
+  {
+    "name": "chrome",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/chrome.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/chrome.webp",
+    "custom_emoji_id": "5431575703067847809"
+  },
+  {
+    "name": "off-axis",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/off-axis.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/off-axis.webp",
+    "custom_emoji_id": "5431579688797495145"
+  },
+  {
+    "name": "sakura_gold",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/sakura_gold.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/sakura_gold.webp",
+    "custom_emoji_id": "5431590688208741451"
+  },
+  {
+    "name": "saturn_ring",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/saturn_ring.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/saturn_ring.webp",
+    "custom_emoji_id": "5431600072712283970"
+  },
+  {
+    "name": "black_noir",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/black_noir.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/black_noir.webp",
+    "custom_emoji_id": "5431654867905045389"
+  },
+  {
+    "name": "carpenter",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/carpenter.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/carpenter.webp",
+    "custom_emoji_id": "5431659626728809639"
+  },
+  {
+    "name": "ton",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/ton.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/ton.webp",
+    "custom_emoji_id": "5431661516514420454"
+  },
+  {
+    "name": "star_platinum",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/star_platinum.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/star_platinum.webp",
+    "custom_emoji_id": "5431674809438202234"
+  },
+  {
+    "name": "mood_ring",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/mood_ring.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/mood_ring.webp",
+    "custom_emoji_id": "5431680629118888148"
+  },
+  {
+    "name": "platinum",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/platinum.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/platinum.webp",
+    "custom_emoji_id": "5431694686546854699"
+  },
+  {
+    "name": "good_boy",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/good_boy.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/good_boy.webp",
+    "custom_emoji_id": "5431696911339904476"
+  },
+  {
+    "name": "diamonds",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/diamonds.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/diamonds.webp",
+    "custom_emoji_id": "5431725348318372036"
+  },
+  {
+    "name": "kitteh",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/kitteh.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/kitteh.webp",
+    "custom_emoji_id": "5431742927619516006"
+  },
+  {
+    "name": "rose_gold",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/rose_gold.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/rose_gold.webp",
+    "custom_emoji_id": "5431748463832359906"
+  },
+  {
+    "name": "clubs",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/clubs.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/clubs.webp",
+    "custom_emoji_id": "5431757990069820873"
+  },
+  {
+    "name": "white_gold",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/white_gold.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/white_gold.webp",
+    "custom_emoji_id": "5431767670926110719"
+  },
+  {
+    "name": "gold",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/gold.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/gold.webp",
+    "custom_emoji_id": "5431771987368239804"
+  },
+  {
+    "name": "candy_cane",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/candy_cane.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/candy_cane.webp",
+    "custom_emoji_id": "5431776346760045394"
+  },
+  {
+    "name": "green_lantern",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/green_lantern.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/green_lantern.webp",
+    "custom_emoji_id": "5431788230934556181"
+  },
+  {
+    "name": "obsidian",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/obsidian.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/obsidian.webp",
+    "custom_emoji_id": "5431794170874323924"
+  },
+  {
+    "name": "titanium",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/titanium.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/titanium.webp",
+    "custom_emoji_id": "5431805934789749263"
+  },
+  {
+    "name": "blued_steel",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/blued_steel.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/blued_steel.webp",
+    "custom_emoji_id": "5431806892567457777"
+  },
+  {
+    "name": "christmas",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/christmas.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/christmas.webp",
+    "custom_emoji_id": "5431829333771578320"
+  },
+  {
+    "name": "sapphire",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/sapphire.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/sapphire.webp",
+    "custom_emoji_id": "5431832477687638107"
+  },
+  {
+    "name": "green_rose",
+    "rarity_permille": 3.2,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/green_rose.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/green_rose.webp",
+    "custom_emoji_id": "5431836149884674128"
+  },
+  {
+    "name": "golden_pearl",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/golden_pearl.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/golden_pearl.webp",
+    "custom_emoji_id": "5431856709893122431"
+  },
+  {
+    "name": "dirt_diamond",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/dirt_diamond.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/dirt_diamond.webp",
+    "custom_emoji_id": "5431879340075804233"
+  },
+  {
+    "name": "black_opal",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/black_opal.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/black_opal.webp",
+    "custom_emoji_id": "5431890713149202734"
+  },
+  {
+    "name": "ring_of_power",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/ring_of_power.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/ring_of_power.webp",
+    "custom_emoji_id": "5431891202775475831"
+  },
+  {
+    "name": "crypto_boom",
+    "rarity_permille": 0.8,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/crypto_boom.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/crypto_boom.webp",
+    "custom_emoji_id": "5433670994273263862"
+  },
+  {
+    "name": "liberty",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/liberty.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/liberty.webp",
+    "custom_emoji_id": "5433683647246917783"
+  },
+  {
+    "name": "ice_queen",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/ice_queen.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/ice_queen.webp",
+    "custom_emoji_id": "5433708588122004791"
+  },
+  {
+    "name": "mandarin",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/mandarin.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/mandarin.webp",
+    "custom_emoji_id": "5433829710494719069"
+  },
+  {
+    "name": "yin-yang",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/yin-yang.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/yin-yang.webp",
+    "custom_emoji_id": "5433861115295589359"
+  },
+  {
+    "name": "utya",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/utya.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/utya.webp",
+    "custom_emoji_id": "5433861493252708173"
+  },
+  {
+    "name": "symbolic",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/symbolic.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/symbolic.webp",
+    "custom_emoji_id": "5433968944744521827"
+  },
+  {
+    "name": "little_star",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/little_star.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/little_star.webp",
+    "custom_emoji_id": "5433998923616248181"
+  },
+  {
+    "name": "onyx_demon",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/onyx_demon.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/onyx_demon.webp",
+    "custom_emoji_id": "5434017164342353231"
+  },
+  {
+    "name": "tony_stark",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/tony_stark.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/tony_stark.webp",
+    "custom_emoji_id": "5434067282315737401"
+  },
+  {
+    "name": "nyan_cat",
+    "rarity_permille": 1.2,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/nyan_cat.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/nyan_cat.webp",
+    "custom_emoji_id": "5434095886797922125"
+  },
+  {
+    "name": "emerald",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/signet_ring/emerald.tgs",
+    "webp_path": "TG_Photos_repo/models/signet_ring/emerald.webp",
+    "custom_emoji_id": "5434101938406844432"
+  }
+]
