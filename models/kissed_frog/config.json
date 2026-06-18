@@ -1,0 +1,352 @@
+[
+  {
+    "name": "peach",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/peach.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/peach.webp",
+    "custom_emoji_id": "5395764501977000312"
+  },
+  {
+    "name": "brownie",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/brownie.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/brownie.webp",
+    "custom_emoji_id": "5395704217816035384"
+  },
+  {
+    "name": "banana_pox",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/banana_pox.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/banana_pox.webp",
+    "custom_emoji_id": "5395561856830038316"
+  },
+  {
+    "name": "starry_night",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/starry_night.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/starry_night.webp",
+    "custom_emoji_id": "5397712553113574392"
+  },
+  {
+    "name": "ramune",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/ramune.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/ramune.webp",
+    "custom_emoji_id": "5400081493865307795"
+  },
+  {
+    "name": "minty_bloom",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/minty_bloom.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/minty_bloom.webp",
+    "custom_emoji_id": "5400148211887269564"
+  },
+  {
+    "name": "hopberry",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/hopberry.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/hopberry.webp",
+    "custom_emoji_id": "5413587443729325708"
+  },
+  {
+    "name": "tree_frog",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/tree_frog.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/tree_frog.webp",
+    "custom_emoji_id": "5418338244494389952"
+  },
+  {
+    "name": "zodiak_croak",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/zodiak_croak.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/zodiak_croak.webp",
+    "custom_emoji_id": "5422497808651409628"
+  },
+  {
+    "name": "brewtoad",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/brewtoad.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/brewtoad.webp",
+    "custom_emoji_id": "5427123737537306936"
+  },
+  {
+    "name": "sweet_dream",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/sweet_dream.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/sweet_dream.webp",
+    "custom_emoji_id": "5431611024878887001"
+  },
+  {
+    "name": "puddles",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/puddles.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/puddles.webp",
+    "custom_emoji_id": "5434078105633314816"
+  },
+  {
+    "name": "frogwave",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/frogwave.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/frogwave.webp",
+    "custom_emoji_id": "5395862148058475082"
+  },
+  {
+    "name": "tide_pod",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/tide_pod.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/tide_pod.webp",
+    "custom_emoji_id": "5397884489244372530"
+  },
+  {
+    "name": "bronze",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/bronze.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/bronze.webp",
+    "custom_emoji_id": "5397614305736679400"
+  },
+  {
+    "name": "ectobloom",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/ectobloom.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/ectobloom.webp",
+    "custom_emoji_id": "5400033514785629380"
+  },
+  {
+    "name": "lemon_drop",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/lemon_drop.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/lemon_drop.webp",
+    "custom_emoji_id": "5399882735663735736"
+  },
+  {
+    "name": "boingo",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/boingo.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/boingo.webp",
+    "custom_emoji_id": "5406893243277272765"
+  },
+  {
+    "name": "ms._toad",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/ms._toad.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/ms._toad.webp",
+    "custom_emoji_id": "5413818427070504499"
+  },
+  {
+    "name": "count_croakula",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/count_croakula.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/count_croakula.webp",
+    "custom_emoji_id": "5416131365743650867"
+  },
+  {
+    "name": "icefrog",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/icefrog.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/icefrog.webp",
+    "custom_emoji_id": "5429592373069898945"
+  },
+  {
+    "name": "sky_leaper",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/sky_leaper.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/sky_leaper.webp",
+    "custom_emoji_id": "5395471336099308503"
+  },
+  {
+    "name": "sarutoad",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/sarutoad.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/sarutoad.webp",
+    "custom_emoji_id": "5400244028312676261"
+  },
+  {
+    "name": "melty_butter",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/melty_butter.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/melty_butter.webp",
+    "custom_emoji_id": "5418183660031469744"
+  },
+  {
+    "name": "tesla_frog",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/tesla_frog.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/tesla_frog.webp",
+    "custom_emoji_id": "5418206058285916467"
+  },
+  {
+    "name": "happy_pepe",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/happy_pepe.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/happy_pepe.webp",
+    "custom_emoji_id": "5431671038456916397"
+  },
+  {
+    "name": "silver",
+    "rarity_permille": 2.0,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/silver.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/silver.webp",
+    "custom_emoji_id": "5397613717326161706"
+  },
+  {
+    "name": "duskhopper",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/duskhopper.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/duskhopper.webp",
+    "custom_emoji_id": "5400110858556693819"
+  },
+  {
+    "name": "lava_leap",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/lava_leap.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/lava_leap.webp",
+    "custom_emoji_id": "5429375790754065543"
+  },
+  {
+    "name": "frogmaid",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/frogmaid.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/frogmaid.webp",
+    "custom_emoji_id": "5431706261483711323"
+  },
+  {
+    "name": "toadberry",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/toadberry.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/toadberry.webp",
+    "custom_emoji_id": "5395719056928040777"
+  },
+  {
+    "name": "void_hopper",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/void_hopper.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/void_hopper.webp",
+    "custom_emoji_id": "5400174784849927955"
+  },
+  {
+    "name": "desert_frog",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/desert_frog.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/desert_frog.webp",
+    "custom_emoji_id": "5409289770603929958"
+  },
+  {
+    "name": "prince_ribbit",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/prince_ribbit.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/prince_ribbit.webp",
+    "custom_emoji_id": "5413344430184754556"
+  },
+  {
+    "name": "lilie_pond",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/lilie_pond.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/lilie_pond.webp",
+    "custom_emoji_id": "5422623316185737711"
+  },
+  {
+    "name": "honeyhop",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/honeyhop.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/honeyhop.webp",
+    "custom_emoji_id": "5429298434098094399"
+  },
+  {
+    "name": "sea_breeze",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/sea_breeze.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/sea_breeze.webp",
+    "custom_emoji_id": "5398010112742810913"
+  },
+  {
+    "name": "frogtart",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/frogtart.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/frogtart.webp",
+    "custom_emoji_id": "5400193493727471162"
+  },
+  {
+    "name": "poison",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/poison.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/poison.webp",
+    "custom_emoji_id": "5399988280190068467"
+  },
+  {
+    "name": "lucifrog",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/lucifrog.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/lucifrog.webp",
+    "custom_emoji_id": "5429133322670335508"
+  },
+  {
+    "name": "cranberry",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/cranberry.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/cranberry.webp",
+    "custom_emoji_id": "5397909657752721226"
+  },
+  {
+    "name": "pond_fairy",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/pond_fairy.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/pond_fairy.webp",
+    "custom_emoji_id": "5402099913746050915"
+  },
+  {
+    "name": "cupid",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/cupid.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/cupid.webp",
+    "custom_emoji_id": "5411274247358143530"
+  },
+  {
+    "name": "melon",
+    "rarity_permille": 3.0,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/melon.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/melon.webp",
+    "custom_emoji_id": "5400291242888160110"
+  },
+  {
+    "name": "lily_pond",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/lily_pond.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/lily_pond.webp",
+    "custom_emoji_id": "5397581432056994384"
+  },
+  {
+    "name": "rocky_hopper",
+    "rarity_permille": 0.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/rocky_hopper.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/rocky_hopper.webp",
+    "custom_emoji_id": "5420499390433357470"
+  },
+  {
+    "name": "toadstool",
+    "rarity_permille": 1.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/toadstool.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/toadstool.webp",
+    "custom_emoji_id": "5411466520159084129"
+  },
+  {
+    "name": "ectofrog",
+    "rarity_permille": 2.5,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/ectofrog.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/ectofrog.webp",
+    "custom_emoji_id": "5400359893645420272"
+  },
+  {
+    "name": "trixie",
+    "rarity_permille": 1.0,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/trixie.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/trixie.webp",
+    "custom_emoji_id": "5429466221290481288"
+  },
+  {
+    "name": "lemon_juice",
+    "rarity_permille": 4.0,
+    "tgs_path": "TG_Photos_repo/models/kissed_frog/lemon_juice.tgs",
+    "webp_path": "TG_Photos_repo/models/kissed_frog/lemon_juice.webp",
+    "custom_emoji_id": "5397896059886265136"
+  }
+]
