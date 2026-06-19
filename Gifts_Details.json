@@ -1,1519 +1,1374 @@
 {
-  "upgraded": [
-    {
-      "full_name": "Artisan Brick",
-      "short_name": "artisan_brick",
-      "regular_id": "6005797617768858105",
-      "floor_price_ton": 51.44,
-      "models": [],
-      "portal_price_ton": 51.44,
-      "getgems_price_ton": 59.0,
-      "tgmrkt_price_ton": 49.47,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Astral Shard",
-      "short_name": "astral_shard",
-      "regular_id": "5933629604416717361",
-      "floor_price_ton": 118.43,
-      "models": [],
-      "portal_price_ton": 118.43,
-      "getgems_price_ton": 128.0,
-      "tgmrkt_price_ton": 112.59,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "B-Day Candle",
-      "short_name": "bday_candle",
-      "regular_id": "5782984811920491178",
-      "floor_price_ton": 3.37,
-      "models": [],
-      "portal_price_ton": 3.37,
-      "getgems_price_ton": 3.37,
-      "tgmrkt_price_ton": 3.49,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Berry Box",
-      "short_name": "berry_box",
-      "regular_id": "5882252952218894938",
-      "floor_price_ton": 6.46,
-      "models": [],
-      "portal_price_ton": 6.46,
-      "getgems_price_ton": 6.0,
-      "tgmrkt_price_ton": 6.19,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Big Year",
-      "short_name": "big_year",
-      "regular_id": "6028283532500009446",
-      "floor_price_ton": 2.54,
-      "models": [],
-      "portal_price_ton": 2.54,
-      "getgems_price_ton": 2.78,
-      "tgmrkt_price_ton": 2.53,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Bling Binky",
-      "short_name": "bling_binky",
-      "regular_id": "5902339509239940491",
-      "floor_price_ton": 19.08,
-      "models": [],
-      "portal_price_ton": 19.08,
-      "getgems_price_ton": 19.08,
-      "tgmrkt_price_ton": 18.94,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Bonded Ring",
-      "short_name": "bonded_ring",
-      "regular_id": "5870661333703197240",
-      "floor_price_ton": 33.59,
-      "models": [],
-      "portal_price_ton": 33.59,
-      "getgems_price_ton": 33.99,
-      "tgmrkt_price_ton": 31.99,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Bow Tie",
-      "short_name": "bow_tie",
-      "regular_id": "5895544372761461960",
-      "floor_price_ton": 3.9,
-      "models": [],
-      "portal_price_ton": 3.9,
-      "getgems_price_ton": 3.99,
-      "tgmrkt_price_ton": 3.72,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Bunny Muffin",
-      "short_name": "bunny_muffin",
-      "regular_id": "5935936766358847989",
-      "floor_price_ton": 5.87,
-      "models": [],
-      "portal_price_ton": 5.87,
-      "getgems_price_ton": 6.0,
-      "tgmrkt_price_ton": 5.78,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Candy Cane",
-      "short_name": "candy_cane",
-      "regular_id": "6003373314888696650",
-      "floor_price_ton": 2.44,
-      "models": [],
-      "portal_price_ton": 2.44,
-      "getgems_price_ton": 2.59,
-      "tgmrkt_price_ton": 2.47,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Clover Pin",
-      "short_name": "clover_pin",
-      "regular_id": "5960747083030856414",
-      "floor_price_ton": 3.89,
-      "models": [],
-      "portal_price_ton": 3.89,
-      "getgems_price_ton": 3.89,
-      "tgmrkt_price_ton": 3.97,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Cookie Heart",
-      "short_name": "cookie_heart",
-      "regular_id": "6001538689543439169",
-      "floor_price_ton": 3.29,
-      "models": [],
-      "portal_price_ton": 3.29,
-      "getgems_price_ton": 3.39,
-      "tgmrkt_price_ton": 3.44,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Crystal Ball",
-      "short_name": "crystal_ball",
-      "regular_id": "5841336413697606412",
-      "floor_price_ton": 9.6,
-      "models": [],
-      "portal_price_ton": 9.6,
-      "getgems_price_ton": 9.6,
-      "tgmrkt_price_ton": 9.32,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Cupid Charm",
-      "short_name": "cupid_charm",
-      "regular_id": "5868561433997870501",
-      "floor_price_ton": 17,
-      "models": [],
-      "portal_price_ton": 17.0,
-      "getgems_price_ton": 17.0,
-      "tgmrkt_price_ton": 16.88,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Desk Calendar",
-      "short_name": "desk_calendar",
-      "regular_id": "5782988952268964995",
-      "floor_price_ton": 4.22,
-      "models": [],
-      "portal_price_ton": 4.22,
-      "getgems_price_ton": 4.2,
-      "tgmrkt_price_ton": 4.01,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Diamond Ring",
-      "short_name": "diamond_ring",
-      "regular_id": "5868503709637411929",
-      "floor_price_ton": 23.39,
-      "models": [],
-      "portal_price_ton": 23.39,
-      "getgems_price_ton": 23.39,
-      "tgmrkt_price_ton": 22.94,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Durov’s Cap",
-      "short_name": "durovs_cap",
-      "regular_id": "5915521180483191380",
-      "floor_price_ton": null,
-      "models": [],
-      "portal_price_ton": null,
-      "getgems_price_ton": null,
-      "tgmrkt_price_ton": null,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Easter Egg",
-      "short_name": "easter_egg",
-      "regular_id": "5773668482394620318",
-      "floor_price_ton": 2.79,
-      "models": [],
-      "portal_price_ton": 2.79,
-      "getgems_price_ton": 3.0,
-      "tgmrkt_price_ton": 2.85,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Electric Skull",
-      "short_name": "electric_skull",
-      "regular_id": "5846192273657692751",
-      "floor_price_ton": 20.75,
-      "models": [],
-      "portal_price_ton": 20.75,
-      "getgems_price_ton": 20.75,
-      "tgmrkt_price_ton": 21.09,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Eternal Candle",
-      "short_name": "eternal_candle",
-      "regular_id": "5821205665758053411",
-      "floor_price_ton": 4.44,
-      "models": [],
-      "portal_price_ton": 4.44,
-      "getgems_price_ton": 4.54,
-      "tgmrkt_price_ton": 4.2,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Eternal Rose",
-      "short_name": "eternal_rose",
-      "regular_id": "5882125812596999035",
-      "floor_price_ton": 20,
-      "models": [],
-      "portal_price_ton": 20.0,
-      "getgems_price_ton": 20.0,
-      "tgmrkt_price_ton": 19.2,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Evil Eye",
-      "short_name": "evil_eye",
-      "regular_id": "5825480571261813595",
-      "floor_price_ton": 5.8,
-      "models": [],
-      "portal_price_ton": 5.8,
-      "getgems_price_ton": 5.8,
-      "tgmrkt_price_ton": 5.65,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Faith Amulet",
-      "short_name": "faith_amulet",
-      "regular_id": "6003456431095808759",
-      "floor_price_ton": 3.71,
-      "models": [],
-      "portal_price_ton": 3.71,
-      "getgems_price_ton": 4.19,
-      "tgmrkt_price_ton": 3.94,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Flying Broom",
-      "short_name": "flying_broom",
-      "regular_id": "5837063436634161765",
-      "floor_price_ton": 8.8,
-      "models": [],
-      "portal_price_ton": 8.8,
-      "getgems_price_ton": 8.8,
-      "tgmrkt_price_ton": 8.41,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Fresh Socks",
-      "short_name": "fresh_socks",
-      "regular_id": "5895603153683874485",
-      "floor_price_ton": 3.2,
-      "models": [],
-      "portal_price_ton": 3.2,
-      "getgems_price_ton": 3.18,
-      "tgmrkt_price_ton": 3.08,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Gem Signet",
-      "short_name": "gem_signet",
-      "regular_id": "5859442703032386168",
-      "floor_price_ton": 51.12,
-      "models": [],
-      "portal_price_ton": 51.12,
-      "getgems_price_ton": 51.8,
-      "tgmrkt_price_ton": 48.49,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Genie Lamp",
-      "short_name": "genie_lamp",
-      "regular_id": "5933531623327795414",
-      "floor_price_ton": 30.75,
-      "models": [],
-      "portal_price_ton": 30.75,
-      "getgems_price_ton": 33.0,
-      "tgmrkt_price_ton": 29.28,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Ginger Cookie",
-      "short_name": "ginger_cookie",
-      "regular_id": "5983484377902875708",
-      "floor_price_ton": 3,
-      "models": [],
-      "portal_price_ton": 3.0,
-      "getgems_price_ton": 3.0,
-      "tgmrkt_price_ton": 2.95,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Hanging Star",
-      "short_name": "hanging_star",
-      "regular_id": "5915733223018594841",
-      "floor_price_ton": 6.36,
-      "models": [],
-      "portal_price_ton": 6.36,
-      "getgems_price_ton": 6.75,
-      "tgmrkt_price_ton": 6.33,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Happy Brownie",
-      "short_name": "happy_brownie",
-      "regular_id": "6006064678835323371",
-      "floor_price_ton": 3,
-      "models": [],
-      "portal_price_ton": 3.0,
-      "getgems_price_ton": 3.0,
-      "tgmrkt_price_ton": 3.08,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Heart Locket",
-      "short_name": "heart_locket",
-      "regular_id": "5868455043362980631",
-      "floor_price_ton": 1002.67,
-      "models": [],
-      "portal_price_ton": 1002.67,
-      "getgems_price_ton": 1111.0,
-      "tgmrkt_price_ton": 954.89,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Heroic Helmet",
-      "short_name": "heroic_helmet",
-      "regular_id": "5895328365971244193",
-      "floor_price_ton": 161.7,
-      "models": [],
-      "portal_price_ton": 161.7,
-      "getgems_price_ton": 169.0,
-      "tgmrkt_price_ton": 154.58,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Hex Pot",
-      "short_name": "hex_pot",
-      "regular_id": "5825801628657124140",
-      "floor_price_ton": 3.1,
-      "models": [],
-      "portal_price_ton": 3.1,
-      "getgems_price_ton": 3.1,
-      "tgmrkt_price_ton": 3.2,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Holiday Drink",
-      "short_name": "holiday_drink",
-      "regular_id": "6003735372041814769",
-      "floor_price_ton": 2.65,
-      "models": [],
-      "portal_price_ton": 2.65,
-      "getgems_price_ton": 2.89,
-      "tgmrkt_price_ton": 2.7,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Homemade Cake",
-      "short_name": "homemade_cake",
-      "regular_id": "5783075783622787539",
-      "floor_price_ton": 3.5,
-      "models": [],
-      "portal_price_ton": 3.5,
-      "getgems_price_ton": 3.65,
-      "tgmrkt_price_ton": 3.87,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Hypno Lollipop",
-      "short_name": "hypno_lollipop",
-      "regular_id": "5825895989088617224",
-      "floor_price_ton": 2.75,
-      "models": [],
-      "portal_price_ton": 2.75,
-      "getgems_price_ton": 2.75,
-      "tgmrkt_price_ton": 2.87,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Ice Cream",
-      "short_name": "ice_cream",
-      "regular_id": "5900177027566142759",
-      "floor_price_ton": 2.63,
-      "models": [],
-      "portal_price_ton": 2.63,
-      "getgems_price_ton": 2.8,
-      "tgmrkt_price_ton": 2.63,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Input Key",
-      "short_name": "input_key",
-      "regular_id": "5870972044522291836",
-      "floor_price_ton": 4.24,
-      "models": [],
-      "portal_price_ton": 4.24,
-      "getgems_price_ton": 4.48,
-      "tgmrkt_price_ton": 4.39,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Instant Ramen",
-      "short_name": "instant_ramen",
-      "regular_id": "6005564615793050414",
-      "floor_price_ton": 2.49,
-      "models": [],
-      "portal_price_ton": 2.49,
-      "getgems_price_ton": 2.7,
-      "tgmrkt_price_ton": 2.65,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Ion Gem",
-      "short_name": "ion_gem",
-      "regular_id": "5843762284240831056",
-      "floor_price_ton": 56.91,
-      "models": [],
-      "portal_price_ton": 56.91,
-      "getgems_price_ton": 63.0,
-      "tgmrkt_price_ton": 54.22,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Ionic Dryer",
-      "short_name": "ionic_dryer",
-      "regular_id": "5933937398953018107",
-      "floor_price_ton": 11.23,
-      "models": [],
-      "portal_price_ton": 11.23,
-      "getgems_price_ton": 11.5,
-      "tgmrkt_price_ton": 10.72,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Jack-in-the-Box",
-      "short_name": "jackinthebox",
-      "regular_id": "6005659564635063386",
-      "floor_price_ton": 3,
-      "models": [],
-      "portal_price_ton": 3.0,
-      "getgems_price_ton": 3.0,
-      "tgmrkt_price_ton": 2.96,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Jelly Bunny",
-      "short_name": "jelly_bunny",
-      "regular_id": "5915502858152706668",
-      "floor_price_ton": 5.72,
-      "models": [],
-      "portal_price_ton": 5.72,
-      "getgems_price_ton": 5.72,
-      "tgmrkt_price_ton": 5.64,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Jester Hat",
-      "short_name": "jester_hat",
-      "regular_id": "5933590374185435592",
-      "floor_price_ton": 2.97,
-      "models": [],
-      "portal_price_ton": 2.97,
-      "getgems_price_ton": 2.97,
-      "tgmrkt_price_ton": 2.94,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Jingle Bells",
-      "short_name": "jingle_bells",
-      "regular_id": "6001473264306619020",
-      "floor_price_ton": 5.68,
-      "models": [],
-      "portal_price_ton": 5.68,
-      "getgems_price_ton": 5.68,
-      "tgmrkt_price_ton": 5.6,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Jolly Chimp",
-      "short_name": "jolly_chimp",
-      "regular_id": "6005880141270483700",
-      "floor_price_ton": 5.99,
-      "models": [],
-      "portal_price_ton": 5.99,
-      "getgems_price_ton": 5.99,
-      "tgmrkt_price_ton": 5.86,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Joyful Bundle",
-      "short_name": "joyful_bundle",
-      "regular_id": "5870862540036113469",
-      "floor_price_ton": 5.75,
-      "models": [],
-      "portal_price_ton": 5.75,
-      "getgems_price_ton": 5.9,
-      "tgmrkt_price_ton": 5.62,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Khabib’s Papakha",
-      "short_name": "khabibs_papakha",
-      "regular_id": "5839094187366024301",
-      "floor_price_ton": null,
-      "models": [],
-      "portal_price_ton": null,
-      "getgems_price_ton": null,
-      "tgmrkt_price_ton": null,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Kissed Frog",
-      "short_name": "kissed_frog",
-      "regular_id": "5845776576658015084",
-      "floor_price_ton": 37,
-      "models": [],
-      "portal_price_ton": 37.0,
-      "getgems_price_ton": 37.37,
-      "tgmrkt_price_ton": 35.5,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Light Sword",
-      "short_name": "light_sword",
-      "regular_id": "5897581235231785485",
-      "floor_price_ton": 5.24,
-      "models": [],
-      "portal_price_ton": 5.24,
-      "getgems_price_ton": 5.6,
-      "tgmrkt_price_ton": 5.44,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Lol Pop",
-      "short_name": "lol_pop",
-      "regular_id": "5170594532177215681",
-      "floor_price_ton": 2.54,
-      "models": [],
-      "portal_price_ton": 2.54,
-      "getgems_price_ton": 2.83,
-      "tgmrkt_price_ton": 2.65,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Loot Bag",
-      "short_name": "loot_bag",
-      "regular_id": "5868659926187901653",
-      "floor_price_ton": 93,
-      "models": [],
-      "portal_price_ton": 93.0,
-      "getgems_price_ton": 92.99,
-      "tgmrkt_price_ton": 91.5,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Love Candle",
-      "short_name": "love_candle",
-      "regular_id": "5915550639663874519",
-      "floor_price_ton": 7.27,
-      "models": [],
-      "portal_price_ton": 7.27,
-      "getgems_price_ton": 7.269,
-      "tgmrkt_price_ton": 6.95,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Love Potion",
-      "short_name": "love_potion",
-      "regular_id": "5868348541058942091",
-      "floor_price_ton": 11.5,
-      "models": [],
-      "portal_price_ton": 11.5,
-      "getgems_price_ton": 11.5,
-      "tgmrkt_price_ton": 11.25,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Low Rider",
-      "short_name": "low_rider",
-      "regular_id": "6014675319464657779",
-      "floor_price_ton": 38.97,
-      "models": [],
-      "portal_price_ton": 38.97,
-      "getgems_price_ton": 38.97,
-      "tgmrkt_price_ton": 38.4615,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Lunar Snake",
-      "short_name": "lunar_snake",
-      "regular_id": "6028426950047957932",
-      "floor_price_ton": 2.33,
-      "models": [],
-      "portal_price_ton": 2.33,
-      "getgems_price_ton": 2.8,
-      "tgmrkt_price_ton": 2.47,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Lush Bouquet",
-      "short_name": "lush_bouquet",
-      "regular_id": "5871002671934079382",
-      "floor_price_ton": 4.42,
-      "models": [],
-      "portal_price_ton": 4.42,
-      "getgems_price_ton": 4.7,
-      "tgmrkt_price_ton": 4.17,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Mad Pumpkin",
-      "short_name": "mad_pumpkin",
-      "regular_id": "5841632504448025405",
-      "floor_price_ton": 9.23,
-      "models": [],
-      "portal_price_ton": 9.23,
-      "getgems_price_ton": 9.5,
-      "tgmrkt_price_ton": 8.81,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Magic Potion",
-      "short_name": "magic_potion",
-      "regular_id": "5846226946928673709",
-      "floor_price_ton": 45.45,
-      "models": [],
-      "portal_price_ton": 45.45,
-      "getgems_price_ton": 45.45,
-      "tgmrkt_price_ton": 43.57,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Mighty Arm",
-      "short_name": "mighty_arm",
-      "regular_id": "5895518353849582541",
-      "floor_price_ton": 100.59,
-      "models": [],
-      "portal_price_ton": 100.59,
-      "getgems_price_ton": 125.0,
-      "tgmrkt_price_ton": 95.78,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Mini Oscar",
-      "short_name": "mini_oscar",
-      "regular_id": "5879737836550226478",
-      "floor_price_ton": 60.12,
-      "models": [],
-      "portal_price_ton": 60.12,
-      "getgems_price_ton": 64.99,
-      "tgmrkt_price_ton": 57.21,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Money Pot",
-      "short_name": "money_pot",
-      "regular_id": "5963238670868677492",
-      "floor_price_ton": 3,
-      "models": [],
-      "portal_price_ton": 3.0,
-      "getgems_price_ton": 3.24,
-      "tgmrkt_price_ton": 3.1,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Moon Pendant",
-      "short_name": "moon_pendant",
-      "regular_id": "5998981470310368313",
-      "floor_price_ton": 4.56,
-      "models": [],
-      "portal_price_ton": 4.56,
-      "getgems_price_ton": 4.93,
-      "tgmrkt_price_ton": 4.54,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Mousse Cake",
-      "short_name": "mousse_cake",
-      "regular_id": "5935877878062253519",
-      "floor_price_ton": 3.39,
-      "models": [],
-      "portal_price_ton": 3.39,
-      "getgems_price_ton": 3.96,
-      "tgmrkt_price_ton": 3.54,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Nail Bracelet",
-      "short_name": "nail_bracelet",
-      "regular_id": "5870720080265871962",
-      "floor_price_ton": 86.09,
-      "models": [],
-      "portal_price_ton": 86.09,
-      "getgems_price_ton": 90.0,
-      "tgmrkt_price_ton": 81.99,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Neko Helmet",
-      "short_name": "neko_helmet",
-      "regular_id": "5933793770951673155",
-      "floor_price_ton": 28,
-      "models": [],
-      "portal_price_ton": 28.0,
-      "getgems_price_ton": 28.0,
-      "tgmrkt_price_ton": 27.99,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Party Sparkler",
-      "short_name": "party_sparkler",
-      "regular_id": "6003643167683903930",
-      "floor_price_ton": 2.76,
-      "models": [],
-      "portal_price_ton": 2.76,
-      "getgems_price_ton": 3.0,
-      "tgmrkt_price_ton": 2.89,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Perfume Bottle",
-      "short_name": "perfume_bottle",
-      "regular_id": "5913517067138499193",
-      "floor_price_ton": 59.62,
-      "models": [],
-      "portal_price_ton": 59.62,
-      "getgems_price_ton": 67.0,
-      "tgmrkt_price_ton": 56.75,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Pet Snake",
-      "short_name": "pet_snake",
-      "regular_id": "6023917088358269866",
-      "floor_price_ton": 2.6,
-      "models": [],
-      "portal_price_ton": 2.6,
-      "getgems_price_ton": 2.83,
-      "tgmrkt_price_ton": 2.78,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Plush Pepe",
-      "short_name": "plush_pepe",
-      "regular_id": "5936013938331222567",
-      "floor_price_ton": 4997,
-      "models": [],
-      "portal_price_ton": 4997.0,
-      "getgems_price_ton": 4949.0,
-      "tgmrkt_price_ton": 4989.99,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Precious Peach",
-      "short_name": "precious_peach",
-      "regular_id": "5933671725160989227",
-      "floor_price_ton": 249.9,
-      "models": [],
-      "portal_price_ton": 249.9,
-      "getgems_price_ton": 255.0,
-      "tgmrkt_price_ton": 239.0,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Pretty Posy",
-      "short_name": "pretty_posy",
-      "regular_id": "5933737850477478635",
-      "floor_price_ton": 3.51,
-      "models": [],
-      "portal_price_ton": 3.51,
-      "getgems_price_ton": 3.6744,
-      "tgmrkt_price_ton": 3.58,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Record Player",
-      "short_name": "record_player",
-      "regular_id": "5856973938650776169",
-      "floor_price_ton": 8.7,
-      "models": [],
-      "portal_price_ton": 8.7,
-      "getgems_price_ton": 8.7,
-      "tgmrkt_price_ton": 8.53,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Restless Jar",
-      "short_name": "restless_jar",
-      "regular_id": "5870784783948186838",
-      "floor_price_ton": 3.67,
-      "models": [],
-      "portal_price_ton": 3.67,
-      "getgems_price_ton": 3.95,
-      "tgmrkt_price_ton": 3.84,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Sakura Flower",
-      "short_name": "sakura_flower",
-      "regular_id": "5167939598143193218",
-      "floor_price_ton": 7.88,
-      "models": [],
-      "portal_price_ton": 7.88,
-      "getgems_price_ton": 7.88,
-      "tgmrkt_price_ton": 7.69,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Santa Hat",
-      "short_name": "santa_hat",
-      "regular_id": "5983471780763796287",
-      "floor_price_ton": 2.97,
-      "models": [],
-      "portal_price_ton": 2.97,
-      "getgems_price_ton": 3.35,
-      "tgmrkt_price_ton": 3.07,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Scared Cat",
-      "short_name": "scared_cat",
-      "regular_id": "5837059369300132790",
-      "floor_price_ton": 154.5,
-      "models": [],
-      "portal_price_ton": 154.5,
-      "getgems_price_ton": 154.5,
-      "tgmrkt_price_ton": 149.87,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Sharp Tongue",
-      "short_name": "sharp_tongue",
-      "regular_id": "5841689550203650524",
-      "floor_price_ton": 35.65,
-      "models": [],
-      "portal_price_ton": 35.65,
-      "getgems_price_ton": 37.0,
-      "tgmrkt_price_ton": 34.6,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Signet Ring",
-      "short_name": "signet_ring",
-      "regular_id": "5936085638515261992",
-      "floor_price_ton": 26.97,
-      "models": [],
-      "portal_price_ton": 26.97,
-      "getgems_price_ton": 27.48,
-      "tgmrkt_price_ton": 25.94,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Skull Flower",
-      "short_name": "skull_flower",
-      "regular_id": "5839038009193792264",
-      "floor_price_ton": 8.1,
-      "models": [],
-      "portal_price_ton": 8.1,
-      "getgems_price_ton": 8.1,
-      "tgmrkt_price_ton": 8.24,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Sky Stilettos",
-      "short_name": "sky_stilettos",
-      "regular_id": "5870947077877400011",
-      "floor_price_ton": 13.36,
-      "models": [],
-      "portal_price_ton": 13.36,
-      "getgems_price_ton": 13.56,
-      "tgmrkt_price_ton": 13.26,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Sleigh Bell",
-      "short_name": "sleigh_bell",
-      "regular_id": "5981026247860290310",
-      "floor_price_ton": 5.3,
-      "models": [],
-      "portal_price_ton": 5.3,
-      "getgems_price_ton": 5.299,
-      "tgmrkt_price_ton": 5.56,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Snake Box",
-      "short_name": "snake_box",
-      "regular_id": "6023679164349940429",
-      "floor_price_ton": 2.39,
-      "models": [],
-      "portal_price_ton": 2.39,
-      "getgems_price_ton": 2.69,
-      "tgmrkt_price_ton": 2.48,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Snoop Cigar",
-      "short_name": "snoop_cigar",
-      "regular_id": "6012435906336654262",
-      "floor_price_ton": 9.54,
-      "models": [],
-      "portal_price_ton": 9.54,
-      "getgems_price_ton": 9.76,
-      "tgmrkt_price_ton": 9.74,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Snoop Dogg",
-      "short_name": "snoop_dogg",
-      "regular_id": "6014591077976114307",
-      "floor_price_ton": 4.23,
-      "models": [],
-      "portal_price_ton": 4.23,
-      "getgems_price_ton": 4.59,
-      "tgmrkt_price_ton": 4.33,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Snow Globe",
-      "short_name": "snow_globe",
-      "regular_id": "5981132629905245483",
-      "floor_price_ton": 3.18,
-      "models": [],
-      "portal_price_ton": 3.18,
-      "getgems_price_ton": 3.8,
-      "tgmrkt_price_ton": 3.42,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Snow Mittens",
-      "short_name": "snow_mittens",
-      "regular_id": "5980789805615678057",
-      "floor_price_ton": 3.38,
-      "models": [],
-      "portal_price_ton": 3.38,
-      "getgems_price_ton": 3.5,
-      "tgmrkt_price_ton": 3.27,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Spiced Wine",
-      "short_name": "spiced_wine",
-      "regular_id": "5913442287462908725",
-      "floor_price_ton": 3.17,
-      "models": [],
-      "portal_price_ton": 3.17,
-      "getgems_price_ton": 3.29,
-      "tgmrkt_price_ton": 3.2,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Spring Basket",
-      "short_name": "spring_basket",
-      "regular_id": "5773725897517433693",
-      "floor_price_ton": 3.88,
-      "models": [],
-      "portal_price_ton": 3.88,
-      "getgems_price_ton": 4.65,
-      "tgmrkt_price_ton": 3.98,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Spy Agaric",
-      "short_name": "spy_agaric",
-      "regular_id": "5821261908354794038",
-      "floor_price_ton": 3.82,
-      "models": [],
-      "portal_price_ton": 3.82,
-      "getgems_price_ton": 4.4,
-      "tgmrkt_price_ton": 3.93,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Star Notepad",
-      "short_name": "star_notepad",
-      "regular_id": "5936017773737018241",
-      "floor_price_ton": 3.46,
-      "models": [],
-      "portal_price_ton": 3.46,
-      "getgems_price_ton": 3.59,
-      "tgmrkt_price_ton": 3.41,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Stellar Rocket",
-      "short_name": "stellar_rocket",
-      "regular_id": "6042113507581755979",
-      "floor_price_ton": 3.77,
-      "models": [],
-      "portal_price_ton": 3.77,
-      "getgems_price_ton": 3.8,
-      "tgmrkt_price_ton": 3.54,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Swag Bag",
-      "short_name": "swag_bag",
-      "regular_id": "6012607142387778152",
-      "floor_price_ton": 3.98,
-      "models": [],
-      "portal_price_ton": 3.98,
-      "getgems_price_ton": 3.98,
-      "tgmrkt_price_ton": 3.89,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Swiss Watch",
-      "short_name": "swiss_watch",
-      "regular_id": "5936043693864651359",
-      "floor_price_ton": 36.51,
-      "models": [],
-      "portal_price_ton": 36.51,
-      "getgems_price_ton": 36.51,
-      "tgmrkt_price_ton": 36.1,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Tama Gadget",
-      "short_name": "tama_gadget",
-      "regular_id": "6023752243218481939",
-      "floor_price_ton": 2.64,
-      "models": [],
-      "portal_price_ton": 2.64,
-      "getgems_price_ton": 3.0,
-      "tgmrkt_price_ton": 2.76,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Top Hat",
-      "short_name": "top_hat",
-      "regular_id": "5897593557492957738",
-      "floor_price_ton": 7.3,
-      "models": [],
-      "portal_price_ton": 7.3,
-      "getgems_price_ton": 7.3,
-      "tgmrkt_price_ton": 7.58,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Toy Bear",
-      "short_name": "toy_bear",
-      "regular_id": "5868220813026526561",
-      "floor_price_ton": 30,
-      "models": [],
-      "portal_price_ton": 30.0,
-      "getgems_price_ton": 31.1,
-      "tgmrkt_price_ton": 30.5,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Trapped Heart",
-      "short_name": "trapped_heart",
-      "regular_id": "5841391256135008713",
-      "floor_price_ton": 10.59,
-      "models": [],
-      "portal_price_ton": 10.59,
-      "getgems_price_ton": 10.89,
-      "tgmrkt_price_ton": 10.09,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "UFC Strike",
-      "short_name": "ufc_strike",
-      "regular_id": "5882260270843168924",
-      "floor_price_ton": 12.35,
-      "models": [],
-      "portal_price_ton": 12.35,
-      "getgems_price_ton": 12.35,
-      "tgmrkt_price_ton": 11.78,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Valentine Box",
-      "short_name": "valentine_box",
-      "regular_id": "5868595669182186720",
-      "floor_price_ton": 7.68,
-      "models": [],
-      "portal_price_ton": 7.68,
-      "getgems_price_ton": 7.69,
-      "tgmrkt_price_ton": 7.2,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Vintage Cigar",
-      "short_name": "vintage_cigar",
-      "regular_id": "5857140566201991735",
-      "floor_price_ton": 28,
-      "models": [],
-      "portal_price_ton": 28.0,
-      "getgems_price_ton": 28.08,
-      "tgmrkt_price_ton": 27.6,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Voodoo Doll",
-      "short_name": "voodoo_doll",
-      "regular_id": "5836780359634649414",
-      "floor_price_ton": 30,
-      "models": [],
-      "portal_price_ton": 30.0,
-      "getgems_price_ton": 30.0,
-      "tgmrkt_price_ton": 29.86,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Westside Sign",
-      "short_name": "westside_sign",
-      "regular_id": "6014697240977737490",
-      "floor_price_ton": 62.56,
-      "models": [],
-      "portal_price_ton": 62.56,
-      "getgems_price_ton": 63.98,
-      "tgmrkt_price_ton": 59.5,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Whip Cupcake",
-      "short_name": "whip_cupcake",
-      "regular_id": "5933543975653737112",
-      "floor_price_ton": 2.54,
-      "models": [],
-      "portal_price_ton": 2.54,
-      "getgems_price_ton": 2.61,
-      "tgmrkt_price_ton": 2.68,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Winter Wreath",
-      "short_name": "winter_wreath",
-      "regular_id": "5983259145522906006",
-      "floor_price_ton": 2.52,
-      "models": [],
-      "portal_price_ton": 2.52,
-      "getgems_price_ton": 2.65,
-      "tgmrkt_price_ton": 2.57,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Witch Hat",
-      "short_name": "witch_hat",
-      "regular_id": "5821384757304362229",
-      "floor_price_ton": 3.7,
-      "models": [],
-      "portal_price_ton": 3.7,
-      "getgems_price_ton": 3.79,
-      "tgmrkt_price_ton": 3.79,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Xmas Stocking",
-      "short_name": "xmas_stocking",
-      "regular_id": "6003767644426076664",
-      "floor_price_ton": 2.59,
-      "models": [],
-      "portal_price_ton": 2.59,
-      "getgems_price_ton": 2.679,
-      "tgmrkt_price_ton": 2.4453,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Upgraded Backpack",
-      "short_name": "upgraded_backpack",
-      "regular_id": "5886756255493523118",
-      "floor_price_ton": null,
-      "models": [],
-      "portal_price_ton": null,
-      "getgems_price_ton": null,
-      "tgmrkt_price_ton": null,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Timeless Book",
-      "short_name": "timeless_book",
-      "regular_id": "5886387158889005864",
-      "floor_price_ton": 3.18,
-      "models": [],
-      "portal_price_ton": 3.18,
-      "getgems_price_ton": 3.5,
-      "tgmrkt_price_ton": 3.27,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Vice Cream",
-      "short_name": "vice_cream",
-      "regular_id": "5898012527257715797",
-      "floor_price_ton": 2.4,
-      "models": [],
-      "portal_price_ton": 2.4,
-      "getgems_price_ton": 2.53,
-      "tgmrkt_price_ton": 2.48,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Upgraded Eagle",
-      "short_name": "upgraded_eagle",
-      "regular_id": "5999116401002939514",
-      "floor_price_ton": null,
-      "models": [],
-      "portal_price_ton": null,
-      "getgems_price_ton": null,
-      "tgmrkt_price_ton": null,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Victory Medal",
-      "short_name": "victory_medal",
-      "regular_id": "5830340739074097859",
-      "floor_price_ton": 3.7,
-      "models": [],
-      "portal_price_ton": 3.7,
-      "getgems_price_ton": 3.56,
-      "tgmrkt_price_ton": 3.46,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Pool Float",
-      "short_name": "pool_float",
-      "regular_id": "5832644211639321671",
-      "floor_price_ton": 2.64,
-      "models": [],
-      "portal_price_ton": 2.64,
-      "getgems_price_ton": 3.0,
-      "tgmrkt_price_ton": 2.9,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    },
-    {
-      "full_name": "Upgraded Torch",
-      "short_name": "upgraded_torch",
-      "regular_id": "5999277561060787166",
-      "floor_price_ton": null,
-      "models": [],
-      "portal_price_ton": null,
-      "getgems_price_ton": null,
-      "tgmrkt_price_ton": null,
-      "description": "A unique collectible NFT that can be collected, sold, or gifted to friends."
-    }
-  ],
-  "unupgraded": [
-    {
-      "full_name": "1 May",
-      "short_name": "may",
-      "id": "5807641025165919973",
-      "price_ton": null,
-      "description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars."
-    },
-    {
-      "full_name": "Airplane",
-      "short_name": "airplane",
-      "id": "5818708013426410448",
-      "price_ton": 5234.405,
-      "description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars."
-    },
-    {
-      "full_name": "Bird Mark",
-      "short_name": "bird_mark",
-      "id": "5832325860073407546",
-      "price_ton": null,
-      "description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars."
-    },
-    {
-      "full_name": "Case",
-      "short_name": "case",
-      "id": "5884080014126745057",
-      "price_ton": null,
-      "description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars."
-    },
-    {
-      "full_name": "Coconut Drink",
-      "short_name": "coconut_drink",
-      "id": "5832371318007268701",
-      "price_ton": null,
-      "description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars."
-    },
-    {
-      "full_name": "Coffin",
-      "short_name": "coffin",
-      "id": "5776227780391864916",
-      "price_ton": 17.7964,
-      "description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars."
-    },
-    {
-      "full_name": "Cream IceCream",
-      "short_name": "cream_icecream",
-      "id": "5897607679345427347",
-      "price_ton": null,
-      "description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars."
-    },
-    {
-      "full_name": "Durov Glasses",
-      "short_name": "durov_glasses",
-      "id": "5834651202612102354",
-      "price_ton": null,
-      "description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars."
-    },
-    {
-      "full_name": "Durov's Figurine",
-      "short_name": "durovs_figurine",
-      "id": "6003477390536213997",
-      "price_ton": null,
-      "description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars."
-    },
-    {
-      "full_name": "Easter Cake",
-      "short_name": "easter_cake",
-      "id": "5773791997064119815",
-      "price_ton": null,
-      "description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars."
-    },
-    {
-      "full_name": "Eight Roses",
-      "short_name": "eight_roses",
-      "id": "5933770397739647689",
-      "price_ton": null,
-      "description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars."
-    },
-    {
-      "full_name": "Gravestone",
-      "short_name": "gravestone",
-      "id": "5775955135867913556",
-      "price_ton": 41.8,
-      "description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars."
-    },
-    {
-      "full_name": "Heart Pendant",
-      "short_name": "heart_pendant",
-      "id": "5872744075014177223",
-      "price_ton": null,
-      "description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars."
-    },
-    {
-      "full_name": "Lamp Candle",
-      "short_name": "lamp_candle",
-      "id": "5913351908466098791",
-      "price_ton": null,
-      "description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars."
-    },
-    {
-      "full_name": "Mask",
-      "short_name": "mask",
-      "id": "5775966332847654507",
-      "price_ton": 5.8761,
-      "description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars."
-    },
-    {
-      "full_name": "Pencil",
-      "short_name": "pencil",
-      "id": "5882129648002794519",
-      "price_ton": null,
-      "description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars."
-    },
-    {
-      "full_name": "REDO",
-      "short_name": "redo",
-      "id": "5832279504491381684",
-      "price_ton": null,
-      "description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars."
-    },
-    {
-      "full_name": "Red Star",
-      "short_name": "red_star",
-      "id": "5830323722413671504",
-      "price_ton": null,
-      "description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars."
-    },
-    {
-      "full_name": "Sand Castle",
-      "short_name": "sand_castle",
-      "id": "5834918435477259676",
-      "price_ton": null,
-      "description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars."
-    },
-    {
-      "full_name": "Durov's Boots",
-      "short_name": "durovs_boots",
-      "id": "6001229799790478558",
-      "price_ton": null,
-      "description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars."
-    },
-    {
-      "full_name": "Statue",
-      "short_name": "statue",
-      "id": "5999298447486747746",
-      "price_ton": null,
-      "description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars."
-    },
-    {
-      "full_name": "Surfboard",
-      "short_name": "surfboard",
-      "id": "5832497899283415733",
-      "price_ton": null,
-      "description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars."
-    },
-    {
-      "full_name": "Durov's Coat",
-      "short_name": "durovs_coat",
-      "id": "6001425315291727333",
-      "price_ton": null,
-      "description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars."
-    },
-    {
-      "full_name": "Trojan Horse",
-      "short_name": "trojan_horse",
-      "id": "5956308547863052791",
-      "price_ton": 46.5025,
-      "description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars."
-    }
-  ],
-  "last_updated": 1781871772,
-  "regular_gifts": [
-    {
-      "full_name": "Gift 5170145012310081615",
-      "short_name": "gift_5170145012310081615",
-      "id": "5170145012310081615",
-      "price_stars": 15,
-      "emoji": "💝",
-      "description": "A regular gift you can send to your friends for a nominal price."
-    },
-    {
-      "full_name": "Gift 5170233102089322756",
-      "short_name": "gift_5170233102089322756",
-      "id": "5170233102089322756",
-      "price_stars": 15,
-      "emoji": "🧸",
-      "description": "A regular gift you can send to your friends for a nominal price."
-    },
-    {
-      "full_name": "Gift 5170250947678437525",
-      "short_name": "gift_5170250947678437525",
-      "id": "5170250947678437525",
-      "price_stars": 25,
-      "emoji": "🎁",
-      "description": "A regular gift you can send to your friends for a nominal price."
-    },
-    {
-      "full_name": "Gift 5168103777563050263",
-      "short_name": "gift_5168103777563050263",
-      "id": "5168103777563050263",
-      "price_stars": 25,
-      "emoji": "🌹",
-      "description": "A regular gift you can send to your friends for a nominal price."
-    },
-    {
-      "full_name": "Gift 5170144170496491616",
-      "short_name": "gift_5170144170496491616",
-      "id": "5170144170496491616",
-      "price_stars": 50,
-      "emoji": "🎂",
-      "description": "A regular gift you can send to your friends for a nominal price."
-    },
-    {
-      "full_name": "Gift 5170314324215857265",
-      "short_name": "gift_5170314324215857265",
-      "id": "5170314324215857265",
-      "price_stars": 50,
-      "emoji": "💐",
-      "description": "A regular gift you can send to your friends for a nominal price."
-    },
-    {
-      "full_name": "Gift 5170564780938756245",
-      "short_name": "gift_5170564780938756245",
-      "id": "5170564780938756245",
-      "price_stars": 50,
-      "emoji": "🚀",
-      "description": "A regular gift you can send to your friends for a nominal price."
-    },
-    {
-      "full_name": "Gift 5168043875654172773",
-      "short_name": "gift_5168043875654172773",
-      "id": "5168043875654172773",
-      "price_stars": 100,
-      "emoji": "🏆",
-      "description": "A regular gift you can send to your friends for a nominal price."
-    },
-    {
-      "full_name": "Gift 5170690322832818290",
-      "short_name": "gift_5170690322832818290",
-      "id": "5170690322832818290",
-      "price_stars": 100,
-      "emoji": "💍",
-      "description": "A regular gift you can send to your friends for a nominal price."
-    },
-    {
-      "full_name": "Gift 5170521118301225164",
-      "short_name": "gift_5170521118301225164",
-      "id": "5170521118301225164",
-      "price_stars": 100,
-      "emoji": "💎",
-      "description": "A regular gift you can send to your friends for a nominal price."
-    },
-    {
-      "full_name": "Gift 6028601630662853006",
-      "short_name": "gift_6028601630662853006",
-      "id": "6028601630662853006",
-      "price_stars": 50,
-      "emoji": "🍾",
-      "description": "A regular gift you can send to your friends for a nominal price."
-    }
-  ]
+    "upgraded": [
+        {
+            "full_name": "Artisan Brick",
+            "short_name": "artisan_brick",
+            "regular_id": "6005797617768858105",
+            "floor_price_ton": 51.44,
+            "models": [],
+            "portal_price_ton": 51.44,
+            "getgems_price_ton": 59.0,
+            "tgmrkt_price_ton": 49.47
+        },
+        {
+            "full_name": "Astral Shard",
+            "short_name": "astral_shard",
+            "regular_id": "5933629604416717361",
+            "floor_price_ton": 118.43,
+            "models": [],
+            "portal_price_ton": 118.43,
+            "getgems_price_ton": 128.0,
+            "tgmrkt_price_ton": 112.59
+        },
+        {
+            "full_name": "B-Day Candle",
+            "short_name": "bday_candle",
+            "regular_id": "5782984811920491178",
+            "floor_price_ton": 3.37,
+            "models": [],
+            "portal_price_ton": 3.37,
+            "getgems_price_ton": 3.37,
+            "tgmrkt_price_ton": 3.49
+        },
+        {
+            "full_name": "Berry Box",
+            "short_name": "berry_box",
+            "regular_id": "5882252952218894938",
+            "floor_price_ton": 6.46,
+            "models": [],
+            "portal_price_ton": 6.46,
+            "getgems_price_ton": 6.0,
+            "tgmrkt_price_ton": 6.19
+        },
+        {
+            "full_name": "Big Year",
+            "short_name": "big_year",
+            "regular_id": "6028283532500009446",
+            "floor_price_ton": 2.54,
+            "models": [],
+            "portal_price_ton": 2.54,
+            "getgems_price_ton": 2.78,
+            "tgmrkt_price_ton": 2.53
+        },
+        {
+            "full_name": "Bling Binky",
+            "short_name": "bling_binky",
+            "regular_id": "5902339509239940491",
+            "floor_price_ton": 19.08,
+            "models": [],
+            "portal_price_ton": 19.08,
+            "getgems_price_ton": 19.08,
+            "tgmrkt_price_ton": 18.94
+        },
+        {
+            "full_name": "Bonded Ring",
+            "short_name": "bonded_ring",
+            "regular_id": "5870661333703197240",
+            "floor_price_ton": 33.59,
+            "models": [],
+            "portal_price_ton": 33.59,
+            "getgems_price_ton": 33.99,
+            "tgmrkt_price_ton": 31.99
+        },
+        {
+            "full_name": "Bow Tie",
+            "short_name": "bow_tie",
+            "regular_id": "5895544372761461960",
+            "floor_price_ton": 3.9,
+            "models": [],
+            "portal_price_ton": 3.9,
+            "getgems_price_ton": 3.99,
+            "tgmrkt_price_ton": 3.72
+        },
+        {
+            "full_name": "Bunny Muffin",
+            "short_name": "bunny_muffin",
+            "regular_id": "5935936766358847989",
+            "floor_price_ton": 5.87,
+            "models": [],
+            "portal_price_ton": 5.87,
+            "getgems_price_ton": 6.0,
+            "tgmrkt_price_ton": 5.78
+        },
+        {
+            "full_name": "Candy Cane",
+            "short_name": "candy_cane",
+            "regular_id": "6003373314888696650",
+            "floor_price_ton": 2.44,
+            "models": [],
+            "portal_price_ton": 2.44,
+            "getgems_price_ton": 2.59,
+            "tgmrkt_price_ton": 2.47
+        },
+        {
+            "full_name": "Clover Pin",
+            "short_name": "clover_pin",
+            "regular_id": "5960747083030856414",
+            "floor_price_ton": 3.89,
+            "models": [],
+            "portal_price_ton": 3.89,
+            "getgems_price_ton": 3.89,
+            "tgmrkt_price_ton": 3.97
+        },
+        {
+            "full_name": "Cookie Heart",
+            "short_name": "cookie_heart",
+            "regular_id": "6001538689543439169",
+            "floor_price_ton": 3.29,
+            "models": [],
+            "portal_price_ton": 3.29,
+            "getgems_price_ton": 3.39,
+            "tgmrkt_price_ton": 3.44
+        },
+        {
+            "full_name": "Crystal Ball",
+            "short_name": "crystal_ball",
+            "regular_id": "5841336413697606412",
+            "floor_price_ton": 9.6,
+            "models": [],
+            "portal_price_ton": 9.6,
+            "getgems_price_ton": 9.6,
+            "tgmrkt_price_ton": 9.32
+        },
+        {
+            "full_name": "Cupid Charm",
+            "short_name": "cupid_charm",
+            "regular_id": "5868561433997870501",
+            "floor_price_ton": 17,
+            "models": [],
+            "portal_price_ton": 17.0,
+            "getgems_price_ton": 17.0,
+            "tgmrkt_price_ton": 16.88
+        },
+        {
+            "full_name": "Desk Calendar",
+            "short_name": "desk_calendar",
+            "regular_id": "5782988952268964995",
+            "floor_price_ton": 4.22,
+            "models": [],
+            "portal_price_ton": 4.22,
+            "getgems_price_ton": 4.2,
+            "tgmrkt_price_ton": 4.01
+        },
+        {
+            "full_name": "Diamond Ring",
+            "short_name": "diamond_ring",
+            "regular_id": "5868503709637411929",
+            "floor_price_ton": 23.39,
+            "models": [],
+            "portal_price_ton": 23.39,
+            "getgems_price_ton": 23.39,
+            "tgmrkt_price_ton": 22.94
+        },
+        {
+            "full_name": "Durov’s Cap",
+            "short_name": "durovs_cap",
+            "regular_id": "5915521180483191380",
+            "floor_price_ton": null,
+            "models": [],
+            "portal_price_ton": null,
+            "getgems_price_ton": null,
+            "tgmrkt_price_ton": null
+        },
+        {
+            "full_name": "Easter Egg",
+            "short_name": "easter_egg",
+            "regular_id": "5773668482394620318",
+            "floor_price_ton": 2.79,
+            "models": [],
+            "portal_price_ton": 2.79,
+            "getgems_price_ton": 3.0,
+            "tgmrkt_price_ton": 2.85
+        },
+        {
+            "full_name": "Electric Skull",
+            "short_name": "electric_skull",
+            "regular_id": "5846192273657692751",
+            "floor_price_ton": 20.75,
+            "models": [],
+            "portal_price_ton": 20.75,
+            "getgems_price_ton": 20.75,
+            "tgmrkt_price_ton": 21.09
+        },
+        {
+            "full_name": "Eternal Candle",
+            "short_name": "eternal_candle",
+            "regular_id": "5821205665758053411",
+            "floor_price_ton": 4.44,
+            "models": [],
+            "portal_price_ton": 4.44,
+            "getgems_price_ton": 4.54,
+            "tgmrkt_price_ton": 4.2
+        },
+        {
+            "full_name": "Eternal Rose",
+            "short_name": "eternal_rose",
+            "regular_id": "5882125812596999035",
+            "floor_price_ton": 20,
+            "models": [],
+            "portal_price_ton": 20.0,
+            "getgems_price_ton": 20.0,
+            "tgmrkt_price_ton": 19.2
+        },
+        {
+            "full_name": "Evil Eye",
+            "short_name": "evil_eye",
+            "regular_id": "5825480571261813595",
+            "floor_price_ton": 5.8,
+            "models": [],
+            "portal_price_ton": 5.8,
+            "getgems_price_ton": 5.8,
+            "tgmrkt_price_ton": 5.65
+        },
+        {
+            "full_name": "Faith Amulet",
+            "short_name": "faith_amulet",
+            "regular_id": "6003456431095808759",
+            "floor_price_ton": 3.71,
+            "models": [],
+            "portal_price_ton": 3.71,
+            "getgems_price_ton": 4.19,
+            "tgmrkt_price_ton": 3.94
+        },
+        {
+            "full_name": "Flying Broom",
+            "short_name": "flying_broom",
+            "regular_id": "5837063436634161765",
+            "floor_price_ton": 8.8,
+            "models": [],
+            "portal_price_ton": 8.8,
+            "getgems_price_ton": 8.8,
+            "tgmrkt_price_ton": 8.41
+        },
+        {
+            "full_name": "Fresh Socks",
+            "short_name": "fresh_socks",
+            "regular_id": "5895603153683874485",
+            "floor_price_ton": 3.2,
+            "models": [],
+            "portal_price_ton": 3.2,
+            "getgems_price_ton": 3.18,
+            "tgmrkt_price_ton": 3.08
+        },
+        {
+            "full_name": "Gem Signet",
+            "short_name": "gem_signet",
+            "regular_id": "5859442703032386168",
+            "floor_price_ton": 51.12,
+            "models": [],
+            "portal_price_ton": 51.12,
+            "getgems_price_ton": 51.8,
+            "tgmrkt_price_ton": 48.49
+        },
+        {
+            "full_name": "Genie Lamp",
+            "short_name": "genie_lamp",
+            "regular_id": "5933531623327795414",
+            "floor_price_ton": 30.75,
+            "models": [],
+            "portal_price_ton": 30.75,
+            "getgems_price_ton": 33.0,
+            "tgmrkt_price_ton": 29.28
+        },
+        {
+            "full_name": "Ginger Cookie",
+            "short_name": "ginger_cookie",
+            "regular_id": "5983484377902875708",
+            "floor_price_ton": 3,
+            "models": [],
+            "portal_price_ton": 3.0,
+            "getgems_price_ton": 3.0,
+            "tgmrkt_price_ton": 2.95
+        },
+        {
+            "full_name": "Hanging Star",
+            "short_name": "hanging_star",
+            "regular_id": "5915733223018594841",
+            "floor_price_ton": 6.36,
+            "models": [],
+            "portal_price_ton": 6.36,
+            "getgems_price_ton": 6.75,
+            "tgmrkt_price_ton": 6.33
+        },
+        {
+            "full_name": "Happy Brownie",
+            "short_name": "happy_brownie",
+            "regular_id": "6006064678835323371",
+            "floor_price_ton": 3,
+            "models": [],
+            "portal_price_ton": 3.0,
+            "getgems_price_ton": 3.0,
+            "tgmrkt_price_ton": 3.08
+        },
+        {
+            "full_name": "Heart Locket",
+            "short_name": "heart_locket",
+            "regular_id": "5868455043362980631",
+            "floor_price_ton": 1002.67,
+            "models": [],
+            "portal_price_ton": 1002.67,
+            "getgems_price_ton": 1111.0,
+            "tgmrkt_price_ton": 954.89
+        },
+        {
+            "full_name": "Heroic Helmet",
+            "short_name": "heroic_helmet",
+            "regular_id": "5895328365971244193",
+            "floor_price_ton": 161.7,
+            "models": [],
+            "portal_price_ton": 161.7,
+            "getgems_price_ton": 169.0,
+            "tgmrkt_price_ton": 154.58
+        },
+        {
+            "full_name": "Hex Pot",
+            "short_name": "hex_pot",
+            "regular_id": "5825801628657124140",
+            "floor_price_ton": 3.1,
+            "models": [],
+            "portal_price_ton": 3.1,
+            "getgems_price_ton": 3.1,
+            "tgmrkt_price_ton": 3.2
+        },
+        {
+            "full_name": "Holiday Drink",
+            "short_name": "holiday_drink",
+            "regular_id": "6003735372041814769",
+            "floor_price_ton": 2.65,
+            "models": [],
+            "portal_price_ton": 2.65,
+            "getgems_price_ton": 2.89,
+            "tgmrkt_price_ton": 2.7
+        },
+        {
+            "full_name": "Homemade Cake",
+            "short_name": "homemade_cake",
+            "regular_id": "5783075783622787539",
+            "floor_price_ton": 3.5,
+            "models": [],
+            "portal_price_ton": 3.5,
+            "getgems_price_ton": 3.65,
+            "tgmrkt_price_ton": 3.87
+        },
+        {
+            "full_name": "Hypno Lollipop",
+            "short_name": "hypno_lollipop",
+            "regular_id": "5825895989088617224",
+            "floor_price_ton": 2.75,
+            "models": [],
+            "portal_price_ton": 2.75,
+            "getgems_price_ton": 2.75,
+            "tgmrkt_price_ton": 2.87
+        },
+        {
+            "full_name": "Ice Cream",
+            "short_name": "ice_cream",
+            "regular_id": "5900177027566142759",
+            "floor_price_ton": 2.63,
+            "models": [],
+            "portal_price_ton": 2.63,
+            "getgems_price_ton": 2.8,
+            "tgmrkt_price_ton": 2.63
+        },
+        {
+            "full_name": "Input Key",
+            "short_name": "input_key",
+            "regular_id": "5870972044522291836",
+            "floor_price_ton": 4.24,
+            "models": [],
+            "portal_price_ton": 4.24,
+            "getgems_price_ton": 4.48,
+            "tgmrkt_price_ton": 4.39
+        },
+        {
+            "full_name": "Instant Ramen",
+            "short_name": "instant_ramen",
+            "regular_id": "6005564615793050414",
+            "floor_price_ton": 2.49,
+            "models": [],
+            "portal_price_ton": 2.49,
+            "getgems_price_ton": 2.7,
+            "tgmrkt_price_ton": 2.65
+        },
+        {
+            "full_name": "Ion Gem",
+            "short_name": "ion_gem",
+            "regular_id": "5843762284240831056",
+            "floor_price_ton": 56.91,
+            "models": [],
+            "portal_price_ton": 56.91,
+            "getgems_price_ton": 63.0,
+            "tgmrkt_price_ton": 54.22
+        },
+        {
+            "full_name": "Ionic Dryer",
+            "short_name": "ionic_dryer",
+            "regular_id": "5933937398953018107",
+            "floor_price_ton": 11.23,
+            "models": [],
+            "portal_price_ton": 11.23,
+            "getgems_price_ton": 11.5,
+            "tgmrkt_price_ton": 10.72
+        },
+        {
+            "full_name": "Jack-in-the-Box",
+            "short_name": "jackinthebox",
+            "regular_id": "6005659564635063386",
+            "floor_price_ton": 3,
+            "models": [],
+            "portal_price_ton": 3.0,
+            "getgems_price_ton": 3.0,
+            "tgmrkt_price_ton": 2.96
+        },
+        {
+            "full_name": "Jelly Bunny",
+            "short_name": "jelly_bunny",
+            "regular_id": "5915502858152706668",
+            "floor_price_ton": 5.72,
+            "models": [],
+            "portal_price_ton": 5.72,
+            "getgems_price_ton": 5.72,
+            "tgmrkt_price_ton": 5.64
+        },
+        {
+            "full_name": "Jester Hat",
+            "short_name": "jester_hat",
+            "regular_id": "5933590374185435592",
+            "floor_price_ton": 2.97,
+            "models": [],
+            "portal_price_ton": 2.97,
+            "getgems_price_ton": 2.97,
+            "tgmrkt_price_ton": 2.94
+        },
+        {
+            "full_name": "Jingle Bells",
+            "short_name": "jingle_bells",
+            "regular_id": "6001473264306619020",
+            "floor_price_ton": 5.68,
+            "models": [],
+            "portal_price_ton": 5.68,
+            "getgems_price_ton": 5.68,
+            "tgmrkt_price_ton": 5.6
+        },
+        {
+            "full_name": "Jolly Chimp",
+            "short_name": "jolly_chimp",
+            "regular_id": "6005880141270483700",
+            "floor_price_ton": 5.99,
+            "models": [],
+            "portal_price_ton": 5.99,
+            "getgems_price_ton": 5.99,
+            "tgmrkt_price_ton": 5.86
+        },
+        {
+            "full_name": "Joyful Bundle",
+            "short_name": "joyful_bundle",
+            "regular_id": "5870862540036113469",
+            "floor_price_ton": 5.75,
+            "models": [],
+            "portal_price_ton": 5.75,
+            "getgems_price_ton": 5.9,
+            "tgmrkt_price_ton": 5.62
+        },
+        {
+            "full_name": "Khabib’s Papakha",
+            "short_name": "khabibs_papakha",
+            "regular_id": "5839094187366024301",
+            "floor_price_ton": null,
+            "models": [],
+            "portal_price_ton": null,
+            "getgems_price_ton": null,
+            "tgmrkt_price_ton": null
+        },
+        {
+            "full_name": "Kissed Frog",
+            "short_name": "kissed_frog",
+            "regular_id": "5845776576658015084",
+            "floor_price_ton": 37,
+            "models": [],
+            "portal_price_ton": 37.0,
+            "getgems_price_ton": 37.37,
+            "tgmrkt_price_ton": 35.5
+        },
+        {
+            "full_name": "Light Sword",
+            "short_name": "light_sword",
+            "regular_id": "5897581235231785485",
+            "floor_price_ton": 5.24,
+            "models": [],
+            "portal_price_ton": 5.24,
+            "getgems_price_ton": 5.6,
+            "tgmrkt_price_ton": 5.44
+        },
+        {
+            "full_name": "Lol Pop",
+            "short_name": "lol_pop",
+            "regular_id": "5170594532177215681",
+            "floor_price_ton": 2.54,
+            "models": [],
+            "portal_price_ton": 2.54,
+            "getgems_price_ton": 2.83,
+            "tgmrkt_price_ton": 2.65
+        },
+        {
+            "full_name": "Loot Bag",
+            "short_name": "loot_bag",
+            "regular_id": "5868659926187901653",
+            "floor_price_ton": 93,
+            "models": [],
+            "portal_price_ton": 93.0,
+            "getgems_price_ton": 92.99,
+            "tgmrkt_price_ton": 91.5
+        },
+        {
+            "full_name": "Love Candle",
+            "short_name": "love_candle",
+            "regular_id": "5915550639663874519",
+            "floor_price_ton": 7.27,
+            "models": [],
+            "portal_price_ton": 7.27,
+            "getgems_price_ton": 7.269,
+            "tgmrkt_price_ton": 6.95
+        },
+        {
+            "full_name": "Love Potion",
+            "short_name": "love_potion",
+            "regular_id": "5868348541058942091",
+            "floor_price_ton": 11.5,
+            "models": [],
+            "portal_price_ton": 11.5,
+            "getgems_price_ton": 11.5,
+            "tgmrkt_price_ton": 11.25
+        },
+        {
+            "full_name": "Low Rider",
+            "short_name": "low_rider",
+            "regular_id": "6014675319464657779",
+            "floor_price_ton": 38.97,
+            "models": [],
+            "portal_price_ton": 38.97,
+            "getgems_price_ton": 38.97,
+            "tgmrkt_price_ton": 38.4615
+        },
+        {
+            "full_name": "Lunar Snake",
+            "short_name": "lunar_snake",
+            "regular_id": "6028426950047957932",
+            "floor_price_ton": 2.33,
+            "models": [],
+            "portal_price_ton": 2.33,
+            "getgems_price_ton": 2.8,
+            "tgmrkt_price_ton": 2.47
+        },
+        {
+            "full_name": "Lush Bouquet",
+            "short_name": "lush_bouquet",
+            "regular_id": "5871002671934079382",
+            "floor_price_ton": 4.42,
+            "models": [],
+            "portal_price_ton": 4.42,
+            "getgems_price_ton": 4.7,
+            "tgmrkt_price_ton": 4.17
+        },
+        {
+            "full_name": "Mad Pumpkin",
+            "short_name": "mad_pumpkin",
+            "regular_id": "5841632504448025405",
+            "floor_price_ton": 9.23,
+            "models": [],
+            "portal_price_ton": 9.23,
+            "getgems_price_ton": 9.5,
+            "tgmrkt_price_ton": 8.81
+        },
+        {
+            "full_name": "Magic Potion",
+            "short_name": "magic_potion",
+            "regular_id": "5846226946928673709",
+            "floor_price_ton": 45.45,
+            "models": [],
+            "portal_price_ton": 45.45,
+            "getgems_price_ton": 45.45,
+            "tgmrkt_price_ton": 43.57
+        },
+        {
+            "full_name": "Mighty Arm",
+            "short_name": "mighty_arm",
+            "regular_id": "5895518353849582541",
+            "floor_price_ton": 100.59,
+            "models": [],
+            "portal_price_ton": 100.59,
+            "getgems_price_ton": 125.0,
+            "tgmrkt_price_ton": 95.78
+        },
+        {
+            "full_name": "Mini Oscar",
+            "short_name": "mini_oscar",
+            "regular_id": "5879737836550226478",
+            "floor_price_ton": 60.12,
+            "models": [],
+            "portal_price_ton": 60.12,
+            "getgems_price_ton": 64.99,
+            "tgmrkt_price_ton": 57.21
+        },
+        {
+            "full_name": "Money Pot",
+            "short_name": "money_pot",
+            "regular_id": "5963238670868677492",
+            "floor_price_ton": 3,
+            "models": [],
+            "portal_price_ton": 3.0,
+            "getgems_price_ton": 3.24,
+            "tgmrkt_price_ton": 3.1
+        },
+        {
+            "full_name": "Moon Pendant",
+            "short_name": "moon_pendant",
+            "regular_id": "5998981470310368313",
+            "floor_price_ton": 4.56,
+            "models": [],
+            "portal_price_ton": 4.56,
+            "getgems_price_ton": 4.93,
+            "tgmrkt_price_ton": 4.54
+        },
+        {
+            "full_name": "Mousse Cake",
+            "short_name": "mousse_cake",
+            "regular_id": "5935877878062253519",
+            "floor_price_ton": 3.39,
+            "models": [],
+            "portal_price_ton": 3.39,
+            "getgems_price_ton": 3.96,
+            "tgmrkt_price_ton": 3.54
+        },
+        {
+            "full_name": "Nail Bracelet",
+            "short_name": "nail_bracelet",
+            "regular_id": "5870720080265871962",
+            "floor_price_ton": 86.09,
+            "models": [],
+            "portal_price_ton": 86.09,
+            "getgems_price_ton": 90.0,
+            "tgmrkt_price_ton": 81.99
+        },
+        {
+            "full_name": "Neko Helmet",
+            "short_name": "neko_helmet",
+            "regular_id": "5933793770951673155",
+            "floor_price_ton": 28,
+            "models": [],
+            "portal_price_ton": 28.0,
+            "getgems_price_ton": 28.0,
+            "tgmrkt_price_ton": 27.99
+        },
+        {
+            "full_name": "Party Sparkler",
+            "short_name": "party_sparkler",
+            "regular_id": "6003643167683903930",
+            "floor_price_ton": 2.76,
+            "models": [],
+            "portal_price_ton": 2.76,
+            "getgems_price_ton": 3.0,
+            "tgmrkt_price_ton": 2.89
+        },
+        {
+            "full_name": "Perfume Bottle",
+            "short_name": "perfume_bottle",
+            "regular_id": "5913517067138499193",
+            "floor_price_ton": 59.62,
+            "models": [],
+            "portal_price_ton": 59.62,
+            "getgems_price_ton": 67.0,
+            "tgmrkt_price_ton": 56.75
+        },
+        {
+            "full_name": "Pet Snake",
+            "short_name": "pet_snake",
+            "regular_id": "6023917088358269866",
+            "floor_price_ton": 2.6,
+            "models": [],
+            "portal_price_ton": 2.6,
+            "getgems_price_ton": 2.83,
+            "tgmrkt_price_ton": 2.78
+        },
+        {
+            "full_name": "Plush Pepe",
+            "short_name": "plush_pepe",
+            "regular_id": "5936013938331222567",
+            "floor_price_ton": 4997,
+            "models": [],
+            "portal_price_ton": 4997.0,
+            "getgems_price_ton": 4949.0,
+            "tgmrkt_price_ton": 4989.99
+        },
+        {
+            "full_name": "Precious Peach",
+            "short_name": "precious_peach",
+            "regular_id": "5933671725160989227",
+            "floor_price_ton": 249.9,
+            "models": [],
+            "portal_price_ton": 249.9,
+            "getgems_price_ton": 255.0,
+            "tgmrkt_price_ton": 239.0
+        },
+        {
+            "full_name": "Pretty Posy",
+            "short_name": "pretty_posy",
+            "regular_id": "5933737850477478635",
+            "floor_price_ton": 3.51,
+            "models": [],
+            "portal_price_ton": 3.51,
+            "getgems_price_ton": 3.6744,
+            "tgmrkt_price_ton": 3.58
+        },
+        {
+            "full_name": "Record Player",
+            "short_name": "record_player",
+            "regular_id": "5856973938650776169",
+            "floor_price_ton": 8.7,
+            "models": [],
+            "portal_price_ton": 8.7,
+            "getgems_price_ton": 8.7,
+            "tgmrkt_price_ton": 8.53
+        },
+        {
+            "full_name": "Restless Jar",
+            "short_name": "restless_jar",
+            "regular_id": "5870784783948186838",
+            "floor_price_ton": 3.67,
+            "models": [],
+            "portal_price_ton": 3.67,
+            "getgems_price_ton": 3.95,
+            "tgmrkt_price_ton": 3.84
+        },
+        {
+            "full_name": "Sakura Flower",
+            "short_name": "sakura_flower",
+            "regular_id": "5167939598143193218",
+            "floor_price_ton": 7.88,
+            "models": [],
+            "portal_price_ton": 7.88,
+            "getgems_price_ton": 7.88,
+            "tgmrkt_price_ton": 7.69
+        },
+        {
+            "full_name": "Santa Hat",
+            "short_name": "santa_hat",
+            "regular_id": "5983471780763796287",
+            "floor_price_ton": 2.97,
+            "models": [],
+            "portal_price_ton": 2.97,
+            "getgems_price_ton": 3.35,
+            "tgmrkt_price_ton": 3.07
+        },
+        {
+            "full_name": "Scared Cat",
+            "short_name": "scared_cat",
+            "regular_id": "5837059369300132790",
+            "floor_price_ton": 154.5,
+            "models": [],
+            "portal_price_ton": 154.5,
+            "getgems_price_ton": 154.5,
+            "tgmrkt_price_ton": 149.87
+        },
+        {
+            "full_name": "Sharp Tongue",
+            "short_name": "sharp_tongue",
+            "regular_id": "5841689550203650524",
+            "floor_price_ton": 35.65,
+            "models": [],
+            "portal_price_ton": 35.65,
+            "getgems_price_ton": 37.0,
+            "tgmrkt_price_ton": 34.6
+        },
+        {
+            "full_name": "Signet Ring",
+            "short_name": "signet_ring",
+            "regular_id": "5936085638515261992",
+            "floor_price_ton": 26.97,
+            "models": [],
+            "portal_price_ton": 26.97,
+            "getgems_price_ton": 27.48,
+            "tgmrkt_price_ton": 25.94
+        },
+        {
+            "full_name": "Skull Flower",
+            "short_name": "skull_flower",
+            "regular_id": "5839038009193792264",
+            "floor_price_ton": 8.1,
+            "models": [],
+            "portal_price_ton": 8.1,
+            "getgems_price_ton": 8.1,
+            "tgmrkt_price_ton": 8.24
+        },
+        {
+            "full_name": "Sky Stilettos",
+            "short_name": "sky_stilettos",
+            "regular_id": "5870947077877400011",
+            "floor_price_ton": 13.36,
+            "models": [],
+            "portal_price_ton": 13.36,
+            "getgems_price_ton": 13.56,
+            "tgmrkt_price_ton": 13.26
+        },
+        {
+            "full_name": "Sleigh Bell",
+            "short_name": "sleigh_bell",
+            "regular_id": "5981026247860290310",
+            "floor_price_ton": 5.3,
+            "models": [],
+            "portal_price_ton": 5.3,
+            "getgems_price_ton": 5.299,
+            "tgmrkt_price_ton": 5.56
+        },
+        {
+            "full_name": "Snake Box",
+            "short_name": "snake_box",
+            "regular_id": "6023679164349940429",
+            "floor_price_ton": 2.39,
+            "models": [],
+            "portal_price_ton": 2.39,
+            "getgems_price_ton": 2.69,
+            "tgmrkt_price_ton": 2.48
+        },
+        {
+            "full_name": "Snoop Cigar",
+            "short_name": "snoop_cigar",
+            "regular_id": "6012435906336654262",
+            "floor_price_ton": 9.54,
+            "models": [],
+            "portal_price_ton": 9.54,
+            "getgems_price_ton": 9.76,
+            "tgmrkt_price_ton": 9.74
+        },
+        {
+            "full_name": "Snoop Dogg",
+            "short_name": "snoop_dogg",
+            "regular_id": "6014591077976114307",
+            "floor_price_ton": 4.23,
+            "models": [],
+            "portal_price_ton": 4.23,
+            "getgems_price_ton": 4.59,
+            "tgmrkt_price_ton": 4.33
+        },
+        {
+            "full_name": "Snow Globe",
+            "short_name": "snow_globe",
+            "regular_id": "5981132629905245483",
+            "floor_price_ton": 3.18,
+            "models": [],
+            "portal_price_ton": 3.18,
+            "getgems_price_ton": 3.8,
+            "tgmrkt_price_ton": 3.42
+        },
+        {
+            "full_name": "Snow Mittens",
+            "short_name": "snow_mittens",
+            "regular_id": "5980789805615678057",
+            "floor_price_ton": 3.38,
+            "models": [],
+            "portal_price_ton": 3.38,
+            "getgems_price_ton": 3.5,
+            "tgmrkt_price_ton": 3.27
+        },
+        {
+            "full_name": "Spiced Wine",
+            "short_name": "spiced_wine",
+            "regular_id": "5913442287462908725",
+            "floor_price_ton": 3.17,
+            "models": [],
+            "portal_price_ton": 3.17,
+            "getgems_price_ton": 3.29,
+            "tgmrkt_price_ton": 3.2
+        },
+        {
+            "full_name": "Spring Basket",
+            "short_name": "spring_basket",
+            "regular_id": "5773725897517433693",
+            "floor_price_ton": 3.88,
+            "models": [],
+            "portal_price_ton": 3.88,
+            "getgems_price_ton": 4.65,
+            "tgmrkt_price_ton": 3.98
+        },
+        {
+            "full_name": "Spy Agaric",
+            "short_name": "spy_agaric",
+            "regular_id": "5821261908354794038",
+            "floor_price_ton": 3.82,
+            "models": [],
+            "portal_price_ton": 3.82,
+            "getgems_price_ton": 4.4,
+            "tgmrkt_price_ton": 3.93
+        },
+        {
+            "full_name": "Star Notepad",
+            "short_name": "star_notepad",
+            "regular_id": "5936017773737018241",
+            "floor_price_ton": 3.46,
+            "models": [],
+            "portal_price_ton": 3.46,
+            "getgems_price_ton": 3.59,
+            "tgmrkt_price_ton": 3.41
+        },
+        {
+            "full_name": "Stellar Rocket",
+            "short_name": "stellar_rocket",
+            "regular_id": "6042113507581755979",
+            "floor_price_ton": 3.77,
+            "models": [],
+            "portal_price_ton": 3.77,
+            "getgems_price_ton": 3.8,
+            "tgmrkt_price_ton": 3.54
+        },
+        {
+            "full_name": "Swag Bag",
+            "short_name": "swag_bag",
+            "regular_id": "6012607142387778152",
+            "floor_price_ton": 3.98,
+            "models": [],
+            "portal_price_ton": 3.98,
+            "getgems_price_ton": 3.98,
+            "tgmrkt_price_ton": 3.89
+        },
+        {
+            "full_name": "Swiss Watch",
+            "short_name": "swiss_watch",
+            "regular_id": "5936043693864651359",
+            "floor_price_ton": 36.51,
+            "models": [],
+            "portal_price_ton": 36.51,
+            "getgems_price_ton": 36.51,
+            "tgmrkt_price_ton": 36.1
+        },
+        {
+            "full_name": "Tama Gadget",
+            "short_name": "tama_gadget",
+            "regular_id": "6023752243218481939",
+            "floor_price_ton": 2.64,
+            "models": [],
+            "portal_price_ton": 2.64,
+            "getgems_price_ton": 3.0,
+            "tgmrkt_price_ton": 2.76
+        },
+        {
+            "full_name": "Top Hat",
+            "short_name": "top_hat",
+            "regular_id": "5897593557492957738",
+            "floor_price_ton": 7.3,
+            "models": [],
+            "portal_price_ton": 7.3,
+            "getgems_price_ton": 7.3,
+            "tgmrkt_price_ton": 7.58
+        },
+        {
+            "full_name": "Toy Bear",
+            "short_name": "toy_bear",
+            "regular_id": "5868220813026526561",
+            "floor_price_ton": 30,
+            "models": [],
+            "portal_price_ton": 30.0,
+            "getgems_price_ton": 31.1,
+            "tgmrkt_price_ton": 30.5
+        },
+        {
+            "full_name": "Trapped Heart",
+            "short_name": "trapped_heart",
+            "regular_id": "5841391256135008713",
+            "floor_price_ton": 10.59,
+            "models": [],
+            "portal_price_ton": 10.59,
+            "getgems_price_ton": 10.89,
+            "tgmrkt_price_ton": 10.09
+        },
+        {
+            "full_name": "UFC Strike",
+            "short_name": "ufc_strike",
+            "regular_id": "5882260270843168924",
+            "floor_price_ton": 12.35,
+            "models": [],
+            "portal_price_ton": 12.35,
+            "getgems_price_ton": 12.35,
+            "tgmrkt_price_ton": 11.78
+        },
+        {
+            "full_name": "Valentine Box",
+            "short_name": "valentine_box",
+            "regular_id": "5868595669182186720",
+            "floor_price_ton": 7.68,
+            "models": [],
+            "portal_price_ton": 7.68,
+            "getgems_price_ton": 7.69,
+            "tgmrkt_price_ton": 7.2
+        },
+        {
+            "full_name": "Vintage Cigar",
+            "short_name": "vintage_cigar",
+            "regular_id": "5857140566201991735",
+            "floor_price_ton": 28,
+            "models": [],
+            "portal_price_ton": 28.0,
+            "getgems_price_ton": 28.08,
+            "tgmrkt_price_ton": 27.6
+        },
+        {
+            "full_name": "Voodoo Doll",
+            "short_name": "voodoo_doll",
+            "regular_id": "5836780359634649414",
+            "floor_price_ton": 30,
+            "models": [],
+            "portal_price_ton": 30.0,
+            "getgems_price_ton": 30.0,
+            "tgmrkt_price_ton": 29.86
+        },
+        {
+            "full_name": "Westside Sign",
+            "short_name": "westside_sign",
+            "regular_id": "6014697240977737490",
+            "floor_price_ton": 62.56,
+            "models": [],
+            "portal_price_ton": 62.56,
+            "getgems_price_ton": 63.98,
+            "tgmrkt_price_ton": 59.5
+        },
+        {
+            "full_name": "Whip Cupcake",
+            "short_name": "whip_cupcake",
+            "regular_id": "5933543975653737112",
+            "floor_price_ton": 2.54,
+            "models": [],
+            "portal_price_ton": 2.54,
+            "getgems_price_ton": 2.61,
+            "tgmrkt_price_ton": 2.68
+        },
+        {
+            "full_name": "Winter Wreath",
+            "short_name": "winter_wreath",
+            "regular_id": "5983259145522906006",
+            "floor_price_ton": 2.52,
+            "models": [],
+            "portal_price_ton": 2.52,
+            "getgems_price_ton": 2.65,
+            "tgmrkt_price_ton": 2.57
+        },
+        {
+            "full_name": "Witch Hat",
+            "short_name": "witch_hat",
+            "regular_id": "5821384757304362229",
+            "floor_price_ton": 3.7,
+            "models": [],
+            "portal_price_ton": 3.7,
+            "getgems_price_ton": 3.79,
+            "tgmrkt_price_ton": 3.79
+        },
+        {
+            "full_name": "Xmas Stocking",
+            "short_name": "xmas_stocking",
+            "regular_id": "6003767644426076664",
+            "floor_price_ton": 2.59,
+            "models": [],
+            "portal_price_ton": 2.59,
+            "getgems_price_ton": 2.679,
+            "tgmrkt_price_ton": 2.4453
+        },
+        {
+            "full_name": "Upgraded Backpack",
+            "short_name": "upgraded_backpack",
+            "regular_id": "5886756255493523118",
+            "floor_price_ton": null,
+            "models": [],
+            "portal_price_ton": null,
+            "getgems_price_ton": null,
+            "tgmrkt_price_ton": null
+        },
+        {
+            "full_name": "Timeless Book",
+            "short_name": "timeless_book",
+            "regular_id": "5886387158889005864",
+            "floor_price_ton": 3.18,
+            "models": [],
+            "portal_price_ton": 3.18,
+            "getgems_price_ton": 3.5,
+            "tgmrkt_price_ton": 3.27
+        },
+        {
+            "full_name": "Vice Cream",
+            "short_name": "vice_cream",
+            "regular_id": "5898012527257715797",
+            "floor_price_ton": 2.4,
+            "models": [],
+            "portal_price_ton": 2.4,
+            "getgems_price_ton": 2.53,
+            "tgmrkt_price_ton": 2.48
+        },
+        {
+            "full_name": "Upgraded Eagle",
+            "short_name": "upgraded_eagle",
+            "regular_id": "5999116401002939514",
+            "floor_price_ton": null,
+            "models": [],
+            "portal_price_ton": null,
+            "getgems_price_ton": null,
+            "tgmrkt_price_ton": null
+        },
+        {
+            "full_name": "Victory Medal",
+            "short_name": "victory_medal",
+            "regular_id": "5830340739074097859",
+            "floor_price_ton": 3.7,
+            "models": [],
+            "portal_price_ton": 3.7,
+            "getgems_price_ton": 3.56,
+            "tgmrkt_price_ton": 3.46
+        },
+        {
+            "full_name": "Pool Float",
+            "short_name": "pool_float",
+            "regular_id": "5832644211639321671",
+            "floor_price_ton": 2.64,
+            "models": [],
+            "portal_price_ton": 2.64,
+            "getgems_price_ton": 3.0,
+            "tgmrkt_price_ton": 2.9
+        },
+        {
+            "full_name": "Upgraded Torch",
+            "short_name": "upgraded_torch",
+            "regular_id": "5999277561060787166",
+            "floor_price_ton": null,
+            "models": [],
+            "portal_price_ton": null,
+            "getgems_price_ton": null,
+            "tgmrkt_price_ton": null
+        }
+    ],
+    "unupgraded": [
+        {
+            "full_name": "1 May",
+            "short_name": "may",
+            "id": "5807641025165919973",
+            "price_ton": null
+        },
+        {
+            "full_name": "Airplane",
+            "short_name": "airplane",
+            "id": "5818708013426410448",
+            "price_ton": 5234.405
+        },
+        {
+            "full_name": "Bird Mark",
+            "short_name": "bird_mark",
+            "id": "5832325860073407546",
+            "price_ton": null
+        },
+        {
+            "full_name": "Case",
+            "short_name": "case",
+            "id": "5884080014126745057",
+            "price_ton": null
+        },
+        {
+            "full_name": "Coconut Drink",
+            "short_name": "coconut_drink",
+            "id": "5832371318007268701",
+            "price_ton": null
+        },
+        {
+            "full_name": "Coffin",
+            "short_name": "coffin",
+            "id": "5776227780391864916",
+            "price_ton": 17.7964
+        },
+        {
+            "full_name": "Cream IceCream",
+            "short_name": "cream_icecream",
+            "id": "5897607679345427347",
+            "price_ton": null
+        },
+        {
+            "full_name": "Durov Glasses",
+            "short_name": "durov_glasses",
+            "id": "5834651202612102354",
+            "price_ton": null
+        },
+        {
+            "full_name": "Durov's Figurine",
+            "short_name": "durovs_figurine",
+            "id": "6003477390536213997",
+            "price_ton": null
+        },
+        {
+            "full_name": "Easter Cake",
+            "short_name": "easter_cake",
+            "id": "5773791997064119815",
+            "price_ton": null
+        },
+        {
+            "full_name": "Eight Roses",
+            "short_name": "eight_roses",
+            "id": "5933770397739647689",
+            "price_ton": null
+        },
+        {
+            "full_name": "Gravestone",
+            "short_name": "gravestone",
+            "id": "5775955135867913556",
+            "price_ton": 41.8
+        },
+        {
+            "full_name": "Heart Pendant",
+            "short_name": "heart_pendant",
+            "id": "5872744075014177223",
+            "price_ton": null
+        },
+        {
+            "full_name": "Lamp Candle",
+            "short_name": "lamp_candle",
+            "id": "5913351908466098791",
+            "price_ton": null
+        },
+        {
+            "full_name": "Mask",
+            "short_name": "mask",
+            "id": "5775966332847654507",
+            "price_ton": 5.8761
+        },
+        {
+            "full_name": "Pencil",
+            "short_name": "pencil",
+            "id": "5882129648002794519",
+            "price_ton": null
+        },
+        {
+            "full_name": "REDO",
+            "short_name": "redo",
+            "id": "5832279504491381684",
+            "price_ton": null
+        },
+        {
+            "full_name": "Red Star",
+            "short_name": "red_star",
+            "id": "5830323722413671504",
+            "price_ton": null
+        },
+        {
+            "full_name": "Sand Castle",
+            "short_name": "sand_castle",
+            "id": "5834918435477259676",
+            "price_ton": null
+        },
+        {
+            "full_name": "Durov's Boots",
+            "short_name": "durovs_boots",
+            "id": "6001229799790478558",
+            "price_ton": null
+        },
+        {
+            "full_name": "Statue",
+            "short_name": "statue",
+            "id": "5999298447486747746",
+            "price_ton": null
+        },
+        {
+            "full_name": "Surfboard",
+            "short_name": "surfboard",
+            "id": "5832497899283415733",
+            "price_ton": null
+        },
+        {
+            "full_name": "Durov's Coat",
+            "short_name": "durovs_coat",
+            "id": "6001425315291727333",
+            "price_ton": null
+        },
+        {
+            "full_name": "Trojan Horse",
+            "short_name": "trojan_horse",
+            "id": "5956308547863052791",
+            "price_ton": 46.5025
+        }
+    ],
+    "last_updated": 1781871772,
+    "regular_gifts": [
+        {
+            "full_name": "Gift 5170145012310081615",
+            "short_name": "gift_5170145012310081615",
+            "id": "5170145012310081615",
+            "price_stars": 15,
+            "emoji": "💝"
+        },
+        {
+            "full_name": "Gift 5170233102089322756",
+            "short_name": "gift_5170233102089322756",
+            "id": "5170233102089322756",
+            "price_stars": 15,
+            "emoji": "🧸"
+        },
+        {
+            "full_name": "Gift 5170250947678437525",
+            "short_name": "gift_5170250947678437525",
+            "id": "5170250947678437525",
+            "price_stars": 25,
+            "emoji": "🎁"
+        },
+        {
+            "full_name": "Gift 5168103777563050263",
+            "short_name": "gift_5168103777563050263",
+            "id": "5168103777563050263",
+            "price_stars": 25,
+            "emoji": "🌹"
+        },
+        {
+            "full_name": "Gift 5170144170496491616",
+            "short_name": "gift_5170144170496491616",
+            "id": "5170144170496491616",
+            "price_stars": 50,
+            "emoji": "🎂"
+        },
+        {
+            "full_name": "Gift 5170314324215857265",
+            "short_name": "gift_5170314324215857265",
+            "id": "5170314324215857265",
+            "price_stars": 50,
+            "emoji": "💐"
+        },
+        {
+            "full_name": "Gift 5170564780938756245",
+            "short_name": "gift_5170564780938756245",
+            "id": "5170564780938756245",
+            "price_stars": 50,
+            "emoji": "🚀"
+        },
+        {
+            "full_name": "Gift 5168043875654172773",
+            "short_name": "gift_5168043875654172773",
+            "id": "5168043875654172773",
+            "price_stars": 100,
+            "emoji": "🏆"
+        },
+        {
+            "full_name": "Gift 5170690322832818290",
+            "short_name": "gift_5170690322832818290",
+            "id": "5170690322832818290",
+            "price_stars": 100,
+            "emoji": "💍"
+        },
+        {
+            "full_name": "Gift 5170521118301225164",
+            "short_name": "gift_5170521118301225164",
+            "id": "5170521118301225164",
+            "price_stars": 100,
+            "emoji": "💎"
+        },
+        {
+            "full_name": "Gift 6028601630662853006",
+            "short_name": "gift_6028601630662853006",
+            "id": "6028601630662853006",
+            "price_stars": 50,
+            "emoji": "🍾"
+        }
+    ],
+    "upgraded_description": "A unique collectible NFT that can be collected, sold, or gifted to friends.",
+    "unupgraded_description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars.",
+    "regular_description": "A regular gift you can send to your friends for a nominal price.",
+    "models": "models/"
 }
