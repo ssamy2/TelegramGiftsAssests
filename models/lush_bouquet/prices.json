@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Lavender": 2.46,
+    "Lavender": 2.47,
     "Strawberry": 2.49,
     "Cappuccino": 2.48,
     "Light Olive": 2.48,
@@ -37,11 +37,11 @@
     "Celtic Blue": 2.5,
     "Mexican Pink": 2.53,
     "Camo Green": 2.48,
-    "Emerald": 2.48,
+    "Emerald": 2.49,
     "Pacific Green": 2.49,
     "Mint Green": 2.49,
     "Electric Indigo": 2.5,
-    "Moonstone": 2.48,
+    "Moonstone": 2.49,
     "Roman Silver": 2.49,
     "Fire Engine": 2.53,
     "Caramel": 2.5,
@@ -77,7 +77,7 @@
     "Orange": 2.49,
     "Burgundy": 2.48,
     "Neon Blue": 2.49,
-    "Battleship Grey": 2.47
+    "Battleship Grey": 2.49
   },
   "symbols": {
     "Ace Of Hearts": 5.5,
@@ -86,7 +86,7 @@
     "Alert Serpent": 6.0,
     "All-Seeing Eye": 30.0,
     "Ancient Urn": 5.1,
-    "Anthurium": 5.16,
+    "Anthurium": 5.08,
     "Anubis": 7.0,
     "Avocado": 44.0,
     "Aztec Falcon": 12.0,
@@ -110,7 +110,7 @@
     "Bougainvillea": 4.39,
     "Bouquet": 15.0,
     "Bow Tie": 5.8,
-    "Bread": 5.14,
+    "Bread": 5.06,
     "Broken Heart": 22.01,
     "Bucket Hat": 7.2,
     "Bull of Heaven": 20.0,
@@ -254,7 +254,7 @@
     "Oxen of Fire": 8.2,
     "Padlock": 8.0,
     "Paper Crane": 8.0,
-    "Paschal Lamb": 4.49,
+    "Paschal Lamb": 4.43,
     "Patched Heart": 12.21,
     "Paw Print": 6.5,
     "Pawn": 4.78,
@@ -276,7 +276,7 @@
     "Pyramid": 20.0,
     "Radar": 9.0,
     "Ram of Amun": 9.5,
-    "Ramen": 8.4,
+    "Ramen": 8.41,
     "Ring": 8.5,
     "Romantic Cake": 7.7,
     "Rose Bud": 5.0,
@@ -301,7 +301,7 @@
     "Sunflower": 7.0,
     "Sweets Box": 12.0,
     "Sword": 6.7,
-    "Tamagotchi": 5.26,
+    "Tamagotchi": 5.27,
     "Teru Bōzu": 7.0,
     "Tetsubin": 5.0,
     "Thief": 7.49,
@@ -348,7 +348,7 @@
     "Fishbowl Vase": 10.0,
     "Fisherman": 6.0,
     "Frida Planter": 8.0,
-    "Garden Roses": 17.21,
+    "Garden Roses": 17.2,
     "Golden Petals": 11.0,
     "Happy Toys": 10.21,
     "Harvest": 4.5,
@@ -363,7 +363,7 @@
     "Moonlight": 31.0,
     "Mushrooms": 4.3,
     "Narcissus": 13.5,
-    "Neon Sign": 8.4,
+    "Neon Sign": 8.41,
     "Nucleus": 8.0,
     "Oak Crown": 4.25,
     "Oculus": 6.7,
@@ -377,7 +377,7 @@
     "Tulips": 15.5,
     "Venus Flytrap": 4.37,
     "Wildfire": 26.99,
-    "Yarn Balls": 4.5
+    "Yarn Balls": 4.42
   },
-  "last_updated": 1781828411
+  "last_updated": 1781828716
 }

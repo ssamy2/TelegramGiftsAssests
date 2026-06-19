@@ -102,9 +102,9 @@
     "Fleur-de-lis": 225.0,
     "Gem": 480.0,
     "Genie Lamp": 220.0,
-    "Glasses": 188.54,
+    "Glasses": 188.55,
     "Gold": 200.0,
-    "Golden Scarab": 142.0,
+    "Golden Scarab": 142.01,
     "Hamburger": 139.0,
     "Hand of God": 140.0,
     "Heart": 229.0,
@@ -149,7 +149,7 @@
     "Royal Crown": 350.0,
     "Sauron": 275.0,
     "Scarab": 190.0,
-    "Sea Jelly": 124.22,
+    "Sea Jelly": 122.97,
     "Shark Knife": 205.0,
     "Shield": 170.0,
     "Sparks": 124.99,
@@ -173,7 +173,7 @@
   },
   "models": {
     "Amethyst": 116.7,
-    "Ammolite": 142.0,
+    "Ammolite": 142.01,
     "Aquamarine": 114.18,
     "Aquarium": 250.0,
     "Arctite": 180.0,
@@ -223,5 +223,5 @@
     "Warholite": 161.0,
     "White Opal": 115.0
   },
-  "last_updated": 1781828410
+  "last_updated": 1781828716
 }

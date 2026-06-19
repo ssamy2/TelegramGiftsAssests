@@ -22,16 +22,16 @@
     "Pistachio": 2.49,
     "French Blue": 2.49,
     "Dark Lilac": 2.5,
-    "Battleship Grey": 2.47,
-    "Lavender": 2.46,
+    "Battleship Grey": 2.49,
+    "Lavender": 2.47,
     "Chestnut": 2.48,
     "Navy Blue": 2.49,
     "Coral Red": 2.48,
     "Roman Silver": 2.49,
-    "Emerald": 2.48,
+    "Emerald": 2.49,
     "Pacific Cyan": 2.48,
     "Mexican Pink": 2.53,
-    "Moonstone": 2.48,
+    "Moonstone": 2.49,
     "Pine Green": 2.49,
     "Hunter Green": 2.49,
     "Burgundy": 2.48,
@@ -80,7 +80,7 @@
     "English Violet": 2.49
   },
   "symbols": {
-    "Academic Cap": 72.32,
+    "Academic Cap": 72.33,
     "Acorn": 130.0,
     "Alarm": 150.0,
     "Alert Serpent": 101.0,
@@ -234,7 +234,7 @@
     "Silver Ibis": 77.7,
     "Skull": 69.0,
     "Snail": 50.43,
-    "Sombrero": 65.68,
+    "Sombrero": 65.69,
     "Spellbook": 67.0,
     "Spider Web": 92.0,
     "Spider": 110.0,
@@ -267,7 +267,7 @@
     "Warhorse": 109.0,
     "Watching Sun": 100.0,
     "Wizard Hat": 85.0,
-    "Wolf Rage": 108.61,
+    "Wolf Rage": 108.6,
     "Wontons": 63.99,
     "Worker Ant": 60.0,
     "Wreath": 130.0
@@ -290,7 +290,7 @@
     "Elven Shade": 50.43,
     "Eternal Life": 700.0,
     "Event Horizon": 999.0,
-    "Fading Crown": 65.68,
+    "Fading Crown": 65.69,
     "Feral Rage": 750.0,
     "Fleur de Mer": 68.0,
     "Green Beryl": 53.99,
@@ -321,5 +321,5 @@
     "Timekeeper": 110.0,
     "Water Lily": 500.0
   },
-  "last_updated": 1781828411
+  "last_updated": 1781828716
 }

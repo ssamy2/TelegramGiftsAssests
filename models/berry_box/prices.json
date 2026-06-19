@@ -60,6 +60,7 @@
     "Burgundy": 2.48
   },
   "symbols": {
+    "Inguz Rune": 6.36,
     "Acorn": 20.0,
     "Amour Scoops": 7.3,
     "Anchor": 7.99,
@@ -102,7 +103,7 @@
     "Croissant": 9.46,
     "Crusader": 12.0,
     "Cunning Fox": 9.99,
-    "Cupcake": 10.56,
+    "Cupcake": 10.55,
     "Cupid's Arrow": 10.25,
     "Cupid": 7.0,
     "Cupid’s Arrow": 10.25,
@@ -137,7 +138,6 @@
     "High Heels": 10.1,
     "Hippo": 12.0,
     "Ice Pop": 7.49,
-    "Inguz Rune": 6.36,
     "Ink Pen": 6.35,
     "Jumbo Pencil": 12.0,
     "Key": 6.9,
@@ -177,7 +177,7 @@
     "Padlock": 9.1,
     "Passion Latte": 8.67,
     "Patched Heart": 11.5,
-    "Paw": 13.0,
+    "Paw": 6.3,
     "Pawn": 12.0,
     "PC Mouse": 9.98,
     "Pear": 9.99,
@@ -205,7 +205,7 @@
     "Spades": 7.0,
     "Spanner": 50.0,
     "Spirit Impala": 15.0,
-    "Star Crown": 10.55,
+    "Star Crown": 10.56,
     "Star": 27.0,
     "Stilettos": 13.0,
     "Strawberry": 29.0,
@@ -256,7 +256,7 @@
     "Gryffindor": 6.79,
     "Harlequin": 7.4,
     "High Voltage": 13.0,
-    "Ice Diamond": 7.4,
+    "Ice Diamond": 6.3,
     "Infrared": 9.0,
     "Iridescent": 8.0,
     "Kawaii": 7.5,
@@ -275,7 +275,7 @@
     "Natural": 14.99,
     "Nature Box": 6.6,
     "Noir": 9.9,
-    "Paparazzi": 6.36,
+    "Paparazzi": 66.0,
     "Pointilism": 9.0,
     "Purple Ribbon": 10.0,
     "Rarity": 8.2,
@@ -300,5 +300,5 @@
     "White Cocoa": 13.5,
     "Zomberry": 6.64
   },
-  "last_updated": 1781828410
+  "last_updated": 1781828716
 }

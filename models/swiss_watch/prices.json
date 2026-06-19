@@ -60,7 +60,7 @@
     "Purple": 2.49
   },
   "symbols": {
-    "Alkonost": 48.99,
+    "Alkonost": 49.03,
     "Anchor": 60.0,
     "Arabian Horse": 36.89,
     "Avocado": 145.0,
@@ -135,7 +135,7 @@
     "Guitar": 70.0,
     "Hand of God": 36.89,
     "Handset": 80.71,
-    "Heart": 128.0,
+    "Heart": 36.29,
     "Hermit Shell": 95.0,
     "High Heels": 88.0,
     "Illuminati": 49.0,
@@ -170,9 +170,9 @@
     "Octopus": 50.0,
     "Okami Wolf": 100.0,
     "Ouroboros": 46.0,
-    "Owl": 38.2,
+    "Owl": 37.8,
     "Oxen of Fire": 120.0,
-    "Palette": 136.29,
+    "Palette": 136.28,
     "Pawn": 188.0,
     "PC Mouse": 145.0,
     "Pear": 75.0,
@@ -239,7 +239,7 @@
   "models": {
     "Amazon": 200.0,
     "Asteroid": 45.0,
-    "Ball Pit": 74.0,
+    "Ball Pit": 74.03,
     "Blue Bezel": 84.0,
     "Blue Daytona": 400.0,
     "Bronze Age": 80.0,
@@ -257,7 +257,7 @@
     "Full Tint": 83.0,
     "Future Watch": 36.89,
     "Galactic Year": 120.0,
-    "Gameboy": 36.75,
+    "Gameboy": 36.29,
     "Gold Band": 90.0,
     "Helicopter": 48.0,
     "Iced Out": 165.0,
@@ -274,7 +274,7 @@
     "Pot of Gold": 200.0,
     "Rockefeller": 450.0,
     "Royal Purple": 75.0,
-    "Salvador": 48.99,
+    "Salvador": 49.03,
     "Sean Connery": 70.0,
     "Secret Agent": 89.99,
     "Sovereign": 105.0,
@@ -282,11 +282,11 @@
     "Sputnik": 160.0,
     "Tachymeter": 150.0,
     "The Grid": 55.0,
-    "The Original": 78.99,
+    "The Original": 78.98,
     "Timeless": 70.0,
     "Top Gun": 80.99,
     "Xenowatch": 60.0,
     "Zenith": 78.99
   },
-  "last_updated": 1781828410
+  "last_updated": 1781828716
 }

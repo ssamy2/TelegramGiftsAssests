@@ -15,7 +15,7 @@
     "Rifle Green": 2.49,
     "Cyberpunk": 2.7,
     "Midnight Blue": 2.5,
-    "Emerald": 2.48,
+    "Emerald": 2.49,
     "Dark Green": 2.49,
     "Mexican Pink": 2.53,
     "Tactical Pine": 2.49,
@@ -28,7 +28,7 @@
     "Sky Blue": 2.48,
     "Lemongrass": 2.48,
     "Caramel": 2.5,
-    "Moonstone": 2.48,
+    "Moonstone": 2.49,
     "Khaki Green": 2.48,
     "Tomato": 2.49,
     "Light Olive": 2.48,
@@ -36,7 +36,7 @@
     "Mint Green": 2.49,
     "Fire Engine": 2.53,
     "Platinum": 2.53,
-    "Lavender": 2.46,
+    "Lavender": 2.47,
     "Dark Lilac": 2.5,
     "Chestnut": 2.48,
     "Silver Blue": 2.49,
@@ -77,7 +77,7 @@
     "Mustard": 2.5,
     "Feldgrau": 2.49,
     "Malachite": 2.49,
-    "Battleship Grey": 2.47
+    "Battleship Grey": 2.49
   },
   "symbols": {
     "Alarm": 1010.0,
@@ -137,7 +137,7 @@
     "Tetsubin": 1700.0,
     "Tie": 2222.0,
     "Tribal Shield": 2500.0,
-    "Tricorne": 15551.0,
+    "Tricorne": 12221.0,
     "Turban": 1500.0,
     "Twin Koi": 2000.0,
     "Two Katanas": 2499.0,
@@ -182,5 +182,5 @@
     "Vampire": 1750.0,
     "Venus": 4900.0
   },
-  "last_updated": 1781828411
+  "last_updated": 1781828716
 }

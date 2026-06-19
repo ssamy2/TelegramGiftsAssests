@@ -88,7 +88,7 @@
       "models": [],
       "portal_price_ton": 5.9,
       "getgems_price_ton": 6.0,
-      "tgmrkt_price_ton": 5.6
+      "tgmrkt_price_ton": 5.7
     },
     {
       "full_name": "Candy Cane",
@@ -98,7 +98,7 @@
       "models": [],
       "portal_price_ton": 2.44,
       "getgems_price_ton": 2.63,
-      "tgmrkt_price_ton": 2.5
+      "tgmrkt_price_ton": 2.49
     },
     {
       "full_name": "Clover Pin",
@@ -418,7 +418,7 @@
       "models": [],
       "portal_price_ton": 3.0,
       "getgems_price_ton": 3.0,
-      "tgmrkt_price_ton": 2.97
+      "tgmrkt_price_ton": 2.98
     },
     {
       "full_name": "Jelly Bunny",
@@ -428,7 +428,7 @@
       "models": [],
       "portal_price_ton": 5.72,
       "getgems_price_ton": 5.72,
-      "tgmrkt_price_ton": 5.64
+      "tgmrkt_price_ton": 5.63
     },
     {
       "full_name": "Jester Hat",
@@ -438,7 +438,7 @@
       "models": [],
       "portal_price_ton": 2.96,
       "getgems_price_ton": 2.96,
-      "tgmrkt_price_ton": 2.92
+      "tgmrkt_price_ton": 2.91
     },
     {
       "full_name": "Jingle Bells",
@@ -448,7 +448,7 @@
       "models": [],
       "portal_price_ton": 5.68,
       "getgems_price_ton": 5.68,
-      "tgmrkt_price_ton": 5.63
+      "tgmrkt_price_ton": 5.62
     },
     {
       "full_name": "Jolly Chimp",
@@ -498,7 +498,7 @@
       "models": [],
       "portal_price_ton": 5.24,
       "getgems_price_ton": 5.6,
-      "tgmrkt_price_ton": 5.48
+      "tgmrkt_price_ton": 5.47
     },
     {
       "full_name": "Lol Pop",
@@ -517,7 +517,7 @@
       "floor_price_ton": 94.95,
       "models": [],
       "portal_price_ton": 94.95,
-      "getgems_price_ton": 94.95,
+      "getgems_price_ton": 93.0,
       "tgmrkt_price_ton": 91.42
     },
     {
@@ -558,7 +558,7 @@
       "models": [],
       "portal_price_ton": 2.33,
       "getgems_price_ton": 2.8,
-      "tgmrkt_price_ton": 2.48
+      "tgmrkt_price_ton": 2.47
     },
     {
       "full_name": "Lush Bouquet",
@@ -568,7 +568,7 @@
       "models": [],
       "portal_price_ton": 4.45,
       "getgems_price_ton": 4.7,
-      "tgmrkt_price_ton": 4.23
+      "tgmrkt_price_ton": 4.24
     },
     {
       "full_name": "Mad Pumpkin",
@@ -618,7 +618,7 @@
       "models": [],
       "portal_price_ton": 3.07,
       "getgems_price_ton": 3.25,
-      "tgmrkt_price_ton": 3.11
+      "tgmrkt_price_ton": 3.13
     },
     {
       "full_name": "Moon Pendant",
@@ -728,7 +728,7 @@
       "models": [],
       "portal_price_ton": 8.7,
       "getgems_price_ton": 8.7,
-      "tgmrkt_price_ton": 8.36
+      "tgmrkt_price_ton": 8.35
     },
     {
       "full_name": "Restless Jar",
@@ -778,7 +778,7 @@
       "models": [],
       "portal_price_ton": 35.33,
       "getgems_price_ton": 37.0,
-      "tgmrkt_price_ton": 33.65
+      "tgmrkt_price_ton": 33.69
     },
     {
       "full_name": "Signet Ring",
@@ -838,7 +838,7 @@
       "models": [],
       "portal_price_ton": 9.54,
       "getgems_price_ton": 9.76,
-      "tgmrkt_price_ton": 9.69
+      "tgmrkt_price_ton": 9.7
     },
     {
       "full_name": "Snoop Dogg",
@@ -1028,7 +1028,7 @@
       "models": [],
       "portal_price_ton": 62.6,
       "getgems_price_ton": 63.98,
-      "tgmrkt_price_ton": 59.62
+      "tgmrkt_price_ton": 59.6277
     },
     {
       "full_name": "Whip Cupcake",
@@ -1098,7 +1098,7 @@
       "models": [],
       "portal_price_ton": 2.4,
       "getgems_price_ton": 2.55,
-      "tgmrkt_price_ton": 2.49
+      "tgmrkt_price_ton": 2.48
     },
     {
       "full_name": "Upgraded Eagle",
@@ -1128,7 +1128,7 @@
       "models": [],
       "portal_price_ton": 2.65,
       "getgems_price_ton": 2.79,
-      "tgmrkt_price_ton": 2.86
+      "tgmrkt_price_ton": 2.89
     },
     {
       "full_name": "Upgraded Torch",
@@ -1230,7 +1230,7 @@
       "full_name": "Mask",
       "short_name": "mask",
       "id": "5775966332847654507",
-      "price_ton": 5.8971
+      "price_ton": 5.8311
     },
     {
       "full_name": "Pencil",
@@ -1353,5 +1353,5 @@
       "price_ton": null
     }
   ],
-  "last_updated": 1781828411
+  "last_updated": 1781828716
 }

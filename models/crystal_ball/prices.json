@@ -98,11 +98,11 @@
     "Feather": 26.5,
     "Fire": 11.99,
     "Fish Skeleton": 9.99,
-    "Fish": 17.06,
+    "Fish": 16.74,
     "Fleur-de-lis": 25.0,
     "Flower Tulip": 10.0,
     "Flower": 19.0,
-    "Flying Witch": 9.68,
+    "Flying Witch": 9.67,
     "Ghost": 11.0,
     "Gravestone": 14.0,
     "Grim Reaper": 12.0,
@@ -152,7 +152,7 @@
     "Ram of Amun": 39.0,
     "Sauron": 11.0,
     "Scarecrow": 15.55,
-    "Scissors": 15.63,
+    "Scissors": 15.54,
     "Seahorse": 10.58,
     "Severed Hand": 9.9,
     "Shark Knife": 25.0,
@@ -164,7 +164,7 @@
     "Spider Web": 10.9,
     "Spirit Impala": 21.9,
     "Spooky Cat": 10.99,
-    "Sprout": 9.45,
+    "Sprout": 9.4,
     "Star": 26.0,
     "Sumerian Bird": 17.99,
     "Sun Lion": 16.0,
@@ -173,7 +173,7 @@
     "Treats": 11.0,
     "Tulip": 11.5,
     "Twin Peaks": 26.5,
-    "UFO": 9.46,
+    "UFO": 9.41,
     "Unicorn Head": 25.0,
     "Venetian Mask": 15.0,
     "Voodoo Doll": 10.0,
@@ -183,8 +183,8 @@
     "Yogi Shaman": 30.0
   },
   "models": {
-    "Amanita": 9.45,
-    "Baller": 26.0,
+    "Amanita": 9.4,
+    "Baller": 25.99,
     "Billiard": 20.0,
     "Bozo Clown": 11.0,
     "Brain Freeze": 13.0,
@@ -193,7 +193,7 @@
     "Crash Test": 11.43,
     "Daisy": 15.48,
     "Death Wish": 11.0,
-    "Deathquik": 9.46,
+    "Deathquik": 9.41,
     "Disco": 16.78,
     "Druid Circle": 10.9,
     "Electric Shock": 14.0,
@@ -239,5 +239,5 @@
     "Wednesday": 17.98,
     "World Cup": 34.9
   },
-  "last_updated": 1781828410
+  "last_updated": 1781828716
 }

@@ -136,7 +136,7 @@
     "Fez": 20.0,
     "Flamingo": 21.0,
     "Fleur-de-lis": 21.0,
-    "Flower Sun": 33.37,
+    "Flower Sun": 33.36,
     "Flower": 30.0,
     "Flying Dragon": 41.41,
     "French Fries": 30.0,
@@ -161,8 +161,8 @@
     "Horseshoe": 28.0,
     "Hot Matcha": 45.0,
     "Imperial Lion": 54.4,
-    "Inca Sun": 21.49,
-    "Inguz Rune": 25.98,
+    "Inca Sun": 21.25,
+    "Inguz Rune": 25.99,
     "Ink Pen": 24.0,
     "Jellyfish": 24.8,
     "Jolly Roger": 30.39,
@@ -232,7 +232,7 @@
     "Shooting Star": 21.99,
     "Shortsword": 40.6,
     "Snail": 45.0,
-    "Sombrero": 27.8,
+    "Sombrero": 27.52,
     "Spanner": 100.0,
     "Sparks": 38.0,
     "Spellbook": 111.0,
@@ -262,7 +262,7 @@
     "Wizard Hat": 72.8,
     "Wontons": 30.9,
     "Yin-Yang": 24.0,
-    "Yogi Shaman": 22.33
+    "Yogi Shaman": 22.09
   },
   "models": {
     "Abyss Binky": 20.9,
@@ -316,5 +316,5 @@
     "Void Watcher": 28.0,
     "Water Lily": 59.99
   },
-  "last_updated": 1781828410
+  "last_updated": 1781828716
 }

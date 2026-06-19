@@ -14,8 +14,8 @@
     "Roman Silver": 2.49,
     "Burgundy": 2.48,
     "Midnight Blue": 2.5,
-    "Moonstone": 2.48,
-    "Emerald": 2.48,
+    "Moonstone": 2.49,
+    "Emerald": 2.49,
     "Neon Blue": 2.49,
     "Satin Gold": 2.49,
     "Platinum": 2.53,
@@ -33,7 +33,7 @@
     "Silver Blue": 2.49,
     "Sapphire": 2.5,
     "Amber": 2.48,
-    "Lavender": 2.46,
+    "Lavender": 2.47,
     "Carrot Juice": 2.49,
     "Caramel": 2.5,
     "Fandango": 2.49,
@@ -45,7 +45,7 @@
     "Ivory White": 2.48,
     "Grape": 2.49,
     "Pacific Cyan": 2.48,
-    "Battleship Grey": 2.47,
+    "Battleship Grey": 2.49,
     "Dark Lilac": 2.5,
     "English Violet": 2.49,
     "Copper": 2.49,
@@ -189,7 +189,7 @@
     "Winter House": 3.0,
     "Wise Raven": 5.7,
     "Worker Ant": 4.0,
-    "Wreath": 4.35
+    "Wreath": 4.36
   },
   "models": {
     "Adam": 3.4,
@@ -221,7 +221,7 @@
     "Crunched": 3.39,
     "Dandy Candy": 3.0,
     "Dark Almond": 3.1,
-    "Dracula": 11.45,
+    "Dracula": 11.44,
     "Eskimo": 4.5,
     "Eve": 11.0,
     "Faint Blush": 3.55,
@@ -247,7 +247,7 @@
     "Lebkuchen": 3.25,
     "Lil Ginger": 3.2,
     "Madagascar": 3.5,
-    "Marshmallow": 4.35,
+    "Marshmallow": 4.36,
     "Marzipan": 3.3,
     "Matrix": 3.46,
     "Melonius": 4.0,
@@ -288,10 +288,10 @@
     "Toffee": 3.0,
     "Truffle": 3.99,
     "Unicorn": 3.0,
-    "Universe": 79.99,
+    "Universe": 80.0,
     "Vanilla": 3.2,
     "Waffle": 3.01,
-    "White Gold": 5.97
+    "White Gold": 5.96
   },
-  "last_updated": 1781828411
+  "last_updated": 1781828716
 }
