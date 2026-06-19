@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Midnight Blue": 2.5,
-    "Lavender": 2.48,
+    "Lavender": 2.5,
     "Pistachio": 2.49,
     "English Violet": 2.49,
     "Roman Silver": 2.49,
@@ -21,10 +21,10 @@
     "Grape": 2.49,
     "French Blue": 2.49,
     "Pure Gold": 2.48,
-    "Strawberry": 2.49,
+    "Strawberry": 2.48,
     "Persimmon": 2.48,
     "Satin Gold": 2.49,
-    "Ivory White": 2.48,
+    "Ivory White": 2.5,
     "Chestnut": 2.49,
     "Steel Grey": 2.49,
     "Raspberry": 2.5,
@@ -39,14 +39,14 @@
     "Battleship Grey": 2.49,
     "Emerald": 2.48,
     "Azure Blue": 2.49,
-    "Rosewood": 2.49,
+    "Rosewood": 2.47,
     "Purple": 2.49,
     "Electric Indigo": 2.48,
     "Shamrock Green": 2.49,
     "Silver Blue": 2.49,
-    "Fandango": 2.48,
-    "Khaki Green": 2.48,
-    "Mint Green": 2.48,
+    "Fandango": 2.5,
+    "Khaki Green": 2.49,
+    "Mint Green": 2.49,
     "Sky Blue": 2.5,
     "Desert Sand": 2.5,
     "Light Olive": 2.5,
@@ -56,7 +56,7 @@
     "Turquoise": 2.5,
     "Lemongrass": 2.49,
     "Indigo Dye": 2.49,
-    "Pacific Cyan": 2.49,
+    "Pacific Cyan": 2.48,
     "Chocolate": 2.48
   },
   "symbols": {
@@ -166,7 +166,7 @@
     "Palette": 1350.0,
     "Passion Latte": 74.99,
     "Paw": 350.0,
-    "Pawn": 62.5,
+    "Pawn": 61.9,
     "Pearl": 100.0,
     "Pegasus": 400.0,
     "Pencil": 160.0,
@@ -261,5 +261,5 @@
     "№5 L'eau": 280.0,
     "№5 L’eau": 280.0
   },
-  "last_updated": 1781873413
+  "last_updated": 1781875729
 }
