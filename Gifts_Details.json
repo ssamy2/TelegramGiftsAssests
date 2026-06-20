@@ -117,7 +117,7 @@
       "short_name": "desk_calendar",
       "regular_id": "5782988952268964995",
       "custom_emoji_id": "5886535438339939540",
-      "floor_price_ton": 4.25,
+      "floor_price_ton": 4.23,
       "models": []
     },
     {
@@ -155,7 +155,7 @@
       "short_name": "eternal_candle",
       "regular_id": "5821205665758053411",
       "custom_emoji_id": "5886598763337751729",
-      "floor_price_ton": 4.44,
+      "floor_price_ton": 4.46,
       "models": []
     },
     {
@@ -203,7 +203,7 @@
       "short_name": "gem_signet",
       "regular_id": "5859442703032386168",
       "custom_emoji_id": "5886280729599418766",
-      "floor_price_ton": 52.49,
+      "floor_price_ton": 51.96,
       "models": []
     },
     {
@@ -211,7 +211,7 @@
       "short_name": "genie_lamp",
       "regular_id": "5933531623327795414",
       "custom_emoji_id": "5886608298165149924",
-      "floor_price_ton": 30.34,
+      "floor_price_ton": 30.28,
       "models": []
     },
     {
@@ -243,7 +243,7 @@
       "short_name": "heart_locket",
       "regular_id": "5868455043362980631",
       "custom_emoji_id": "5886688914701297048",
-      "floor_price_ton": 984.89,
+      "floor_price_ton": 1003.79,
       "models": []
     },
     {
@@ -283,7 +283,7 @@
       "short_name": "hypno_lollipop",
       "regular_id": "5825895989088617224",
       "custom_emoji_id": "5886506722188599284",
-      "floor_price_ton": 2.96,
+      "floor_price_ton": 2.94,
       "models": []
     },
     {
@@ -307,7 +307,7 @@
       "short_name": "instant_ramen",
       "regular_id": "6005564615793050414",
       "custom_emoji_id": "5886674887338106595",
-      "floor_price_ton": 2.33,
+      "floor_price_ton": 2.65,
       "models": []
     },
     {
@@ -323,7 +323,7 @@
       "short_name": "ionic_dryer",
       "regular_id": "5933937398953018107",
       "custom_emoji_id": "5886374140843138062",
-      "floor_price_ton": 11.01,
+      "floor_price_ton": 11.03,
       "models": []
     },
     {
@@ -363,7 +363,7 @@
       "short_name": "jolly_chimp",
       "regular_id": "6005880141270483700",
       "custom_emoji_id": "5886680578169774043",
-      "floor_price_ton": 6,
+      "floor_price_ton": 6.22,
       "models": []
     },
     {
@@ -444,7 +444,7 @@
       "full_name": "Lush Bouquet",
       "short_name": "lush_bouquet",
       "regular_id": "5871002671934079382",
-      "floor_price_ton": 4.5,
+      "floor_price_ton": 4.48,
       "models": []
     },
     {
@@ -486,7 +486,7 @@
       "full_name": "Moon Pendant",
       "short_name": "moon_pendant",
       "regular_id": "5998981470310368313",
-      "floor_price_ton": 4.82,
+      "floor_price_ton": 4.81,
       "models": []
     },
     {
@@ -500,7 +500,7 @@
       "full_name": "Nail Bracelet",
       "short_name": "nail_bracelet",
       "regular_id": "5870720080265871962",
-      "floor_price_ton": 89.24,
+      "floor_price_ton": 89.43,
       "models": []
     },
     {
@@ -591,7 +591,7 @@
       "full_name": "Sharp Tongue",
       "short_name": "sharp_tongue",
       "regular_id": "5841689550203650524",
-      "floor_price_ton": 35.9,
+      "floor_price_ton": 35.91,
       "models": []
     },
     {
@@ -654,7 +654,7 @@
       "full_name": "Snow Mittens",
       "short_name": "snow_mittens",
       "regular_id": "5980789805615678057",
-      "floor_price_ton": 3.39,
+      "floor_price_ton": 3.4,
       "models": []
     },
     {
@@ -703,7 +703,7 @@
       "full_name": "Swiss Watch",
       "short_name": "swiss_watch",
       "regular_id": "5936043693864651359",
-      "floor_price_ton": 37.74,
+      "floor_price_ton": 38.63,
       "models": []
     },
     {
@@ -829,7 +829,7 @@
       "full_name": "Rare Bird",
       "short_name": "rare_bird",
       "regular_id": "5832325860073407546",
-      "floor_price_ton": 20.95,
+      "floor_price_ton": 20.99,
       "models": []
     },
     {
@@ -857,7 +857,7 @@
       "full_name": "Rare Bird",
       "short_name": "rare_bird",
       "regular_id": "5999116401002939514",
-      "floor_price_ton": 20.95,
+      "floor_price_ton": 20.99,
       "models": []
     },
     {
@@ -993,7 +993,7 @@
       "short_name": "statue",
       "id": "5999298447486747746",
       "custom_emoji_id": "5886341438962146518",
-      "price_ton": 4.22
+      "price_ton": 4.08
     },
     {
       "full_name": "Surfboard",
@@ -1087,5 +1087,5 @@
   "unupgraded_description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars.",
   "regular_description": "A regular gift you can send to your friends for a nominal price.",
   "models": "models/",
-  "last_updated": 1781966781
+  "last_updated": 1781970692
 }
