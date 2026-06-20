@@ -1267,7 +1267,7 @@
       "full_name": "Airplane",
       "short_name": "airplane",
       "id": "5818708013426410448",
-      "price_ton": 5234.405,
+      "price_ton": 5233.4531,
       "custom_emoji_id": "5886335889864401231"
     },
     {
@@ -1295,7 +1295,7 @@
       "full_name": "Coffin",
       "short_name": "coffin",
       "id": "5776227780391864916",
-      "price_ton": 17.75004,
+      "price_ton": 17.60304,
       "custom_emoji_id": "5884403030027149069"
     },
     {
@@ -1316,7 +1316,7 @@
       "full_name": "Durov's Figurine",
       "short_name": "durovs_figurine",
       "id": "6003477390536213997",
-      "price_ton": 1199.1885,
+      "price_ton": 1149.5,
       "custom_emoji_id": "5884311719022435475"
     },
     {
@@ -1337,7 +1337,7 @@
       "full_name": "Gravestone",
       "short_name": "gravestone",
       "id": "5775955135867913556",
-      "price_ton": 41.8,
+      "price_ton": 41.60957,
       "custom_emoji_id": "5886540905833307117"
     },
     {
@@ -1351,21 +1351,21 @@
       "full_name": "Lamp Candle",
       "short_name": "lamp_candle",
       "id": "5913351908466098791",
-      "price_ton": 10.0,
+      "price_ton": 20.0,
       "custom_emoji_id": "5884021589686625031"
     },
     {
       "full_name": "Mask",
       "short_name": "mask",
       "id": "5775966332847654507",
-      "price_ton": 5.63255,
+      "price_ton": 5.66136,
       "custom_emoji_id": "5886532565006819748"
     },
     {
       "full_name": "Pencil",
       "short_name": "pencil",
       "id": "5882129648002794519",
-      "price_ton": 14.0,
+      "price_ton": 13.5,
       "custom_emoji_id": "5886301010434989619"
     },
     {
@@ -1400,7 +1400,7 @@
       "full_name": "Statue",
       "short_name": "statue",
       "id": "5999298447486747746",
-      "price_ton": 4.08,
+      "price_ton": 4.33,
       "custom_emoji_id": "5886671966760345720"
     },
     {
@@ -1421,11 +1421,11 @@
       "full_name": "Trojan Horse",
       "short_name": "trojan_horse",
       "id": "5956308547863052791",
-      "price_ton": 46.5025,
+      "price_ton": 46.493716,
       "custom_emoji_id": "5884287151809503798"
     }
   ],
-  "last_updated": 1781913992,
+  "last_updated": 1781914506,
   "regular_gifts": [
     {
       "full_name": "Gift 5170145012310081615",
