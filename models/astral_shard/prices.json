@@ -6,7 +6,7 @@
     "Raspberry": 2.5,
     "Carrot Juice": 2.49,
     "Electric Indigo": 2.5,
-    "Mystic Pearl": 2.49,
+    "Mystic Pearl": 2.48,
     "Emerald": 2.49,
     "Khaki Green": 2.49,
     "Steel Grey": 2.53,
@@ -17,7 +17,7 @@
     "Cobalt Blue": 2.49,
     "Jade Green": 2.5,
     "Coral Red": 2.49,
-    "Fandango": 2.49,
+    "Fandango": 2.5,
     "Navy Blue": 2.49,
     "Pacific Green": 2.5,
     "Persimmon": 2.49,
@@ -28,14 +28,14 @@
     "Lemongrass": 2.49,
     "Purple": 2.5,
     "Neon Blue": 2.49,
-    "Turquoise": 2.49,
+    "Turquoise": 2.48,
     "Ivory White": 2.5,
     "Azure Blue": 2.49,
     "Roman Silver": 2.49,
     "Satin Gold": 2.49,
     "Platinum": 2.49,
     "Silver Blue": 2.49,
-    "Hunter Green": 2.5,
+    "Hunter Green": 2.49,
     "Strawberry": 2.49,
     "Lavender": 2.5,
     "Cappuccino": 2.5,
@@ -52,7 +52,7 @@
     "French Blue": 2.5,
     "Dark Lilac": 2.49,
     "Aquamarine": 2.49,
-    "Malachite": 2.49,
+    "Malachite": 2.48,
     "English Violet": 2.49,
     "Pure Gold": 2.49,
     "Chestnut": 2.49,
@@ -116,7 +116,7 @@
     "High Heels": 219.0,
     "Illuminati": 300.0,
     "Inca Sun": 165.0,
-    "Inguz Rune": 200.0,
+    "Inguz Rune": 120.0,
     "Kitsune": 320.0,
     "Knight": 134.99,
     "Koala": 500.0,
@@ -173,7 +173,8 @@
     "Wasp": 116.7,
     "White Deer": 200.0,
     "Wolf Rage": 189.88,
-    "Wreath": 365.0
+    "Wreath": 365.0,
+    "Yogi Shaman": 140.0
   },
   "models": {
     "Amethyst": 128.99,
@@ -210,7 +211,7 @@
     "Muffin": 118.21,
     "Nectarite": 188.99,
     "Nouveau Gold": 200.0,
-    "Ocean Jasper": 193.0,
+    "Ocean Jasper": 113.99,
     "Premium": 165.0,
     "Pure Silver": 140.0,
     "Red Ruby": 128.9,
@@ -227,5 +228,5 @@
     "Warholite": 175.0,
     "White Opal": 114.99
   },
-  "last_updated": 1781927759
+  "last_updated": 1781930972
 }

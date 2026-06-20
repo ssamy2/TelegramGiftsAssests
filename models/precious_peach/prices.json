@@ -22,10 +22,10 @@
     "Amber": 2.49,
     "Electric Purple": 2.5,
     "English Violet": 2.49,
-    "Turquoise": 2.49,
+    "Turquoise": 2.48,
     "Orange": 2.49,
     "Grape": 2.49,
-    "Purple": 2.49,
+    "Purple": 2.5,
     "Satin Gold": 2.49,
     "Cobalt Blue": 2.49,
     "Rosewood": 2.49,
@@ -39,10 +39,10 @@
     "Pine Green": 2.49,
     "Desert Sand": 2.49,
     "Light Olive": 2.49,
-    "Malachite": 2.49,
+    "Malachite": 2.48,
     "Pure Gold": 2.49,
-    "Fandango": 2.49,
-    "Mystic Pearl": 2.49,
+    "Fandango": 2.5,
+    "Mystic Pearl": 2.48,
     "Raspberry": 2.5,
     "Silver Blue": 2.49,
     "Caramel": 2.48,
@@ -203,7 +203,7 @@
   "models": {
     "999 Karat": 999.0,
     "Airy Bright": 320.0,
-    "Angelic": 444.0,
+    "Angelic": 435.0,
     "Bismuth": 369.0,
     "Bright Amber": 275.0,
     "Bright Coral": 270.0,
@@ -264,7 +264,7 @@
     "Smooch": 350.0,
     "Soap Bubble": 450.0,
     "Soft Sunset": 260.0,
-    "Stardust": 237.5,
+    "Stardust": 700.0,
     "Sunset": 400.0,
     "Terra Firma": 388.0,
     "Tonfruit": 450.0,
@@ -277,5 +277,5 @@
     "Purple Glow": 247.5,
     "Smooth Touch": 239.99
   },
-  "last_updated": 1781927759
+  "last_updated": 1781930972
 }

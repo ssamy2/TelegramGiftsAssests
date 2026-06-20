@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Purple": 2.49,
+    "Purple": 2.5,
     "Carrot Juice": 2.49,
     "Electric Indigo": 2.5,
     "Cappuccino": 2.5,
@@ -13,12 +13,12 @@
     "Copper": 2.5,
     "Steel Grey": 2.53,
     "Burgundy": 2.5,
-    "Turquoise": 2.49,
+    "Turquoise": 2.48,
     "Desert Sand": 2.49,
     "Silver Blue": 2.49,
     "Satin Gold": 2.49,
     "Grape": 2.49,
-    "Mystic Pearl": 2.49,
+    "Mystic Pearl": 2.48,
     "Amber": 2.49,
     "Strawberry": 2.49,
     "Cobalt Blue": 2.49,
@@ -30,9 +30,9 @@
     "Orange": 2.49,
     "Navy Blue": 2.49,
     "Chestnut": 2.49,
-    "Fandango": 2.49,
+    "Fandango": 2.5,
     "Khaki Green": 2.49,
-    "Malachite": 2.49,
+    "Malachite": 2.48,
     "Pacific Green": 2.5,
     "Battleship Grey": 2.49,
     "Aquamarine": 2.49,
@@ -97,7 +97,7 @@
     "Fireworks": 6.9,
     "Fish": 30.01,
     "Flashlight": 7.14,
-    "Flipper": 6.5,
+    "Flipper": 12.0,
     "Flower": 12.54,
     "Gear": 9.0,
     "Genie Lamp": 92.0,
@@ -136,7 +136,7 @@
     "Oak Leaf": 9.9,
     "Octopus": 18.0,
     "Ornament": 7.2,
-    "Ouroboros": 6.86,
+    "Ouroboros": 6.79,
     "Palette": 18.0,
     "PC Mouse": 10.68,
     "Pear": 15.0,
@@ -155,7 +155,7 @@
     "Santa Hat": 6.74,
     "Scissors": 12.0,
     "Sea Jelly": 18.0,
-    "Seahorse": 8.81,
+    "Seahorse": 8.79,
     "Shell": 17.0,
     "Shooting Star": 7.5,
     "Skull": 14.0,
@@ -288,5 +288,5 @@
     "Zero Gravity": 7.9,
     "Сarambola": 6.95
   },
-  "last_updated": 1781927759
+  "last_updated": 1781930972
 }

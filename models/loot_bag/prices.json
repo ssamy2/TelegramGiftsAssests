@@ -9,7 +9,7 @@
     "Khaki Green": 2.49,
     "Caramel": 2.48,
     "Hunter Green": 2.49,
-    "Mystic Pearl": 2.49,
+    "Mystic Pearl": 2.48,
     "Coral Red": 2.49,
     "Navy Blue": 2.49,
     "Satin Gold": 2.49,
@@ -20,7 +20,7 @@
     "English Violet": 2.49,
     "Cobalt Blue": 2.49,
     "Silver Blue": 2.49,
-    "Purple": 2.49,
+    "Purple": 2.5,
     "Azure Blue": 2.49,
     "Chocolate": 2.5,
     "Strawberry": 2.49,
@@ -28,7 +28,7 @@
     "Aquamarine": 2.49,
     "Amber": 2.49,
     "Rosewood": 2.49,
-    "Turquoise": 2.49,
+    "Turquoise": 2.48,
     "Electric Indigo": 2.5,
     "Cappuccino": 2.5,
     "Carrot Juice": 2.49,
@@ -53,13 +53,13 @@
     "Persimmon": 2.49,
     "Lemongrass": 2.49,
     "Pure Gold": 2.49,
-    "Malachite": 2.49,
-    "Fandango": 2.49,
+    "Malachite": 2.48,
+    "Fandango": 2.5,
     "Sapphire": 2.5,
     "Sky Blue": 2.5,
     "Cyberpunk": 2.5,
     "Black": 389.0,
-    "Onyx Black": 172.99
+    "Onyx Black": 172.0
   },
   "symbols": {
     "Lion King": 92.5,
@@ -189,7 +189,7 @@
     "Pickaxe": 160.0,
     "Piggy Bank": 300.0,
     "Pineapple": 255.0,
-    "Pirate Scull": 1199.95,
+    "Pirate Scull": 1199.96,
     "Pizza Slice": 145.0,
     "Piñata": 1000.0,
     "Polar Bear": 999.0,
@@ -340,5 +340,5 @@
     "Faubourg": 282.0,
     "Vert d’Eau": 145.0
   },
-  "last_updated": 1781927759
+  "last_updated": 1781930972
 }
