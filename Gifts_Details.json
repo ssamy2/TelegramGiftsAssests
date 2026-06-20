@@ -1178,17 +1178,6 @@
       "custom_emoji_id": "5884030183916183823"
     },
     {
-      "full_name": "Upgraded Backpack",
-      "short_name": "upgraded_backpack",
-      "regular_id": "5886756255493523118",
-      "floor_price_ton": null,
-      "models": [],
-      "portal_price_ton": null,
-      "getgems_price_ton": null,
-      "tgmrkt_price_ton": null,
-      "custom_emoji_id": "5886386042197515705"
-    },
-    {
       "full_name": "Timeless Book",
       "short_name": "timeless_book",
       "regular_id": "5886387158889005864",
@@ -1211,17 +1200,6 @@
       "custom_emoji_id": "5884014722033917816"
     },
     {
-      "full_name": "Upgraded Eagle",
-      "short_name": "upgraded_eagle",
-      "regular_id": "5999116401002939514",
-      "floor_price_ton": null,
-      "models": [],
-      "portal_price_ton": null,
-      "getgems_price_ton": null,
-      "tgmrkt_price_ton": null,
-      "custom_emoji_id": "5884326987631172948"
-    },
-    {
       "full_name": "Victory Medal",
       "short_name": "victory_medal",
       "regular_id": "5830340739074097859",
@@ -1242,17 +1220,6 @@
       "getgems_price_ton": 2.87,
       "tgmrkt_price_ton": 2.86,
       "custom_emoji_id": "5886444153105031753"
-    },
-    {
-      "full_name": "Upgraded Torch",
-      "short_name": "upgraded_torch",
-      "regular_id": "5999277561060787166",
-      "floor_price_ton": null,
-      "models": [],
-      "portal_price_ton": null,
-      "getgems_price_ton": null,
-      "tgmrkt_price_ton": null,
-      "custom_emoji_id": "5884427060369170081"
     }
   ],
   "unupgraded": [
