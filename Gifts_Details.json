@@ -536,14 +536,6 @@
       "regular_id": "6003767644426076664"
     },
     {
-<<<<<<< HEAD
-=======
-      "full_name": "Upgraded Backpack",
-      "short_name": "upgraded_backpack",
-      "regular_id": "5886756255493523118"
-    },
-    {
->>>>>>> 7dffe9b70f33acb7d2f66700c3c542cee894d861
       "full_name": "Timeless Book",
       "short_name": "timeless_book",
       "regular_id": "5886387158889005864"
@@ -554,14 +546,6 @@
       "regular_id": "5898012527257715797"
     },
     {
-<<<<<<< HEAD
-=======
-      "full_name": "Upgraded Eagle",
-      "short_name": "upgraded_eagle",
-      "regular_id": "5999116401002939514"
-    },
-    {
->>>>>>> 7dffe9b70f33acb7d2f66700c3c542cee894d861
       "full_name": "Victory Medal",
       "short_name": "victory_medal",
       "regular_id": "5830340739074097859"
@@ -569,21 +553,7 @@
     {
       "full_name": "Pool Float",
       "short_name": "pool_float",
-<<<<<<< HEAD
-      "regular_id": "5832644211639321671",
-      "floor_price_ton": 2.76,
-      "models": [],
-      "portal_price_ton": 2.76,
-      "getgems_price_ton": 2.87,
-      "tgmrkt_price_ton": 2.86,
-      "custom_emoji_id": "5886444153105031753"
-=======
       "regular_id": "5832644211639321671"
-    },
-    {
-      "full_name": "Upgraded Torch",
-      "short_name": "upgraded_torch",
-      "regular_id": "5999277561060787166"
     },
     {
       "full_name": "Rare Bird",
@@ -604,7 +574,11 @@
       "full_name": "Mood Pack",
       "short_name": "mood_pack",
       "regular_id": "5775966332847654507"
->>>>>>> 7dffe9b70f33acb7d2f66700c3c542cee894d861
+    },
+    {
+      "full_name": "Rare Bird",
+      "short_name": "rare_bird",
+      "regular_id": "5999116401002939514"
     }
   ],
   "unupgraded": [
@@ -762,6 +736,16 @@
       "full_name": "Gift 6028601630662853006",
       "short_name": "gift_6028601630662853006",
       "id": "6028601630662853006"
+    },
+    {
+      "full_name": "Chill Flame",
+      "short_name": "chill_flame",
+      "id": "5999277561060787166"
+    },
+    {
+      "full_name": "Mood Pack",
+      "short_name": "mood_pack",
+      "id": "5886756255493523118"
     }
   ],
   "upgraded_description": "A unique collectible NFT that can be collected, sold, or gifted to friends.",
