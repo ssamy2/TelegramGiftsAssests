@@ -11,7 +11,7 @@
     "Aquamarine": 2.49,
     "Coral Red": 2.48,
     "Purple": 2.49,
-    "Moonstone": 2.47,
+    "Moonstone": 2.45,
     "Hunter Green": 2.48,
     "Ivory White": 2.5,
     "Raspberry": 2.49,
@@ -25,7 +25,7 @@
     "Sky Blue": 2.5,
     "English Violet": 2.49,
     "Azure Blue": 2.47,
-    "Roman Silver": 2.49,
+    "Roman Silver": 2.46,
     "Indigo Dye": 2.49,
     "Desert Sand": 2.49,
     "Chestnut": 2.49,
@@ -74,7 +74,7 @@
     "Blood Drop": 6.0,
     "Bloody Axe": 5.0,
     "Bottlenose": 6.49,
-    "Bow Tie": 10.86,
+    "Bow Tie": 10.87,
     "Brain": 4.6,
     "Bubbles": 6.0,
     "Bull of Heaven": 6.9,
@@ -127,7 +127,7 @@
     "Human Scull": 5.0,
     "Illuminati": 5.0,
     "Inguz Rune": 4.7,
-    "Jaws": 5.01,
+    "Jaws": 5.0,
     "Jellyfish": 5.0,
     "Jumbo Pencil": 4.5,
     "Koala": 4.7,
@@ -188,14 +188,14 @@
     "Totem Bear": 4.9,
     "Toy Bucket": 5.0,
     "Treats": 4.36,
-    "Tribal Shield": 6.39,
+    "Tribal Shield": 6.38,
     "Turtle": 4.89,
     "Unicorn": 5.0,
     "Venetian Mask": 6.0,
     "Viking": 5.5,
     "Voodoo Doll": 7.8,
     "Witch’s Hat": 5.0,
-    "Wreath": 5.94,
+    "Wreath": 5.84,
     "Yogi Shaman": 4.88
   },
   "models": {
@@ -280,5 +280,5 @@
     "Wolfsbane": 5.0,
     "Yellow Gold": 4.75
   },
-  "last_updated": 1781911557
+  "last_updated": 1781913870
 }
