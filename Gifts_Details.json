@@ -234,7 +234,8 @@
       "portal_price_ton": 5.8,
       "getgems_price_ton": 5.8,
       "tgmrkt_price_ton": 5.69,
-      "models": "models/evil_eye/prices.json"
+      "models": "models/evil_eye/prices.json",
+      "custom_emoji_id": "5891250857164414509"
     },
     {
       "full_name": "Faith Amulet",
@@ -254,7 +255,8 @@
       "portal_price_ton": 8.79,
       "getgems_price_ton": 8.79,
       "tgmrkt_price_ton": 8.47,
-      "models": "models/flying_broom/prices.json"
+      "models": "models/flying_broom/prices.json",
+      "custom_emoji_id": "5890803669464522832"
     },
     {
       "full_name": "Fresh Socks",
@@ -264,7 +266,8 @@
       "portal_price_ton": 3.2,
       "getgems_price_ton": 3.2,
       "tgmrkt_price_ton": 3.1,
-      "models": "models/fresh_socks/prices.json"
+      "models": "models/fresh_socks/prices.json",
+      "custom_emoji_id": "5890920866237127923"
     },
     {
       "full_name": "Gem Signet",
@@ -274,7 +277,8 @@
       "portal_price_ton": 51.86,
       "getgems_price_ton": 52.8,
       "tgmrkt_price_ton": 49.39,
-      "models": "models/gem_signet/prices.json"
+      "models": "models/gem_signet/prices.json",
+      "custom_emoji_id": "5891213688517434803"
     },
     {
       "full_name": "Genie Lamp",
@@ -284,7 +288,8 @@
       "portal_price_ton": 29.62,
       "getgems_price_ton": 33.0,
       "tgmrkt_price_ton": 28.85,
-      "models": "models/genie_lamp/prices.json"
+      "models": "models/genie_lamp/prices.json",
+      "custom_emoji_id": "5891013680480395102"
     },
     {
       "full_name": "Ginger Cookie",
@@ -294,7 +299,8 @@
       "portal_price_ton": 2.86,
       "getgems_price_ton": 3.04,
       "tgmrkt_price_ton": 2.96,
-      "models": "models/ginger_cookie/prices.json"
+      "models": "models/ginger_cookie/prices.json",
+      "custom_emoji_id": "5890899636213783201"
     },
     {
       "full_name": "Hanging Star",
@@ -304,7 +310,8 @@
       "portal_price_ton": 6.73,
       "getgems_price_ton": 6.8,
       "tgmrkt_price_ton": 6.41,
-      "models": "models/hanging_star/prices.json"
+      "models": "models/hanging_star/prices.json",
+      "custom_emoji_id": "5891237534175861508"
     },
     {
       "full_name": "Happy Brownie",
@@ -314,7 +321,8 @@
       "portal_price_ton": 3.15,
       "getgems_price_ton": 3.2,
       "tgmrkt_price_ton": 3.17,
-      "models": "models/happy_brownie/prices.json"
+      "models": "models/happy_brownie/prices.json",
+      "custom_emoji_id": "5891103956397988969"
     },
     {
       "full_name": "Heart Locket",
@@ -324,7 +332,8 @@
       "portal_price_ton": 986.99,
       "getgems_price_ton": 1050.0,
       "tgmrkt_price_ton": 939.99,
-      "models": "models/heart_locket/prices.json"
+      "models": "models/heart_locket/prices.json",
+      "custom_emoji_id": "5890723697173470267"
     },
     {
       "full_name": "Heroic Helmet",
@@ -334,7 +343,8 @@
       "portal_price_ton": 164.26,
       "getgems_price_ton": 195.0,
       "tgmrkt_price_ton": 156.44,
-      "models": "models/heroic_helmet/prices.json"
+      "models": "models/heroic_helmet/prices.json",
+      "custom_emoji_id": "5890989001598312284"
     },
     {
       "full_name": "Hex Pot",
@@ -344,7 +354,8 @@
       "portal_price_ton": 3.33,
       "getgems_price_ton": 3.33,
       "tgmrkt_price_ton": 3.26,
-      "models": "models/hex_pot/prices.json"
+      "models": "models/hex_pot/prices.json",
+      "custom_emoji_id": "5891102375850023983"
     },
     {
       "full_name": "Holiday Drink",
@@ -354,7 +365,8 @@
       "portal_price_ton": 2.78,
       "getgems_price_ton": 2.95,
       "tgmrkt_price_ton": 2.78,
-      "models": "models/holiday_drink/prices.json"
+      "models": "models/holiday_drink/prices.json",
+      "custom_emoji_id": "5890844561848147566"
     },
     {
       "full_name": "Homemade Cake",
@@ -364,7 +376,8 @@
       "portal_price_ton": 3.67,
       "getgems_price_ton": 4.11,
       "tgmrkt_price_ton": 3.84,
-      "models": "models/homemade_cake/prices.json"
+      "models": "models/homemade_cake/prices.json",
+      "custom_emoji_id": "5890882018257935591"
     },
     {
       "full_name": "Hypno Lollipop",
@@ -374,7 +387,8 @@
       "portal_price_ton": 2.94,
       "getgems_price_ton": 3.0,
       "tgmrkt_price_ton": 2.82,
-      "models": "models/hypno_lollipop/prices.json"
+      "models": "models/hypno_lollipop/prices.json",
+      "custom_emoji_id": "5891239234982910873"
     },
     {
       "full_name": "Ice Cream",
@@ -384,7 +398,8 @@
       "portal_price_ton": 2.63,
       "getgems_price_ton": 2.69,
       "tgmrkt_price_ton": 2.66,
-      "models": "models/ice_cream/prices.json"
+      "models": "models/ice_cream/prices.json",
+      "custom_emoji_id": "5890934326664634527"
     },
     {
       "full_name": "Input Key",
@@ -394,7 +409,8 @@
       "portal_price_ton": 4.2,
       "getgems_price_ton": 4.2,
       "tgmrkt_price_ton": 4.4,
-      "models": "models/input_key/prices.json"
+      "models": "models/input_key/prices.json",
+      "custom_emoji_id": "5890818676080254238"
     },
     {
       "full_name": "Instant Ramen",
@@ -404,7 +420,8 @@
       "portal_price_ton": 2.65,
       "getgems_price_ton": 2.69,
       "tgmrkt_price_ton": 2.7,
-      "models": "models/instant_ramen/prices.json"
+      "models": "models/instant_ramen/prices.json",
+      "custom_emoji_id": "5893463267833028094"
     },
     {
       "full_name": "Ion Gem",
@@ -414,7 +431,8 @@
       "portal_price_ton": 57.42,
       "getgems_price_ton": 65.8,
       "tgmrkt_price_ton": 54.69,
-      "models": "models/ion_gem/prices.json"
+      "models": "models/ion_gem/prices.json",
+      "custom_emoji_id": "5891015183718949660"
     },
     {
       "full_name": "Ionic Dryer",
@@ -424,7 +442,8 @@
       "portal_price_ton": 11.39,
       "getgems_price_ton": 11.5,
       "tgmrkt_price_ton": 10.84,
-      "models": "models/ionic_dryer/prices.json"
+      "models": "models/ionic_dryer/prices.json",
+      "custom_emoji_id": "5890807577884761442"
     },
     {
       "full_name": "Jack-in-the-Box",
@@ -434,7 +453,8 @@
       "portal_price_ton": 3.0,
       "getgems_price_ton": 3.0,
       "tgmrkt_price_ton": 3.29,
-      "models": "models/jackinthebox/prices.json"
+      "models": "models/jackinthebox/prices.json",
+      "custom_emoji_id": "5893377939717758311"
     },
     {
       "full_name": "Jelly Bunny",
@@ -444,7 +464,8 @@
       "portal_price_ton": 5.72,
       "getgems_price_ton": 5.72,
       "tgmrkt_price_ton": 5.5341,
-      "models": "models/jelly_bunny/prices.json"
+      "models": "models/jelly_bunny/prices.json",
+      "custom_emoji_id": "5891017893843311982"
     },
     {
       "full_name": "Jester Hat",
@@ -454,7 +475,8 @@
       "portal_price_ton": 2.98,
       "getgems_price_ton": 2.98,
       "tgmrkt_price_ton": 2.83,
-      "models": "models/jester_hat/prices.json"
+      "models": "models/jester_hat/prices.json",
+      "custom_emoji_id": "5891053267193962382"
     },
     {
       "full_name": "Jingle Bells",
@@ -464,7 +486,8 @@
       "portal_price_ton": 5.68,
       "getgems_price_ton": 5.68,
       "tgmrkt_price_ton": 5.66,
-      "models": "models/jingle_bells/prices.json"
+      "models": "models/jingle_bells/prices.json",
+      "custom_emoji_id": "5893467034519347198"
     },
     {
       "full_name": "Jolly Chimp",
@@ -474,7 +497,8 @@
       "portal_price_ton": 6.14,
       "getgems_price_ton": 6.3,
       "tgmrkt_price_ton": 5.85,
-      "models": "models/jolly_chimp/prices.json"
+      "models": "models/jolly_chimp/prices.json",
+      "custom_emoji_id": "5890792665758310019"
     },
     {
       "full_name": "Joyful Bundle",
@@ -484,12 +508,14 @@
       "portal_price_ton": 5.88,
       "getgems_price_ton": 5.9,
       "tgmrkt_price_ton": 5.61,
-      "models": "models/joyful_bundle/prices.json"
+      "models": "models/joyful_bundle/prices.json",
+      "custom_emoji_id": "5890858417412645195"
     },
     {
       "full_name": "Khabib’s Papakha",
       "short_name": "khabibs_papakha",
-      "regular_id": "5839094187366024301"
+      "regular_id": "5839094187366024301",
+      "custom_emoji_id": "5890852395868496901"
     },
     {
       "full_name": "Kissed Frog",
@@ -499,7 +525,8 @@
       "portal_price_ton": 35.99,
       "getgems_price_ton": 35.97,
       "tgmrkt_price_ton": 34.45,
-      "models": "models/kissed_frog/prices.json"
+      "models": "models/kissed_frog/prices.json",
+      "custom_emoji_id": "5890822442766572880"
     },
     {
       "full_name": "Light Sword",
@@ -509,7 +536,8 @@
       "portal_price_ton": 5.47,
       "getgems_price_ton": 5.56,
       "tgmrkt_price_ton": 5.19,
-      "models": "models/light_sword/prices.json"
+      "models": "models/light_sword/prices.json",
+      "custom_emoji_id": "5890908105889291614"
     },
     {
       "full_name": "Lol Pop",
@@ -519,7 +547,8 @@
       "portal_price_ton": 2.63,
       "getgems_price_ton": 2.83,
       "tgmrkt_price_ton": 2.66,
-      "models": "models/lol_pop/prices.json"
+      "models": "models/lol_pop/prices.json",
+      "custom_emoji_id": "5891147279733105050"
     },
     {
       "full_name": "Loot Bag",
@@ -529,7 +558,8 @@
       "portal_price_ton": 98.16,
       "getgems_price_ton": 99.0,
       "tgmrkt_price_ton": 93.43,
-      "models": "models/loot_bag/prices.json"
+      "models": "models/loot_bag/prices.json",
+      "custom_emoji_id": "5893037932926737938"
     },
     {
       "full_name": "Love Candle",
@@ -539,7 +569,8 @@
       "portal_price_ton": 7.27,
       "getgems_price_ton": 7.269,
       "tgmrkt_price_ton": 6.94,
-      "models": "models/love_candle/prices.json"
+      "models": "models/love_candle/prices.json",
+      "custom_emoji_id": "5891176013064314601"
     },
     {
       "full_name": "Love Potion",
@@ -549,7 +580,8 @@
       "portal_price_ton": 11.4,
       "getgems_price_ton": 11.4,
       "tgmrkt_price_ton": 10.97,
-      "models": "models/love_potion/prices.json"
+      "models": "models/love_potion/prices.json",
+      "custom_emoji_id": "5890854401618224058"
     },
     {
       "full_name": "Low Rider",
@@ -569,7 +601,8 @@
       "portal_price_ton": 2.44,
       "getgems_price_ton": 2.754,
       "tgmrkt_price_ton": 2.47,
-      "models": "models/lunar_snake/prices.json"
+      "models": "models/lunar_snake/prices.json",
+      "custom_emoji_id": "5893456773842476284"
     },
     {
       "full_name": "Lush Bouquet",
@@ -579,7 +612,8 @@
       "portal_price_ton": 4.45,
       "getgems_price_ton": 4.7,
       "tgmrkt_price_ton": 4.24,
-      "models": "models/lush_bouquet/prices.json"
+      "models": "models/lush_bouquet/prices.json",
+      "custom_emoji_id": "5890727369370508079"
     },
     {
       "full_name": "Mad Pumpkin",
@@ -589,7 +623,8 @@
       "portal_price_ton": 9.37,
       "getgems_price_ton": 9.55,
       "tgmrkt_price_ton": 8.89,
-      "models": "models/mad_pumpkin/prices.json"
+      "models": "models/mad_pumpkin/prices.json",
+      "custom_emoji_id": "5890866762534100073"
     },
     {
       "full_name": "Magic Potion",
@@ -599,7 +634,8 @@
       "portal_price_ton": 44.44,
       "getgems_price_ton": 49.6621,
       "tgmrkt_price_ton": 43.29,
-      "models": "models/magic_potion/prices.json"
+      "models": "models/magic_potion/prices.json",
+      "custom_emoji_id": "5891067809953225981"
     },
     {
       "full_name": "Mighty Arm",
@@ -609,7 +645,8 @@
       "portal_price_ton": 98.17,
       "getgems_price_ton": 130.0,
       "tgmrkt_price_ton": 94.25,
-      "models": "models/mighty_arm/prices.json"
+      "models": "models/mighty_arm/prices.json",
+      "custom_emoji_id": "5891160731570675231"
     },
     {
       "full_name": "Mini Oscar",
@@ -619,7 +656,8 @@
       "portal_price_ton": 60.54,
       "getgems_price_ton": 64.0,
       "tgmrkt_price_ton": 57.66,
-      "models": "models/mini_oscar/prices.json"
+      "models": "models/mini_oscar/prices.json",
+      "custom_emoji_id": "5890748118357516201"
     },
     {
       "full_name": "Money Pot",
@@ -629,7 +667,8 @@
       "portal_price_ton": 3.13,
       "getgems_price_ton": 3.25,
       "tgmrkt_price_ton": 3.18,
-      "models": "models/money_pot/prices.json"
+      "models": "models/money_pot/prices.json",
+      "custom_emoji_id": "5890784440895938474"
     },
     {
       "full_name": "Moon Pendant",
@@ -659,7 +698,8 @@
       "portal_price_ton": 90.78,
       "getgems_price_ton": 90.0,
       "tgmrkt_price_ton": 86.83,
-      "models": "models/nail_bracelet/prices.json"
+      "models": "models/nail_bracelet/prices.json",
+      "custom_emoji_id": "5890871980919366059"
     },
     {
       "full_name": "Neko Helmet",
@@ -669,7 +709,8 @@
       "portal_price_ton": 28.0,
       "getgems_price_ton": 28.0,
       "tgmrkt_price_ton": 28.23,
-      "models": "models/neko_helmet/prices.json"
+      "models": "models/neko_helmet/prices.json",
+      "custom_emoji_id": "5891035593403538458"
     },
     {
       "full_name": "Party Sparkler",
@@ -679,7 +720,8 @@
       "portal_price_ton": 3.0,
       "getgems_price_ton": 3.0,
       "tgmrkt_price_ton": 2.9,
-      "models": "models/party_sparkler/prices.json"
+      "models": "models/party_sparkler/prices.json",
+      "custom_emoji_id": "5890974875450876274"
     },
     {
       "full_name": "Perfume Bottle",
@@ -689,7 +731,8 @@
       "portal_price_ton": 60.85,
       "getgems_price_ton": 67.0,
       "tgmrkt_price_ton": 57.93,
-      "models": "models/perfume_bottle/prices.json"
+      "models": "models/perfume_bottle/prices.json",
+      "custom_emoji_id": "5891223571237183673"
     },
     {
       "full_name": "Pet Snake",
@@ -699,7 +742,8 @@
       "portal_price_ton": 2.6,
       "getgems_price_ton": 2.83,
       "tgmrkt_price_ton": 2.85,
-      "models": "models/pet_snake/prices.json"
+      "models": "models/pet_snake/prices.json",
+      "custom_emoji_id": "5890750837071816921"
     },
     {
       "full_name": "Plush Pepe",
@@ -709,7 +753,8 @@
       "portal_price_ton": 4929.1,
       "getgems_price_ton": 4929.102,
       "tgmrkt_price_ton": 4950.0,
-      "models": "models/plush_pepe/prices.json"
+      "models": "models/plush_pepe/prices.json",
+      "custom_emoji_id": "5893256632661449678"
     },
     {
       "full_name": "Precious Peach",
@@ -719,7 +764,8 @@
       "portal_price_ton": 255.0,
       "getgems_price_ton": 255.0,
       "tgmrkt_price_ton": 242.96,
-      "models": "models/precious_peach/prices.json"
+      "models": "models/precious_peach/prices.json",
+      "custom_emoji_id": "5890791102390213507"
     },
     {
       "full_name": "Pretty Posy",
@@ -729,7 +775,8 @@
       "portal_price_ton": 3.67,
       "getgems_price_ton": 3.6697,
       "tgmrkt_price_ton": 3.59,
-      "models": "models/pretty_posy/prices.json"
+      "models": "models/pretty_posy/prices.json",
+      "custom_emoji_id": "5893490893062677295"
     },
     {
       "full_name": "Record Player",
@@ -739,7 +786,8 @@
       "portal_price_ton": 8.7,
       "getgems_price_ton": 8.7,
       "tgmrkt_price_ton": 8.43,
-      "models": "models/record_player/prices.json"
+      "models": "models/record_player/prices.json",
+      "custom_emoji_id": "5891243521360272512"
     },
     {
       "full_name": "Restless Jar",
@@ -749,7 +797,8 @@
       "portal_price_ton": 4.0,
       "getgems_price_ton": 4.0,
       "tgmrkt_price_ton": 3.89,
-      "models": "models/restless_jar/prices.json"
+      "models": "models/restless_jar/prices.json",
+      "custom_emoji_id": "5891187270173597278"
     },
     {
       "full_name": "Sakura Flower",
@@ -759,7 +808,8 @@
       "portal_price_ton": 7.89,
       "getgems_price_ton": 7.89,
       "tgmrkt_price_ton": 7.91,
-      "models": "models/sakura_flower/prices.json"
+      "models": "models/sakura_flower/prices.json",
+      "custom_emoji_id": "5893003744987061893"
     },
     {
       "full_name": "Santa Hat",
@@ -769,7 +819,8 @@
       "portal_price_ton": 3.04,
       "getgems_price_ton": 3.3,
       "tgmrkt_price_ton": 3.1,
-      "models": "models/santa_hat/prices.json"
+      "models": "models/santa_hat/prices.json",
+      "custom_emoji_id": "5890917017946430484"
     },
     {
       "full_name": "Scared Cat",
@@ -779,7 +830,8 @@
       "portal_price_ton": 151.5,
       "getgems_price_ton": 151.5,
       "tgmrkt_price_ton": 147.55,
-      "models": "models/scared_cat/prices.json"
+      "models": "models/scared_cat/prices.json",
+      "custom_emoji_id": "5890995486998929120"
     },
     {
       "full_name": "Sharp Tongue",
@@ -789,7 +841,8 @@
       "portal_price_ton": 36.0,
       "getgems_price_ton": 37.185,
       "tgmrkt_price_ton": 34.29,
-      "models": "models/sharp_tongue/prices.json"
+      "models": "models/sharp_tongue/prices.json",
+      "custom_emoji_id": "5891146382084939355"
     },
     {
       "full_name": "Signet Ring",
@@ -799,7 +852,8 @@
       "portal_price_ton": 27.48,
       "getgems_price_ton": 27.48,
       "tgmrkt_price_ton": 26.7,
-      "models": "models/signet_ring/prices.json"
+      "models": "models/signet_ring/prices.json",
+      "custom_emoji_id": "5890779853870865654"
     },
     {
       "full_name": "Skull Flower",
@@ -809,7 +863,8 @@
       "portal_price_ton": 8.51,
       "getgems_price_ton": 8.75,
       "tgmrkt_price_ton": 8.09,
-      "models": "models/skull_flower/prices.json"
+      "models": "models/skull_flower/prices.json",
+      "custom_emoji_id": "5890915935614673839"
     },
     {
       "full_name": "Sky Stilettos",
@@ -819,7 +874,8 @@
       "portal_price_ton": 13.57,
       "getgems_price_ton": 13.57,
       "tgmrkt_price_ton": 13.22,
-      "models": "models/sky_stilettos/prices.json"
+      "models": "models/sky_stilettos/prices.json",
+      "custom_emoji_id": "5890758314609877075"
     },
     {
       "full_name": "Sleigh Bell",
@@ -829,7 +885,8 @@
       "portal_price_ton": 5.5,
       "getgems_price_ton": 5.5,
       "tgmrkt_price_ton": 5.4,
-      "models": "models/sleigh_bell/prices.json"
+      "models": "models/sleigh_bell/prices.json",
+      "custom_emoji_id": "5891079775732113486"
     },
     {
       "full_name": "Snake Box",
@@ -839,7 +896,8 @@
       "portal_price_ton": 2.43,
       "getgems_price_ton": 2.69,
       "tgmrkt_price_ton": 2.47,
-      "models": "models/snake_box/prices.json"
+      "models": "models/snake_box/prices.json",
+      "custom_emoji_id": "5890803901392755548"
     },
     {
       "full_name": "Snoop Cigar",
@@ -849,7 +907,8 @@
       "portal_price_ton": 9.77,
       "getgems_price_ton": 9.77,
       "tgmrkt_price_ton": 9.78,
-      "models": "models/snoop_cigar/prices.json"
+      "models": "models/snoop_cigar/prices.json",
+      "custom_emoji_id": "5890909815286275430"
     },
     {
       "full_name": "Snoop Dogg",
@@ -859,7 +918,8 @@
       "portal_price_ton": 4.29,
       "getgems_price_ton": 4.57,
       "tgmrkt_price_ton": 4.34,
-      "models": "models/snoop_dogg/prices.json"
+      "models": "models/snoop_dogg/prices.json",
+      "custom_emoji_id": "5890824336847152562"
     },
     {
       "full_name": "Snow Globe",
@@ -869,7 +929,8 @@
       "portal_price_ton": 3.63,
       "getgems_price_ton": 3.8,
       "tgmrkt_price_ton": 3.47,
-      "models": "models/snow_globe/prices.json"
+      "models": "models/snow_globe/prices.json",
+      "custom_emoji_id": "5890924907801355498"
     },
     {
       "full_name": "Snow Mittens",
@@ -879,7 +940,8 @@
       "portal_price_ton": 3.18,
       "getgems_price_ton": 3.4,
       "tgmrkt_price_ton": 3.32,
-      "models": "models/snow_mittens/prices.json"
+      "models": "models/snow_mittens/prices.json",
+      "custom_emoji_id": "5891045656511914340"
     },
     {
       "full_name": "Spiced Wine",
@@ -889,7 +951,8 @@
       "portal_price_ton": 3.27,
       "getgems_price_ton": 3.28,
       "tgmrkt_price_ton": 3.11,
-      "models": "models/spiced_wine/prices.json"
+      "models": "models/spiced_wine/prices.json",
+      "custom_emoji_id": "5891197316102103606"
     },
     {
       "full_name": "Spring Basket",
@@ -899,7 +962,8 @@
       "portal_price_ton": 3.88,
       "getgems_price_ton": 4.65,
       "tgmrkt_price_ton": 4.07,
-      "models": "models/spring_basket/prices.json"
+      "models": "models/spring_basket/prices.json",
+      "custom_emoji_id": "5890983581349585368"
     },
     {
       "full_name": "Spy Agaric",
@@ -909,7 +973,8 @@
       "portal_price_ton": 3.95,
       "getgems_price_ton": 4.0,
       "tgmrkt_price_ton": 3.84,
-      "models": "models/spy_agaric/prices.json"
+      "models": "models/spy_agaric/prices.json",
+      "custom_emoji_id": "5890768175854788652"
     },
     {
       "full_name": "Star Notepad",
@@ -919,7 +984,8 @@
       "portal_price_ton": 3.41,
       "getgems_price_ton": 3.45,
       "tgmrkt_price_ton": 3.36,
-      "models": "models/star_notepad/prices.json"
+      "models": "models/star_notepad/prices.json",
+      "custom_emoji_id": "5890780094389034276"
     },
     {
       "full_name": "Stellar Rocket",
@@ -929,7 +995,8 @@
       "portal_price_ton": 3.63,
       "getgems_price_ton": 3.8,
       "tgmrkt_price_ton": 3.47,
-      "models": "models/stellar_rocket/prices.json"
+      "models": "models/stellar_rocket/prices.json",
+      "custom_emoji_id": "5890859744557540381"
     },
     {
       "full_name": "Swag Bag",
@@ -939,7 +1006,8 @@
       "portal_price_ton": 3.98,
       "getgems_price_ton": 3.98,
       "tgmrkt_price_ton": 3.92,
-      "models": "models/swag_bag/prices.json"
+      "models": "models/swag_bag/prices.json",
+      "custom_emoji_id": "5890782701434182839"
     },
     {
       "full_name": "Swiss Watch",
@@ -949,7 +1017,8 @@
       "portal_price_ton": 38.27,
       "getgems_price_ton": 38.69,
       "tgmrkt_price_ton": 36.49,
-      "models": "models/swiss_watch/prices.json"
+      "models": "models/swiss_watch/prices.json",
+      "custom_emoji_id": "5890981700153909246"
     },
     {
       "full_name": "Tama Gadget",
@@ -959,7 +1028,8 @@
       "portal_price_ton": 2.63,
       "getgems_price_ton": 3.0,
       "tgmrkt_price_ton": 2.85,
-      "models": "models/tama_gadget/prices.json"
+      "models": "models/tama_gadget/prices.json",
+      "custom_emoji_id": "5891185655265893814"
     },
     {
       "full_name": "Top Hat",
@@ -969,7 +1039,8 @@
       "portal_price_ton": 7.5,
       "getgems_price_ton": 7.5,
       "tgmrkt_price_ton": 7.35,
-      "models": "models/top_hat/prices.json"
+      "models": "models/top_hat/prices.json",
+      "custom_emoji_id": "5891160121685318547"
     },
     {
       "full_name": "Toy Bear",
@@ -979,7 +1050,8 @@
       "portal_price_ton": 30.93,
       "getgems_price_ton": 30.93,
       "tgmrkt_price_ton": 30.0,
-      "models": "models/toy_bear/prices.json"
+      "models": "models/toy_bear/prices.json",
+      "custom_emoji_id": "5891060482739019197"
     },
     {
       "full_name": "Trapped Heart",
@@ -989,7 +1061,8 @@
       "portal_price_ton": 10.58,
       "getgems_price_ton": 10.89,
       "tgmrkt_price_ton": 10.07,
-      "models": "models/trapped_heart/prices.json"
+      "models": "models/trapped_heart/prices.json",
+      "custom_emoji_id": "5891217266225193370"
     },
     {
       "full_name": "UFC Strike",
@@ -999,7 +1072,8 @@
       "portal_price_ton": 12.45,
       "getgems_price_ton": 12.48,
       "tgmrkt_price_ton": 11.84,
-      "models": "models/ufc_strike/prices.json"
+      "models": "models/ufc_strike/prices.json",
+      "custom_emoji_id": "5891159949886629444"
     },
     {
       "full_name": "Valentine Box",
@@ -1009,7 +1083,8 @@
       "portal_price_ton": 7.69,
       "getgems_price_ton": 7.69,
       "tgmrkt_price_ton": 7.48,
-      "models": "models/valentine_box/prices.json"
+      "models": "models/valentine_box/prices.json",
+      "custom_emoji_id": "5890725647088622892"
     },
     {
       "full_name": "Vintage Cigar",
@@ -1019,7 +1094,8 @@
       "portal_price_ton": 28.61,
       "getgems_price_ton": 28.79,
       "tgmrkt_price_ton": 27.5,
-      "models": "models/vintage_cigar/prices.json"
+      "models": "models/vintage_cigar/prices.json",
+      "custom_emoji_id": "5890912911957697861"
     },
     {
       "full_name": "Voodoo Doll",
@@ -1029,7 +1105,8 @@
       "portal_price_ton": 29.99,
       "getgems_price_ton": 29.99,
       "tgmrkt_price_ton": 29.17,
-      "models": "models/voodoo_doll/prices.json"
+      "models": "models/voodoo_doll/prices.json",
+      "custom_emoji_id": "5891020230305520908"
     },
     {
       "full_name": "Westside Sign",
@@ -1049,7 +1126,8 @@
       "portal_price_ton": 2.54,
       "getgems_price_ton": 2.8,
       "tgmrkt_price_ton": 2.7,
-      "models": "models/whip_cupcake/prices.json"
+      "models": "models/whip_cupcake/prices.json",
+      "custom_emoji_id": "5891120178489466557"
     },
     {
       "full_name": "Winter Wreath",
@@ -1059,7 +1137,8 @@
       "portal_price_ton": 2.53,
       "getgems_price_ton": 2.65,
       "tgmrkt_price_ton": 2.57,
-      "models": "models/winter_wreath/prices.json"
+      "models": "models/winter_wreath/prices.json",
+      "custom_emoji_id": "5890996453366571810"
     },
     {
       "full_name": "Witch Hat",
@@ -1069,7 +1148,8 @@
       "portal_price_ton": 3.79,
       "getgems_price_ton": 3.79,
       "tgmrkt_price_ton": 3.74,
-      "models": "models/witch_hat/prices.json"
+      "models": "models/witch_hat/prices.json",
+      "custom_emoji_id": "5891242134085835872"
     },
     {
       "full_name": "Xmas Stocking",
@@ -1079,7 +1159,8 @@
       "portal_price_ton": 2.59,
       "getgems_price_ton": 2.65,
       "tgmrkt_price_ton": 2.47,
-      "models": "models/xmas_stocking/prices.json"
+      "models": "models/xmas_stocking/prices.json",
+      "custom_emoji_id": "5893359703286619796"
     },
     {
       "full_name": "Timeless Book",
@@ -1089,7 +1170,8 @@
       "portal_price_ton": 3.46,
       "getgems_price_ton": 3.55,
       "tgmrkt_price_ton": 3.3,
-      "models": "models/timeless_book/prices.json"
+      "models": "models/timeless_book/prices.json",
+      "custom_emoji_id": "5891229055910419833"
     },
     {
       "full_name": "Vice Cream",
@@ -1099,7 +1181,8 @@
       "portal_price_ton": 2.47,
       "getgems_price_ton": 2.56,
       "tgmrkt_price_ton": 2.48,
-      "models": "models/vice_cream/prices.json"
+      "models": "models/vice_cream/prices.json",
+      "custom_emoji_id": "5890958090718682837"
     },
     {
       "full_name": "Victory Medal",
@@ -1109,7 +1192,8 @@
       "portal_price_ton": 3.61,
       "getgems_price_ton": 3.56,
       "tgmrkt_price_ton": 3.45,
-      "models": "models/victory_medal/prices.json"
+      "models": "models/victory_medal/prices.json",
+      "custom_emoji_id": "5890741280769581486"
     },
     {
       "full_name": "Pool Float",
@@ -1119,7 +1203,8 @@
       "portal_price_ton": 2.76,
       "getgems_price_ton": 2.99,
       "tgmrkt_price_ton": 2.92,
-      "models": "models/pool_float/prices.json"
+      "models": "models/pool_float/prices.json",
+      "custom_emoji_id": "5890983620004289627"
     },
     {
       "full_name": "Rare Bird",
@@ -1129,7 +1214,8 @@
       "portal_price_ton": 20.71,
       "getgems_price_ton": 20.4,
       "tgmrkt_price_ton": 19.71,
-      "models": "models/rare_bird/prices.json"
+      "models": "models/rare_bird/prices.json",
+      "custom_emoji_id": "5890995375329779967"
     },
     {
       "full_name": "Vice Cream",
@@ -1149,7 +1235,8 @@
       "portal_price_ton": 2.44,
       "getgems_price_ton": 2.6,
       "tgmrkt_price_ton": 2.47,
-      "models": "models/chill_flame/prices.json"
+      "models": "models/chill_flame/prices.json",
+      "custom_emoji_id": "5890851060133666215"
     },
     {
       "full_name": "Mood Pack",
@@ -1169,7 +1256,8 @@
       "portal_price_ton": 20.71,
       "getgems_price_ton": 20.4,
       "tgmrkt_price_ton": 19.71,
-      "models": "models/rare_bird/prices.json"
+      "models": "models/rare_bird/prices.json",
+      "custom_emoji_id": "5893391945606110355"
     },
     {
       "full_name": "Chill Flame",
@@ -1179,7 +1267,8 @@
       "portal_price_ton": 2.44,
       "getgems_price_ton": 2.6,
       "tgmrkt_price_ton": 2.47,
-      "models": "models/chill_flame/prices.json"
+      "models": "models/chill_flame/prices.json",
+      "custom_emoji_id": "5891147576085847661"
     },
     {
       "full_name": "Mood Pack",
@@ -1189,7 +1278,8 @@
       "portal_price_ton": 3.3,
       "getgems_price_ton": 3.2,
       "tgmrkt_price_ton": 3.18,
-      "models": "models/mood_pack/prices.json"
+      "models": "models/mood_pack/prices.json",
+      "custom_emoji_id": "5890917636421721347"
     }
   ],
   "unupgraded": [
@@ -1246,25 +1336,29 @@
       "full_name": "Easter Cake",
       "short_name": "easter_cake",
       "id": "5773791997064119815",
-      "price_ton": 8.88
+      "price_ton": 8.88,
+      "custom_emoji_id": "5890920033013472942"
     },
     {
       "full_name": "Eight Roses",
       "short_name": "eight_roses",
       "id": "5933770397739647689",
-      "price_ton": 20.0
+      "price_ton": 20.0,
+      "custom_emoji_id": "5891230340105641478"
     },
     {
       "full_name": "Gravestone",
       "short_name": "gravestone",
       "id": "5775955135867913556",
-      "price_ton": 39.889746
+      "price_ton": 39.889746,
+      "custom_emoji_id": "5891103754534526296"
     },
     {
       "full_name": "Heart Pendant",
       "short_name": "heart_pendant",
       "id": "5872744075014177223",
-      "price_ton": 35.0
+      "price_ton": 35.0,
+      "custom_emoji_id": "5892971528437374635"
     },
     {
       "full_name": "Pencil",
@@ -1276,49 +1370,57 @@
       "full_name": "REDO",
       "short_name": "redo",
       "id": "5832279504491381684",
-      "price_ton": 205.0
+      "price_ton": 205.0,
+      "custom_emoji_id": "5890954405636742597"
     },
     {
       "full_name": "Red Star",
       "short_name": "red_star",
       "id": "5830323722413671504",
-      "price_ton": 7.5
+      "price_ton": 7.5,
+      "custom_emoji_id": "5891117970876276621"
     },
     {
       "full_name": "Sand Castle",
       "short_name": "sand_castle",
       "id": "5834918435477259676",
-      "price_ton": 5.6
+      "price_ton": 5.6,
+      "custom_emoji_id": "5891013680480395130"
     },
     {
       "full_name": "Durov's Boots",
       "short_name": "durovs_boots",
       "id": "6001229799790478558",
-      "price_ton": 61.9685
+      "price_ton": 61.9685,
+      "custom_emoji_id": "5891122557901351876"
     },
     {
       "full_name": "Statue",
       "short_name": "statue",
       "id": "5999298447486747746",
-      "price_ton": 4.08
+      "price_ton": 4.08,
+      "custom_emoji_id": "5891200369823849956"
     },
     {
       "full_name": "Surfboard",
       "short_name": "surfboard",
       "id": "5832497899283415733",
-      "price_ton": 18.0
+      "price_ton": 18.0,
+      "custom_emoji_id": "5890981189052800353"
     },
     {
       "full_name": "Durov's Coat",
       "short_name": "durovs_coat",
       "id": "6001425315291727333",
-      "price_ton": 69.96275
+      "price_ton": 69.96275,
+      "custom_emoji_id": "5890786206127496579"
     },
     {
       "full_name": "Trojan Horse",
       "short_name": "trojan_horse",
       "id": "5956308547863052791",
-      "price_ton": 50.2656
+      "price_ton": 50.2656,
+      "custom_emoji_id": "5890736483291110891"
     }
   ],
   "upgraded_description": "A unique collectible NFT that can be collected, sold, or gifted to friends.",
