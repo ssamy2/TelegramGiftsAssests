@@ -129,7 +129,8 @@
       "portal_price_ton": 3.15,
       "getgems_price_ton": 3.9,
       "tgmrkt_price_ton": 3.66,
-      "models": "models/cookie_heart/prices.json"
+      "models": "models/cookie_heart/prices.json",
+      "custom_emoji_id": "5890740529150304307"
     },
     {
       "full_name": "Crystal Ball",
@@ -139,7 +140,8 @@
       "portal_price_ton": 9.6,
       "getgems_price_ton": 9.6,
       "tgmrkt_price_ton": 9.12,
-      "models": "models/crystal_ball/prices.json"
+      "models": "models/crystal_ball/prices.json",
+      "custom_emoji_id": "5891225619936582358"
     },
     {
       "full_name": "Cupid Charm",
@@ -149,7 +151,8 @@
       "portal_price_ton": 17.08,
       "getgems_price_ton": 17.085,
       "tgmrkt_price_ton": 16.84,
-      "models": "models/cupid_charm/prices.json"
+      "models": "models/cupid_charm/prices.json",
+      "custom_emoji_id": "5890912357906914933"
     },
     {
       "full_name": "Desk Calendar",
@@ -159,7 +162,8 @@
       "portal_price_ton": 4.25,
       "getgems_price_ton": 4.2,
       "tgmrkt_price_ton": 4.01,
-      "models": "models/desk_calendar/prices.json"
+      "models": "models/desk_calendar/prices.json",
+      "custom_emoji_id": "5891073268856659314"
     },
     {
       "full_name": "Diamond Ring",
@@ -169,12 +173,14 @@
       "portal_price_ton": 26.74,
       "getgems_price_ton": 27.0,
       "tgmrkt_price_ton": 25.86,
-      "models": "models/diamond_ring/prices.json"
+      "models": "models/diamond_ring/prices.json",
+      "custom_emoji_id": "5891079028407803073"
     },
     {
       "full_name": "Durov’s Cap",
       "short_name": "durovs_cap",
-      "regular_id": "5915521180483191380"
+      "regular_id": "5915521180483191380",
+      "custom_emoji_id": "5890897450075429395"
     },
     {
       "full_name": "Easter Egg",
@@ -184,7 +190,8 @@
       "portal_price_ton": 3.0,
       "getgems_price_ton": 3.0,
       "tgmrkt_price_ton": 2.89,
-      "models": "models/easter_egg/prices.json"
+      "models": "models/easter_egg/prices.json",
+      "custom_emoji_id": "5890918370861129234"
     },
     {
       "full_name": "Electric Skull",
@@ -194,7 +201,8 @@
       "portal_price_ton": 21.7,
       "getgems_price_ton": 21.7,
       "tgmrkt_price_ton": 21.34,
-      "models": "models/electric_skull/prices.json"
+      "models": "models/electric_skull/prices.json",
+      "custom_emoji_id": "5891019972607483667"
     },
     {
       "full_name": "Eternal Candle",
@@ -204,7 +212,8 @@
       "portal_price_ton": 4.43,
       "getgems_price_ton": 4.54,
       "tgmrkt_price_ton": 4.22,
-      "models": "models/eternal_candle/prices.json"
+      "models": "models/eternal_candle/prices.json",
+      "custom_emoji_id": "5890732944238059145"
     },
     {
       "full_name": "Eternal Rose",
@@ -214,7 +223,8 @@
       "portal_price_ton": 20.0,
       "getgems_price_ton": 20.0,
       "tgmrkt_price_ton": 19.48,
-      "models": "models/eternal_rose/prices.json"
+      "models": "models/eternal_rose/prices.json",
+      "custom_emoji_id": "5891120019575677918"
     },
     {
       "full_name": "Evil Eye",
