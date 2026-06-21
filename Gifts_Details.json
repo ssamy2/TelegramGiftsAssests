@@ -19,7 +19,8 @@
       "portal_price_ton": 119.43,
       "getgems_price_ton": 125.0,
       "tgmrkt_price_ton": 113.74,
-      "models": "models/astral_shard/prices.json"
+      "models": "models/astral_shard/prices.json",
+      "custom_emoji_id": "5891075716988018314"
     },
     {
       "full_name": "B-Day Candle",
@@ -29,7 +30,8 @@
       "portal_price_ton": 3.46,
       "getgems_price_ton": 3.46,
       "tgmrkt_price_ton": 3.53,
-      "models": "models/bday_candle/prices.json"
+      "models": "models/bday_candle/prices.json",
+      "custom_emoji_id": "5890902415057625117"
     },
     {
       "full_name": "Berry Box",
@@ -39,7 +41,8 @@
       "portal_price_ton": 6.39,
       "getgems_price_ton": 6.47,
       "tgmrkt_price_ton": 6.09,
-      "models": "models/berry_box/prices.json"
+      "models": "models/berry_box/prices.json",
+      "custom_emoji_id": "5891048139003009578"
     },
     {
       "full_name": "Big Year",
@@ -49,7 +52,8 @@
       "portal_price_ton": 2.54,
       "getgems_price_ton": 2.78,
       "tgmrkt_price_ton": 2.56,
-      "models": "models/big_year/prices.json"
+      "models": "models/big_year/prices.json",
+      "custom_emoji_id": "5890715639814824068"
     },
     {
       "full_name": "Bling Binky",
@@ -59,7 +63,8 @@
       "portal_price_ton": 19.08,
       "getgems_price_ton": 19.08,
       "tgmrkt_price_ton": 18.99,
-      "models": "models/bling_binky/prices.json"
+      "models": "models/bling_binky/prices.json",
+      "custom_emoji_id": "5891164803199672244"
     },
     {
       "full_name": "Bonded Ring",
@@ -69,7 +74,8 @@
       "portal_price_ton": 33.36,
       "getgems_price_ton": 33.99,
       "tgmrkt_price_ton": 31.76,
-      "models": "models/bonded_ring/prices.json"
+      "models": "models/bonded_ring/prices.json",
+      "custom_emoji_id": "5890889349767110307"
     },
     {
       "full_name": "Bow Tie",
@@ -79,7 +85,8 @@
       "portal_price_ton": 3.93,
       "getgems_price_ton": 3.99,
       "tgmrkt_price_ton": 3.77,
-      "models": "models/bow_tie/prices.json"
+      "models": "models/bow_tie/prices.json",
+      "custom_emoji_id": "5890865585713061521"
     },
     {
       "full_name": "Bunny Muffin",
@@ -89,7 +96,8 @@
       "portal_price_ton": 5.8,
       "getgems_price_ton": 6.0,
       "tgmrkt_price_ton": 5.48,
-      "models": "models/bunny_muffin/prices.json"
+      "models": "models/bunny_muffin/prices.json",
+      "custom_emoji_id": "5891219671406878637"
     },
     {
       "full_name": "Candy Cane",
@@ -99,7 +107,8 @@
       "portal_price_ton": 2.44,
       "getgems_price_ton": 2.64,
       "tgmrkt_price_ton": 2.47,
-      "models": "models/candy_cane/prices.json"
+      "models": "models/candy_cane/prices.json",
+      "custom_emoji_id": "5890743587167017994"
     },
     {
       "full_name": "Clover Pin",
@@ -109,7 +118,8 @@
       "portal_price_ton": 3.5,
       "getgems_price_ton": 3.994,
       "tgmrkt_price_ton": 3.91,
-      "models": "models/clover_pin/prices.json"
+      "models": "models/clover_pin/prices.json",
+      "custom_emoji_id": "5890868729629122606"
     },
     {
       "full_name": "Cookie Heart",
