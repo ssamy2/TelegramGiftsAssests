@@ -8,7 +8,8 @@
       "portal_price_ton": 51.28,
       "getgems_price_ton": 59.0,
       "tgmrkt_price_ton": 48.84,
-      "models": "models/artisan_brick/prices.json"
+      "models": "models/artisan_brick/prices.json",
+      "custom_emoji_id": "5891206434317671306"
     },
     {
       "full_name": "Astral Shard",
@@ -1176,43 +1177,50 @@
       "full_name": "1 May",
       "short_name": "may",
       "id": "5807641025165919973",
-      "price_ton": 9.0
+      "price_ton": 9.0,
+      "custom_emoji_id": "5890737118946271089"
     },
     {
       "full_name": "Airplane",
       "short_name": "airplane",
       "id": "5818708013426410448",
-      "price_ton": 5233.151
+      "price_ton": 5233.151,
+      "custom_emoji_id": "5890749260818815894"
     },
     {
       "full_name": "Case",
       "short_name": "case",
       "id": "5884080014126745057",
-      "price_ton": 29.0
+      "price_ton": 29.0,
+      "custom_emoji_id": "5891037861146271543"
     },
     {
       "full_name": "Coconut Drink",
       "short_name": "coconut_drink",
       "id": "5832371318007268701",
-      "price_ton": 2.25
+      "price_ton": 2.25,
+      "custom_emoji_id": "5891139553086940728"
     },
     {
       "full_name": "Coffin",
       "short_name": "coffin",
       "id": "5776227780391864916",
-      "price_ton": 17.07914
+      "price_ton": 17.07914,
+      "custom_emoji_id": "5891098991415794702"
     },
     {
       "full_name": "Durov Glasses",
       "short_name": "durov_glasses",
       "id": "5834651202612102354",
-      "price_ton": 240.0
+      "price_ton": 240.0,
+      "custom_emoji_id": "5890913328569523960"
     },
     {
       "full_name": "Durov's Figurine",
       "short_name": "durovs_figurine",
       "id": "6003477390536213997",
-      "price_ton": 1046.1528
+      "price_ton": 1046.1528,
+      "custom_emoji_id": "5891118327358562426"
     },
     {
       "full_name": "Easter Cake",
