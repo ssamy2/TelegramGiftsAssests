@@ -12,7 +12,7 @@
     "Gunship Green": 2.49,
     "Persimmon": 2.49,
     "Sky Blue": 2.47,
-    "Sapphire": 2.47,
+    "Sapphire": 2.46,
     "Chestnut": 2.47,
     "Pacific Cyan": 2.47,
     "Indigo Dye": 2.47,
@@ -28,9 +28,9 @@
     "French Blue": 2.47,
     "Roman Silver": 2.47,
     "Rosewood": 2.47,
-    "French Violet": 2.47,
+    "French Violet": 2.48,
     "Malachite": 2.47,
-    "English Violet": 2.48,
+    "English Violet": 2.47,
     "Carmine": 2.6,
     "Shamrock Green": 2.47,
     "Cappuccino": 2.47,
@@ -39,9 +39,9 @@
     "Marine Blue": 2.49,
     "Coral Red": 2.47,
     "Turquoise": 2.48,
-    "Camo Green": 2.47,
+    "Camo Green": 2.48,
     "Cobalt Blue": 2.47,
-    "Steel Grey": 2.51,
+    "Steel Grey": 2.47,
     "Khaki Green": 2.47,
     "Satin Gold": 2.47,
     "Pistachio": 2.49,
@@ -60,17 +60,17 @@
     "Gunmetal": 2.53,
     "Mexican Pink": 2.54,
     "Pine Green": 2.47,
-    "Mustard": 2.47,
-    "Rifle Green": 2.48,
+    "Mustard": 2.49,
+    "Rifle Green": 2.47,
     "Neon Blue": 2.47,
-    "Strawberry": 2.49,
+    "Strawberry": 2.47,
     "Amber": 2.47,
     "Caramel": 2.47,
     "Moonstone": 2.47,
     "Platinum": 2.47,
-    "Navy Blue": 2.48,
-    "Fire Engine": 2.54,
-    "Ivory White": 2.49,
+    "Navy Blue": 2.49,
+    "Fire Engine": 2.55,
+    "Ivory White": 2.5,
     "Lavender": 2.47,
     "Silver Blue": 2.47,
     "Electric Indigo": 2.5,
@@ -79,7 +79,7 @@
     "Pacific Green": 2.47,
     "Fandango": 2.47,
     "Black": 22.0,
-    "Onyx Black": 7.94
+    "Onyx Black": 7.9
   },
   "symbols": {
     "Old Candle": 3.99,
@@ -340,8 +340,8 @@
     "Wagasa": 4.0,
     "War Bonnet": 9.0,
     "Warhorse": 3.89,
-    "Winged Helm": 3.94,
-    "Wolf Rage": 3.88,
+    "Winged Helm": 3.96,
+    "Wolf Rage": 3.89,
     "Yogi Shaman": 6.0
   },
   "models": {
@@ -396,5 +396,5 @@
     "Utya Duck": 48.0,
     "Witchcraft": 4.7
   },
-  "last_updated": 1782015048
+  "last_updated": 1782018942
 }

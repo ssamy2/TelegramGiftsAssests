@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Pacific Green": 2.47,
-    "Sapphire": 2.47,
+    "Sapphire": 2.46,
     "Pacific Cyan": 2.47,
     "Electric Purple": 2.47,
     "Sky Blue": 2.47,
@@ -15,13 +15,13 @@
     "Rosewood": 2.47,
     "Chocolate": 2.48,
     "Jade Green": 2.48,
-    "Strawberry": 2.49,
+    "Strawberry": 2.47,
     "Battleship Grey": 2.5,
     "Mint Green": 2.47,
-    "Navy Blue": 2.48,
+    "Navy Blue": 2.49,
     "Raspberry": 2.49,
     "Pure Gold": 2.47,
-    "Ivory White": 2.49,
+    "Ivory White": 2.5,
     "Roman Silver": 2.47,
     "Lemongrass": 2.49,
     "Burgundy": 2.47,
@@ -36,7 +36,7 @@
     "Malachite": 2.47,
     "Orange": 2.47,
     "Azure Blue": 2.47,
-    "English Violet": 2.48,
+    "English Violet": 2.47,
     "French Blue": 2.47,
     "Purple": 2.47,
     "Lavender": 2.47,
@@ -55,11 +55,11 @@
     "Cappuccino": 2.47,
     "Indigo Dye": 2.47,
     "Persimmon": 2.49,
-    "Steel Grey": 2.51,
+    "Steel Grey": 2.47,
     "Platinum": 2.47,
     "Grape": 2.47,
     "Black": 255.0,
-    "Onyx Black": 90.0
+    "Onyx Black": 115.0
   },
   "symbols": {
     "Wolf Rage": 34.0,
@@ -129,7 +129,7 @@
     "Grape": 333.0,
     "Hand of God": 29.3,
     "Hedgehog": 1988.0,
-    "High Heels": 30.63,
+    "High Heels": 29.67,
     "Ice Pop": 39.99,
     "Illuminati": 41.9,
     "Inca Sun": 55.0,
@@ -186,7 +186,7 @@
     "Pomegranate": 32.41,
     "Pyramid": 45.0,
     "Rain Drop": 111.0,
-    "Ram of Amun": 45.0,
+    "Ram of Amun": 35.0,
     "Rhino Warrior": 45.0,
     "Ring": 52.9,
     "Rocket": 50.0,
@@ -267,7 +267,7 @@
     "Purple Patron": 30.0,
     "Rainbow Road": 66.0,
     "Red Devil": 27.5,
-    "Rose Wrapper": 27.4,
+    "Rose Wrapper": 28.0,
     "Rudolph": 31.0,
     "Saturation": 35.0,
     "Saturn V": 59.99,
@@ -288,5 +288,5 @@
     "Warm Glow": 28.0,
     "Psychonaut": 80.0
   },
-  "last_updated": 1782015048
+  "last_updated": 1782018942
 }

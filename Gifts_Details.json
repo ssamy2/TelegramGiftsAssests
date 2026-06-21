@@ -1182,7 +1182,7 @@
       "full_name": "Airplane",
       "short_name": "airplane",
       "id": "5818708013426410448",
-      "price_ton": 5233.24372
+      "price_ton": 5233.151
     },
     {
       "full_name": "Case",
@@ -1266,7 +1266,7 @@
       "full_name": "Durov's Boots",
       "short_name": "durovs_boots",
       "id": "6001229799790478558",
-      "price_ton": 62.85675
+      "price_ton": 62.36195
     },
     {
       "full_name": "Statue",
@@ -1290,7 +1290,7 @@
       "full_name": "Trojan Horse",
       "short_name": "trojan_horse",
       "id": "5956308547863052791",
-      "price_ton": 46.5025
+      "price_ton": 50.2656
     }
   ],
   "upgraded_description": "A unique collectible NFT that can be collected, sold, or gifted to friends.",
@@ -1354,7 +1354,7 @@
       "id": "6028601630662853006"
     }
   ],
-  "last_updated": 1782015048,
+  "last_updated": 1782018942,
   "regular_gifts": [
     {
       "full_name": "Gift 5170145012310081615",
