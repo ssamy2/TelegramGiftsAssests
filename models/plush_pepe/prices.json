@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "English Violet": 2.49,
+    "English Violet": 2.48,
     "Pacific Green": 2.47,
     "Chestnut": 2.47,
     "Electric Indigo": 2.5,
@@ -13,20 +13,20 @@
     "Neon Blue": 2.47,
     "Rosewood": 2.47,
     "Battleship Grey": 2.5,
-    "Pacific Cyan": 2.49,
+    "Pacific Cyan": 2.47,
     "Jade Green": 2.48,
     "Fandango": 2.47,
     "Lavender": 2.47,
     "Aquamarine": 2.47,
     "Shamrock Green": 2.47,
-    "Midnight Blue": 2.54,
+    "Midnight Blue": 2.53,
     "Mint Green": 2.47,
     "Desert Sand": 2.48,
-    "Strawberry": 2.46,
-    "Cobalt Blue": 2.46,
+    "Strawberry": 2.49,
+    "Cobalt Blue": 2.47,
     "French Blue": 2.47,
-    "Platinum": 2.48,
-    "Steel Grey": 2.49,
+    "Platinum": 2.47,
+    "Steel Grey": 2.51,
     "Amber": 2.47,
     "Satin Gold": 2.47,
     "Caramel": 2.47,
@@ -47,7 +47,7 @@
     "Roman Silver": 2.47,
     "Moonstone": 2.47,
     "Light Olive": 2.48,
-    "Navy Blue": 2.47,
+    "Navy Blue": 2.48,
     "Mystic Pearl": 2.48,
     "Carrot Juice": 2.47,
     "Cappuccino": 2.47,
@@ -56,7 +56,7 @@
     "Persimmon": 2.49,
     "Chocolate": 2.48,
     "Pistachio": 2.49,
-    "Ivory White": 2.5,
+    "Ivory White": 2.49,
     "Copper": 2.47
   },
   "symbols": {
@@ -106,13 +106,13 @@
     "Rabbit": 12000.0,
     "Ram of Amun": 7500.0,
     "Red Deer": 6990.0,
-    "Shell": 4978.89,
+    "Shell": 4976.99,
     "Spirit Impala": 5300.0,
     "Star": 8100.0,
     "Sun Lion": 4978.9,
     "Sunflower": 12250.0,
     "Toilet Paper": 5900.0,
-    "Toy Bucket": 4979.0,
+    "Toy Bucket": 4977.0,
     "Turkey": 6999.0,
     "Twin Peaks": 10999.0,
     "White Deer": 5000.0
@@ -166,5 +166,5 @@
     "X-Ray": 8000.0,
     "Yellow Purp": 7700.0
   },
-  "last_updated": 1782011151
+  "last_updated": 1782015048
 }
