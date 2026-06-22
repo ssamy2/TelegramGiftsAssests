@@ -12,16 +12,16 @@
     "Deep Cyan": 2.5,
     "Mexican Pink": 2.54,
     "Steel Grey": 2.47,
-    "Carrot Juice": 2.46,
+    "Carrot Juice": 2.45,
     "Indigo Dye": 2.47,
-    "Battleship Grey": 2.47,
+    "Battleship Grey": 2.45,
     "Carmine": 2.47,
     "Celtic Blue": 2.47,
     "Malachite": 2.47,
     "Dark Lilac": 2.47,
     "Mint Green": 2.47,
     "Mystic Pearl": 2.46,
-    "Strawberry": 2.45,
+    "Strawberry": 2.46,
     "Ranger Green": 2.48,
     "Dark Green": 2.46,
     "Camo Green": 2.49,
@@ -38,7 +38,7 @@
     "Jade Green": 2.47,
     "Rifle Green": 2.46,
     "French Violet": 2.47,
-    "Burgundy": 2.46,
+    "Burgundy": 2.45,
     "Pacific Cyan": 2.46,
     "Sapphire": 2.48,
     "Copper": 2.46,
@@ -69,16 +69,16 @@
     "Pine Green": 2.47,
     "Neon Blue": 2.47,
     "Aquamarine": 2.47,
-    "Chestnut": 2.46,
-    "Satin Gold": 2.46,
+    "Chestnut": 2.47,
+    "Satin Gold": 2.45,
     "French Blue": 2.47,
     "Light Olive": 2.47,
     "Pure Gold": 2.45,
-    "Cobalt Blue": 2.45,
+    "Cobalt Blue": 2.47,
     "Caramel": 2.45,
-    "Burnt Sienna": 2.46,
+    "Burnt Sienna": 2.45,
     "Moonstone": 2.46,
-    "Black": 23.0,
+    "Black": 21.0,
     "Onyx Black": 6.0
   },
   "symbols": {
@@ -339,7 +339,7 @@
     "Yin-Yang": 2.61
   },
   "models": {
-    "2048": 2.75,
+    "2048": 2.54,
     "A New Hope": 2.71,
     "Balloons": 3.21,
     "Big Brother": 4.98,
@@ -395,5 +395,5 @@
     "Zombie Film": 2.55,
     "AC/DC": 3.3
   },
-  "last_updated": 1782094969
+  "last_updated": 1782099262
 }
