@@ -16,10 +16,10 @@
     "Pacific Cyan": 2.46,
     "Jade Green": 2.47,
     "Fandango": 2.48,
-    "Lavender": 2.45,
+    "Lavender": 2.47,
     "Aquamarine": 2.47,
     "Shamrock Green": 2.5,
-    "Midnight Blue": 2.47,
+    "Midnight Blue": 2.48,
     "Mint Green": 2.47,
     "Desert Sand": 2.48,
     "Strawberry": 2.47,
@@ -31,13 +31,13 @@
     "Satin Gold": 2.45,
     "Caramel": 2.45,
     "Lemongrass": 2.47,
-    "Grape": 2.46,
-    "Sapphire": 2.48,
+    "Grape": 2.45,
+    "Sapphire": 2.46,
     "Sky Blue": 2.48,
     "Cyberpunk": 2.46,
-    "Coral Red": 2.46,
+    "Coral Red": 2.45,
     "Burgundy": 2.45,
-    "Hunter Green": 2.47,
+    "Hunter Green": 2.46,
     "Khaki Green": 2.47,
     "Raspberry": 2.47,
     "Emerald": 2.47,
@@ -46,7 +46,7 @@
     "Silver Blue": 2.48,
     "Roman Silver": 2.48,
     "Moonstone": 2.46,
-    "Light Olive": 2.47,
+    "Light Olive": 2.46,
     "Navy Blue": 2.44,
     "Mystic Pearl": 2.44,
     "Carrot Juice": 2.45,
@@ -57,7 +57,7 @@
     "Chocolate": 2.47,
     "Pistachio": 2.47,
     "Ivory White": 2.47,
-    "Copper": 2.44
+    "Copper": 2.46
   },
   "symbols": {
     "Flower": 5422.0,
@@ -116,7 +116,7 @@
     "Star": 8100.0,
     "Sunflower": 12250.0,
     "Toilet Paper": 6500.0,
-    "Toy Bucket": 4749.0,
+    "Toy Bucket": 4730.0,
     "Turkey": 6999.0,
     "Twin Peaks": 10999.0,
     "White Deer": 4740.01
@@ -170,5 +170,5 @@
     "X-Ray": 8000.0,
     "Yellow Purp": 7700.0
   },
-  "last_updated": 1782103454
+  "last_updated": 1782107672
 }
