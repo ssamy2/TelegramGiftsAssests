@@ -1284,6 +1284,12 @@
       "tgmrkt_price_ton": 3.18,
       "models": "models/mood_pack/prices.json",
       "custom_emoji_id": "5890917636421721347"
+    },
+    {
+      "full_name": "Upgraded Surfboard",
+      "short_name": "upgraded_surfboard",
+      "regular_id": "5832497899283415733",
+      "custom_emoji_id": "5890981189052800353"
     }
   ],
   "unupgraded": [
@@ -1404,13 +1410,6 @@
       "id": "5999298447486747746",
       "price_ton": 4.37,
       "custom_emoji_id": "5891200369823849956"
-    },
-    {
-      "full_name": "Surfboard",
-      "short_name": "surfboard",
-      "id": "5832497899283415733",
-      "price_ton": 29.9,
-      "custom_emoji_id": "5890981189052800353"
     },
     {
       "full_name": "Durov's Coat",
