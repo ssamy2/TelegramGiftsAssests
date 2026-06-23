@@ -1,0 +1,18 @@
+[
+  {
+    "name": "planet_express",
+    "rarity_percent": 2.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/planet_express.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/planet_express.webp",
+    "custom_emoji_id": "5895256197635776136",
+    "model_id": "5296256960201530659"
+  },
+  {
+    "name": "poseidon",
+    "rarity_percent": 2.5,
+    "tgs_path": "TG_Photos_repo/models/surge_board/poseidon.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/poseidon.webp",
+    "custom_emoji_id": "5895663193031712831",
+    "model_id": "5299022884780416042"
+  }
+]
