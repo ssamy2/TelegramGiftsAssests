@@ -2,400 +2,400 @@
   {
     "name": "the_original",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/the_original.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/the_original.webp",
+    "tgs_path": "models/swiss_watch/the_original.tgs",
+    "webp_path": "models/swiss_watch/the_original.webp",
     "custom_emoji_id": "5881937989382189044",
     "model_id": "5197202357087136304"
   },
   {
     "name": "amazon",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/amazon.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/amazon.webp",
+    "tgs_path": "models/swiss_watch/amazon.tgs",
+    "webp_path": "models/swiss_watch/amazon.webp",
     "custom_emoji_id": "5884193955314146850",
     "model_id": "5197232297304157073"
   },
   {
     "name": "tachymeter",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/tachymeter.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/tachymeter.webp",
+    "tgs_path": "models/swiss_watch/tachymeter.tgs",
+    "webp_path": "models/swiss_watch/tachymeter.webp",
     "custom_emoji_id": "5881719019064533859",
     "model_id": "5197239152071960003"
   },
   {
     "name": "gold_band",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/gold_band.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/gold_band.webp",
+    "tgs_path": "models/swiss_watch/gold_band.tgs",
+    "webp_path": "models/swiss_watch/gold_band.webp",
     "custom_emoji_id": "5884089201061797504",
     "model_id": "5197261911103662531"
   },
   {
     "name": "full_tint",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/full_tint.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/full_tint.webp",
+    "tgs_path": "models/swiss_watch/full_tint.tgs",
+    "webp_path": "models/swiss_watch/full_tint.webp",
     "custom_emoji_id": "5881936563453043801",
     "model_id": "5197320279709214654"
   },
   {
     "name": "diamond_ring",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/diamond_ring.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/diamond_ring.webp",
+    "tgs_path": "models/swiss_watch/diamond_ring.tgs",
+    "webp_path": "models/swiss_watch/diamond_ring.webp",
     "custom_emoji_id": "5882235832479260077",
     "model_id": "5197355850628358781"
   },
   {
     "name": "royal_purple",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/royal_purple.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/royal_purple.webp",
+    "tgs_path": "models/swiss_watch/royal_purple.tgs",
+    "webp_path": "models/swiss_watch/royal_purple.webp",
     "custom_emoji_id": "5882018249436044552",
     "model_id": "5197360712531341409"
   },
   {
     "name": "patrician",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/patrician.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/patrician.webp",
+    "tgs_path": "models/swiss_watch/patrician.tgs",
+    "webp_path": "models/swiss_watch/patrician.webp",
     "custom_emoji_id": "5884484569981262756",
     "model_id": "5197402116016072864"
   },
   {
     "name": "day-date",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/day-date.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/day-date.webp",
+    "tgs_path": "models/swiss_watch/day-date.tgs",
+    "webp_path": "models/swiss_watch/day-date.webp",
     "custom_emoji_id": "5881850049926800481",
     "model_id": "5197489273787410935"
   },
   {
     "name": "blue_bezel",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/blue_bezel.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/blue_bezel.webp",
+    "tgs_path": "models/swiss_watch/blue_bezel.tgs",
+    "webp_path": "models/swiss_watch/blue_bezel.webp",
     "custom_emoji_id": "5882233526081823539",
     "model_id": "5197493517215098908"
   },
   {
     "name": "blue_daytona",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/blue_daytona.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/blue_daytona.webp",
+    "tgs_path": "models/swiss_watch/blue_daytona.tgs",
+    "webp_path": "models/swiss_watch/blue_daytona.webp",
     "custom_emoji_id": "5881778396987400476",
     "model_id": "5197524775987078855"
   },
   {
     "name": "bronze_age",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/bronze_age.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/bronze_age.webp",
+    "tgs_path": "models/swiss_watch/bronze_age.tgs",
+    "webp_path": "models/swiss_watch/bronze_age.webp",
     "custom_emoji_id": "5884056091158913637",
     "model_id": "5197604937256690646"
   },
   {
     "name": "sovereign",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/sovereign.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/sovereign.webp",
+    "tgs_path": "models/swiss_watch/sovereign.tgs",
+    "webp_path": "models/swiss_watch/sovereign.webp",
     "custom_emoji_id": "5882128007325294456",
     "model_id": "5199603750611740715"
   },
   {
     "name": "zenith",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/zenith.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/zenith.webp",
+    "tgs_path": "models/swiss_watch/zenith.tgs",
+    "webp_path": "models/swiss_watch/zenith.webp",
     "custom_emoji_id": "5882180049444019414",
     "model_id": "5199698295726828658"
   },
   {
     "name": "top_gun",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/top_gun.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/top_gun.webp",
+    "tgs_path": "models/swiss_watch/top_gun.tgs",
+    "webp_path": "models/swiss_watch/top_gun.webp",
     "custom_emoji_id": "5882169415104996547",
     "model_id": "5199758326484724370"
   },
   {
     "name": "infinite_loop",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/infinite_loop.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/infinite_loop.webp",
+    "tgs_path": "models/swiss_watch/infinite_loop.tgs",
+    "webp_path": "models/swiss_watch/infinite_loop.webp",
     "custom_emoji_id": "5882236455249518642",
     "model_id": "5201706180052808172"
   },
   {
     "name": "copper_clock",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/copper_clock.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/copper_clock.webp",
+    "tgs_path": "models/swiss_watch/copper_clock.tgs",
+    "webp_path": "models/swiss_watch/copper_clock.webp",
     "custom_emoji_id": "5882210212999340108",
     "model_id": "5201731640618935921"
   },
   {
     "name": "ball_pit",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/ball_pit.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/ball_pit.webp",
+    "tgs_path": "models/swiss_watch/ball_pit.tgs",
+    "webp_path": "models/swiss_watch/ball_pit.webp",
     "custom_emoji_id": "5882085530098737075",
     "model_id": "5201778318323505922"
   },
   {
     "name": "rockefeller",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/rockefeller.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/rockefeller.webp",
+    "tgs_path": "models/swiss_watch/rockefeller.tgs",
+    "webp_path": "models/swiss_watch/rockefeller.webp",
     "custom_emoji_id": "5882109925512978931",
     "model_id": "5201807090309424256"
   },
   {
     "name": "chromatic",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/chromatic.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/chromatic.webp",
+    "tgs_path": "models/swiss_watch/chromatic.tgs",
+    "webp_path": "models/swiss_watch/chromatic.webp",
     "custom_emoji_id": "5882232482404769601",
     "model_id": "5201822380392997391"
   },
   {
     "name": "platinum",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/platinum.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/platinum.webp",
+    "tgs_path": "models/swiss_watch/platinum.tgs",
+    "webp_path": "models/swiss_watch/platinum.webp",
     "custom_emoji_id": "5882119116742992006",
     "model_id": "5201861438825587401"
   },
   {
     "name": "timeless",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/timeless.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/timeless.webp",
+    "tgs_path": "models/swiss_watch/timeless.tgs",
+    "webp_path": "models/swiss_watch/timeless.webp",
     "custom_emoji_id": "5881960224427875441",
     "model_id": "5201876501275893211"
   },
   {
     "name": "el_dorado",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/el_dorado.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/el_dorado.webp",
+    "tgs_path": "models/swiss_watch/el_dorado.tgs",
+    "webp_path": "models/swiss_watch/el_dorado.webp",
     "custom_emoji_id": "5881721089238771321",
     "model_id": "5202114133226447431"
   },
   {
     "name": "galactic_year",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/galactic_year.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/galactic_year.webp",
+    "tgs_path": "models/swiss_watch/galactic_year.tgs",
+    "webp_path": "models/swiss_watch/galactic_year.webp",
     "custom_emoji_id": "5881771400485674442",
     "model_id": "5202180911377965860"
   },
   {
     "name": "patriot",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/patriot.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/patriot.webp",
+    "tgs_path": "models/swiss_watch/patriot.tgs",
+    "webp_path": "models/swiss_watch/patriot.webp",
     "custom_emoji_id": "5881965472877913360",
     "model_id": "5202214034165752724"
   },
   {
     "name": "xenowatch",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/xenowatch.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/xenowatch.webp",
+    "tgs_path": "models/swiss_watch/xenowatch.tgs",
+    "webp_path": "models/swiss_watch/xenowatch.webp",
     "custom_emoji_id": "5881762157716053278",
     "model_id": "5222390828449692597"
   },
   {
     "name": "dr._strange",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/dr._strange.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/dr._strange.webp",
+    "tgs_path": "models/swiss_watch/dr._strange.tgs",
+    "webp_path": "models/swiss_watch/dr._strange.webp",
     "custom_emoji_id": "5884371758370267037",
     "model_id": "5224270469347177086"
   },
   {
     "name": "secret_agent",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/secret_agent.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/secret_agent.webp",
+    "tgs_path": "models/swiss_watch/secret_agent.tgs",
+    "webp_path": "models/swiss_watch/secret_agent.webp",
     "custom_emoji_id": "5881721278217330816",
     "model_id": "5224324620294843131"
   },
   {
     "name": "asteroid",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/asteroid.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/asteroid.webp",
+    "tgs_path": "models/swiss_watch/asteroid.tgs",
+    "webp_path": "models/swiss_watch/asteroid.webp",
     "custom_emoji_id": "5882097822295137274",
     "model_id": "5224326909512409808"
   },
   {
     "name": "helicopter",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/helicopter.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/helicopter.webp",
+    "tgs_path": "models/swiss_watch/helicopter.tgs",
+    "webp_path": "models/swiss_watch/helicopter.webp",
     "custom_emoji_id": "5882069183453207880",
     "model_id": "5224463785825170432"
   },
   {
     "name": "bruce_wayne",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/bruce_wayne.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/bruce_wayne.webp",
+    "tgs_path": "models/swiss_watch/bruce_wayne.tgs",
+    "webp_path": "models/swiss_watch/bruce_wayne.webp",
     "custom_emoji_id": "5881774956718596033",
     "model_id": "5224586815163363233"
   },
   {
     "name": "delorean",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/delorean.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/delorean.webp",
+    "tgs_path": "models/swiss_watch/delorean.tgs",
+    "webp_path": "models/swiss_watch/delorean.webp",
     "custom_emoji_id": "5881901881592127321",
     "model_id": "5224601143174261537"
   },
   {
     "name": "outer_space",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/outer_space.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/outer_space.webp",
+    "tgs_path": "models/swiss_watch/outer_space.tgs",
+    "webp_path": "models/swiss_watch/outer_space.webp",
     "custom_emoji_id": "5881736130214241516",
     "model_id": "5224615466890193456"
   },
   {
     "name": "day_trader",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/day_trader.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/day_trader.webp",
+    "tgs_path": "models/swiss_watch/day_trader.tgs",
+    "webp_path": "models/swiss_watch/day_trader.webp",
     "custom_emoji_id": "5881917102956224346",
     "model_id": "5224619066072789105"
   },
   {
     "name": "memory_flash",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/memory_flash.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/memory_flash.webp",
+    "tgs_path": "models/swiss_watch/memory_flash.tgs",
+    "webp_path": "models/swiss_watch/memory_flash.webp",
     "custom_emoji_id": "5881994476792061652",
     "model_id": "5226574766546118927"
   },
   {
     "name": "the_grid",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/the_grid.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/the_grid.webp",
+    "tgs_path": "models/swiss_watch/the_grid.tgs",
+    "webp_path": "models/swiss_watch/the_grid.webp",
     "custom_emoji_id": "5882028888070037613",
     "model_id": "5233334993530416642"
   },
   {
     "name": "spacewalk",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/spacewalk.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/spacewalk.webp",
+    "tgs_path": "models/swiss_watch/spacewalk.tgs",
+    "webp_path": "models/swiss_watch/spacewalk.webp",
     "custom_emoji_id": "5882188368795672154",
     "model_id": "5233452731468902596"
   },
   {
     "name": "pot_of_gold",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/pot_of_gold.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/pot_of_gold.webp",
+    "tgs_path": "models/swiss_watch/pot_of_gold.tgs",
+    "webp_path": "models/swiss_watch/pot_of_gold.webp",
     "custom_emoji_id": "5882121783917682681",
     "model_id": "5235450531211666687"
   },
   {
     "name": "cherry_time",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/cherry_time.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/cherry_time.webp",
+    "tgs_path": "models/swiss_watch/cherry_time.tgs",
+    "webp_path": "models/swiss_watch/cherry_time.webp",
     "custom_emoji_id": "5882096585344557394",
     "model_id": "5235495705677684685"
   },
   {
     "name": "sputnik",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/sputnik.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/sputnik.webp",
+    "tgs_path": "models/swiss_watch/sputnik.tgs",
+    "webp_path": "models/swiss_watch/sputnik.webp",
     "custom_emoji_id": "5884314635305229875",
     "model_id": "5235646227101544444"
   },
   {
     "name": "sean_connery",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/sean_connery.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/sean_connery.webp",
+    "tgs_path": "models/swiss_watch/sean_connery.tgs",
+    "webp_path": "models/swiss_watch/sean_connery.webp",
     "custom_emoji_id": "5881876373781356171",
     "model_id": "5235709320171117266"
   },
   {
     "name": "future_watch",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/future_watch.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/future_watch.webp",
+    "tgs_path": "models/swiss_watch/future_watch.tgs",
+    "webp_path": "models/swiss_watch/future_watch.webp",
     "custom_emoji_id": "5884061601601952792",
     "model_id": "5235877511090434978"
   },
   {
     "name": "gameboy",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/gameboy.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/gameboy.webp",
+    "tgs_path": "models/swiss_watch/gameboy.tgs",
+    "webp_path": "models/swiss_watch/gameboy.webp",
     "custom_emoji_id": "5882251723858255305",
     "model_id": "5235895897845425593"
   },
   {
     "name": "pink_cycle",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/pink_cycle.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/pink_cycle.webp",
+    "tgs_path": "models/swiss_watch/pink_cycle.tgs",
+    "webp_path": "models/swiss_watch/pink_cycle.webp",
     "custom_emoji_id": "5882136859252891202",
     "model_id": "5235926525257212952"
   },
   {
     "name": "iced_out",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/iced_out.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/iced_out.webp",
+    "tgs_path": "models/swiss_watch/iced_out.tgs",
+    "webp_path": "models/swiss_watch/iced_out.webp",
     "custom_emoji_id": "5881863424454959611",
     "model_id": "5235990494500119481"
   },
   {
     "name": "cupid_clock",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/cupid_clock.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/cupid_clock.webp",
+    "tgs_path": "models/swiss_watch/cupid_clock.tgs",
+    "webp_path": "models/swiss_watch/cupid_clock.webp",
     "custom_emoji_id": "5882255623688560390",
     "model_id": "5235995227554082392"
   },
   {
     "name": "intergalactic",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/intergalactic.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/intergalactic.webp",
+    "tgs_path": "models/swiss_watch/intergalactic.tgs",
+    "webp_path": "models/swiss_watch/intergalactic.webp",
     "custom_emoji_id": "5881746154667909365",
     "model_id": "5237697056805510735"
   },
   {
     "name": "salvador",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/salvador.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/salvador.webp",
+    "tgs_path": "models/swiss_watch/salvador.tgs",
+    "webp_path": "models/swiss_watch/salvador.webp",
     "custom_emoji_id": "5882006171988008393",
     "model_id": "5237762915834030106"
   },
   {
     "name": "inception",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/inception.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/inception.webp",
+    "tgs_path": "models/swiss_watch/inception.tgs",
+    "webp_path": "models/swiss_watch/inception.webp",
     "custom_emoji_id": "5884513685564563646",
     "model_id": "5237967734234439342"
   },
   {
     "name": "pip-boy",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/swiss_watch/pip-boy.tgs",
-    "webp_path": "TG_Photos_repo/models/swiss_watch/pip-boy.webp",
+    "tgs_path": "models/swiss_watch/pip-boy.tgs",
+    "webp_path": "models/swiss_watch/pip-boy.webp",
     "custom_emoji_id": "5882078374683221180",
     "model_id": "5238145344017031412"
   }

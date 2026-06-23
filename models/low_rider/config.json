@@ -2,400 +2,400 @@
   {
     "name": "delorean",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/low_rider/delorean.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/delorean.webp",
+    "tgs_path": "models/low_rider/delorean.tgs",
+    "webp_path": "models/low_rider/delorean.webp",
     "custom_emoji_id": "5884037747353590506",
     "model_id": "5375296809558112354"
   },
   {
     "name": "helicopter",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/low_rider/helicopter.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/helicopter.webp",
+    "tgs_path": "models/low_rider/helicopter.tgs",
+    "webp_path": "models/low_rider/helicopter.webp",
     "custom_emoji_id": "5881830924437429906",
     "model_id": "5375493278542099683"
   },
   {
     "name": "tricycle",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/low_rider/tricycle.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/tricycle.webp",
+    "tgs_path": "models/low_rider/tricycle.tgs",
+    "webp_path": "models/low_rider/tricycle.webp",
     "custom_emoji_id": "5881752807572249740",
     "model_id": "5379633584065770269"
   },
   {
     "name": "soul_plane",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/low_rider/soul_plane.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/soul_plane.webp",
+    "tgs_path": "models/low_rider/soul_plane.tgs",
+    "webp_path": "models/low_rider/soul_plane.webp",
     "custom_emoji_id": "5882129192736268100",
     "model_id": "5379933660545842931"
   },
   {
     "name": "blaze",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/low_rider/blaze.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/blaze.webp",
+    "tgs_path": "models/low_rider/blaze.tgs",
+    "webp_path": "models/low_rider/blaze.webp",
     "custom_emoji_id": "5881985264087211854",
     "model_id": "5382349678434087652"
   },
   {
     "name": "gigahorse",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/low_rider/gigahorse.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/gigahorse.webp",
+    "tgs_path": "models/low_rider/gigahorse.tgs",
+    "webp_path": "models/low_rider/gigahorse.webp",
     "custom_emoji_id": "5884490608705281340",
     "model_id": "5393122843686893850"
   },
   {
     "name": "let_me_ride",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/low_rider/let_me_ride.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/let_me_ride.webp",
+    "tgs_path": "models/low_rider/let_me_ride.tgs",
+    "webp_path": "models/low_rider/let_me_ride.webp",
     "custom_emoji_id": "5881705631651471411",
     "model_id": "5393258452984296201"
   },
   {
     "name": "chevy_1964",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/low_rider/chevy_1964.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/chevy_1964.webp",
+    "tgs_path": "models/low_rider/chevy_1964.tgs",
+    "webp_path": "models/low_rider/chevy_1964.webp",
     "custom_emoji_id": "5882101790844920426",
     "model_id": "5398087306190023903"
   },
   {
     "name": "speedboat",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/low_rider/speedboat.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/speedboat.webp",
+    "tgs_path": "models/low_rider/speedboat.tgs",
+    "webp_path": "models/low_rider/speedboat.webp",
     "custom_emoji_id": "5881709935208701535",
     "model_id": "5404568265810801638"
   },
   {
     "name": "toy_car",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/low_rider/toy_car.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/toy_car.webp",
+    "tgs_path": "models/low_rider/toy_car.tgs",
+    "webp_path": "models/low_rider/toy_car.webp",
     "custom_emoji_id": "5884129152847584407",
     "model_id": "5406720272059365362"
   },
   {
     "name": "mothership",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/low_rider/mothership.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/mothership.webp",
+    "tgs_path": "models/low_rider/mothership.tgs",
+    "webp_path": "models/low_rider/mothership.webp",
     "custom_emoji_id": "5882129257160777770",
     "model_id": "5407034070959946546"
   },
   {
     "name": "doggyland_bus",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/low_rider/doggyland_bus.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/doggyland_bus.webp",
+    "tgs_path": "models/low_rider/doggyland_bus.tgs",
+    "webp_path": "models/low_rider/doggyland_bus.webp",
     "custom_emoji_id": "5881757665180261805",
     "model_id": "5408892662222715668"
   },
   {
     "name": "neon_phantom",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/low_rider/neon_phantom.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/neon_phantom.webp",
+    "tgs_path": "models/low_rider/neon_phantom.tgs",
+    "webp_path": "models/low_rider/neon_phantom.webp",
     "custom_emoji_id": "5881731753642565551",
     "model_id": "5409266998687330896"
   },
   {
     "name": "sticker_gang",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/low_rider/sticker_gang.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/sticker_gang.webp",
+    "tgs_path": "models/low_rider/sticker_gang.tgs",
+    "webp_path": "models/low_rider/sticker_gang.webp",
     "custom_emoji_id": "5884129616704052963",
     "model_id": "5411119366542490991"
   },
   {
     "name": "deville_1968",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/low_rider/deville_1968.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/deville_1968.webp",
+    "tgs_path": "models/low_rider/deville_1968.tgs",
+    "webp_path": "models/low_rider/deville_1968.webp",
     "custom_emoji_id": "5882184022288768905",
     "model_id": "5413334560349911796"
   },
   {
     "name": "golden_bike",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/low_rider/golden_bike.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/golden_bike.webp",
+    "tgs_path": "models/low_rider/golden_bike.tgs",
+    "webp_path": "models/low_rider/golden_bike.webp",
     "custom_emoji_id": "5881887072544890487",
     "model_id": "5413623074778020106"
   },
   {
     "name": "flamingo",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/low_rider/flamingo.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/flamingo.webp",
+    "tgs_path": "models/low_rider/flamingo.tgs",
+    "webp_path": "models/low_rider/flamingo.webp",
     "custom_emoji_id": "5882073396816125704",
     "model_id": "5415610832887248237"
   },
   {
     "name": "gold_rush",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/low_rider/gold_rush.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/gold_rush.webp",
+    "tgs_path": "models/low_rider/gold_rush.tgs",
+    "webp_path": "models/low_rider/gold_rush.webp",
     "custom_emoji_id": "5881830550775275293",
     "model_id": "5415682752114622552"
   },
   {
     "name": "la_noir",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/low_rider/la_noir.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/la_noir.webp",
+    "tgs_path": "models/low_rider/la_noir.tgs",
+    "webp_path": "models/low_rider/la_noir.webp",
     "custom_emoji_id": "5882115689359089812",
     "model_id": "5415703075899869354"
   },
   {
     "name": "green_deville",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/low_rider/green_deville.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/green_deville.webp",
+    "tgs_path": "models/low_rider/green_deville.tgs",
+    "webp_path": "models/low_rider/green_deville.webp",
     "custom_emoji_id": "5881975209568773021",
     "model_id": "5415738578099534457"
   },
   {
     "name": "dribble",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/low_rider/dribble.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/dribble.webp",
+    "tgs_path": "models/low_rider/dribble.tgs",
+    "webp_path": "models/low_rider/dribble.webp",
     "custom_emoji_id": "5882147609556033063",
     "model_id": "5415780389606161919"
   },
   {
     "name": "blizzard",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/low_rider/blizzard.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/blizzard.webp",
+    "tgs_path": "models/low_rider/blizzard.tgs",
+    "webp_path": "models/low_rider/blizzard.webp",
     "custom_emoji_id": "5884179687432789227",
     "model_id": "5415839789003864275"
   },
   {
     "name": "high_flyer",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/low_rider/high_flyer.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/high_flyer.webp",
+    "tgs_path": "models/low_rider/high_flyer.tgs",
+    "webp_path": "models/low_rider/high_flyer.webp",
     "custom_emoji_id": "5881716755616768665",
     "model_id": "5415848258679371684"
   },
   {
     "name": "paparazzi",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/low_rider/paparazzi.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/paparazzi.webp",
+    "tgs_path": "models/low_rider/paparazzi.tgs",
+    "webp_path": "models/low_rider/paparazzi.webp",
     "custom_emoji_id": "5881820195609125331",
     "model_id": "5415858463521665104"
   },
   {
     "name": "money_rider",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/low_rider/money_rider.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/money_rider.webp",
+    "tgs_path": "models/low_rider/money_rider.tgs",
+    "webp_path": "models/low_rider/money_rider.webp",
     "custom_emoji_id": "5882203594454736421",
     "model_id": "5415861031912111629"
   },
   {
     "name": "drop_it!",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/low_rider/drop_it!.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/drop_it!.webp",
+    "tgs_path": "models/low_rider/drop_it!.tgs",
+    "webp_path": "models/low_rider/drop_it!.webp",
     "custom_emoji_id": "5881784826553441068",
     "model_id": "5415917119890029395"
   },
   {
     "name": "alpine_gold",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/low_rider/alpine_gold.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/alpine_gold.webp",
+    "tgs_path": "models/low_rider/alpine_gold.tgs",
+    "webp_path": "models/low_rider/alpine_gold.webp",
     "custom_emoji_id": "5882175939160318027",
     "model_id": "5415976987439169080"
   },
   {
     "name": "brown_sugar",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/low_rider/brown_sugar.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/brown_sugar.webp",
+    "tgs_path": "models/low_rider/brown_sugar.tgs",
+    "webp_path": "models/low_rider/brown_sugar.webp",
     "custom_emoji_id": "5881731654858316833",
     "model_id": "5416031043897555417"
   },
   {
     "name": "jade_emperor",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/low_rider/jade_emperor.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/jade_emperor.webp",
+    "tgs_path": "models/low_rider/jade_emperor.tgs",
+    "webp_path": "models/low_rider/jade_emperor.webp",
     "custom_emoji_id": "5884376929510892126",
     "model_id": "5416043774180619047"
   },
   {
     "name": "bass_drop",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/low_rider/bass_drop.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/bass_drop.webp",
+    "tgs_path": "models/low_rider/bass_drop.tgs",
+    "webp_path": "models/low_rider/bass_drop.webp",
     "custom_emoji_id": "5882105613365813887",
     "model_id": "5416064463038087559"
   },
   {
     "name": "first_class",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/low_rider/first_class.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/first_class.webp",
+    "tgs_path": "models/low_rider/first_class.tgs",
+    "webp_path": "models/low_rider/first_class.webp",
     "custom_emoji_id": "5881843023360302772",
     "model_id": "5416125481638458511"
   },
   {
     "name": "malibu",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/low_rider/malibu.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/malibu.webp",
+    "tgs_path": "models/low_rider/malibu.tgs",
+    "webp_path": "models/low_rider/malibu.webp",
     "custom_emoji_id": "5882016767672327714",
     "model_id": "5416138336475575547"
   },
   {
     "name": "bombay",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/low_rider/bombay.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/bombay.webp",
+    "tgs_path": "models/low_rider/bombay.tgs",
+    "webp_path": "models/low_rider/bombay.webp",
     "custom_emoji_id": "5881709286668639922",
     "model_id": "5418010972281403492"
   },
   {
     "name": "war_rig",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/low_rider/war_rig.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/war_rig.webp",
+    "tgs_path": "models/low_rider/war_rig.tgs",
+    "webp_path": "models/low_rider/war_rig.webp",
     "custom_emoji_id": "5882046832443399680",
     "model_id": "5418148067637494911"
   },
   {
     "name": "silent_hill",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/low_rider/silent_hill.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/silent_hill.webp",
+    "tgs_path": "models/low_rider/silent_hill.tgs",
+    "webp_path": "models/low_rider/silent_hill.webp",
     "custom_emoji_id": "5881721789318438068",
     "model_id": "5418311405243756997"
   },
   {
     "name": "lava-forged",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/low_rider/lava-forged.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/lava-forged.webp",
+    "tgs_path": "models/low_rider/lava-forged.tgs",
+    "webp_path": "models/low_rider/lava-forged.webp",
     "custom_emoji_id": "5884224355092668361",
     "model_id": "5418332626677168185"
   },
   {
     "name": "ultramarine",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/low_rider/ultramarine.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/ultramarine.webp",
+    "tgs_path": "models/low_rider/ultramarine.tgs",
+    "webp_path": "models/low_rider/ultramarine.webp",
     "custom_emoji_id": "5881779517973864792",
     "model_id": "5431369660601761927"
   },
   {
     "name": "grasshopper",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/low_rider/grasshopper.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/grasshopper.webp",
+    "tgs_path": "models/low_rider/grasshopper.tgs",
+    "webp_path": "models/low_rider/grasshopper.webp",
     "custom_emoji_id": "5884508802186747361",
     "model_id": "5431619335640613758"
   },
   {
     "name": "road_ape",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/low_rider/road_ape.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/road_ape.webp",
+    "tgs_path": "models/low_rider/road_ape.tgs",
+    "webp_path": "models/low_rider/road_ape.webp",
     "custom_emoji_id": "5881712318915550990",
     "model_id": "5431772889311378105"
   },
   {
     "name": "grid_runner",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/low_rider/grid_runner.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/grid_runner.webp",
+    "tgs_path": "models/low_rider/grid_runner.tgs",
+    "webp_path": "models/low_rider/grid_runner.webp",
     "custom_emoji_id": "5882074169910239083",
     "model_id": "5433795144597927970"
   },
   {
     "name": "dark_roast",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/low_rider/dark_roast.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/dark_roast.webp",
+    "tgs_path": "models/low_rider/dark_roast.tgs",
+    "webp_path": "models/low_rider/dark_roast.webp",
     "custom_emoji_id": "5884066768447609613",
     "model_id": "5433869657985547740"
   },
   {
     "name": "telegram_bus",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/low_rider/telegram_bus.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/telegram_bus.webp",
+    "tgs_path": "models/low_rider/telegram_bus.tgs",
+    "webp_path": "models/low_rider/telegram_bus.webp",
     "custom_emoji_id": "5881840583818878619",
     "model_id": "5434023572433565614"
   },
   {
     "name": "disco_rider",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/low_rider/disco_rider.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/disco_rider.webp",
+    "tgs_path": "models/low_rider/disco_rider.tgs",
+    "webp_path": "models/low_rider/disco_rider.webp",
     "custom_emoji_id": "5884034813890928390",
     "model_id": "5434027425019233189"
   },
   {
     "name": "lovemobile",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/low_rider/lovemobile.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/lovemobile.webp",
+    "tgs_path": "models/low_rider/lovemobile.tgs",
+    "webp_path": "models/low_rider/lovemobile.webp",
     "custom_emoji_id": "5881970351960759846",
     "model_id": "5434049677244793018"
   },
   {
     "name": "neon_nitro",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/low_rider/neon_nitro.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/neon_nitro.webp",
+    "tgs_path": "models/low_rider/neon_nitro.tgs",
+    "webp_path": "models/low_rider/neon_nitro.webp",
     "custom_emoji_id": "5881910316907896405",
     "model_id": "5434052331534581022"
   },
   {
     "name": "blood_ruby",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/low_rider/blood_ruby.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/blood_ruby.webp",
+    "tgs_path": "models/low_rider/blood_ruby.tgs",
+    "webp_path": "models/low_rider/blood_ruby.webp",
     "custom_emoji_id": "5882137026756615529",
     "model_id": "5434123439013135120"
   },
   {
     "name": "silver_angel",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/low_rider/silver_angel.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/silver_angel.webp",
+    "tgs_path": "models/low_rider/silver_angel.tgs",
+    "webp_path": "models/low_rider/silver_angel.webp",
     "custom_emoji_id": "5881958227268086373",
     "model_id": "5434145497965167384"
   },
   {
     "name": "hippie",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/low_rider/hippie.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/hippie.webp",
+    "tgs_path": "models/low_rider/hippie.tgs",
+    "webp_path": "models/low_rider/hippie.webp",
     "custom_emoji_id": "5881949469829768703",
     "model_id": "5435922600813429451"
   },
   {
     "name": "vape_wave",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/low_rider/vape_wave.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/vape_wave.webp",
+    "tgs_path": "models/low_rider/vape_wave.tgs",
+    "webp_path": "models/low_rider/vape_wave.webp",
     "custom_emoji_id": "5884273489518534374",
     "model_id": "5436077601888174072"
   },
   {
     "name": "dry_eyes",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/low_rider/dry_eyes.tgs",
-    "webp_path": "TG_Photos_repo/models/low_rider/dry_eyes.webp",
+    "tgs_path": "models/low_rider/dry_eyes.tgs",
+    "webp_path": "models/low_rider/dry_eyes.webp",
     "custom_emoji_id": "5884442917388427427",
     "model_id": "5436237752628703131"
   }

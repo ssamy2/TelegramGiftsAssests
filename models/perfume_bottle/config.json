@@ -2,344 +2,344 @@
   {
     "name": "№5_l’eau",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/№5_l’eau.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/№5_l’eau.webp",
+    "tgs_path": "models/perfume_bottle/№5_l’eau.tgs",
+    "webp_path": "models/perfume_bottle/№5_l’eau.webp",
     "custom_emoji_id": "5881770807780188422",
     "model_id": "5384356635047126733"
   },
   {
     "name": "№19",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/№19.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/№19.webp",
+    "tgs_path": "models/perfume_bottle/№19.tgs",
+    "webp_path": "models/perfume_bottle/№19.webp",
     "custom_emoji_id": "5882085843631350088",
     "model_id": "5393246289636909608"
   },
   {
     "name": "madmoiselle",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/madmoiselle.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/madmoiselle.webp",
+    "tgs_path": "models/perfume_bottle/madmoiselle.tgs",
+    "webp_path": "models/perfume_bottle/madmoiselle.webp",
     "custom_emoji_id": "5881778036210147952",
     "model_id": "5393416713939216351"
   },
   {
     "name": "eau_de_parfum",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/eau_de_parfum.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/eau_de_parfum.webp",
+    "tgs_path": "models/perfume_bottle/eau_de_parfum.tgs",
+    "webp_path": "models/perfume_bottle/eau_de_parfum.webp",
     "custom_emoji_id": "5883990575727779090",
     "model_id": "5395391995168448431"
   },
   {
     "name": "noir",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/noir.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/noir.webp",
+    "tgs_path": "models/perfume_bottle/noir.tgs",
+    "webp_path": "models/perfume_bottle/noir.webp",
     "custom_emoji_id": "5881918232532622797",
     "model_id": "5395454422518093139"
   },
   {
     "name": "crimson_sky",
     "rarity_permille": 4.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/crimson_sky.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/crimson_sky.webp",
+    "tgs_path": "models/perfume_bottle/crimson_sky.tgs",
+    "webp_path": "models/perfume_bottle/crimson_sky.webp",
     "custom_emoji_id": "5882193003065384569",
     "model_id": "5408843240034032813"
   },
   {
     "name": "mono_delight",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/mono_delight.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/mono_delight.webp",
+    "tgs_path": "models/perfume_bottle/mono_delight.tgs",
+    "webp_path": "models/perfume_bottle/mono_delight.webp",
     "custom_emoji_id": "5882016909406248529",
     "model_id": "5409033721833609725"
   },
   {
     "name": "misty_smoke",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/misty_smoke.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/misty_smoke.webp",
+    "tgs_path": "models/perfume_bottle/misty_smoke.tgs",
+    "webp_path": "models/perfume_bottle/misty_smoke.webp",
     "custom_emoji_id": "5884168589237297044",
     "model_id": "5409113595340415462"
   },
   {
     "name": "candy_luxe",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/candy_luxe.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/candy_luxe.webp",
+    "tgs_path": "models/perfume_bottle/candy_luxe.tgs",
+    "webp_path": "models/perfume_bottle/candy_luxe.webp",
     "custom_emoji_id": "5881909556698683686",
     "model_id": "5409157159193698726"
   },
   {
     "name": "venom_mist",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/venom_mist.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/venom_mist.webp",
+    "tgs_path": "models/perfume_bottle/venom_mist.tgs",
+    "webp_path": "models/perfume_bottle/venom_mist.webp",
     "custom_emoji_id": "5882089240950480860",
     "model_id": "5409222537185878880"
   },
   {
     "name": "cobalt_alloy",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/cobalt_alloy.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/cobalt_alloy.webp",
+    "tgs_path": "models/perfume_bottle/cobalt_alloy.tgs",
+    "webp_path": "models/perfume_bottle/cobalt_alloy.webp",
     "custom_emoji_id": "5881765507790545012",
     "model_id": "5409236255311420820"
   },
   {
     "name": "golden_elixir",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/golden_elixir.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/golden_elixir.webp",
+    "tgs_path": "models/perfume_bottle/golden_elixir.tgs",
+    "webp_path": "models/perfume_bottle/golden_elixir.webp",
     "custom_emoji_id": "5881928437374919358",
     "model_id": "5409380982824396371"
   },
   {
     "name": "dairy_dew",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/dairy_dew.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/dairy_dew.webp",
+    "tgs_path": "models/perfume_bottle/dairy_dew.tgs",
+    "webp_path": "models/perfume_bottle/dairy_dew.webp",
     "custom_emoji_id": "5882200635222271574",
     "model_id": "5411107387878694626"
   },
   {
     "name": "silver_essence",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/silver_essence.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/silver_essence.webp",
+    "tgs_path": "models/perfume_bottle/silver_essence.tgs",
+    "webp_path": "models/perfume_bottle/silver_essence.webp",
     "custom_emoji_id": "5881775021143104527",
     "model_id": "5411120530478624479"
   },
   {
     "name": "twilight_bliss",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/twilight_bliss.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/twilight_bliss.webp",
+    "tgs_path": "models/perfume_bottle/twilight_bliss.tgs",
+    "webp_path": "models/perfume_bottle/twilight_bliss.webp",
     "custom_emoji_id": "5881805214763195802",
     "model_id": "5411129970816737002"
   },
   {
     "name": "serene_mist",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/serene_mist.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/serene_mist.webp",
+    "tgs_path": "models/perfume_bottle/serene_mist.tgs",
+    "webp_path": "models/perfume_bottle/serene_mist.webp",
     "custom_emoji_id": "5884318105638806942",
     "model_id": "5411170811660755702"
   },
   {
     "name": "millet_fields",
     "rarity_permille": 4.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/millet_fields.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/millet_fields.webp",
+    "tgs_path": "models/perfume_bottle/millet_fields.tgs",
+    "webp_path": "models/perfume_bottle/millet_fields.webp",
     "custom_emoji_id": "5882122754580296824",
     "model_id": "5411176115945365146"
   },
   {
     "name": "pure_essence",
     "rarity_permille": 4.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/pure_essence.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/pure_essence.webp",
+    "tgs_path": "models/perfume_bottle/pure_essence.tgs",
+    "webp_path": "models/perfume_bottle/pure_essence.webp",
     "custom_emoji_id": "5884117002385105558",
     "model_id": "5411195911449633221"
   },
   {
     "name": "blush_petal",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/blush_petal.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/blush_petal.webp",
+    "tgs_path": "models/perfume_bottle/blush_petal.tgs",
+    "webp_path": "models/perfume_bottle/blush_petal.webp",
     "custom_emoji_id": "5884279455228109263",
     "model_id": "5411200403985424833"
   },
   {
     "name": "aurora_joy",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/aurora_joy.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/aurora_joy.webp",
+    "tgs_path": "models/perfume_bottle/aurora_joy.tgs",
+    "webp_path": "models/perfume_bottle/aurora_joy.webp",
     "custom_emoji_id": "5884350841879536338",
     "model_id": "5411200799122415746"
   },
   {
     "name": "juicy_bliss",
     "rarity_permille": 4.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/juicy_bliss.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/juicy_bliss.webp",
+    "tgs_path": "models/perfume_bottle/juicy_bliss.tgs",
+    "webp_path": "models/perfume_bottle/juicy_bliss.webp",
     "custom_emoji_id": "5881960477830946684",
     "model_id": "5411222630441181753"
   },
   {
     "name": "luminous",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/luminous.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/luminous.webp",
+    "tgs_path": "models/perfume_bottle/luminous.tgs",
+    "webp_path": "models/perfume_bottle/luminous.webp",
     "custom_emoji_id": "5882066834106098229",
     "model_id": "5411225314795740249"
   },
   {
     "name": "jade_script",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/jade_script.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/jade_script.webp",
+    "tgs_path": "models/perfume_bottle/jade_script.tgs",
+    "webp_path": "models/perfume_bottle/jade_script.webp",
     "custom_emoji_id": "5882075003133894617",
     "model_id": "5411231276210349214"
   },
   {
     "name": "grape_splash",
     "rarity_permille": 4.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/grape_splash.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/grape_splash.webp",
+    "tgs_path": "models/perfume_bottle/grape_splash.tgs",
+    "webp_path": "models/perfume_bottle/grape_splash.webp",
     "custom_emoji_id": "5882209452790128769",
     "model_id": "5411237864690179353"
   },
   {
     "name": "inkspire_red",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/inkspire_red.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/inkspire_red.webp",
+    "tgs_path": "models/perfume_bottle/inkspire_red.tgs",
+    "webp_path": "models/perfume_bottle/inkspire_red.webp",
     "custom_emoji_id": "5881871498993475278",
     "model_id": "5411289498787012395"
   },
   {
     "name": "solar_eclipse",
     "rarity_permille": 4.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/solar_eclipse.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/solar_eclipse.webp",
+    "tgs_path": "models/perfume_bottle/solar_eclipse.tgs",
+    "webp_path": "models/perfume_bottle/solar_eclipse.webp",
     "custom_emoji_id": "5881960937392448197",
     "model_id": "5411300395119042410"
   },
   {
     "name": "azure_plum",
     "rarity_permille": 4.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/azure_plum.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/azure_plum.webp",
+    "tgs_path": "models/perfume_bottle/azure_plum.tgs",
+    "webp_path": "models/perfume_bottle/azure_plum.webp",
     "custom_emoji_id": "5881901314656444410",
     "model_id": "5411303186847785028"
   },
   {
     "name": "ruby_steel",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/ruby_steel.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/ruby_steel.webp",
+    "tgs_path": "models/perfume_bottle/ruby_steel.tgs",
+    "webp_path": "models/perfume_bottle/ruby_steel.webp",
     "custom_emoji_id": "5881784422826516072",
     "model_id": "5411307876952071659"
   },
   {
     "name": "sketch_shade",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/sketch_shade.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/sketch_shade.webp",
+    "tgs_path": "models/perfume_bottle/sketch_shade.tgs",
+    "webp_path": "models/perfume_bottle/sketch_shade.webp",
     "custom_emoji_id": "5882195850628701409",
     "model_id": "5411334857936623833"
   },
   {
     "name": "dark_essence",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/dark_essence.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/dark_essence.webp",
+    "tgs_path": "models/perfume_bottle/dark_essence.tgs",
+    "webp_path": "models/perfume_bottle/dark_essence.webp",
     "custom_emoji_id": "5881941459715762513",
     "model_id": "5411367104551084426"
   },
   {
     "name": "violet_veil",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/violet_veil.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/violet_veil.webp",
+    "tgs_path": "models/perfume_bottle/violet_veil.tgs",
+    "webp_path": "models/perfume_bottle/violet_veil.webp",
     "custom_emoji_id": "5882226018478988633",
     "model_id": "5411392620951790468"
   },
   {
     "name": "glow_verde",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/glow_verde.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/glow_verde.webp",
+    "tgs_path": "models/perfume_bottle/glow_verde.tgs",
+    "webp_path": "models/perfume_bottle/glow_verde.webp",
     "custom_emoji_id": "5882095193775153139",
     "model_id": "5411464059142825379"
   },
   {
     "name": "cartoon_sky",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/cartoon_sky.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/cartoon_sky.webp",
+    "tgs_path": "models/perfume_bottle/cartoon_sky.tgs",
+    "webp_path": "models/perfume_bottle/cartoon_sky.webp",
     "custom_emoji_id": "5882083172161692032",
     "model_id": "5411483476689967816"
   },
   {
     "name": "golden_alloy",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/golden_alloy.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/golden_alloy.webp",
+    "tgs_path": "models/perfume_bottle/golden_alloy.tgs",
+    "webp_path": "models/perfume_bottle/golden_alloy.webp",
     "custom_emoji_id": "5881884504154446953",
     "model_id": "5411516122736386242"
   },
   {
     "name": "plum_cloud",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/plum_cloud.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/plum_cloud.webp",
+    "tgs_path": "models/perfume_bottle/plum_cloud.tgs",
+    "webp_path": "models/perfume_bottle/plum_cloud.webp",
     "custom_emoji_id": "5881739188230954843",
     "model_id": "5411521719078773798"
   },
   {
     "name": "cotton_candy",
     "rarity_permille": 4.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/cotton_candy.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/cotton_candy.webp",
+    "tgs_path": "models/perfume_bottle/cotton_candy.tgs",
+    "webp_path": "models/perfume_bottle/cotton_candy.webp",
     "custom_emoji_id": "5882236858976443945",
     "model_id": "5411537915400448260"
   },
   {
     "name": "orchard_glow",
     "rarity_permille": 4.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/orchard_glow.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/orchard_glow.webp",
+    "tgs_path": "models/perfume_bottle/orchard_glow.tgs",
+    "webp_path": "models/perfume_bottle/orchard_glow.webp",
     "custom_emoji_id": "5884172824075049859",
     "model_id": "5411559308632546634"
   },
   {
     "name": "ebony_rose",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/ebony_rose.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/ebony_rose.webp",
+    "tgs_path": "models/perfume_bottle/ebony_rose.tgs",
+    "webp_path": "models/perfume_bottle/ebony_rose.webp",
     "custom_emoji_id": "5881731895376486310",
     "model_id": "5411563079613833857"
   },
   {
     "name": "jade_steel",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/jade_steel.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/jade_steel.webp",
+    "tgs_path": "models/perfume_bottle/jade_steel.tgs",
+    "webp_path": "models/perfume_bottle/jade_steel.webp",
     "custom_emoji_id": "5884486270788312912",
     "model_id": "5411563406031347556"
   },
   {
     "name": "sunny_doodle",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/sunny_doodle.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/sunny_doodle.webp",
+    "tgs_path": "models/perfume_bottle/sunny_doodle.tgs",
+    "webp_path": "models/perfume_bottle/sunny_doodle.webp",
     "custom_emoji_id": "5882129222801039700",
     "model_id": "5411583081276532165"
   },
   {
     "name": "blizzard",
     "rarity_permille": 0.3,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/blizzard.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/blizzard.webp",
+    "tgs_path": "models/perfume_bottle/blizzard.tgs",
+    "webp_path": "models/perfume_bottle/blizzard.webp",
     "custom_emoji_id": "5882012953741367917",
     "model_id": "5411595579631363296"
   },
   {
     "name": "grape_juice",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/grape_juice.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/grape_juice.webp",
+    "tgs_path": "models/perfume_bottle/grape_juice.tgs",
+    "webp_path": "models/perfume_bottle/grape_juice.webp",
     "custom_emoji_id": "5882259914360889625",
     "model_id": "5411623488328852188"
   },
   {
     "name": "scarlet_kiss",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/perfume_bottle/scarlet_kiss.tgs",
-    "webp_path": "TG_Photos_repo/models/perfume_bottle/scarlet_kiss.webp",
+    "tgs_path": "models/perfume_bottle/scarlet_kiss.tgs",
+    "webp_path": "models/perfume_bottle/scarlet_kiss.webp",
     "custom_emoji_id": "5882227899674663966",
     "model_id": "5411627048856739426"
   }

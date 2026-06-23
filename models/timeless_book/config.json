@@ -2,416 +2,416 @@
   {
     "name": "death_note",
     "rarity_permille": 0.1,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/death_note.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/death_note.webp",
+    "tgs_path": "models/timeless_book/death_note.tgs",
+    "webp_path": "models/timeless_book/death_note.webp",
     "custom_emoji_id": "5879886382289133880",
     "model_id": "5258138317995677843"
   },
   {
     "name": "pirate_tales",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/pirate_tales.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/pirate_tales.webp",
+    "tgs_path": "models/timeless_book/pirate_tales.tgs",
+    "webp_path": "models/timeless_book/pirate_tales.webp",
     "custom_emoji_id": "5877235416804893412",
     "model_id": "5244734781626812258"
   },
   {
     "name": "voodoo",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/voodoo.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/voodoo.webp",
+    "tgs_path": "models/timeless_book/voodoo.tgs",
+    "webp_path": "models/timeless_book/voodoo.webp",
     "custom_emoji_id": "5877554283766881889",
     "model_id": "5323346882305493484"
   },
   {
     "name": "ice_nine",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/ice_nine.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/ice_nine.webp",
+    "tgs_path": "models/timeless_book/ice_nine.tgs",
+    "webp_path": "models/timeless_book/ice_nine.webp",
     "custom_emoji_id": "5880005537566825361",
     "model_id": "5449885573852468231"
   },
   {
     "name": "secret_chapter",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/secret_chapter.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/secret_chapter.webp",
+    "tgs_path": "models/timeless_book/secret_chapter.tgs",
+    "webp_path": "models/timeless_book/secret_chapter.webp",
     "custom_emoji_id": "5879698537599474286",
     "model_id": "5449836645585033545"
   },
   {
     "name": "e-reader",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/e-reader.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/e-reader.webp",
+    "tgs_path": "models/timeless_book/e-reader.tgs",
+    "webp_path": "models/timeless_book/e-reader.webp",
     "custom_emoji_id": "5879453960686804657",
     "model_id": "5393499254620722876"
   },
   {
     "name": "songbook",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/songbook.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/songbook.webp",
+    "tgs_path": "models/timeless_book/songbook.tgs",
+    "webp_path": "models/timeless_book/songbook.webp",
     "custom_emoji_id": "5879663988882546940",
     "model_id": "5449585591861677063"
   },
   {
     "name": "rocket_science",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/rocket_science.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/rocket_science.webp",
+    "tgs_path": "models/timeless_book/rocket_science.tgs",
+    "webp_path": "models/timeless_book/rocket_science.webp",
     "custom_emoji_id": "5877468070888350146",
     "model_id": "5244747627873999685"
   },
   {
     "name": "tom’s_diary",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/tom’s_diary.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/tom’s_diary.webp",
+    "tgs_path": "models/timeless_book/tom’s_diary.tgs",
+    "webp_path": "models/timeless_book/tom’s_diary.webp",
     "custom_emoji_id": "5877453090042420595",
     "model_id": "5251692066005622307"
   },
   {
     "name": "unipedia",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/unipedia.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/unipedia.webp",
+    "tgs_path": "models/timeless_book/unipedia.tgs",
+    "webp_path": "models/timeless_book/unipedia.webp",
     "custom_emoji_id": "5879963773304839461",
     "model_id": "5287767119822361737"
   },
   {
     "name": "academic",
     "rarity_permille": 3.5,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/academic.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/academic.webp",
+    "tgs_path": "models/timeless_book/academic.tgs",
+    "webp_path": "models/timeless_book/academic.webp",
     "custom_emoji_id": "5879542578747022542",
     "model_id": "5287334436227030398"
   },
   {
     "name": "geometry",
     "rarity_permille": 3.5,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/geometry.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/geometry.webp",
+    "tgs_path": "models/timeless_book/geometry.tgs",
+    "webp_path": "models/timeless_book/geometry.webp",
     "custom_emoji_id": "5879832905651330367",
     "model_id": "5287437798909975878"
   },
   {
     "name": "love_story",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/love_story.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/love_story.webp",
+    "tgs_path": "models/timeless_book/love_story.tgs",
+    "webp_path": "models/timeless_book/love_story.webp",
     "custom_emoji_id": "5879892219149688512",
     "model_id": "5449423998012138743"
   },
   {
     "name": "big_brother",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/big_brother.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/big_brother.webp",
+    "tgs_path": "models/timeless_book/big_brother.tgs",
+    "webp_path": "models/timeless_book/big_brother.webp",
     "custom_emoji_id": "5879591683108118447",
     "model_id": "5305521075809983116"
   },
   {
     "name": "monster_book",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/monster_book.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/monster_book.webp",
+    "tgs_path": "models/timeless_book/monster_book.tgs",
+    "webp_path": "models/timeless_book/monster_book.webp",
     "custom_emoji_id": "5879655012400898077",
     "model_id": "5323390407504070048"
   },
   {
     "name": "kamasutra",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/kamasutra.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/kamasutra.webp",
+    "tgs_path": "models/timeless_book/kamasutra.tgs",
+    "webp_path": "models/timeless_book/kamasutra.webp",
     "custom_emoji_id": "5877325005527720818",
     "model_id": "5323499310694831163"
   },
   {
     "name": "divine_comedy",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/divine_comedy.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/divine_comedy.webp",
+    "tgs_path": "models/timeless_book/divine_comedy.tgs",
+    "webp_path": "models/timeless_book/divine_comedy.webp",
     "custom_emoji_id": "5879784393995722465",
     "model_id": "5231253304486431901"
   },
   {
     "name": "secret_files",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/secret_files.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/secret_files.webp",
+    "tgs_path": "models/timeless_book/secret_files.tgs",
+    "webp_path": "models/timeless_book/secret_files.webp",
     "custom_emoji_id": "5879892201969820402",
     "model_id": "5449888490135263403"
   },
   {
     "name": "dragon_age",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/dragon_age.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/dragon_age.webp",
+    "tgs_path": "models/timeless_book/dragon_age.tgs",
+    "webp_path": "models/timeless_book/dragon_age.webp",
     "custom_emoji_id": "5879740520904794529",
     "model_id": "5296450684701418622"
   },
   {
     "name": "anatomy",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/anatomy.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/anatomy.webp",
+    "tgs_path": "models/timeless_book/anatomy.tgs",
+    "webp_path": "models/timeless_book/anatomy.webp",
     "custom_emoji_id": "5879746319110642506",
     "model_id": "5258214695399101101"
   },
   {
     "name": "burn_book",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/burn_book.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/burn_book.webp",
+    "tgs_path": "models/timeless_book/burn_book.tgs",
+    "webp_path": "models/timeless_book/burn_book.webp",
     "custom_emoji_id": "5879745129404702044",
     "model_id": "5278351963099008923"
   },
   {
     "name": "evidence",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/evidence.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/evidence.webp",
+    "tgs_path": "models/timeless_book/evidence.tgs",
+    "webp_path": "models/timeless_book/evidence.webp",
     "custom_emoji_id": "5879965491291758502",
     "model_id": "5287420095054779073"
   },
   {
     "name": "crazy_book",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/crazy_book.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/crazy_book.webp",
+    "tgs_path": "models/timeless_book/crazy_book.tgs",
+    "webp_path": "models/timeless_book/crazy_book.webp",
     "custom_emoji_id": "5879588646566239880",
     "model_id": "5449600203340422880"
   },
   {
     "name": "billy_milligan",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/billy_milligan.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/billy_milligan.webp",
+    "tgs_path": "models/timeless_book/billy_milligan.tgs",
+    "webp_path": "models/timeless_book/billy_milligan.webp",
     "custom_emoji_id": "5879586477607755418",
     "model_id": "5242710280072369164"
   },
   {
     "name": "animator",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/animator.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/animator.webp",
+    "tgs_path": "models/timeless_book/animator.tgs",
+    "webp_path": "models/timeless_book/animator.webp",
     "custom_emoji_id": "5879656721797885205",
     "model_id": "5244984929112068573"
   },
   {
     "name": "fairy_tales",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/fairy_tales.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/fairy_tales.webp",
+    "tgs_path": "models/timeless_book/fairy_tales.tgs",
+    "webp_path": "models/timeless_book/fairy_tales.webp",
     "custom_emoji_id": "5879480683973319963",
     "model_id": "5244649938842849296"
   },
   {
     "name": "cookbook",
     "rarity_permille": 3.5,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/cookbook.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/cookbook.webp",
+    "tgs_path": "models/timeless_book/cookbook.tgs",
+    "webp_path": "models/timeless_book/cookbook.webp",
     "custom_emoji_id": "5879722155624635094",
     "model_id": "5258027056867874336"
   },
   {
     "name": "mystique",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/mystique.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/mystique.webp",
+    "tgs_path": "models/timeless_book/mystique.tgs",
+    "webp_path": "models/timeless_book/mystique.webp",
     "custom_emoji_id": "5879548892348947529",
     "model_id": "5296264987495404686"
   },
   {
     "name": "alphabet",
     "rarity_permille": 3.5,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/alphabet.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/alphabet.webp",
+    "tgs_path": "models/timeless_book/alphabet.tgs",
+    "webp_path": "models/timeless_book/alphabet.webp",
     "custom_emoji_id": "5879512273457782197",
     "model_id": "5296677201276609772"
   },
   {
     "name": "lovecraft",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/lovecraft.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/lovecraft.webp",
+    "tgs_path": "models/timeless_book/lovecraft.tgs",
+    "webp_path": "models/timeless_book/lovecraft.webp",
     "custom_emoji_id": "5879878732952379862",
     "model_id": "5278546233059737841"
   },
   {
     "name": "lord_of_flies",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/lord_of_flies.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/lord_of_flies.webp",
+    "tgs_path": "models/timeless_book/lord_of_flies.tgs",
+    "webp_path": "models/timeless_book/lord_of_flies.webp",
     "custom_emoji_id": "5877638817313201442",
     "model_id": "5278437733595909100"
   },
   {
     "name": "journal_1",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/journal_1.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/journal_1.webp",
+    "tgs_path": "models/timeless_book/journal_1.tgs",
+    "webp_path": "models/timeless_book/journal_1.webp",
     "custom_emoji_id": "5879563576842133601",
     "model_id": "5244772676123270471"
   },
   {
     "name": "chemistry",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/chemistry.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/chemistry.webp",
+    "tgs_path": "models/timeless_book/chemistry.tgs",
+    "webp_path": "models/timeless_book/chemistry.webp",
     "custom_emoji_id": "5879460428907551896",
     "model_id": "5449646971239305476"
   },
   {
     "name": "froges",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/froges.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/froges.webp",
+    "tgs_path": "models/timeless_book/froges.tgs",
+    "webp_path": "models/timeless_book/froges.webp",
     "custom_emoji_id": "5879865375604089204",
     "model_id": "5230934149761634099"
   },
   {
     "name": "animal_friends",
     "rarity_permille": 3.5,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/animal_friends.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/animal_friends.webp",
+    "tgs_path": "models/timeless_book/animal_friends.tgs",
+    "webp_path": "models/timeless_book/animal_friends.webp",
     "custom_emoji_id": "5879653655191232354",
     "model_id": "5287708231525767121"
   },
   {
     "name": "paleontology",
     "rarity_permille": 3.5,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/paleontology.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/paleontology.webp",
+    "tgs_path": "models/timeless_book/paleontology.tgs",
+    "webp_path": "models/timeless_book/paleontology.webp",
     "custom_emoji_id": "5879599164941148162",
     "model_id": "5233459564761880014"
   },
   {
     "name": "tiny_kingdom",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/tiny_kingdom.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/tiny_kingdom.webp",
+    "tgs_path": "models/timeless_book/tiny_kingdom.tgs",
+    "webp_path": "models/timeless_book/tiny_kingdom.webp",
     "custom_emoji_id": "5879895899936660817",
     "model_id": "5447145792739515951"
   },
   {
     "name": "hitchhiker",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/hitchhiker.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/hitchhiker.webp",
+    "tgs_path": "models/timeless_book/hitchhiker.tgs",
+    "webp_path": "models/timeless_book/hitchhiker.webp",
     "custom_emoji_id": "5879672445673152810",
     "model_id": "5231008886487552880"
   },
   {
     "name": "astrology",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/astrology.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/astrology.webp",
+    "tgs_path": "models/timeless_book/astrology.tgs",
+    "webp_path": "models/timeless_book/astrology.webp",
     "custom_emoji_id": "5879852293133704574",
     "model_id": "5278527945088996503"
   },
   {
     "name": "metro",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/metro.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/metro.webp",
+    "tgs_path": "models/timeless_book/metro.tgs",
+    "webp_path": "models/timeless_book/metro.webp",
     "custom_emoji_id": "5879680898168790106",
     "model_id": "5449718190387008347"
   },
   {
     "name": "wisdom_scroll",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/wisdom_scroll.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/wisdom_scroll.webp",
+    "tgs_path": "models/timeless_book/wisdom_scroll.tgs",
+    "webp_path": "models/timeless_book/wisdom_scroll.webp",
     "custom_emoji_id": "5879713402481285965",
     "model_id": "5215446815519841035"
   },
   {
     "name": "unfinished",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/unfinished.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/unfinished.webp",
+    "tgs_path": "models/timeless_book/unfinished.tgs",
+    "webp_path": "models/timeless_book/unfinished.webp",
     "custom_emoji_id": "5877425254359375892",
     "model_id": "5249381781622267019"
   },
   {
     "name": "liberty_scroll",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/liberty_scroll.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/liberty_scroll.webp",
+    "tgs_path": "models/timeless_book/liberty_scroll.tgs",
+    "webp_path": "models/timeless_book/liberty_scroll.webp",
     "custom_emoji_id": "5879831385232908539",
     "model_id": "5395516562104945993"
   },
   {
     "name": "clay_tablets",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/clay_tablets.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/clay_tablets.webp",
+    "tgs_path": "models/timeless_book/clay_tablets.tgs",
+    "webp_path": "models/timeless_book/clay_tablets.webp",
     "custom_emoji_id": "5879869734995893366",
     "model_id": "5253468614803100521"
   },
   {
     "name": "ulysses",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/ulysses.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/ulysses.webp",
+    "tgs_path": "models/timeless_book/ulysses.tgs",
+    "webp_path": "models/timeless_book/ulysses.webp",
     "custom_emoji_id": "5879759165357826810",
     "model_id": "5217654716472793124"
   },
   {
     "name": "token_vault",
     "rarity_permille": 0.2,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/token_vault.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/token_vault.webp",
+    "tgs_path": "models/timeless_book/token_vault.tgs",
+    "webp_path": "models/timeless_book/token_vault.webp",
     "custom_emoji_id": "5879670349729111151",
     "model_id": "5296782041428302422"
   },
   {
     "name": "crystal_tome",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/crystal_tome.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/crystal_tome.webp",
+    "tgs_path": "models/timeless_book/crystal_tome.tgs",
+    "webp_path": "models/timeless_book/crystal_tome.webp",
     "custom_emoji_id": "5877211751535091012",
     "model_id": "5244863909818571734"
   },
   {
     "name": "fahrenheit_451",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/fahrenheit_451.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/fahrenheit_451.webp",
+    "tgs_path": "models/timeless_book/fahrenheit_451.tgs",
+    "webp_path": "models/timeless_book/fahrenheit_451.webp",
     "custom_emoji_id": "5879927094284133355",
     "model_id": "5275978963603198403"
   },
   {
     "name": "shakespeare",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/shakespeare.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/shakespeare.webp",
+    "tgs_path": "models/timeless_book/shakespeare.tgs",
+    "webp_path": "models/timeless_book/shakespeare.webp",
     "custom_emoji_id": "5879989663367700878",
     "model_id": "5449373033930200440"
   },
   {
     "name": "herbarium",
     "rarity_permille": 3.5,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/herbarium.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/herbarium.webp",
+    "tgs_path": "models/timeless_book/herbarium.tgs",
+    "webp_path": "models/timeless_book/herbarium.webp",
     "custom_emoji_id": "5879641384469668197",
     "model_id": "5298792738957861012"
   },
   {
     "name": "rebel_dog",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/rebel_dog.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/rebel_dog.webp",
+    "tgs_path": "models/timeless_book/rebel_dog.tgs",
+    "webp_path": "models/timeless_book/rebel_dog.webp",
     "custom_emoji_id": "5879780549999993971",
     "model_id": "5242555021299585440"
   },
   {
     "name": "the_ledger",
     "rarity_permille": 0.2,
-    "tgs_path": "TG_Photos_repo/models/timeless_book/the_ledger.tgs",
-    "webp_path": "TG_Photos_repo/models/timeless_book/the_ledger.webp",
+    "tgs_path": "models/timeless_book/the_ledger.tgs",
+    "webp_path": "models/timeless_book/the_ledger.webp",
     "custom_emoji_id": "5879668434173697532",
     "model_id": "5298610417596140879"
   }

@@ -2,400 +2,400 @@
   {
     "name": "dewdrop",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/dewdrop.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/dewdrop.webp",
+    "tgs_path": "models/skull_flower/dewdrop.tgs",
+    "webp_path": "models/skull_flower/dewdrop.webp",
     "custom_emoji_id": "5882189751775140884",
     "model_id": "5408924187282660100"
   },
   {
     "name": "royal_azure",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/royal_azure.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/royal_azure.webp",
+    "tgs_path": "models/skull_flower/royal_azure.tgs",
+    "webp_path": "models/skull_flower/royal_azure.webp",
     "custom_emoji_id": "5882068199905697748",
     "model_id": "5409175567423529883"
   },
   {
     "name": "blue_iris",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/blue_iris.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/blue_iris.webp",
+    "tgs_path": "models/skull_flower/blue_iris.tgs",
+    "webp_path": "models/skull_flower/blue_iris.webp",
     "custom_emoji_id": "5882203014634150933",
     "model_id": "5409179085001745433"
   },
   {
     "name": "azalea",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/azalea.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/azalea.webp",
+    "tgs_path": "models/skull_flower/azalea.tgs",
+    "webp_path": "models/skull_flower/azalea.webp",
     "custom_emoji_id": "5882151629645422666",
     "model_id": "5409344497077216704"
   },
   {
     "name": "white_rose",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/white_rose.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/white_rose.webp",
+    "tgs_path": "models/skull_flower/white_rose.tgs",
+    "webp_path": "models/skull_flower/white_rose.webp",
     "custom_emoji_id": "5881866838953959839",
     "model_id": "5411168522443186264"
   },
   {
     "name": "carnation",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/carnation.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/carnation.webp",
+    "tgs_path": "models/skull_flower/carnation.tgs",
+    "webp_path": "models/skull_flower/carnation.webp",
     "custom_emoji_id": "5881897492135550837",
     "model_id": "5411217588149578194"
   },
   {
     "name": "frozen_violet",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/frozen_violet.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/frozen_violet.webp",
+    "tgs_path": "models/skull_flower/frozen_violet.tgs",
+    "webp_path": "models/skull_flower/frozen_violet.webp",
     "custom_emoji_id": "5881758876361038762",
     "model_id": "5411330674638480898"
   },
   {
     "name": "sunburst",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/sunburst.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/sunburst.webp",
+    "tgs_path": "models/skull_flower/sunburst.tgs",
+    "webp_path": "models/skull_flower/sunburst.webp",
     "custom_emoji_id": "5881712928800907777",
     "model_id": "5411354511706974413"
   },
   {
     "name": "early_green",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/early_green.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/early_green.webp",
+    "tgs_path": "models/skull_flower/early_green.tgs",
+    "webp_path": "models/skull_flower/early_green.webp",
     "custom_emoji_id": "5881897702588950045",
     "model_id": "5411391414065977781"
   },
   {
     "name": "wreath",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/wreath.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/wreath.webp",
+    "tgs_path": "models/skull_flower/wreath.tgs",
+    "webp_path": "models/skull_flower/wreath.webp",
     "custom_emoji_id": "5882220894583004601",
     "model_id": "5411413004866576979"
   },
   {
     "name": "pink_caprice",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/pink_caprice.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/pink_caprice.webp",
+    "tgs_path": "models/skull_flower/pink_caprice.tgs",
+    "webp_path": "models/skull_flower/pink_caprice.webp",
     "custom_emoji_id": "5884035492495761129",
     "model_id": "5411438126130291567"
   },
   {
     "name": "mystic",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/mystic.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/mystic.webp",
+    "tgs_path": "models/skull_flower/mystic.tgs",
+    "webp_path": "models/skull_flower/mystic.webp",
     "custom_emoji_id": "5881972443609832985",
     "model_id": "5411464905251383286"
   },
   {
     "name": "vector",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/vector.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/vector.webp",
+    "tgs_path": "models/skull_flower/vector.tgs",
+    "webp_path": "models/skull_flower/vector.webp",
     "custom_emoji_id": "5881923373608475813",
     "model_id": "5411550340740833010"
   },
   {
     "name": "peony",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/peony.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/peony.webp",
+    "tgs_path": "models/skull_flower/peony.tgs",
+    "webp_path": "models/skull_flower/peony.webp",
     "custom_emoji_id": "5882110161736179291",
     "model_id": "5411565416076041775"
   },
   {
     "name": "poinsettia",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/poinsettia.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/poinsettia.webp",
+    "tgs_path": "models/skull_flower/poinsettia.tgs",
+    "webp_path": "models/skull_flower/poinsettia.webp",
     "custom_emoji_id": "5882121113902784243",
     "model_id": "5411619983635539063"
   },
   {
     "name": "black_dahlia",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/black_dahlia.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/black_dahlia.webp",
+    "tgs_path": "models/skull_flower/black_dahlia.tgs",
+    "webp_path": "models/skull_flower/black_dahlia.webp",
     "custom_emoji_id": "5881735211091240400",
     "model_id": "5411635995273619584"
   },
   {
     "name": "nightshade",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/nightshade.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/nightshade.webp",
+    "tgs_path": "models/skull_flower/nightshade.tgs",
+    "webp_path": "models/skull_flower/nightshade.webp",
     "custom_emoji_id": "5883973163930361472",
     "model_id": "5413348003597540258"
   },
   {
     "name": "marigold",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/marigold.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/marigold.webp",
+    "tgs_path": "models/skull_flower/marigold.tgs",
+    "webp_path": "models/skull_flower/marigold.webp",
     "custom_emoji_id": "5884049051707513648",
     "model_id": "5413381998263689139"
   },
   {
     "name": "neon_green",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/neon_green.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/neon_green.webp",
+    "tgs_path": "models/skull_flower/neon_green.tgs",
+    "webp_path": "models/skull_flower/neon_green.webp",
     "custom_emoji_id": "5881929884778897413",
     "model_id": "5413409455989613521"
   },
   {
     "name": "citrus_twist",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/citrus_twist.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/citrus_twist.webp",
+    "tgs_path": "models/skull_flower/citrus_twist.tgs",
+    "webp_path": "models/skull_flower/citrus_twist.webp",
     "custom_emoji_id": "5882259171331546791",
     "model_id": "5413524840286020032"
   },
   {
     "name": "luau_lily",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/luau_lily.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/luau_lily.webp",
+    "tgs_path": "models/skull_flower/luau_lily.tgs",
+    "webp_path": "models/skull_flower/luau_lily.webp",
     "custom_emoji_id": "5881955809201495988",
     "model_id": "5413567265972969035"
   },
   {
     "name": "newspaper",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/newspaper.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/newspaper.webp",
+    "tgs_path": "models/skull_flower/newspaper.tgs",
+    "webp_path": "models/skull_flower/newspaper.webp",
     "custom_emoji_id": "5881805923432801146",
     "model_id": "5413646490939713401"
   },
   {
     "name": "neon_pink",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/neon_pink.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/neon_pink.webp",
+    "tgs_path": "models/skull_flower/neon_pink.tgs",
+    "webp_path": "models/skull_flower/neon_pink.webp",
     "custom_emoji_id": "5881907752812421129",
     "model_id": "5413661484670543222"
   },
   {
     "name": "secret_sprout",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/secret_sprout.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/secret_sprout.webp",
+    "tgs_path": "models/skull_flower/secret_sprout.tgs",
+    "webp_path": "models/skull_flower/secret_sprout.webp",
     "custom_emoji_id": "5882065086054408004",
     "model_id": "5413668403862856937"
   },
   {
     "name": "gothic",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/gothic.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/gothic.webp",
+    "tgs_path": "models/skull_flower/gothic.tgs",
+    "webp_path": "models/skull_flower/gothic.webp",
     "custom_emoji_id": "5884028276950703293",
     "model_id": "5415612117082463016"
   },
   {
     "name": "sunset",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/sunset.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/sunset.webp",
+    "tgs_path": "models/skull_flower/sunset.tgs",
+    "webp_path": "models/skull_flower/sunset.webp",
     "custom_emoji_id": "5881705704665915796",
     "model_id": "5415627093633424937"
   },
   {
     "name": "silversage",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/silversage.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/silversage.webp",
+    "tgs_path": "models/skull_flower/silversage.tgs",
+    "webp_path": "models/skull_flower/silversage.webp",
     "custom_emoji_id": "5881874063088950658",
     "model_id": "5416123085046703907"
   },
   {
     "name": "tim_burton",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/tim_burton.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/tim_burton.webp",
+    "tgs_path": "models/skull_flower/tim_burton.tgs",
+    "webp_path": "models/skull_flower/tim_burton.webp",
     "custom_emoji_id": "5882098775777878794",
     "model_id": "5431562319949752002"
   },
   {
     "name": "dark_carnival",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/dark_carnival.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/dark_carnival.webp",
+    "tgs_path": "models/skull_flower/dark_carnival.tgs",
+    "webp_path": "models/skull_flower/dark_carnival.webp",
     "custom_emoji_id": "5881713993952796777",
     "model_id": "5431565579829928199"
   },
   {
     "name": "cobweb",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/cobweb.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/cobweb.webp",
+    "tgs_path": "models/skull_flower/cobweb.tgs",
+    "webp_path": "models/skull_flower/cobweb.webp",
     "custom_emoji_id": "5882165206037043793",
     "model_id": "5431637761050307864"
   },
   {
     "name": "glowing_goth",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/glowing_goth.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/glowing_goth.webp",
+    "tgs_path": "models/skull_flower/glowing_goth.tgs",
+    "webp_path": "models/skull_flower/glowing_goth.webp",
     "custom_emoji_id": "5881943340911435459",
     "model_id": "5431647248633062486"
   },
   {
     "name": "leopard",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/leopard.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/leopard.webp",
+    "tgs_path": "models/skull_flower/leopard.tgs",
+    "webp_path": "models/skull_flower/leopard.webp",
     "custom_emoji_id": "5881741095196434281",
     "model_id": "5433652405654807371"
   },
   {
     "name": "soft_puff",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/soft_puff.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/soft_puff.webp",
+    "tgs_path": "models/skull_flower/soft_puff.tgs",
+    "webp_path": "models/skull_flower/soft_puff.webp",
     "custom_emoji_id": "5882243919902681583",
     "model_id": "5433732317816316598"
   },
   {
     "name": "blue_bull",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/blue_bull.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/blue_bull.webp",
+    "tgs_path": "models/skull_flower/blue_bull.tgs",
+    "webp_path": "models/skull_flower/blue_bull.webp",
     "custom_emoji_id": "5881825366749750136",
     "model_id": "5433746151905976406"
   },
   {
     "name": "princess",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/princess.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/princess.webp",
+    "tgs_path": "models/skull_flower/princess.tgs",
+    "webp_path": "models/skull_flower/princess.webp",
     "custom_emoji_id": "5882034106455303172",
     "model_id": "5433824230116450446"
   },
   {
     "name": "joyful_duck",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/joyful_duck.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/joyful_duck.webp",
+    "tgs_path": "models/skull_flower/joyful_duck.tgs",
+    "webp_path": "models/skull_flower/joyful_duck.webp",
     "custom_emoji_id": "5882102817342102623",
     "model_id": "5433828181486362172"
   },
   {
     "name": "health_risk",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/health_risk.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/health_risk.webp",
+    "tgs_path": "models/skull_flower/health_risk.tgs",
+    "webp_path": "models/skull_flower/health_risk.webp",
     "custom_emoji_id": "5881707169249762331",
     "model_id": "5433852495296225148"
   },
   {
     "name": "pamplona",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/pamplona.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/pamplona.webp",
+    "tgs_path": "models/skull_flower/pamplona.tgs",
+    "webp_path": "models/skull_flower/pamplona.webp",
     "custom_emoji_id": "5881829683191881527",
     "model_id": "5433858624214557424"
   },
   {
     "name": "graffiti",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/graffiti.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/graffiti.webp",
+    "tgs_path": "models/skull_flower/graffiti.tgs",
+    "webp_path": "models/skull_flower/graffiti.webp",
     "custom_emoji_id": "5882244959284763291",
     "model_id": "5434023885966169691"
   },
   {
     "name": "sand_goldbud",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/sand_goldbud.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/sand_goldbud.webp",
+    "tgs_path": "models/skull_flower/sand_goldbud.tgs",
+    "webp_path": "models/skull_flower/sand_goldbud.webp",
     "custom_emoji_id": "5881984637021985739",
     "model_id": "5434059010208719024"
   },
   {
     "name": "black_cat",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/black_cat.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/black_cat.webp",
+    "tgs_path": "models/skull_flower/black_cat.tgs",
+    "webp_path": "models/skull_flower/black_cat.webp",
     "custom_emoji_id": "5882096473675407029",
     "model_id": "5434078015439003994"
   },
   {
     "name": "jack_sparrow",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/jack_sparrow.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/jack_sparrow.webp",
+    "tgs_path": "models/skull_flower/jack_sparrow.tgs",
+    "webp_path": "models/skull_flower/jack_sparrow.webp",
     "custom_emoji_id": "5881913989104933991",
     "model_id": "5434079729130957685"
   },
   {
     "name": "chromium",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/chromium.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/chromium.webp",
+    "tgs_path": "models/skull_flower/chromium.tgs",
+    "webp_path": "models/skull_flower/chromium.webp",
     "custom_emoji_id": "5884343016449122009",
     "model_id": "5434092051392127629"
   },
   {
     "name": "technicolor",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/technicolor.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/technicolor.webp",
+    "tgs_path": "models/skull_flower/technicolor.tgs",
+    "webp_path": "models/skull_flower/technicolor.webp",
     "custom_emoji_id": "5882258325222990089",
     "model_id": "5438154811281272733"
   },
   {
     "name": "daisy",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/daisy.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/daisy.webp",
+    "tgs_path": "models/skull_flower/daisy.tgs",
+    "webp_path": "models/skull_flower/daisy.webp",
     "custom_emoji_id": "5882166223944293359",
     "model_id": "5438397820530878072"
   },
   {
     "name": "sun_dazzle",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/sun_dazzle.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/sun_dazzle.webp",
+    "tgs_path": "models/skull_flower/sun_dazzle.tgs",
+    "webp_path": "models/skull_flower/sun_dazzle.webp",
     "custom_emoji_id": "5438527356744525383",
     "model_id": "5438527356744525383"
   },
   {
     "name": "cocoon",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/cocoon.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/cocoon.webp",
+    "tgs_path": "models/skull_flower/cocoon.tgs",
+    "webp_path": "models/skull_flower/cocoon.webp",
     "custom_emoji_id": "5438563571908765361",
     "model_id": "5438563571908765361"
   },
   {
     "name": "ghost_rider",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/ghost_rider.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/ghost_rider.webp",
+    "tgs_path": "models/skull_flower/ghost_rider.tgs",
+    "webp_path": "models/skull_flower/ghost_rider.webp",
     "custom_emoji_id": "5438599387641045680",
     "model_id": "5438599387641045680"
   },
   {
     "name": "calavera",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/calavera.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/calavera.webp",
+    "tgs_path": "models/skull_flower/calavera.tgs",
+    "webp_path": "models/skull_flower/calavera.webp",
     "custom_emoji_id": "5438636453208810772",
     "model_id": "5438636453208810772"
   },
   {
     "name": "hypercolor",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/skull_flower/hypercolor.tgs",
-    "webp_path": "TG_Photos_repo/models/skull_flower/hypercolor.webp",
+    "tgs_path": "models/skull_flower/hypercolor.tgs",
+    "webp_path": "models/skull_flower/hypercolor.webp",
     "custom_emoji_id": "5440876922898769174",
     "model_id": "5440876922898769174"
   }

@@ -2,416 +2,416 @@
   {
     "name": "noir_manga",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/noir_manga.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/noir_manga.webp",
+    "tgs_path": "models/ion_gem/noir_manga.tgs",
+    "webp_path": "models/ion_gem/noir_manga.webp",
     "custom_emoji_id": "5881875549147636053",
     "model_id": "5217542428847792279"
   },
   {
     "name": "anime_battle",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/anime_battle.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/anime_battle.webp",
+    "tgs_path": "models/ion_gem/anime_battle.tgs",
+    "webp_path": "models/ion_gem/anime_battle.webp",
     "custom_emoji_id": "5882254910723989133",
     "model_id": "5217638240978233667"
   },
   {
     "name": "live_wire",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/live_wire.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/live_wire.webp",
+    "tgs_path": "models/ion_gem/live_wire.tgs",
+    "webp_path": "models/ion_gem/live_wire.webp",
     "custom_emoji_id": "5884277711471388442",
     "model_id": "5226463608497532507"
   },
   {
     "name": "color_drain",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/color_drain.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/color_drain.webp",
+    "tgs_path": "models/ion_gem/color_drain.tgs",
+    "webp_path": "models/ion_gem/color_drain.webp",
     "custom_emoji_id": "5881891977397542529",
     "model_id": "5395410966038994672"
   },
   {
     "name": "himalaya",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/himalaya.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/himalaya.webp",
+    "tgs_path": "models/ion_gem/himalaya.tgs",
+    "webp_path": "models/ion_gem/himalaya.webp",
     "custom_emoji_id": "5884124771980944188",
     "model_id": "5395503758807425293"
   },
   {
     "name": "obsidian",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/obsidian.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/obsidian.webp",
+    "tgs_path": "models/ion_gem/obsidian.tgs",
+    "webp_path": "models/ion_gem/obsidian.webp",
     "custom_emoji_id": "5882243997212090800",
     "model_id": "5395618967010174223"
   },
   {
     "name": "star_forge",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/star_forge.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/star_forge.webp",
+    "tgs_path": "models/ion_gem/star_forge.tgs",
+    "webp_path": "models/ion_gem/star_forge.webp",
     "custom_emoji_id": "5882216174413946110",
     "model_id": "5395638260003267794"
   },
   {
     "name": "blood_gem",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/blood_gem.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/blood_gem.webp",
+    "tgs_path": "models/ion_gem/blood_gem.tgs",
+    "webp_path": "models/ion_gem/blood_gem.webp",
     "custom_emoji_id": "5882242493973536213",
     "model_id": "5395716278084199392"
   },
   {
     "name": "limestone",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/limestone.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/limestone.webp",
+    "tgs_path": "models/ion_gem/limestone.tgs",
+    "webp_path": "models/ion_gem/limestone.webp",
     "custom_emoji_id": "5881914762199048498",
     "model_id": "5395720130669864225"
   },
   {
     "name": "honey_gold",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/honey_gold.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/honey_gold.webp",
+    "tgs_path": "models/ion_gem/honey_gold.tgs",
+    "webp_path": "models/ion_gem/honey_gold.webp",
     "custom_emoji_id": "5881773977466052653",
     "model_id": "5395768736814751033"
   },
   {
     "name": "solarium",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/solarium.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/solarium.webp",
+    "tgs_path": "models/ion_gem/solarium.tgs",
+    "webp_path": "models/ion_gem/solarium.webp",
     "custom_emoji_id": "5884355918530878603",
     "model_id": "5395855894586089595"
   },
   {
     "name": "bronzite",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/bronzite.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/bronzite.webp",
+    "tgs_path": "models/ion_gem/bronzite.tgs",
+    "webp_path": "models/ion_gem/bronzite.webp",
     "custom_emoji_id": "5884291944993008117",
     "model_id": "5397639182187259500"
   },
   {
     "name": "nightstone",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/nightstone.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/nightstone.webp",
+    "tgs_path": "models/ion_gem/nightstone.tgs",
+    "webp_path": "models/ion_gem/nightstone.webp",
     "custom_emoji_id": "5881942808335490074",
     "model_id": "5397641110627573689"
   },
   {
     "name": "tiberium",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/tiberium.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/tiberium.webp",
+    "tgs_path": "models/ion_gem/tiberium.tgs",
+    "webp_path": "models/ion_gem/tiberium.webp",
     "custom_emoji_id": "5884050314427908729",
     "model_id": "5397692014579964474"
   },
   {
     "name": "shocking_pink",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/shocking_pink.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/shocking_pink.webp",
+    "tgs_path": "models/ion_gem/shocking_pink.tgs",
+    "webp_path": "models/ion_gem/shocking_pink.webp",
     "custom_emoji_id": "5881999102471838819",
     "model_id": "5397700067643646629"
   },
   {
     "name": "time_stone",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/time_stone.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/time_stone.webp",
+    "tgs_path": "models/ion_gem/time_stone.tgs",
+    "webp_path": "models/ion_gem/time_stone.webp",
     "custom_emoji_id": "5882133595077745844",
     "model_id": "5397783664887095934"
   },
   {
     "name": "garnet",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/garnet.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/garnet.webp",
+    "tgs_path": "models/ion_gem/garnet.tgs",
+    "webp_path": "models/ion_gem/garnet.webp",
     "custom_emoji_id": "5881702655239135425",
     "model_id": "5397857993591117394"
   },
   {
     "name": "amethyst",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/amethyst.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/amethyst.webp",
+    "tgs_path": "models/ion_gem/amethyst.tgs",
+    "webp_path": "models/ion_gem/amethyst.webp",
     "custom_emoji_id": "5881832496395460423",
     "model_id": "5398047985764426100"
   },
   {
     "name": "sugilite",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/sugilite.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/sugilite.webp",
+    "tgs_path": "models/ion_gem/sugilite.tgs",
+    "webp_path": "models/ion_gem/sugilite.webp",
     "custom_emoji_id": "5881740811728596187",
     "model_id": "5400066800782172167"
   },
   {
     "name": "chaos_emerald",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/chaos_emerald.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/chaos_emerald.webp",
+    "tgs_path": "models/ion_gem/chaos_emerald.tgs",
+    "webp_path": "models/ion_gem/chaos_emerald.webp",
     "custom_emoji_id": "5881732707125304430",
     "model_id": "5400290499858817167"
   },
   {
     "name": "sapphire",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/sapphire.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/sapphire.webp",
+    "tgs_path": "models/ion_gem/sapphire.tgs",
+    "webp_path": "models/ion_gem/sapphire.webp",
     "custom_emoji_id": "5884342720096377533",
     "model_id": "5400294945149968145"
   },
   {
     "name": "princess_cut",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/princess_cut.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/princess_cut.webp",
+    "tgs_path": "models/ion_gem/princess_cut.tgs",
+    "webp_path": "models/ion_gem/princess_cut.webp",
     "custom_emoji_id": "5884448814378524232",
     "model_id": "5404333485718529979"
   },
   {
     "name": "sakura",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/sakura.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/sakura.webp",
+    "tgs_path": "models/ion_gem/sakura.tgs",
+    "webp_path": "models/ion_gem/sakura.webp",
     "custom_emoji_id": "5884150747943149596",
     "model_id": "5406830493805076862"
   },
   {
     "name": "solar_flare",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/solar_flare.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/solar_flare.webp",
+    "tgs_path": "models/ion_gem/solar_flare.tgs",
+    "webp_path": "models/ion_gem/solar_flare.webp",
     "custom_emoji_id": "5882038246803775965",
     "model_id": "5407042081073947107"
   },
   {
     "name": "pink_sapphire",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/pink_sapphire.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/pink_sapphire.webp",
+    "tgs_path": "models/ion_gem/pink_sapphire.tgs",
+    "webp_path": "models/ion_gem/pink_sapphire.webp",
     "custom_emoji_id": "5881705708960882364",
     "model_id": "5409268733854114222"
   },
   {
     "name": "lustrous",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/lustrous.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/lustrous.webp",
+    "tgs_path": "models/ion_gem/lustrous.tgs",
+    "webp_path": "models/ion_gem/lustrous.webp",
     "custom_emoji_id": "5881780866593595099",
     "model_id": "5411317261455615567"
   },
   {
     "name": "paper_plane",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/paper_plane.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/paper_plane.webp",
+    "tgs_path": "models/ion_gem/paper_plane.tgs",
+    "webp_path": "models/ion_gem/paper_plane.webp",
     "custom_emoji_id": "5881793605466594889",
     "model_id": "5422413292284962935"
   },
   {
     "name": "solid_waste",
     "rarity_permille": 0.6,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/solid_waste.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/solid_waste.webp",
+    "tgs_path": "models/ion_gem/solid_waste.tgs",
+    "webp_path": "models/ion_gem/solid_waste.webp",
     "custom_emoji_id": "5884274181008272037",
     "model_id": "5422420782707924088"
   },
   {
     "name": "love_stones",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/love_stones.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/love_stones.webp",
+    "tgs_path": "models/ion_gem/love_stones.tgs",
+    "webp_path": "models/ion_gem/love_stones.webp",
     "custom_emoji_id": "5881886140536988340",
     "model_id": "5422431232363354607"
   },
   {
     "name": "martini",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/martini.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/martini.webp",
+    "tgs_path": "models/ion_gem/martini.tgs",
+    "webp_path": "models/ion_gem/martini.webp",
     "custom_emoji_id": "5882178481780960069",
     "model_id": "5422432022637339434"
   },
   {
     "name": "prismatic",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/prismatic.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/prismatic.webp",
+    "tgs_path": "models/ion_gem/prismatic.tgs",
+    "webp_path": "models/ion_gem/prismatic.webp",
     "custom_emoji_id": "5884269216026073689",
     "model_id": "5422497460759063985"
   },
   {
     "name": "sweet_tooth",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/sweet_tooth.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/sweet_tooth.webp",
+    "tgs_path": "models/ion_gem/sweet_tooth.tgs",
+    "webp_path": "models/ion_gem/sweet_tooth.webp",
     "custom_emoji_id": "5881767659569161077",
     "model_id": "5422543584412854547"
   },
   {
     "name": "jamaica",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/jamaica.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/jamaica.webp",
+    "tgs_path": "models/ion_gem/jamaica.tgs",
+    "webp_path": "models/ion_gem/jamaica.webp",
     "custom_emoji_id": "5881860705740659878",
     "model_id": "5422545882220355931"
   },
   {
     "name": "gold_gram",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/gold_gram.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/gold_gram.webp",
+    "tgs_path": "models/ion_gem/gold_gram.tgs",
+    "webp_path": "models/ion_gem/gold_gram.webp",
     "custom_emoji_id": "5881927904798973420",
     "model_id": "5422572364988700508"
   },
   {
     "name": "ice_crystal",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/ice_crystal.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/ice_crystal.webp",
+    "tgs_path": "models/ion_gem/ice_crystal.tgs",
+    "webp_path": "models/ion_gem/ice_crystal.webp",
     "custom_emoji_id": "5884066454914997824",
     "model_id": "5422695733629315195"
   },
   {
     "name": "cartoon",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/cartoon.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/cartoon.webp",
+    "tgs_path": "models/ion_gem/cartoon.tgs",
+    "webp_path": "models/ion_gem/cartoon.webp",
     "custom_emoji_id": "5884210306254642609",
     "model_id": "5422784935805084536"
   },
   {
     "name": "barbie",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/barbie.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/barbie.webp",
+    "tgs_path": "models/ion_gem/barbie.tgs",
+    "webp_path": "models/ion_gem/barbie.webp",
     "custom_emoji_id": "5884470615632518401",
     "model_id": "5422819613371033669"
   },
   {
     "name": "halloween",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/halloween.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/halloween.webp",
+    "tgs_path": "models/ion_gem/halloween.tgs",
+    "webp_path": "models/ion_gem/halloween.webp",
     "custom_emoji_id": "5884329401402793512",
     "model_id": "5425011618650022601"
   },
   {
     "name": "cupid_quartz",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/cupid_quartz.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/cupid_quartz.webp",
+    "tgs_path": "models/ion_gem/cupid_quartz.tgs",
+    "webp_path": "models/ion_gem/cupid_quartz.webp",
     "custom_emoji_id": "5882128252138430113",
     "model_id": "5425019074713247302"
   },
   {
     "name": "saltwater",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/saltwater.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/saltwater.webp",
+    "tgs_path": "models/ion_gem/saltwater.tgs",
+    "webp_path": "models/ion_gem/saltwater.webp",
     "custom_emoji_id": "5882059257783790621",
     "model_id": "5425108706385747035"
   },
   {
     "name": "ultraviolet",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/ultraviolet.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/ultraviolet.webp",
+    "tgs_path": "models/ion_gem/ultraviolet.tgs",
+    "webp_path": "models/ion_gem/ultraviolet.webp",
     "custom_emoji_id": "5883992714621494041",
     "model_id": "5429110297350663181"
   },
   {
     "name": "crystal_clear",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/crystal_clear.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/crystal_clear.webp",
+    "tgs_path": "models/ion_gem/crystal_clear.tgs",
+    "webp_path": "models/ion_gem/crystal_clear.webp",
     "custom_emoji_id": "5882075604429315419",
     "model_id": "5429132356302693828"
   },
   {
     "name": "gradient",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/gradient.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/gradient.webp",
+    "tgs_path": "models/ion_gem/gradient.tgs",
+    "webp_path": "models/ion_gem/gradient.webp",
     "custom_emoji_id": "5883988600042823300",
     "model_id": "5429186661869182710"
   },
   {
     "name": "cryst-mas",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/cryst-mas.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/cryst-mas.webp",
+    "tgs_path": "models/ion_gem/cryst-mas.tgs",
+    "webp_path": "models/ion_gem/cryst-mas.webp",
     "custom_emoji_id": "5884094234763468746",
     "model_id": "5429194440054958265"
   },
   {
     "name": "botanica",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/botanica.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/botanica.webp",
+    "tgs_path": "models/ion_gem/botanica.tgs",
+    "webp_path": "models/ion_gem/botanica.webp",
     "custom_emoji_id": "5881786192353041764",
     "model_id": "5429313191605726156"
   },
   {
     "name": "blue_zircon",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/blue_zircon.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/blue_zircon.webp",
+    "tgs_path": "models/ion_gem/blue_zircon.tgs",
+    "webp_path": "models/ion_gem/blue_zircon.webp",
     "custom_emoji_id": "5881879543467220381",
     "model_id": "5429467849083087909"
   },
   {
     "name": "fireworks",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/fireworks.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/fireworks.webp",
+    "tgs_path": "models/ion_gem/fireworks.tgs",
+    "webp_path": "models/ion_gem/fireworks.webp",
     "custom_emoji_id": "5882087342574936305",
     "model_id": "5429500173006956213"
   },
   {
     "name": "orchestra",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/orchestra.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/orchestra.webp",
+    "tgs_path": "models/ion_gem/orchestra.tgs",
+    "webp_path": "models/ion_gem/orchestra.webp",
     "custom_emoji_id": "5882134290862448117",
     "model_id": "5429547847143944015"
   },
   {
     "name": "energon",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/energon.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/energon.webp",
+    "tgs_path": "models/ion_gem/energon.tgs",
+    "webp_path": "models/ion_gem/energon.webp",
     "custom_emoji_id": "5881795130179986591",
     "model_id": "5436293020267866049"
   },
   {
     "name": "girl_power",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/girl_power.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/girl_power.webp",
+    "tgs_path": "models/ion_gem/girl_power.tgs",
+    "webp_path": "models/ion_gem/girl_power.webp",
     "custom_emoji_id": "5882005562102653157",
     "model_id": "5438207098213129289"
   },
   {
     "name": "king_midas",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/king_midas.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/king_midas.webp",
+    "tgs_path": "models/ion_gem/king_midas.tgs",
+    "webp_path": "models/ion_gem/king_midas.webp",
     "custom_emoji_id": "5884239026700951460",
     "model_id": "5438283591580672691"
   },
   {
     "name": "redwood",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/ion_gem/redwood.tgs",
-    "webp_path": "TG_Photos_repo/models/ion_gem/redwood.webp",
+    "tgs_path": "models/ion_gem/redwood.tgs",
+    "webp_path": "models/ion_gem/redwood.webp",
     "custom_emoji_id": "5881962359026621946",
     "model_id": "5438502871135970265"
   }

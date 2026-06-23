@@ -2,400 +2,400 @@
   {
     "name": "sovereign",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/sovereign.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/sovereign.webp",
+    "tgs_path": "models/moon_pendant/sovereign.tgs",
+    "webp_path": "models/moon_pendant/sovereign.webp",
     "custom_emoji_id": "5879477346783730762",
     "model_id": "5275998153517066195"
   },
   {
     "name": "lunar_orbit",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/lunar_orbit.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/lunar_orbit.webp",
+    "tgs_path": "models/moon_pendant/lunar_orbit.tgs",
+    "webp_path": "models/moon_pendant/lunar_orbit.webp",
     "custom_emoji_id": "5879470573620305494",
     "model_id": "5291767121649367588"
   },
   {
     "name": "sea_jewel",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/sea_jewel.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/sea_jewel.webp",
+    "tgs_path": "models/moon_pendant/sea_jewel.tgs",
+    "webp_path": "models/moon_pendant/sea_jewel.webp",
     "custom_emoji_id": "5879541208652454671",
     "model_id": "5291946058576852810"
   },
   {
     "name": "twilight_wish",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/twilight_wish.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/twilight_wish.webp",
+    "tgs_path": "models/moon_pendant/twilight_wish.tgs",
+    "webp_path": "models/moon_pendant/twilight_wish.webp",
     "custom_emoji_id": "5879882070141967686",
     "model_id": "5307632778085429481"
   },
   {
     "name": "precious_pearl",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/precious_pearl.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/precious_pearl.webp",
+    "tgs_path": "models/moon_pendant/precious_pearl.tgs",
+    "webp_path": "models/moon_pendant/precious_pearl.webp",
     "custom_emoji_id": "5879840975894880036",
     "model_id": "5465465619258307033"
   },
   {
     "name": "silver_blue",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/silver_blue.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/silver_blue.webp",
+    "tgs_path": "models/moon_pendant/silver_blue.tgs",
+    "webp_path": "models/moon_pendant/silver_blue.webp",
     "custom_emoji_id": "5879490072771830486",
     "model_id": "5465308049793120765"
   },
   {
     "name": "obsidian",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/obsidian.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/obsidian.webp",
+    "tgs_path": "models/moon_pendant/obsidian.tgs",
+    "webp_path": "models/moon_pendant/obsidian.webp",
     "custom_emoji_id": "5879575456721673527",
     "model_id": "5465235524975361155"
   },
   {
     "name": "stellar_grace",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/stellar_grace.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/stellar_grace.webp",
+    "tgs_path": "models/moon_pendant/stellar_grace.tgs",
+    "webp_path": "models/moon_pendant/stellar_grace.webp",
     "custom_emoji_id": "5879541393336048990",
     "model_id": "5210984889960134992"
   },
   {
     "name": "desert_night",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/desert_night.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/desert_night.webp",
+    "tgs_path": "models/moon_pendant/desert_night.tgs",
+    "webp_path": "models/moon_pendant/desert_night.webp",
     "custom_emoji_id": "5877478606443127377",
     "model_id": "5215355951191716488"
   },
   {
     "name": "little_star",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/little_star.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/little_star.webp",
+    "tgs_path": "models/moon_pendant/little_star.tgs",
+    "webp_path": "models/moon_pendant/little_star.webp",
     "custom_emoji_id": "5877325447909351207",
     "model_id": "5217780305611486983"
   },
   {
     "name": "emerald",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/emerald.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/emerald.webp",
+    "tgs_path": "models/moon_pendant/emerald.tgs",
+    "webp_path": "models/moon_pendant/emerald.webp",
     "custom_emoji_id": "5879997299819551493",
     "model_id": "5217870426910259784"
   },
   {
     "name": "gratitude",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/gratitude.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/gratitude.webp",
+    "tgs_path": "models/moon_pendant/gratitude.tgs",
+    "webp_path": "models/moon_pendant/gratitude.webp",
     "custom_emoji_id": "5879485193688980919",
     "model_id": "5217709661989403988"
   },
   {
     "name": "golden_moon",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/golden_moon.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/golden_moon.webp",
+    "tgs_path": "models/moon_pendant/golden_moon.tgs",
+    "webp_path": "models/moon_pendant/golden_moon.webp",
     "custom_emoji_id": "5879492301859855475",
     "model_id": "5204291943638529197"
   },
   {
     "name": "stained_glass",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/stained_glass.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/stained_glass.webp",
+    "tgs_path": "models/moon_pendant/stained_glass.tgs",
+    "webp_path": "models/moon_pendant/stained_glass.webp",
     "custom_emoji_id": "5879830706628075516",
     "model_id": "5274150570255479488"
   },
   {
     "name": "golden_palace",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/golden_palace.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/golden_palace.webp",
+    "tgs_path": "models/moon_pendant/golden_palace.tgs",
+    "webp_path": "models/moon_pendant/golden_palace.webp",
     "custom_emoji_id": "5879502876069337867",
     "model_id": "5291985430542058406"
   },
   {
     "name": "serenity",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/serenity.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/serenity.webp",
+    "tgs_path": "models/moon_pendant/serenity.tgs",
+    "webp_path": "models/moon_pendant/serenity.webp",
     "custom_emoji_id": "5879767806832025349",
     "model_id": "5465129022671320095"
   },
   {
     "name": "starry_night",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/starry_night.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/starry_night.webp",
+    "tgs_path": "models/moon_pendant/starry_night.tgs",
+    "webp_path": "models/moon_pendant/starry_night.webp",
     "custom_emoji_id": "5879971160648589093",
     "model_id": "5465178191456923865"
   },
   {
     "name": "amethyst",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/amethyst.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/amethyst.webp",
+    "tgs_path": "models/moon_pendant/amethyst.tgs",
+    "webp_path": "models/moon_pendant/amethyst.webp",
     "custom_emoji_id": "5879454368708698555",
     "model_id": "5465454576897389164"
   },
   {
     "name": "sand_dune",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/sand_dune.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/sand_dune.webp",
+    "tgs_path": "models/moon_pendant/sand_dune.tgs",
+    "webp_path": "models/moon_pendant/sand_dune.webp",
     "custom_emoji_id": "5879739593191857785",
     "model_id": "5204179991020992700"
   },
   {
     "name": "circle_glare",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/circle_glare.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/circle_glare.webp",
+    "tgs_path": "models/moon_pendant/circle_glare.tgs",
+    "webp_path": "models/moon_pendant/circle_glare.webp",
     "custom_emoji_id": "5879677969001094266",
     "model_id": "5199470718294720164"
   },
   {
     "name": "silver_tree",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/silver_tree.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/silver_tree.webp",
+    "tgs_path": "models/moon_pendant/silver_tree.tgs",
+    "webp_path": "models/moon_pendant/silver_tree.webp",
     "custom_emoji_id": "5879919517961822149",
     "model_id": "5213073545441082026"
   },
   {
     "name": "liquid_gold",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/liquid_gold.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/liquid_gold.webp",
+    "tgs_path": "models/moon_pendant/liquid_gold.tgs",
+    "webp_path": "models/moon_pendant/liquid_gold.webp",
     "custom_emoji_id": "5879812607635889383",
     "model_id": "5215500609985218004"
   },
   {
     "name": "ruby_core",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/ruby_core.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/ruby_core.webp",
+    "tgs_path": "models/moon_pendant/ruby_core.tgs",
+    "webp_path": "models/moon_pendant/ruby_core.webp",
     "custom_emoji_id": "5879923894533495922",
     "model_id": "5217903420849028522"
   },
   {
     "name": "silver_lace",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/silver_lace.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/silver_lace.webp",
+    "tgs_path": "models/moon_pendant/silver_lace.tgs",
+    "webp_path": "models/moon_pendant/silver_lace.webp",
     "custom_emoji_id": "5879807990546046392",
     "model_id": "5276393758659734894"
   },
   {
     "name": "sapphires",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/sapphires.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/sapphires.webp",
+    "tgs_path": "models/moon_pendant/sapphires.tgs",
+    "webp_path": "models/moon_pendant/sapphires.webp",
     "custom_emoji_id": "5879591202071781167",
     "model_id": "5350763784564667896"
   },
   {
     "name": "starlit_silver",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/starlit_silver.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/starlit_silver.webp",
+    "tgs_path": "models/moon_pendant/starlit_silver.tgs",
+    "webp_path": "models/moon_pendant/starlit_silver.webp",
     "custom_emoji_id": "5879676869489466251",
     "model_id": "5350352386827253496"
   },
   {
     "name": "carved_gold",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/carved_gold.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/carved_gold.webp",
+    "tgs_path": "models/moon_pendant/carved_gold.tgs",
+    "webp_path": "models/moon_pendant/carved_gold.webp",
     "custom_emoji_id": "5879513978559798415",
     "model_id": "5350592844866286505"
   },
   {
     "name": "dawn_mirror",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/dawn_mirror.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/dawn_mirror.webp",
+    "tgs_path": "models/moon_pendant/dawn_mirror.tgs",
+    "webp_path": "models/moon_pendant/dawn_mirror.webp",
     "custom_emoji_id": "5879838699562214024",
     "model_id": "5467881641441524882"
   },
   {
     "name": "frosted_green",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/frosted_green.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/frosted_green.webp",
+    "tgs_path": "models/moon_pendant/frosted_green.tgs",
+    "webp_path": "models/moon_pendant/frosted_green.webp",
     "custom_emoji_id": "5879670469988195635",
     "model_id": "5467562353572739838"
   },
   {
     "name": "azurite",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/azurite.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/azurite.webp",
+    "tgs_path": "models/moon_pendant/azurite.tgs",
+    "webp_path": "models/moon_pendant/azurite.webp",
     "custom_emoji_id": "5879719874997001675",
     "model_id": "5199907387619704050"
   },
   {
     "name": "eclipse",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/eclipse.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/eclipse.webp",
+    "tgs_path": "models/moon_pendant/eclipse.tgs",
+    "webp_path": "models/moon_pendant/eclipse.webp",
     "custom_emoji_id": "5879698924146532315",
     "model_id": "5199484518024641681"
   },
   {
     "name": "diamond_tear",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/diamond_tear.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/diamond_tear.webp",
+    "tgs_path": "models/moon_pendant/diamond_tear.tgs",
+    "webp_path": "models/moon_pendant/diamond_tear.webp",
     "custom_emoji_id": "5879989044892408901",
     "model_id": "5199580381694688759"
   },
   {
     "name": "titanium",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/titanium.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/titanium.webp",
+    "tgs_path": "models/moon_pendant/titanium.tgs",
+    "webp_path": "models/moon_pendant/titanium.webp",
     "custom_emoji_id": "5879553814381469653",
     "model_id": "5201805342257738735"
   },
   {
     "name": "pearl_rose",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/pearl_rose.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/pearl_rose.webp",
+    "tgs_path": "models/moon_pendant/pearl_rose.tgs",
+    "webp_path": "models/moon_pendant/pearl_rose.webp",
     "custom_emoji_id": "5879806878149516693",
     "model_id": "5273994383769762458"
   },
   {
     "name": "calm_sunset",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/calm_sunset.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/calm_sunset.webp",
+    "tgs_path": "models/moon_pendant/calm_sunset.tgs",
+    "webp_path": "models/moon_pendant/calm_sunset.webp",
     "custom_emoji_id": "5879483364032912986",
     "model_id": "5292276749583807471"
   },
   {
     "name": "royal_purple",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/royal_purple.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/royal_purple.webp",
+    "tgs_path": "models/moon_pendant/royal_purple.tgs",
+    "webp_path": "models/moon_pendant/royal_purple.webp",
     "custom_emoji_id": "5879655884279258889",
     "model_id": "5465639088692427940"
   },
   {
     "name": "rosethorn",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/rosethorn.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/rosethorn.webp",
+    "tgs_path": "models/moon_pendant/rosethorn.tgs",
+    "webp_path": "models/moon_pendant/rosethorn.webp",
     "custom_emoji_id": "5879976598077185591",
     "model_id": "5465540609387295047"
   },
   {
     "name": "princess",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/princess.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/princess.webp",
+    "tgs_path": "models/moon_pendant/princess.tgs",
+    "webp_path": "models/moon_pendant/princess.webp",
     "custom_emoji_id": "5879650683073863199",
     "model_id": "5199635331506272373"
   },
   {
     "name": "mirage",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/mirage.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/mirage.webp",
+    "tgs_path": "models/moon_pendant/mirage.tgs",
+    "webp_path": "models/moon_pendant/mirage.webp",
     "custom_emoji_id": "5879488990440070802",
     "model_id": "5310100155192604151"
   },
   {
     "name": "shiny_sparks",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/shiny_sparks.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/shiny_sparks.webp",
+    "tgs_path": "models/moon_pendant/shiny_sparks.tgs",
+    "webp_path": "models/moon_pendant/shiny_sparks.webp",
     "custom_emoji_id": "5879971328152314159",
     "model_id": "5310249499795419485"
   },
   {
     "name": "eternal_rose",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/eternal_rose.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/eternal_rose.webp",
+    "tgs_path": "models/moon_pendant/eternal_rose.tgs",
+    "webp_path": "models/moon_pendant/eternal_rose.webp",
     "custom_emoji_id": "5879854028300492300",
     "model_id": "5310089769961678676"
   },
   {
     "name": "harmony",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/harmony.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/harmony.webp",
+    "tgs_path": "models/moon_pendant/harmony.tgs",
+    "webp_path": "models/moon_pendant/harmony.webp",
     "custom_emoji_id": "5880010996470259102",
     "model_id": "5215511579331691419"
   },
   {
     "name": "frozen_light",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/frozen_light.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/frozen_light.webp",
+    "tgs_path": "models/moon_pendant/frozen_light.tgs",
+    "webp_path": "models/moon_pendant/frozen_light.webp",
     "custom_emoji_id": "5879456314328883067",
     "model_id": "5215295366383043452"
   },
   {
     "name": "copper_alloy",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/copper_alloy.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/copper_alloy.webp",
+    "tgs_path": "models/moon_pendant/copper_alloy.tgs",
+    "webp_path": "models/moon_pendant/copper_alloy.webp",
     "custom_emoji_id": "5879687108691501243",
     "model_id": "5215517965948058327"
   },
   {
     "name": "silver_moon",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/silver_moon.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/silver_moon.webp",
+    "tgs_path": "models/moon_pendant/silver_moon.tgs",
+    "webp_path": "models/moon_pendant/silver_moon.webp",
     "custom_emoji_id": "5879578016522181915",
     "model_id": "5199935223302749803"
   },
   {
     "name": "glass_rainbow",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/glass_rainbow.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/glass_rainbow.webp",
+    "tgs_path": "models/moon_pendant/glass_rainbow.tgs",
+    "webp_path": "models/moon_pendant/glass_rainbow.webp",
     "custom_emoji_id": "5880005915523949413",
     "model_id": "5199699725950942990"
   },
   {
     "name": "jade_vines",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/jade_vines.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/jade_vines.webp",
+    "tgs_path": "models/moon_pendant/jade_vines.tgs",
+    "webp_path": "models/moon_pendant/jade_vines.webp",
     "custom_emoji_id": "5879849668908687311",
     "model_id": "5213390256329489006"
   },
   {
     "name": "rosewood",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/rosewood.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/rosewood.webp",
+    "tgs_path": "models/moon_pendant/rosewood.tgs",
+    "webp_path": "models/moon_pendant/rosewood.webp",
     "custom_emoji_id": "5879883736589278525",
     "model_id": "5215344492218972795"
   },
   {
     "name": "sunset_rose",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/sunset_rose.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/sunset_rose.webp",
+    "tgs_path": "models/moon_pendant/sunset_rose.tgs",
+    "webp_path": "models/moon_pendant/sunset_rose.webp",
     "custom_emoji_id": "5880004687163301560",
     "model_id": "5217891858797066356"
   },
   {
     "name": "moon_tears",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/moon_pendant/moon_tears.tgs",
-    "webp_path": "TG_Photos_repo/models/moon_pendant/moon_tears.webp",
+    "tgs_path": "models/moon_pendant/moon_tears.tgs",
+    "webp_path": "models/moon_pendant/moon_tears.webp",
     "custom_emoji_id": "5879826510445027996",
     "model_id": "5350329640680453016"
   }

@@ -2,800 +2,800 @@
   {
     "name": "going_grape",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/going_grape.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/going_grape.webp",
+    "tgs_path": "models/spiced_wine/going_grape.tgs",
+    "webp_path": "models/spiced_wine/going_grape.webp",
     "custom_emoji_id": "5882138628779416033",
     "model_id": "5429098000859294262"
   },
   {
     "name": "capri_sun",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/capri_sun.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/capri_sun.webp",
+    "tgs_path": "models/spiced_wine/capri_sun.tgs",
+    "webp_path": "models/spiced_wine/capri_sun.webp",
     "custom_emoji_id": "5882039543883897651",
     "model_id": "5429100414630913411"
   },
   {
     "name": "tequila_sunrise",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/tequila_sunrise.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/tequila_sunrise.webp",
+    "tgs_path": "models/spiced_wine/tequila_sunrise.tgs",
+    "webp_path": "models/spiced_wine/tequila_sunrise.webp",
     "custom_emoji_id": "5882237095199645691",
     "model_id": "5429108094032449518"
   },
   {
     "name": "mellow_merlot",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/mellow_merlot.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/mellow_merlot.webp",
+    "tgs_path": "models/spiced_wine/mellow_merlot.tgs",
+    "webp_path": "models/spiced_wine/mellow_merlot.webp",
     "custom_emoji_id": "5881895207212950372",
     "model_id": "5429116469218668252"
   },
   {
     "name": "lightly_chilled",
     "rarity_permille": 0.4,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/lightly_chilled.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/lightly_chilled.webp",
+    "tgs_path": "models/spiced_wine/lightly_chilled.tgs",
+    "webp_path": "models/spiced_wine/lightly_chilled.webp",
     "custom_emoji_id": "5882208791365164299",
     "model_id": "5429126429247826600"
   },
   {
     "name": "magmarita",
     "rarity_permille": 0.4,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/magmarita.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/magmarita.webp",
+    "tgs_path": "models/spiced_wine/magmarita.tgs",
+    "webp_path": "models/spiced_wine/magmarita.webp",
     "custom_emoji_id": "5879993584672841218",
     "model_id": "5429128310443499155"
   },
   {
     "name": "dusky_draft",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/dusky_draft.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/dusky_draft.webp",
+    "tgs_path": "models/spiced_wine/dusky_draft.tgs",
+    "webp_path": "models/spiced_wine/dusky_draft.webp",
     "custom_emoji_id": "5882137890045041733",
     "model_id": "5429142904742374442"
   },
   {
     "name": "brass_monkey",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/brass_monkey.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/brass_monkey.webp",
+    "tgs_path": "models/spiced_wine/brass_monkey.tgs",
+    "webp_path": "models/spiced_wine/brass_monkey.webp",
     "custom_emoji_id": "5881775038322974856",
     "model_id": "5429153208368914996"
   },
   {
     "name": "gaso_green",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/gaso_green.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/gaso_green.webp",
+    "tgs_path": "models/spiced_wine/gaso_green.tgs",
+    "webp_path": "models/spiced_wine/gaso_green.webp",
     "custom_emoji_id": "5881766087611129651",
     "model_id": "5429158744581763755"
   },
   {
     "name": "vitamin_c",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/vitamin_c.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/vitamin_c.webp",
+    "tgs_path": "models/spiced_wine/vitamin_c.tgs",
+    "webp_path": "models/spiced_wine/vitamin_c.webp",
     "custom_emoji_id": "5882144499999710365",
     "model_id": "5429165676658977286"
   },
   {
     "name": "intense_indigo",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/intense_indigo.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/intense_indigo.webp",
+    "tgs_path": "models/spiced_wine/intense_indigo.tgs",
+    "webp_path": "models/spiced_wine/intense_indigo.webp",
     "custom_emoji_id": "5881981338487102764",
     "model_id": "5429170169194767986"
   },
   {
     "name": "cube_libra",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/cube_libra.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/cube_libra.webp",
+    "tgs_path": "models/spiced_wine/cube_libra.tgs",
+    "webp_path": "models/spiced_wine/cube_libra.webp",
     "custom_emoji_id": "5881895976012094215",
     "model_id": "5429170744720386190"
   },
   {
     "name": "cranberry_lime",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/cranberry_lime.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/cranberry_lime.webp",
+    "tgs_path": "models/spiced_wine/cranberry_lime.tgs",
+    "webp_path": "models/spiced_wine/cranberry_lime.webp",
     "custom_emoji_id": "5881841408452598752",
     "model_id": "5429183706931686147"
   },
   {
     "name": "taurus-tini",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/taurus-tini.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/taurus-tini.webp",
+    "tgs_path": "models/spiced_wine/taurus-tini.tgs",
+    "webp_path": "models/spiced_wine/taurus-tini.webp",
     "custom_emoji_id": "5882007056751271295",
     "model_id": "5429193009830851035"
   },
   {
     "name": "sag_sangria",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/sag_sangria.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/sag_sangria.webp",
+    "tgs_path": "models/spiced_wine/sag_sangria.tgs",
+    "webp_path": "models/spiced_wine/sag_sangria.webp",
     "custom_emoji_id": "5881725435745675459",
     "model_id": "5429196969790696358"
   },
   {
     "name": "dehydrated",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/dehydrated.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/dehydrated.webp",
+    "tgs_path": "models/spiced_wine/dehydrated.tgs",
+    "webp_path": "models/spiced_wine/dehydrated.webp",
     "custom_emoji_id": "5881732969118309195",
     "model_id": "5429202987039877594"
   },
   {
     "name": "cool_water",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/cool_water.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/cool_water.webp",
+    "tgs_path": "models/spiced_wine/cool_water.tgs",
+    "webp_path": "models/spiced_wine/cool_water.webp",
     "custom_emoji_id": "5882137567922494924",
     "model_id": "5429213002903612610"
   },
   {
     "name": "flaming_mint",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/flaming_mint.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/flaming_mint.webp",
+    "tgs_path": "models/spiced_wine/flaming_mint.tgs",
+    "webp_path": "models/spiced_wine/flaming_mint.webp",
     "custom_emoji_id": "5881828429061430656",
     "model_id": "5429217860511620848"
   },
   {
     "name": "vin_virgo",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/vin_virgo.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/vin_virgo.webp",
+    "tgs_path": "models/spiced_wine/vin_virgo.tgs",
+    "webp_path": "models/spiced_wine/vin_virgo.webp",
     "custom_emoji_id": "5881826685304708886",
     "model_id": "5429218534821487124"
   },
   {
     "name": "brain_enhancer",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/brain_enhancer.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/brain_enhancer.webp",
+    "tgs_path": "models/spiced_wine/brain_enhancer.tgs",
+    "webp_path": "models/spiced_wine/brain_enhancer.webp",
     "custom_emoji_id": "5879555742821785296",
     "model_id": "5429225462603737087"
   },
   {
     "name": "buckwheat",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/buckwheat.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/buckwheat.webp",
+    "tgs_path": "models/spiced_wine/buckwheat.tgs",
+    "webp_path": "models/spiced_wine/buckwheat.webp",
     "custom_emoji_id": "5881940300074590063",
     "model_id": "5429229091851101168"
   },
   {
     "name": "greenwein",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/greenwein.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/greenwein.webp",
+    "tgs_path": "models/spiced_wine/greenwein.tgs",
+    "webp_path": "models/spiced_wine/greenwein.webp",
     "custom_emoji_id": "5882230618388963501",
     "model_id": "5429241023270249483"
   },
   {
     "name": "whiskey_wine",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/whiskey_wine.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/whiskey_wine.webp",
+    "tgs_path": "models/spiced_wine/whiskey_wine.tgs",
+    "webp_path": "models/spiced_wine/whiskey_wine.webp",
     "custom_emoji_id": "5881822454761922070",
     "model_id": "5429242921645796736"
   },
   {
     "name": "blackout",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/blackout.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/blackout.webp",
+    "tgs_path": "models/spiced_wine/blackout.tgs",
+    "webp_path": "models/spiced_wine/blackout.webp",
     "custom_emoji_id": "5881844406339772048",
     "model_id": "5429248316124720750"
   },
   {
     "name": "blew_bubble",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/blew_bubble.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/blew_bubble.webp",
+    "tgs_path": "models/spiced_wine/blew_bubble.tgs",
+    "webp_path": "models/spiced_wine/blew_bubble.webp",
     "custom_emoji_id": "5882034716340657712",
     "model_id": "5429256583936761967"
   },
   {
     "name": "green_gradient",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/green_gradient.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/green_gradient.webp",
+    "tgs_path": "models/spiced_wine/green_gradient.tgs",
+    "webp_path": "models/spiced_wine/green_gradient.webp",
     "custom_emoji_id": "5881940072441322966",
     "model_id": "5429260470882166573"
   },
   {
     "name": "green_energy",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/green_energy.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/green_energy.webp",
+    "tgs_path": "models/spiced_wine/green_energy.tgs",
+    "webp_path": "models/spiced_wine/green_energy.webp",
     "custom_emoji_id": "5882234522514234456",
     "model_id": "5429272123128439852"
   },
   {
     "name": "vague_berry",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/vague_berry.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/vague_berry.webp",
+    "tgs_path": "models/spiced_wine/vague_berry.tgs",
+    "webp_path": "models/spiced_wine/vague_berry.webp",
     "custom_emoji_id": "5881989825342479928",
     "model_id": "5429301509294679693"
   },
   {
     "name": "scuba_dive",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/scuba_dive.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/scuba_dive.webp",
+    "tgs_path": "models/spiced_wine/scuba_dive.tgs",
+    "webp_path": "models/spiced_wine/scuba_dive.webp",
     "custom_emoji_id": "5881852261834956491",
     "model_id": "5429302162129710224"
   },
   {
     "name": "pisces_sour",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/pisces_sour.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/pisces_sour.webp",
+    "tgs_path": "models/spiced_wine/pisces_sour.tgs",
+    "webp_path": "models/spiced_wine/pisces_sour.webp",
     "custom_emoji_id": "5882014156332211301",
     "model_id": "5429303463504800010"
   },
   {
     "name": "loading",
     "rarity_permille": 0.4,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/loading.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/loading.webp",
+    "tgs_path": "models/spiced_wine/loading.tgs",
+    "webp_path": "models/spiced_wine/loading.webp",
     "custom_emoji_id": "5881817103232673909",
     "model_id": "5429305580923677636"
   },
   {
     "name": "dark_disco",
     "rarity_permille": 0.4,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/dark_disco.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/dark_disco.webp",
+    "tgs_path": "models/spiced_wine/dark_disco.tgs",
+    "webp_path": "models/spiced_wine/dark_disco.webp",
     "custom_emoji_id": "5881702032468876833",
     "model_id": "5429319372063661045"
   },
   {
     "name": "hot_cold",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/hot_cold.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/hot_cold.webp",
+    "tgs_path": "models/spiced_wine/hot_cold.tgs",
+    "webp_path": "models/spiced_wine/hot_cold.webp",
     "custom_emoji_id": "5881922557564690618",
     "model_id": "5429328829581651325"
   },
   {
     "name": "chocolate_cherry",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/chocolate_cherry.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/chocolate_cherry.webp",
+    "tgs_path": "models/spiced_wine/chocolate_cherry.tgs",
+    "webp_path": "models/spiced_wine/chocolate_cherry.webp",
     "custom_emoji_id": "5881709759115043191",
     "model_id": "5429334735161683954"
   },
   {
     "name": "tarkhuna",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/tarkhuna.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/tarkhuna.webp",
+    "tgs_path": "models/spiced_wine/tarkhuna.tgs",
+    "webp_path": "models/spiced_wine/tarkhuna.webp",
     "custom_emoji_id": "5882033956131446111",
     "model_id": "5429335903392786698"
   },
   {
     "name": "blueberry",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/blueberry.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/blueberry.webp",
+    "tgs_path": "models/spiced_wine/blueberry.tgs",
+    "webp_path": "models/spiced_wine/blueberry.webp",
     "custom_emoji_id": "5881796302706057459",
     "model_id": "5429336749501346193"
   },
   {
     "name": "water_spout",
     "rarity_permille": 0.4,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/water_spout.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/water_spout.webp",
+    "tgs_path": "models/spiced_wine/water_spout.tgs",
+    "webp_path": "models/spiced_wine/water_spout.webp",
     "custom_emoji_id": "5882009144105376540",
     "model_id": "5429338141070749137"
   },
   {
     "name": "ember_elixir",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/ember_elixir.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/ember_elixir.webp",
+    "tgs_path": "models/spiced_wine/ember_elixir.tgs",
+    "webp_path": "models/spiced_wine/ember_elixir.webp",
     "custom_emoji_id": "5882043508138712751",
     "model_id": "5429344604996529672"
   },
   {
     "name": "moon_rocks",
     "rarity_permille": 0.4,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/moon_rocks.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/moon_rocks.webp",
+    "tgs_path": "models/spiced_wine/moon_rocks.tgs",
+    "webp_path": "models/spiced_wine/moon_rocks.webp",
     "custom_emoji_id": "5881708401905378670",
     "model_id": "5429349883511336886"
   },
   {
     "name": "rosemary",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/rosemary.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/rosemary.webp",
+    "tgs_path": "models/spiced_wine/rosemary.tgs",
+    "webp_path": "models/spiced_wine/rosemary.webp",
     "custom_emoji_id": "5881994266338663513",
     "model_id": "5429350484806760432"
   },
   {
     "name": "pink_flame",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/pink_flame.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/pink_flame.webp",
+    "tgs_path": "models/spiced_wine/pink_flame.tgs",
+    "webp_path": "models/spiced_wine/pink_flame.webp",
     "custom_emoji_id": "5881984546827673493",
     "model_id": "5429355956595093751"
   },
   {
     "name": "blue_brew",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/blue_brew.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/blue_brew.webp",
+    "tgs_path": "models/spiced_wine/blue_brew.tgs",
+    "webp_path": "models/spiced_wine/blue_brew.webp",
     "custom_emoji_id": "5881852549597764527",
     "model_id": "5429362235837278143"
   },
   {
     "name": "birthday_parfait",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/birthday_parfait.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/birthday_parfait.webp",
+    "tgs_path": "models/spiced_wine/birthday_parfait.tgs",
+    "webp_path": "models/spiced_wine/birthday_parfait.webp",
     "custom_emoji_id": "5881936039467031440",
     "model_id": "5429367424157770688"
   },
   {
     "name": "high_class",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/high_class.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/high_class.webp",
+    "tgs_path": "models/spiced_wine/high_class.tgs",
+    "webp_path": "models/spiced_wine/high_class.webp",
     "custom_emoji_id": "5882006253592387753",
     "model_id": "5429372165801664308"
   },
   {
     "name": "captain_nemo",
     "rarity_permille": 0.4,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/captain_nemo.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/captain_nemo.webp",
+    "tgs_path": "models/spiced_wine/captain_nemo.tgs",
+    "webp_path": "models/spiced_wine/captain_nemo.webp",
     "custom_emoji_id": "5882104320580657767",
     "model_id": "5429375524466091514"
   },
   {
     "name": "turquoise",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/turquoise.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/turquoise.webp",
+    "tgs_path": "models/spiced_wine/turquoise.tgs",
+    "webp_path": "models/spiced_wine/turquoise.webp",
     "custom_emoji_id": "5881977322692681436",
     "model_id": "5429380601117434420"
   },
   {
     "name": "gluhwein",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/gluhwein.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/gluhwein.webp",
+    "tgs_path": "models/spiced_wine/gluhwein.tgs",
+    "webp_path": "models/spiced_wine/gluhwein.webp",
     "custom_emoji_id": "5882065292212837977",
     "model_id": "5429394482451736219"
   },
   {
     "name": "shark_attack",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/shark_attack.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/shark_attack.webp",
+    "tgs_path": "models/spiced_wine/shark_attack.tgs",
+    "webp_path": "models/spiced_wine/shark_attack.webp",
     "custom_emoji_id": "5881855796593041544",
     "model_id": "5429404665819193883"
   },
   {
     "name": "deep_blue_sea",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/deep_blue_sea.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/deep_blue_sea.webp",
+    "tgs_path": "models/spiced_wine/deep_blue_sea.tgs",
+    "webp_path": "models/spiced_wine/deep_blue_sea.webp",
     "custom_emoji_id": "5882098311921409913",
     "model_id": "5429410506974719444"
   },
   {
     "name": "kalamansi",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/kalamansi.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/kalamansi.webp",
+    "tgs_path": "models/spiced_wine/kalamansi.tgs",
+    "webp_path": "models/spiced_wine/kalamansi.webp",
     "custom_emoji_id": "5882193256468454579",
     "model_id": "5429417490591542666"
   },
   {
     "name": "aquarium",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/aquarium.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/aquarium.webp",
+    "tgs_path": "models/spiced_wine/aquarium.tgs",
+    "webp_path": "models/spiced_wine/aquarium.webp",
     "custom_emoji_id": "5881834381886102974",
     "model_id": "5429425895842541010"
   },
   {
     "name": "the_grinch",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/the_grinch.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/the_grinch.webp",
+    "tgs_path": "models/spiced_wine/the_grinch.tgs",
+    "webp_path": "models/spiced_wine/the_grinch.webp",
     "custom_emoji_id": "5881952867148897749",
     "model_id": "5429432458552565132"
   },
   {
     "name": "melted_ice",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/melted_ice.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/melted_ice.webp",
+    "tgs_path": "models/spiced_wine/melted_ice.tgs",
+    "webp_path": "models/spiced_wine/melted_ice.webp",
     "custom_emoji_id": "5881720079921454372",
     "model_id": "5429432815034855986"
   },
   {
     "name": "pink_orange",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/pink_orange.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/pink_orange.webp",
+    "tgs_path": "models/spiced_wine/pink_orange.tgs",
+    "webp_path": "models/spiced_wine/pink_orange.webp",
     "custom_emoji_id": "5882019821394074974",
     "model_id": "5429444686324460882"
   },
   {
     "name": "kiwi_degree",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/kiwi_degree.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/kiwi_degree.webp",
+    "tgs_path": "models/spiced_wine/kiwi_degree.tgs",
+    "webp_path": "models/spiced_wine/kiwi_degree.webp",
     "custom_emoji_id": "5881931388017450409",
     "model_id": "5429449896119789704"
   },
   {
     "name": "blood_orange",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/blood_orange.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/blood_orange.webp",
+    "tgs_path": "models/spiced_wine/blood_orange.tgs",
+    "webp_path": "models/spiced_wine/blood_orange.webp",
     "custom_emoji_id": "5881874797528359834",
     "model_id": "5429453701460813640"
   },
   {
     "name": "night_sky",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/night_sky.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/night_sky.webp",
+    "tgs_path": "models/spiced_wine/night_sky.tgs",
+    "webp_path": "models/spiced_wine/night_sky.webp",
     "custom_emoji_id": "5882170789494541404",
     "model_id": "5429457124549749746"
   },
   {
     "name": "with_caution",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/with_caution.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/with_caution.webp",
+    "tgs_path": "models/spiced_wine/with_caution.tgs",
+    "webp_path": "models/spiced_wine/with_caution.webp",
     "custom_emoji_id": "5882262757629237941",
     "model_id": "5429464619267679373"
   },
   {
     "name": "glitterwine",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/glitterwine.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/glitterwine.webp",
+    "tgs_path": "models/spiced_wine/glitterwine.tgs",
+    "webp_path": "models/spiced_wine/glitterwine.webp",
     "custom_emoji_id": "5882227397163490563",
     "model_id": "5429467415291391113"
   },
   {
     "name": "purple_potion",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/purple_potion.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/purple_potion.webp",
+    "tgs_path": "models/spiced_wine/purple_potion.tgs",
+    "webp_path": "models/spiced_wine/purple_potion.webp",
     "custom_emoji_id": "5881828192838229975",
     "model_id": "5429469459695824497"
   },
   {
     "name": "milky_way",
     "rarity_permille": 0.4,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/milky_way.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/milky_way.webp",
+    "tgs_path": "models/spiced_wine/milky_way.tgs",
+    "webp_path": "models/spiced_wine/milky_way.webp",
     "custom_emoji_id": "5882073323801681893",
     "model_id": "5429471130438099393"
   },
   {
     "name": "purplexed",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/purplexed.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/purplexed.webp",
+    "tgs_path": "models/spiced_wine/purplexed.tgs",
+    "webp_path": "models/spiced_wine/purplexed.webp",
     "custom_emoji_id": "5882011751150525347",
     "model_id": "5429482400432286426"
   },
   {
     "name": "gin_gemini",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/gin_gemini.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/gin_gemini.webp",
+    "tgs_path": "models/spiced_wine/gin_gemini.tgs",
+    "webp_path": "models/spiced_wine/gin_gemini.webp",
     "custom_emoji_id": "5882066275760349076",
     "model_id": "5429488048314281655"
   },
   {
     "name": "thought_tonic",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/thought_tonic.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/thought_tonic.webp",
+    "tgs_path": "models/spiced_wine/thought_tonic.tgs",
+    "webp_path": "models/spiced_wine/thought_tonic.webp",
     "custom_emoji_id": "5881790860982492261",
     "model_id": "5429490925942367494"
   },
   {
     "name": "copper_sun",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/copper_sun.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/copper_sun.webp",
+    "tgs_path": "models/spiced_wine/copper_sun.tgs",
+    "webp_path": "models/spiced_wine/copper_sun.webp",
     "custom_emoji_id": "5882241609210272403",
     "model_id": "5429493872289934526"
   },
   {
     "name": "light_grape",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/light_grape.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/light_grape.webp",
+    "tgs_path": "models/spiced_wine/light_grape.tgs",
+    "webp_path": "models/spiced_wine/light_grape.webp",
     "custom_emoji_id": "5881812743840866582",
     "model_id": "5429511473065913875"
   },
   {
     "name": "pink_colada",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/pink_colada.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/pink_colada.webp",
+    "tgs_path": "models/spiced_wine/pink_colada.tgs",
+    "webp_path": "models/spiced_wine/pink_colada.webp",
     "custom_emoji_id": "5882010488430141475",
     "model_id": "5429535713861332396"
   },
   {
     "name": "lime_slice",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/lime_slice.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/lime_slice.webp",
+    "tgs_path": "models/spiced_wine/lime_slice.tgs",
+    "webp_path": "models/spiced_wine/lime_slice.webp",
     "custom_emoji_id": "5882100274721464463",
     "model_id": "5429542568629136061"
   },
   {
     "name": "cancer_collins",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/cancer_collins.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/cancer_collins.webp",
+    "tgs_path": "models/spiced_wine/cancer_collins.tgs",
+    "webp_path": "models/spiced_wine/cancer_collins.webp",
     "custom_emoji_id": "5882054958521523706",
     "model_id": "5429547344632767633"
   },
   {
     "name": "desaturated",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/desaturated.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/desaturated.webp",
+    "tgs_path": "models/spiced_wine/desaturated.tgs",
+    "webp_path": "models/spiced_wine/desaturated.webp",
     "custom_emoji_id": "5881820045285268087",
     "model_id": "5429549814238966079"
   },
   {
     "name": "hazmat",
     "rarity_permille": 0.4,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/hazmat.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/hazmat.webp",
+    "tgs_path": "models/spiced_wine/hazmat.tgs",
+    "webp_path": "models/spiced_wine/hazmat.webp",
     "custom_emoji_id": "5881996340807869004",
     "model_id": "5429550175016216926"
   },
   {
     "name": "over_ice",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/over_ice.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/over_ice.webp",
+    "tgs_path": "models/spiced_wine/over_ice.tgs",
+    "webp_path": "models/spiced_wine/over_ice.webp",
     "custom_emoji_id": "5881878516970036431",
     "model_id": "5429557914547283097"
   },
   {
     "name": "blue_burn",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/blue_burn.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/blue_burn.webp",
+    "tgs_path": "models/spiced_wine/blue_burn.tgs",
+    "webp_path": "models/spiced_wine/blue_burn.webp",
     "custom_emoji_id": "5881928055122828836",
     "model_id": "5429565022718160786"
   },
   {
     "name": "swamp_gas",
     "rarity_permille": 0.4,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/swamp_gas.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/swamp_gas.webp",
+    "tgs_path": "models/spiced_wine/swamp_gas.tgs",
+    "webp_path": "models/spiced_wine/swamp_gas.webp",
     "custom_emoji_id": "5882072576477372118",
     "model_id": "5429573771566537329"
   },
   {
     "name": "aqua_vita",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/aqua_vita.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/aqua_vita.webp",
+    "tgs_path": "models/spiced_wine/aqua_vita.tgs",
+    "webp_path": "models/spiced_wine/aqua_vita.webp",
     "custom_emoji_id": "5881752000118398452",
     "model_id": "5429578470260764114"
   },
   {
     "name": "citrus_punch",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/citrus_punch.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/citrus_punch.webp",
+    "tgs_path": "models/spiced_wine/citrus_punch.tgs",
+    "webp_path": "models/spiced_wine/citrus_punch.webp",
     "custom_emoji_id": "5879797802883621314",
     "model_id": "5429586330050912407"
   },
   {
     "name": "love_elixir",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/love_elixir.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/love_elixir.webp",
+    "tgs_path": "models/spiced_wine/love_elixir.tgs",
+    "webp_path": "models/spiced_wine/love_elixir.webp",
     "custom_emoji_id": "5881749049475866521",
     "model_id": "5429587240583978579"
   },
   {
     "name": "leonade",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/leonade.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/leonade.webp",
+    "tgs_path": "models/spiced_wine/leonade.tgs",
+    "webp_path": "models/spiced_wine/leonade.webp",
     "custom_emoji_id": "5879576663607482977",
     "model_id": "5429594640812632845"
   },
   {
     "name": "scorpio_sling",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/scorpio_sling.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/scorpio_sling.webp",
+    "tgs_path": "models/spiced_wine/scorpio_sling.tgs",
+    "webp_path": "models/spiced_wine/scorpio_sling.webp",
     "custom_emoji_id": "5882041313410424198",
     "model_id": "5429595353777206181"
   },
   {
     "name": "aries_rum",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/aries_rum.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/aries_rum.webp",
+    "tgs_path": "models/spiced_wine/aries_rum.tgs",
+    "webp_path": "models/spiced_wine/aries_rum.webp",
     "custom_emoji_id": "5881810059486306223",
     "model_id": "5429609389730327595"
   },
   {
     "name": "absinthe",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/absinthe.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/absinthe.webp",
+    "tgs_path": "models/spiced_wine/absinthe.tgs",
+    "webp_path": "models/spiced_wine/absinthe.webp",
     "custom_emoji_id": "5881947571454221743",
     "model_id": "5429609527169281389"
   },
   {
     "name": "magenta_mix",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/magenta_mix.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/magenta_mix.webp",
+    "tgs_path": "models/spiced_wine/magenta_mix.tgs",
+    "webp_path": "models/spiced_wine/magenta_mix.webp",
     "custom_emoji_id": "5881923163155079040",
     "model_id": "5429619173665827149"
   },
   {
     "name": "golden_goblet",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/golden_goblet.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/golden_goblet.webp",
+    "tgs_path": "models/spiced_wine/golden_goblet.tgs",
+    "webp_path": "models/spiced_wine/golden_goblet.webp",
     "custom_emoji_id": "5882098470835200205",
     "model_id": "5429620621069805954"
   },
   {
     "name": "earl_grey",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/earl_grey.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/earl_grey.webp",
+    "tgs_path": "models/spiced_wine/earl_grey.tgs",
+    "webp_path": "models/spiced_wine/earl_grey.webp",
     "custom_emoji_id": "5879477076200790982",
     "model_id": "5429621789300911514"
   },
   {
     "name": "color_theory",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/color_theory.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/color_theory.webp",
+    "tgs_path": "models/spiced_wine/color_theory.tgs",
+    "webp_path": "models/spiced_wine/color_theory.webp",
     "custom_emoji_id": "5882218729919487264",
     "model_id": "5429627870974600315"
   },
   {
     "name": "low_tide",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/low_tide.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/low_tide.webp",
+    "tgs_path": "models/spiced_wine/low_tide.tgs",
+    "webp_path": "models/spiced_wine/low_tide.webp",
     "custom_emoji_id": "5882097143690304450",
     "model_id": "5429630138717331377"
   },
   {
     "name": "tiny_trifle",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/tiny_trifle.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/tiny_trifle.webp",
+    "tgs_path": "models/spiced_wine/tiny_trifle.tgs",
+    "webp_path": "models/spiced_wine/tiny_trifle.webp",
     "custom_emoji_id": "5882034643326214060",
     "model_id": "5429634468044366464"
   },
   {
     "name": "minty_fresh",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/minty_fresh.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/minty_fresh.webp",
+    "tgs_path": "models/spiced_wine/minty_fresh.tgs",
+    "webp_path": "models/spiced_wine/minty_fresh.webp",
     "custom_emoji_id": "5881992685790698866",
     "model_id": "5429642357899291836"
   },
   {
     "name": "tea_infusion",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/tea_infusion.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/tea_infusion.webp",
+    "tgs_path": "models/spiced_wine/tea_infusion.tgs",
+    "webp_path": "models/spiced_wine/tea_infusion.webp",
     "custom_emoji_id": "5881909393489927544",
     "model_id": "5429650745970419739"
   },
   {
     "name": "south_pacific",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/south_pacific.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/south_pacific.webp",
+    "tgs_path": "models/spiced_wine/south_pacific.tgs",
+    "webp_path": "models/spiced_wine/south_pacific.webp",
     "custom_emoji_id": "5882248356603895575",
     "model_id": "5431459644461570263"
   },
   {
     "name": "persimmon",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/persimmon.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/persimmon.webp",
+    "tgs_path": "models/spiced_wine/persimmon.tgs",
+    "webp_path": "models/spiced_wine/persimmon.webp",
     "custom_emoji_id": "5881800224011198559",
     "model_id": "5431503607746811916"
   },
   {
     "name": "black_hole",
     "rarity_permille": 0.4,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/black_hole.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/black_hole.webp",
+    "tgs_path": "models/spiced_wine/black_hole.tgs",
+    "webp_path": "models/spiced_wine/black_hole.webp",
     "custom_emoji_id": "5882018438414606200",
     "model_id": "5431514113236818554"
   },
   {
     "name": "green_glitter",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/green_glitter.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/green_glitter.webp",
+    "tgs_path": "models/spiced_wine/green_glitter.tgs",
+    "webp_path": "models/spiced_wine/green_glitter.webp",
     "custom_emoji_id": "5881704356046183858",
     "model_id": "5431514736007077051"
   },
   {
     "name": "yellow_pop",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/yellow_pop.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/yellow_pop.webp",
+    "tgs_path": "models/spiced_wine/yellow_pop.tgs",
+    "webp_path": "models/spiced_wine/yellow_pop.webp",
     "custom_emoji_id": "5882060730957570424",
     "model_id": "5431527191412235925"
   },
   {
     "name": "golden_glow",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/golden_glow.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/golden_glow.webp",
+    "tgs_path": "models/spiced_wine/golden_glow.tgs",
+    "webp_path": "models/spiced_wine/golden_glow.webp",
     "custom_emoji_id": "5881879491927612829",
     "model_id": "5431752462446910820"
   },
   {
     "name": "nightbulb",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/nightbulb.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/nightbulb.webp",
+    "tgs_path": "models/spiced_wine/nightbulb.tgs",
+    "webp_path": "models/spiced_wine/nightbulb.webp",
     "custom_emoji_id": "5431753424519583014",
     "model_id": "5431753424519583014"
   },
   {
     "name": "indigo",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/indigo.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/indigo.webp",
+    "tgs_path": "models/spiced_wine/indigo.tgs",
+    "webp_path": "models/spiced_wine/indigo.webp",
     "custom_emoji_id": "5431756701579630755",
     "model_id": "5431756701579630755"
   },
   {
     "name": "shadow_spirit",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/shadow_spirit.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/shadow_spirit.webp",
+    "tgs_path": "models/spiced_wine/shadow_spirit.tgs",
+    "webp_path": "models/spiced_wine/shadow_spirit.webp",
     "custom_emoji_id": "5431879988615863981",
     "model_id": "5431879988615863981"
   },
   {
     "name": "magenta_mist",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/magenta_mist.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/magenta_mist.webp",
+    "tgs_path": "models/spiced_wine/magenta_mist.tgs",
+    "webp_path": "models/spiced_wine/magenta_mist.webp",
     "custom_emoji_id": "5431892538510302102",
     "model_id": "5431892538510302102"
   },
   {
     "name": "indigo_orange",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/spiced_wine/indigo_orange.tgs",
-    "webp_path": "TG_Photos_repo/models/spiced_wine/indigo_orange.webp",
+    "tgs_path": "models/spiced_wine/indigo_orange.tgs",
+    "webp_path": "models/spiced_wine/indigo_orange.webp",
     "custom_emoji_id": "5431900432660191080",
     "model_id": "5431900432660191080"
   }

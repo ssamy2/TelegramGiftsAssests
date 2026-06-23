@@ -2,408 +2,408 @@
   {
     "name": "black_hawk",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/black_hawk.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/black_hawk.webp",
+    "tgs_path": "models/rare_bird/black_hawk.tgs",
+    "webp_path": "models/rare_bird/black_hawk.webp",
     "custom_emoji_id": "5882036442917510634",
     "model_id": "5193147006016587186"
   },
   {
     "name": "necromancer",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/necromancer.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/necromancer.webp",
+    "tgs_path": "models/rare_bird/necromancer.tgs",
+    "webp_path": "models/rare_bird/necromancer.webp",
     "custom_emoji_id": "5882218171573739250",
     "model_id": "5204114917971491659"
   },
   {
     "name": "diamond_owl",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/diamond_owl.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/diamond_owl.webp",
+    "tgs_path": "models/rare_bird/diamond_owl.tgs",
+    "webp_path": "models/rare_bird/diamond_owl.webp",
     "custom_emoji_id": "5884238189182328007",
     "model_id": "5204175339571415101"
   },
   {
     "name": "dark_prince",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/dark_prince.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/dark_prince.webp",
+    "tgs_path": "models/rare_bird/dark_prince.tgs",
+    "webp_path": "models/rare_bird/dark_prince.webp",
     "custom_emoji_id": "5881821217811340927",
     "model_id": "5210696285337716633"
   },
   {
     "name": "treasure",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/treasure.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/treasure.webp",
+    "tgs_path": "models/rare_bird/treasure.tgs",
+    "webp_path": "models/rare_bird/treasure.webp",
     "custom_emoji_id": "5882056513299685951",
     "model_id": "5210806356759575218"
   },
   {
     "name": "apex_drone",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/apex_drone.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/apex_drone.webp",
+    "tgs_path": "models/rare_bird/apex_drone.tgs",
+    "webp_path": "models/rare_bird/apex_drone.webp",
     "custom_emoji_id": "5882037211716656747",
     "model_id": "5210895752208875825"
   },
   {
     "name": "hot_chick",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/hot_chick.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/hot_chick.webp",
+    "tgs_path": "models/rare_bird/hot_chick.tgs",
+    "webp_path": "models/rare_bird/hot_chick.webp",
     "custom_emoji_id": "5881876936422073266",
     "model_id": "5269395792350709951"
   },
   {
     "name": "shadow_raven",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/shadow_raven.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/shadow_raven.webp",
+    "tgs_path": "models/rare_bird/shadow_raven.tgs",
+    "webp_path": "models/rare_bird/shadow_raven.webp",
     "custom_emoji_id": "5882066700962111622",
     "model_id": "5269647017872757747"
   },
   {
     "name": "frozen_gold",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/frozen_gold.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/frozen_gold.webp",
+    "tgs_path": "models/rare_bird/frozen_gold.tgs",
+    "webp_path": "models/rare_bird/frozen_gold.webp",
     "custom_emoji_id": "5881906296818506992",
     "model_id": "5276174973025682771"
   },
   {
     "name": "royal_pavo",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/royal_pavo.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/royal_pavo.webp",
+    "tgs_path": "models/rare_bird/royal_pavo.tgs",
+    "webp_path": "models/rare_bird/royal_pavo.webp",
     "custom_emoji_id": "5882160266824655310",
     "model_id": "5278256077954125942"
   },
   {
     "name": "red_vulture",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/red_vulture.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/red_vulture.webp",
+    "tgs_path": "models/rare_bird/red_vulture.tgs",
+    "webp_path": "models/rare_bird/red_vulture.webp",
     "custom_emoji_id": "5881920848167705639",
     "model_id": "5310034278984225001"
   },
   {
     "name": "battlewing",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/battlewing.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/battlewing.webp",
+    "tgs_path": "models/rare_bird/battlewing.tgs",
+    "webp_path": "models/rare_bird/battlewing.webp",
     "custom_emoji_id": "5882142008918680081",
     "model_id": "5310179594907716907"
   },
   {
     "name": "aurora_moth",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/aurora_moth.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/aurora_moth.webp",
+    "tgs_path": "models/rare_bird/aurora_moth.tgs",
+    "webp_path": "models/rare_bird/aurora_moth.webp",
     "custom_emoji_id": "5881936640762453581",
     "model_id": "5359598768515748307"
   },
   {
     "name": "gilded_heron",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/gilded_heron.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/gilded_heron.webp",
+    "tgs_path": "models/rare_bird/gilded_heron.tgs",
+    "webp_path": "models/rare_bird/gilded_heron.webp",
     "custom_emoji_id": "5881876751738478676",
     "model_id": "5359639673784276518"
   },
   {
     "name": "phoenix",
     "rarity_permille": 3.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/phoenix.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/phoenix.webp",
+    "tgs_path": "models/rare_bird/phoenix.tgs",
+    "webp_path": "models/rare_bird/phoenix.webp",
     "custom_emoji_id": "5884006269538279574",
     "model_id": "5359640893554990559"
   },
   {
     "name": "crystal_swan",
     "rarity_permille": 3.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/crystal_swan.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/crystal_swan.webp",
+    "tgs_path": "models/rare_bird/crystal_swan.tgs",
+    "webp_path": "models/rare_bird/crystal_swan.webp",
     "custom_emoji_id": "5882118648591556899",
     "model_id": "5359814195485381427"
   },
   {
     "name": "icarus",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/icarus.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/icarus.webp",
+    "tgs_path": "models/rare_bird/icarus.tgs",
+    "webp_path": "models/rare_bird/icarus.webp",
     "custom_emoji_id": "5881827986679800100",
     "model_id": "5386392453840407594"
   },
   {
     "name": "gargoyle",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/gargoyle.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/gargoyle.webp",
+    "tgs_path": "models/rare_bird/gargoyle.tgs",
+    "webp_path": "models/rare_bird/gargoyle.webp",
     "custom_emoji_id": "5884206964770085728",
     "model_id": "5386622114331659622"
   },
   {
     "name": "hippogriff",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/hippogriff.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/hippogriff.webp",
+    "tgs_path": "models/rare_bird/hippogriff.tgs",
+    "webp_path": "models/rare_bird/hippogriff.webp",
     "custom_emoji_id": "5881889881453502244",
     "model_id": "5386732739804302722"
   },
   {
     "name": "dark_knight",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/dark_knight.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/dark_knight.webp",
+    "tgs_path": "models/rare_bird/dark_knight.tgs",
+    "webp_path": "models/rare_bird/dark_knight.webp",
     "custom_emoji_id": "5882129248570843688",
     "model_id": "5386759175328007869"
   },
   {
     "name": "noble_puffin",
     "rarity_permille": 3.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/noble_puffin.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/noble_puffin.webp",
+    "tgs_path": "models/rare_bird/noble_puffin.tgs",
+    "webp_path": "models/rare_bird/noble_puffin.webp",
     "custom_emoji_id": "5882063788974284423",
     "model_id": "5386823324959541291"
   },
   {
     "name": "rose_fairy",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/rose_fairy.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/rose_fairy.webp",
+    "tgs_path": "models/rare_bird/rose_fairy.tgs",
+    "webp_path": "models/rare_bird/rose_fairy.webp",
     "custom_emoji_id": "5882054782427866066",
     "model_id": "5434061071793037256"
   },
   {
     "name": "copper_quack",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/copper_quack.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/copper_quack.webp",
+    "tgs_path": "models/rare_bird/copper_quack.tgs",
+    "webp_path": "models/rare_bird/copper_quack.webp",
     "custom_emoji_id": "5881928450259819623",
     "model_id": "5438166716930626734"
   },
   {
     "name": "winged_victory",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/winged_victory.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/winged_victory.webp",
+    "tgs_path": "models/rare_bird/winged_victory.tgs",
+    "webp_path": "models/rare_bird/winged_victory.webp",
     "custom_emoji_id": "5881916158063421306",
     "model_id": "5440353151637034705"
   },
   {
     "name": "crystal_swift",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/crystal_swift.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/crystal_swift.webp",
+    "tgs_path": "models/rare_bird/crystal_swift.tgs",
+    "webp_path": "models/rare_bird/crystal_swift.webp",
     "custom_emoji_id": "5882243073794121001",
     "model_id": "5440365791725788001"
   },
   {
     "name": "prehistoric",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/prehistoric.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/prehistoric.webp",
+    "tgs_path": "models/rare_bird/prehistoric.tgs",
+    "webp_path": "models/rare_bird/prehistoric.webp",
     "custom_emoji_id": "5881954232948498346",
     "model_id": "5440377156209252208"
   },
   {
     "name": "pigeon",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/pigeon.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/pigeon.webp",
+    "tgs_path": "models/rare_bird/pigeon.tgs",
+    "webp_path": "models/rare_bird/pigeon.webp",
     "custom_emoji_id": "5881845587455777870",
     "model_id": "5440387154893113345"
   },
   {
     "name": "bat_king",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/bat_king.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/bat_king.webp",
+    "tgs_path": "models/rare_bird/bat_king.tgs",
+    "webp_path": "models/rare_bird/bat_king.webp",
     "custom_emoji_id": "5882024356879539725",
     "model_id": "5440394958848695752"
   },
   {
     "name": "pegasus",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/pegasus.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/pegasus.webp",
+    "tgs_path": "models/rare_bird/pegasus.tgs",
+    "webp_path": "models/rare_bird/pegasus.webp",
     "custom_emoji_id": "5884469868308210137",
     "model_id": "5440406688404377417"
   },
   {
     "name": "silver_wings",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/silver_wings.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/silver_wings.webp",
+    "tgs_path": "models/rare_bird/silver_wings.tgs",
+    "webp_path": "models/rare_bird/silver_wings.webp",
     "custom_emoji_id": "5884284841117096974",
     "model_id": "5440419332788098279"
   },
   {
     "name": "the_emperor",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/the_emperor.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/the_emperor.webp",
+    "tgs_path": "models/rare_bird/the_emperor.tgs",
+    "webp_path": "models/rare_bird/the_emperor.webp",
     "custom_emoji_id": "5882010986646348006",
     "model_id": "5440420488134300506"
   },
   {
     "name": "ruby_dodo",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/ruby_dodo.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/ruby_dodo.webp",
+    "tgs_path": "models/rare_bird/ruby_dodo.tgs",
+    "webp_path": "models/rare_bird/ruby_dodo.webp",
     "custom_emoji_id": "5884375164279332469",
     "model_id": "5440444166289000199"
   },
   {
     "name": "manticore",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/manticore.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/manticore.webp",
+    "tgs_path": "models/rare_bird/manticore.tgs",
+    "webp_path": "models/rare_bird/manticore.webp",
     "custom_emoji_id": "5882143705430761707",
     "model_id": "5440469759999115855"
   },
   {
     "name": "silver_spike",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/silver_spike.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/silver_spike.webp",
+    "tgs_path": "models/rare_bird/silver_spike.tgs",
+    "webp_path": "models/rare_bird/silver_spike.webp",
     "custom_emoji_id": "5881848675537265265",
     "model_id": "5440528450727219275"
   },
   {
     "name": "dragon",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/dragon.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/dragon.webp",
+    "tgs_path": "models/rare_bird/dragon.tgs",
+    "webp_path": "models/rare_bird/dragon.webp",
     "custom_emoji_id": "5881746438135750607",
     "model_id": "5440594133662076416"
   },
   {
     "name": "pelican",
     "rarity_permille": 3.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/pelican.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/pelican.webp",
+    "tgs_path": "models/rare_bird/pelican.tgs",
+    "webp_path": "models/rare_bird/pelican.webp",
     "custom_emoji_id": "5882015891499000782",
     "model_id": "5440594442899720369"
   },
   {
     "name": "golden_falcon",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/golden_falcon.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/golden_falcon.webp",
+    "tgs_path": "models/rare_bird/golden_falcon.tgs",
+    "webp_path": "models/rare_bird/golden_falcon.webp",
     "custom_emoji_id": "5884466810291495174",
     "model_id": "5440632195662252208"
   },
   {
     "name": "chickadee",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/chickadee.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/chickadee.webp",
+    "tgs_path": "models/rare_bird/chickadee.tgs",
+    "webp_path": "models/rare_bird/chickadee.webp",
     "custom_emoji_id": "5881735941235679110",
     "model_id": "5440729274808048469"
   },
   {
     "name": "amber_toucan",
     "rarity_permille": 3.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/amber_toucan.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/amber_toucan.webp",
+    "tgs_path": "models/rare_bird/amber_toucan.tgs",
+    "webp_path": "models/rare_bird/amber_toucan.webp",
     "custom_emoji_id": "5882024399829212144",
     "model_id": "5440774436389163198"
   },
   {
     "name": "wave_glider",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/wave_glider.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/wave_glider.webp",
+    "tgs_path": "models/rare_bird/wave_glider.tgs",
+    "webp_path": "models/rare_bird/wave_glider.webp",
     "custom_emoji_id": "5881708822812171876",
     "model_id": "5440783275431859397"
   },
   {
     "name": "thunderbird",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/thunderbird.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/thunderbird.webp",
+    "tgs_path": "models/rare_bird/thunderbird.tgs",
+    "webp_path": "models/rare_bird/thunderbird.webp",
     "custom_emoji_id": "5882231765145230680",
     "model_id": "5440883464133971362"
   },
   {
     "name": "kakapo",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/kakapo.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/kakapo.webp",
+    "tgs_path": "models/rare_bird/kakapo.tgs",
+    "webp_path": "models/rare_bird/kakapo.webp",
     "custom_emoji_id": "5882082330348101642",
     "model_id": "5442852835488203015"
   },
   {
     "name": "lucifer",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/lucifer.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/lucifer.webp",
+    "tgs_path": "models/rare_bird/lucifer.tgs",
+    "webp_path": "models/rare_bird/lucifer.webp",
     "custom_emoji_id": "5881884937946143604",
     "model_id": "5443014665560952466"
   },
   {
     "name": "jade_jay",
     "rarity_permille": 3.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/jade_jay.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/jade_jay.webp",
+    "tgs_path": "models/rare_bird/jade_jay.tgs",
+    "webp_path": "models/rare_bird/jade_jay.webp",
     "custom_emoji_id": "5882031409215839543",
     "model_id": "5447175479553462425"
   },
   {
     "name": "fiscal_hawk",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/fiscal_hawk.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/fiscal_hawk.webp",
+    "tgs_path": "models/rare_bird/fiscal_hawk.tgs",
+    "webp_path": "models/rare_bird/fiscal_hawk.webp",
     "custom_emoji_id": "5884107493327511682",
     "model_id": "5447576247246819879"
   },
   {
     "name": "paradise",
     "rarity_permille": 4.0,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/paradise.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/paradise.webp",
+    "tgs_path": "models/rare_bird/paradise.tgs",
+    "webp_path": "models/rare_bird/paradise.webp",
     "custom_emoji_id": "5881765589394922644",
     "model_id": "5447646096299955801"
   },
   {
     "name": "zombie_rider",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/zombie_rider.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/zombie_rider.webp",
+    "tgs_path": "models/rare_bird/zombie_rider.tgs",
+    "webp_path": "models/rare_bird/zombie_rider.webp",
     "custom_emoji_id": "5881749547692072288",
     "model_id": "5449495599411926452"
   },
   {
     "name": "garnet_koel",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/garnet_koel.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/garnet_koel.webp",
+    "tgs_path": "models/rare_bird/garnet_koel.tgs",
+    "webp_path": "models/rare_bird/garnet_koel.webp",
     "custom_emoji_id": "5449496256541922885",
     "model_id": "5449496256541922885"
   },
   {
     "name": "sphinx",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/sphinx.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/sphinx.webp",
+    "tgs_path": "models/rare_bird/sphinx.tgs",
+    "webp_path": "models/rare_bird/sphinx.webp",
     "custom_emoji_id": "5449689950977040907",
     "model_id": "5449689950977040907"
   },
   {
     "name": "azure_spark",
     "rarity_permille": 3.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/azure_spark.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/azure_spark.webp",
+    "tgs_path": "models/rare_bird/azure_spark.tgs",
+    "webp_path": "models/rare_bird/azure_spark.webp",
     "custom_emoji_id": "5449789405239744154",
     "model_id": "5449789405239744154"
   },
   {
     "name": "fire_rooster",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/rare_bird/fire_rooster.tgs",
-    "webp_path": "TG_Photos_repo/models/rare_bird/fire_rooster.webp",
+    "tgs_path": "models/rare_bird/fire_rooster.tgs",
+    "webp_path": "models/rare_bird/fire_rooster.webp",
     "custom_emoji_id": "5454214497159906604",
     "model_id": "5454214497159906604"
   }

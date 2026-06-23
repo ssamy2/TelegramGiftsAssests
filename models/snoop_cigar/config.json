@@ -2,400 +2,400 @@
   {
     "name": "stargazer",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/stargazer.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/stargazer.webp",
+    "tgs_path": "models/snoop_cigar/stargazer.tgs",
+    "webp_path": "models/snoop_cigar/stargazer.webp",
     "custom_emoji_id": "5879730208688315739",
     "model_id": "5379699730857099075"
   },
   {
     "name": "royalty",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/royalty.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/royalty.webp",
+    "tgs_path": "models/snoop_cigar/royalty.tgs",
+    "webp_path": "models/snoop_cigar/royalty.webp",
     "custom_emoji_id": "5880008977835629438",
     "model_id": "5375364429523220047"
   },
   {
     "name": "triple_shot",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/triple_shot.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/triple_shot.webp",
+    "tgs_path": "models/snoop_cigar/triple_shot.tgs",
+    "webp_path": "models/snoop_cigar/triple_shot.webp",
     "custom_emoji_id": "5877524815996263558",
     "model_id": "5373351880862758526"
   },
   {
     "name": "snoop_ring",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/snoop_ring.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/snoop_ring.webp",
+    "tgs_path": "models/snoop_cigar/snoop_ring.tgs",
+    "webp_path": "models/snoop_cigar/snoop_ring.webp",
     "custom_emoji_id": "5879913431993164223",
     "model_id": "5384369305200654013"
   },
   {
     "name": "vinyl_vibes",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/vinyl_vibes.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/vinyl_vibes.webp",
+    "tgs_path": "models/snoop_cigar/vinyl_vibes.tgs",
+    "webp_path": "models/snoop_cigar/vinyl_vibes.webp",
     "custom_emoji_id": "5879589192027086655",
     "model_id": "5386808030580993831"
   },
   {
     "name": "charmed_roll",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/charmed_roll.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/charmed_roll.webp",
+    "tgs_path": "models/snoop_cigar/charmed_roll.tgs",
+    "webp_path": "models/snoop_cigar/charmed_roll.webp",
     "custom_emoji_id": "5879787851444395343",
     "model_id": "5431711797696561839"
   },
   {
     "name": "cabbage_roll",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/cabbage_roll.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/cabbage_roll.webp",
+    "tgs_path": "models/snoop_cigar/cabbage_roll.tgs",
+    "webp_path": "models/snoop_cigar/cabbage_roll.webp",
     "custom_emoji_id": "5879639129611837974",
     "model_id": "5395436319230951358"
   },
   {
     "name": "mirage",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/mirage.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/mirage.webp",
+    "tgs_path": "models/snoop_cigar/mirage.tgs",
+    "webp_path": "models/snoop_cigar/mirage.webp",
     "custom_emoji_id": "5879501656298626905",
     "model_id": "5409100551524743623"
   },
   {
     "name": "jade_fade",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/jade_fade.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/jade_fade.webp",
+    "tgs_path": "models/snoop_cigar/jade_fade.tgs",
+    "webp_path": "models/snoop_cigar/jade_fade.webp",
     "custom_emoji_id": "5879627997056605724",
     "model_id": "5406869818525647234"
   },
   {
     "name": "herbalist",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/herbalist.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/herbalist.webp",
+    "tgs_path": "models/snoop_cigar/herbalist.tgs",
+    "webp_path": "models/snoop_cigar/herbalist.webp",
     "custom_emoji_id": "5877634492281135472",
     "model_id": "5409250669221675447"
   },
   {
     "name": "snoop’s_pipe",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/snoop’s_pipe.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/snoop’s_pipe.webp",
+    "tgs_path": "models/snoop_cigar/snoop’s_pipe.tgs",
+    "webp_path": "models/snoop_cigar/snoop’s_pipe.webp",
     "custom_emoji_id": "5879724556511354406",
     "model_id": "5431782999664392737"
   },
   {
     "name": "space_wrap",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/space_wrap.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/space_wrap.webp",
+    "tgs_path": "models/snoop_cigar/space_wrap.tgs",
+    "webp_path": "models/snoop_cigar/space_wrap.webp",
     "custom_emoji_id": "5877302237906084015",
     "model_id": "5409045167921457478"
   },
   {
     "name": "ruby_doobie",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/ruby_doobie.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/ruby_doobie.webp",
+    "tgs_path": "models/snoop_cigar/ruby_doobie.tgs",
+    "webp_path": "models/snoop_cigar/ruby_doobie.webp",
     "custom_emoji_id": "5879822554780147633",
     "model_id": "5375249015162042488"
   },
   {
     "name": "soul_plane",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/soul_plane.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/soul_plane.webp",
+    "tgs_path": "models/snoop_cigar/soul_plane.tgs",
+    "webp_path": "models/snoop_cigar/soul_plane.webp",
     "custom_emoji_id": "5879502493817249676",
     "model_id": "5375331607383143705"
   },
   {
     "name": "debut_album",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/debut_album.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/debut_album.webp",
+    "tgs_path": "models/snoop_cigar/debut_album.tgs",
+    "webp_path": "models/snoop_cigar/debut_album.webp",
     "custom_emoji_id": "5879882765926669503",
     "model_id": "5375410175219890381"
   },
   {
     "name": "smoke_dogg",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/smoke_dogg.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/smoke_dogg.webp",
+    "tgs_path": "models/snoop_cigar/smoke_dogg.tgs",
+    "webp_path": "models/snoop_cigar/smoke_dogg.webp",
     "custom_emoji_id": "5879711753213845579",
     "model_id": "5393588353717270143"
   },
   {
     "name": "gilded_copper",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/gilded_copper.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/gilded_copper.webp",
+    "tgs_path": "models/snoop_cigar/gilded_copper.tgs",
+    "webp_path": "models/snoop_cigar/gilded_copper.webp",
     "custom_emoji_id": "5879664925185416438",
     "model_id": "5433996003038489981"
   },
   {
     "name": "baked_beats",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/baked_beats.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/baked_beats.webp",
+    "tgs_path": "models/snoop_cigar/baked_beats.tgs",
+    "webp_path": "models/snoop_cigar/baked_beats.webp",
     "custom_emoji_id": "5877717977855434619",
     "model_id": "5408968644489144895"
   },
   {
     "name": "surprise",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/surprise.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/surprise.webp",
+    "tgs_path": "models/snoop_cigar/surprise.tgs",
+    "webp_path": "models/snoop_cigar/surprise.webp",
     "custom_emoji_id": "5879940473107259967",
     "model_id": "5408901045998876103"
   },
   {
     "name": "cartoon_roll",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/cartoon_roll.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/cartoon_roll.webp",
+    "tgs_path": "models/snoop_cigar/cartoon_roll.tgs",
+    "webp_path": "models/snoop_cigar/cartoon_roll.webp",
     "custom_emoji_id": "5879699976413519612",
     "model_id": "5408916172873691610"
   },
   {
     "name": "the_king",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/the_king.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/the_king.webp",
+    "tgs_path": "models/snoop_cigar/the_king.tgs",
+    "webp_path": "models/snoop_cigar/the_king.webp",
     "custom_emoji_id": "5879865324064480033",
     "model_id": "5373020661574826232"
   },
   {
     "name": "puff_puff_pass",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/puff_puff_pass.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/puff_puff_pass.webp",
+    "tgs_path": "models/snoop_cigar/puff_puff_pass.tgs",
+    "webp_path": "models/snoop_cigar/puff_puff_pass.webp",
     "custom_emoji_id": "5877325220276083752",
     "model_id": "5373298352685349318"
   },
   {
     "name": "hot_stuff",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/hot_stuff.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/hot_stuff.webp",
+    "tgs_path": "models/snoop_cigar/hot_stuff.tgs",
+    "webp_path": "models/snoop_cigar/hot_stuff.webp",
     "custom_emoji_id": "5879579635724853110",
     "model_id": "5380019538416927027"
   },
   {
     "name": "america",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/america.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/america.webp",
+    "tgs_path": "models/snoop_cigar/america.tgs",
+    "webp_path": "models/snoop_cigar/america.webp",
     "custom_emoji_id": "5879591043157990586",
     "model_id": "5377336017080582158"
   },
   {
     "name": "rap_battle",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/rap_battle.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/rap_battle.webp",
+    "tgs_path": "models/snoop_cigar/rap_battle.tgs",
+    "webp_path": "models/snoop_cigar/rap_battle.webp",
     "custom_emoji_id": "5879673901667065193",
     "model_id": "5431859501621869522"
   },
   {
     "name": "mushizzle",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/mushizzle.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/mushizzle.webp",
+    "tgs_path": "models/snoop_cigar/mushizzle.tgs",
+    "webp_path": "models/snoop_cigar/mushizzle.webp",
     "custom_emoji_id": "5879868279001981226",
     "model_id": "5384188439832854551"
   },
   {
     "name": "infinity_stoned",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/infinity_stoned.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/infinity_stoned.webp",
+    "tgs_path": "models/snoop_cigar/infinity_stoned.tgs",
+    "webp_path": "models/snoop_cigar/infinity_stoned.webp",
     "custom_emoji_id": "5877205253249573051",
     "model_id": "5393298452014727316"
   },
   {
     "name": "highway",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/highway.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/highway.webp",
+    "tgs_path": "models/snoop_cigar/highway.tgs",
+    "webp_path": "models/snoop_cigar/highway.webp",
     "custom_emoji_id": "5877320568826502970",
     "model_id": "5411312124674734565"
   },
   {
     "name": "record_label",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/record_label.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/record_label.webp",
+    "tgs_path": "models/snoop_cigar/record_label.tgs",
+    "webp_path": "models/snoop_cigar/record_label.webp",
     "custom_emoji_id": "5879973497110797858",
     "model_id": "5413520712822455289"
   },
   {
     "name": "lion_king",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/lion_king.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/lion_king.webp",
+    "tgs_path": "models/snoop_cigar/lion_king.tgs",
+    "webp_path": "models/snoop_cigar/lion_king.webp",
     "custom_emoji_id": "5879989938245606894",
     "model_id": "5431645010955107365"
   },
   {
     "name": "dolla_rolla",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/dolla_rolla.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/dolla_rolla.webp",
+    "tgs_path": "models/snoop_cigar/dolla_rolla.tgs",
+    "webp_path": "models/snoop_cigar/dolla_rolla.webp",
     "custom_emoji_id": "5879916528664582691",
     "model_id": "5375495529104961800"
   },
   {
     "name": "hyperdrive",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/hyperdrive.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/hyperdrive.webp",
+    "tgs_path": "models/snoop_cigar/hyperdrive.tgs",
+    "webp_path": "models/snoop_cigar/hyperdrive.webp",
     "custom_emoji_id": "5879527580721225183",
     "model_id": "5386589244946935140"
   },
   {
     "name": "california",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/california.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/california.webp",
+    "tgs_path": "models/snoop_cigar/california.tgs",
+    "webp_path": "models/snoop_cigar/california.webp",
     "custom_emoji_id": "5879839884973185915",
     "model_id": "5400329927658599481"
   },
   {
     "name": "ice_prince",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/ice_prince.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/ice_prince.webp",
+    "tgs_path": "models/snoop_cigar/ice_prince.tgs",
+    "webp_path": "models/snoop_cigar/ice_prince.webp",
     "custom_emoji_id": "5877233226371571074",
     "model_id": "5400315268935219754"
   },
   {
     "name": "smoke_sway",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/smoke_sway.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/smoke_sway.webp",
+    "tgs_path": "models/snoop_cigar/smoke_sway.tgs",
+    "webp_path": "models/snoop_cigar/smoke_sway.webp",
     "custom_emoji_id": "5877346347220212608",
     "model_id": "5375172989945936083"
   },
   {
     "name": "hot_rod",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/hot_rod.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/hot_rod.webp",
+    "tgs_path": "models/snoop_cigar/hot_rod.tgs",
+    "webp_path": "models/snoop_cigar/hot_rod.webp",
     "custom_emoji_id": "5877350225575681895",
     "model_id": "5375216455014970508"
   },
   {
     "name": "old_school",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/old_school.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/old_school.webp",
+    "tgs_path": "models/snoop_cigar/old_school.tgs",
+    "webp_path": "models/snoop_cigar/old_school.webp",
     "custom_emoji_id": "5879927948982623408",
     "model_id": "5375396074842255955"
   },
   {
     "name": "meteor_impact",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/meteor_impact.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/meteor_impact.webp",
+    "tgs_path": "models/snoop_cigar/meteor_impact.tgs",
+    "webp_path": "models/snoop_cigar/meteor_impact.webp",
     "custom_emoji_id": "5879765929931317495",
     "model_id": "5408889020090449272"
   },
   {
     "name": "snoop_graffiti",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/snoop_graffiti.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/snoop_graffiti.webp",
+    "tgs_path": "models/snoop_cigar/snoop_graffiti.tgs",
+    "webp_path": "models/snoop_cigar/snoop_graffiti.webp",
     "custom_emoji_id": "5879749690659971455",
     "model_id": "5411112683573376101"
   },
   {
     "name": "snoop_doggy",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/snoop_doggy.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/snoop_doggy.webp",
+    "tgs_path": "models/snoop_cigar/snoop_doggy.tgs",
+    "webp_path": "models/snoop_cigar/snoop_doggy.webp",
     "custom_emoji_id": "5879654561429332017",
     "model_id": "5381867289182238559"
   },
   {
     "name": "crystal",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/crystal.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/crystal.webp",
+    "tgs_path": "models/snoop_cigar/crystal.tgs",
+    "webp_path": "models/snoop_cigar/crystal.webp",
     "custom_emoji_id": "5879586284334228592",
     "model_id": "5400025186844049438"
   },
   {
     "name": "happy_face",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/happy_face.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/happy_face.webp",
+    "tgs_path": "models/snoop_cigar/happy_face.tgs",
+    "webp_path": "models/snoop_cigar/happy_face.webp",
     "custom_emoji_id": "5879765895571577728",
     "model_id": "5406897100157907700"
   },
   {
     "name": "doggystyle",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/doggystyle.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/doggystyle.webp",
+    "tgs_path": "models/snoop_cigar/doggystyle.tgs",
+    "webp_path": "models/snoop_cigar/doggystyle.webp",
     "custom_emoji_id": "5879891471825379518",
     "model_id": "5413728224167361650"
   },
   {
     "name": "funk_dunk",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/funk_dunk.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/funk_dunk.webp",
+    "tgs_path": "models/snoop_cigar/funk_dunk.tgs",
+    "webp_path": "models/snoop_cigar/funk_dunk.webp",
     "custom_emoji_id": "5877548129078747183",
     "model_id": "5408981125664113079"
   },
   {
     "name": "snooperman",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/snooperman.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/snooperman.webp",
+    "tgs_path": "models/snoop_cigar/snooperman.tgs",
+    "webp_path": "models/snoop_cigar/snooperman.webp",
     "custom_emoji_id": "5879921450697106035",
     "model_id": "5398124157009427658"
   },
   {
     "name": "eurotrip",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/eurotrip.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/eurotrip.webp",
+    "tgs_path": "models/snoop_cigar/eurotrip.tgs",
+    "webp_path": "models/snoop_cigar/eurotrip.webp",
     "custom_emoji_id": "5879755025009351866",
     "model_id": "5406878240956516179"
   },
   {
     "name": "rasta",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/rasta.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/rasta.webp",
+    "tgs_path": "models/snoop_cigar/rasta.tgs",
+    "webp_path": "models/snoop_cigar/rasta.webp",
     "custom_emoji_id": "5877561585211285436",
     "model_id": "5395567895554059386"
   },
   {
     "name": "angel_dust",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/angel_dust.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/angel_dust.webp",
+    "tgs_path": "models/snoop_cigar/angel_dust.tgs",
+    "webp_path": "models/snoop_cigar/angel_dust.webp",
     "custom_emoji_id": "5879696269856744419",
     "model_id": "5382283157980609305"
   },
   {
     "name": "bandana",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/bandana.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/bandana.webp",
+    "tgs_path": "models/snoop_cigar/bandana.tgs",
+    "webp_path": "models/snoop_cigar/bandana.webp",
     "custom_emoji_id": "5877426250791789678",
     "model_id": "5375090870171236228"
   },
   {
     "name": "smoke_nukem",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/snoop_cigar/smoke_nukem.tgs",
-    "webp_path": "TG_Photos_repo/models/snoop_cigar/smoke_nukem.webp",
+    "tgs_path": "models/snoop_cigar/smoke_nukem.tgs",
+    "webp_path": "models/snoop_cigar/smoke_nukem.webp",
     "custom_emoji_id": "5879569379342949808",
     "model_id": "5373294392725500121"
   }

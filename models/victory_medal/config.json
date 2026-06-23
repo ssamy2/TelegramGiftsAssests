@@ -2,400 +2,400 @@
   {
     "name": "grandmaster",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/grandmaster.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/grandmaster.webp",
+    "tgs_path": "models/victory_medal/grandmaster.tgs",
+    "webp_path": "models/victory_medal/grandmaster.webp",
     "custom_emoji_id": "5879742659798507703",
     "model_id": "5462958543768422457"
   },
   {
     "name": "good_boy",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/good_boy.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/good_boy.webp",
+    "tgs_path": "models/victory_medal/good_boy.tgs",
+    "webp_path": "models/victory_medal/good_boy.webp",
     "custom_emoji_id": "5877672494151769509",
     "model_id": "5463022422817013051"
   },
   {
     "name": "rebel_award",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/rebel_award.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/rebel_award.webp",
+    "tgs_path": "models/victory_medal/rebel_award.tgs",
+    "webp_path": "models/victory_medal/rebel_award.webp",
     "custom_emoji_id": "5879899748227358309",
     "model_id": "5463155253270577883"
   },
   {
     "name": "high_roller",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/high_roller.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/high_roller.webp",
+    "tgs_path": "models/victory_medal/high_roller.tgs",
+    "webp_path": "models/victory_medal/high_roller.webp",
     "custom_emoji_id": "5879969743309381468",
     "model_id": "5462925446750439372"
   },
   {
     "name": "top_swimmer",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/top_swimmer.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/top_swimmer.webp",
+    "tgs_path": "models/victory_medal/top_swimmer.tgs",
+    "webp_path": "models/victory_medal/top_swimmer.webp",
     "custom_emoji_id": "5877399896872461351",
     "model_id": "5465185613160416502"
   },
   {
     "name": "inventor",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/inventor.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/inventor.webp",
+    "tgs_path": "models/victory_medal/inventor.tgs",
+    "webp_path": "models/victory_medal/inventor.webp",
     "custom_emoji_id": "5879784372520886981",
     "model_id": "5462914696447295608"
   },
   {
     "name": "master_of_luck",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/master_of_luck.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/master_of_luck.webp",
+    "tgs_path": "models/victory_medal/master_of_luck.tgs",
+    "webp_path": "models/victory_medal/master_of_luck.webp",
     "custom_emoji_id": "5879896810469727562",
     "model_id": "5463388658973313626"
   },
   {
     "name": "candy_king",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/candy_king.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/candy_king.webp",
+    "tgs_path": "models/victory_medal/candy_king.tgs",
+    "webp_path": "models/victory_medal/candy_king.webp",
     "custom_emoji_id": "5879705641475382684",
     "model_id": "5206370497356402310"
   },
   {
     "name": "racing_champ",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/racing_champ.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/racing_champ.webp",
+    "tgs_path": "models/victory_medal/racing_champ.tgs",
+    "webp_path": "models/victory_medal/racing_champ.webp",
     "custom_emoji_id": "5879811946210926990",
     "model_id": "5204170469078500982"
   },
   {
     "name": "clown",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/clown.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/clown.webp",
+    "tgs_path": "models/victory_medal/clown.tgs",
+    "webp_path": "models/victory_medal/clown.webp",
     "custom_emoji_id": "5879676805064956815",
     "model_id": "5208495269217339795"
   },
   {
     "name": "pathfinder",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/pathfinder.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/pathfinder.webp",
+    "tgs_path": "models/victory_medal/pathfinder.tgs",
+    "webp_path": "models/victory_medal/pathfinder.webp",
     "custom_emoji_id": "5879900740364803202",
     "model_id": "5208432901997232253"
   },
   {
     "name": "bronze",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/bronze.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/bronze.webp",
+    "tgs_path": "models/victory_medal/bronze.tgs",
+    "webp_path": "models/victory_medal/bronze.webp",
     "custom_emoji_id": "5879667695439323045",
     "model_id": "5208502995863503931"
   },
   {
     "name": "noble_prize",
     "rarity_permille": 0.2,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/noble_prize.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/noble_prize.webp",
+    "tgs_path": "models/victory_medal/noble_prize.tgs",
+    "webp_path": "models/victory_medal/noble_prize.webp",
     "custom_emoji_id": "5879675873057054390",
     "model_id": "5467907952411183485"
   },
   {
     "name": "great_athlete",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/great_athlete.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/great_athlete.webp",
+    "tgs_path": "models/victory_medal/great_athlete.tgs",
+    "webp_path": "models/victory_medal/great_athlete.webp",
     "custom_emoji_id": "5879988770014502971",
     "model_id": "5463364267854039889"
   },
   {
     "name": "master_gamer",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/master_gamer.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/master_gamer.webp",
+    "tgs_path": "models/victory_medal/master_gamer.tgs",
+    "webp_path": "models/victory_medal/master_gamer.webp",
     "custom_emoji_id": "5879706732397077188",
     "model_id": "5463218157361597037"
   },
   {
     "name": "starbound",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/starbound.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/starbound.webp",
+    "tgs_path": "models/victory_medal/starbound.tgs",
+    "webp_path": "models/victory_medal/starbound.webp",
     "custom_emoji_id": "5879921278898413239",
     "model_id": "5463014567321831387"
   },
   {
     "name": "heart_of_steel",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/heart_of_steel.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/heart_of_steel.webp",
+    "tgs_path": "models/victory_medal/heart_of_steel.tgs",
+    "webp_path": "models/victory_medal/heart_of_steel.webp",
     "custom_emoji_id": "5879631583354298602",
     "model_id": "5463221103709160787"
   },
   {
     "name": "crown_of_grace",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/crown_of_grace.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/crown_of_grace.webp",
+    "tgs_path": "models/victory_medal/crown_of_grace.tgs",
+    "webp_path": "models/victory_medal/crown_of_grace.webp",
     "custom_emoji_id": "5879651602196866264",
     "model_id": "5463152448656933156"
   },
   {
     "name": "the_founder",
     "rarity_permille": 0.2,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/the_founder.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/the_founder.webp",
+    "tgs_path": "models/victory_medal/the_founder.tgs",
+    "webp_path": "models/victory_medal/the_founder.webp",
     "custom_emoji_id": "5879783943024156078",
     "model_id": "5204028206876757785"
   },
   {
     "name": "queen_bee",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/queen_bee.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/queen_bee.webp",
+    "tgs_path": "models/victory_medal/queen_bee.tgs",
+    "webp_path": "models/victory_medal/queen_bee.webp",
     "custom_emoji_id": "5879976018256600859",
     "model_id": "5465456823165287023"
   },
   {
     "name": "genius",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/genius.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/genius.webp",
+    "tgs_path": "models/victory_medal/genius.tgs",
+    "webp_path": "models/victory_medal/genius.webp",
     "custom_emoji_id": "5879727601643167072",
     "model_id": "5204010352697706435"
   },
   {
     "name": "gold",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/gold.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/gold.webp",
+    "tgs_path": "models/victory_medal/gold.tgs",
+    "webp_path": "models/victory_medal/gold.webp",
     "custom_emoji_id": "5879764177584661017",
     "model_id": "5208862501806053395"
   },
   {
     "name": "heroic_honor",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/heroic_honor.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/heroic_honor.webp",
+    "tgs_path": "models/victory_medal/heroic_honor.tgs",
+    "webp_path": "models/victory_medal/heroic_honor.webp",
     "custom_emoji_id": "5879864349106907481",
     "model_id": "5462957525861171762"
   },
   {
     "name": "crown_jewel",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/crown_jewel.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/crown_jewel.webp",
+    "tgs_path": "models/victory_medal/crown_jewel.tgs",
+    "webp_path": "models/victory_medal/crown_jewel.webp",
     "custom_emoji_id": "5879558238197784956",
     "model_id": "5462982629945019951"
   },
   {
     "name": "dunk_master",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/dunk_master.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/dunk_master.webp",
+    "tgs_path": "models/victory_medal/dunk_master.tgs",
+    "webp_path": "models/victory_medal/dunk_master.webp",
     "custom_emoji_id": "5879603270929883135",
     "model_id": "5190908172709171979"
   },
   {
     "name": "dealmaker",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/dealmaker.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/dealmaker.webp",
+    "tgs_path": "models/victory_medal/dealmaker.tgs",
+    "webp_path": "models/victory_medal/dealmaker.webp",
     "custom_emoji_id": "5879807354890887435",
     "model_id": "5190773873376790471"
   },
   {
     "name": "gem_holder",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/gem_holder.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/gem_holder.webp",
+    "tgs_path": "models/victory_medal/gem_holder.tgs",
+    "webp_path": "models/victory_medal/gem_holder.webp",
     "custom_emoji_id": "5879699774550056442",
     "model_id": "5208813178401620837"
   },
   {
     "name": "lifesaver",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/lifesaver.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/lifesaver.webp",
+    "tgs_path": "models/victory_medal/lifesaver.tgs",
+    "webp_path": "models/victory_medal/lifesaver.webp",
     "custom_emoji_id": "5879798876625443989",
     "model_id": "5463101673553562174"
   },
   {
     "name": "sweet_reward",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/sweet_reward.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/sweet_reward.webp",
+    "tgs_path": "models/victory_medal/sweet_reward.tgs",
+    "webp_path": "models/victory_medal/sweet_reward.webp",
     "custom_emoji_id": "5879541964566698787",
     "model_id": "5465569845229684482"
   },
   {
     "name": "princess",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/princess.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/princess.webp",
+    "tgs_path": "models/victory_medal/princess.tgs",
+    "webp_path": "models/victory_medal/princess.webp",
     "custom_emoji_id": "5879540757680890241",
     "model_id": "5202144730573475817"
   },
   {
     "name": "telecrafter",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/telecrafter.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/telecrafter.webp",
+    "tgs_path": "models/victory_medal/telecrafter.tgs",
+    "webp_path": "models/victory_medal/telecrafter.webp",
     "custom_emoji_id": "5879954702333910906",
     "model_id": "5465636107985126881"
   },
   {
     "name": "aegis",
     "rarity_permille": 0.2,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/aegis.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/aegis.webp",
+    "tgs_path": "models/victory_medal/aegis.tgs",
+    "webp_path": "models/victory_medal/aegis.webp",
     "custom_emoji_id": "5877370235828314417",
     "model_id": "5474317787373538775"
   },
   {
     "name": "illuminatus",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/illuminatus.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/illuminatus.webp",
+    "tgs_path": "models/victory_medal/illuminatus.tgs",
+    "webp_path": "models/victory_medal/illuminatus.webp",
     "custom_emoji_id": "5879556206678253663",
     "model_id": "5190579796689586091"
   },
   {
     "name": "silver",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/silver.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/silver.webp",
+    "tgs_path": "models/victory_medal/silver.tgs",
+    "webp_path": "models/victory_medal/silver.webp",
     "custom_emoji_id": "5879458839769653851",
     "model_id": "5210817072702980909"
   },
   {
     "name": "first_finisher",
     "rarity_permille": 0.2,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/first_finisher.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/first_finisher.webp",
+    "tgs_path": "models/victory_medal/first_finisher.tgs",
+    "webp_path": "models/victory_medal/first_finisher.webp",
     "custom_emoji_id": "5879644159018540968",
     "model_id": "5208639176391558371"
   },
   {
     "name": "finish_line",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/finish_line.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/finish_line.webp",
+    "tgs_path": "models/victory_medal/finish_line.tgs",
+    "webp_path": "models/victory_medal/finish_line.webp",
     "custom_emoji_id": "5879511843961052531",
     "model_id": "5190851041054198505"
   },
   {
     "name": "golden_puck",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/golden_puck.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/golden_puck.webp",
+    "tgs_path": "models/victory_medal/golden_puck.tgs",
+    "webp_path": "models/victory_medal/golden_puck.webp",
     "custom_emoji_id": "5879686159503728974",
     "model_id": "5190537121894531758"
   },
   {
     "name": "ton_titan",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/ton_titan.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/ton_titan.webp",
+    "tgs_path": "models/victory_medal/ton_titan.tgs",
+    "webp_path": "models/victory_medal/ton_titan.webp",
     "custom_emoji_id": "5879509997125115746",
     "model_id": "5463071600192554832"
   },
   {
     "name": "viking",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/viking.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/viking.webp",
+    "tgs_path": "models/victory_medal/viking.tgs",
+    "webp_path": "models/victory_medal/viking.webp",
     "custom_emoji_id": "5879525261438885947",
     "model_id": "5208473090006222294"
   },
   {
     "name": "glory_goal",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/glory_goal.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/glory_goal.webp",
+    "tgs_path": "models/victory_medal/glory_goal.tgs",
+    "webp_path": "models/victory_medal/glory_goal.webp",
     "custom_emoji_id": "5879575040109847364",
     "model_id": "5190700339241714712"
   },
   {
     "name": "eternal_glory",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/eternal_glory.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/eternal_glory.webp",
+    "tgs_path": "models/victory_medal/eternal_glory.tgs",
+    "webp_path": "models/victory_medal/eternal_glory.webp",
     "custom_emoji_id": "5879586662291348501",
     "model_id": "5467558608361263063"
   },
   {
     "name": "veteran",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/veteran.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/veteran.webp",
+    "tgs_path": "models/victory_medal/veteran.tgs",
+    "webp_path": "models/victory_medal/veteran.webp",
     "custom_emoji_id": "5879585545599922117",
     "model_id": "5474570176831716109"
   },
   {
     "name": "heartbreaker",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/heartbreaker.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/heartbreaker.webp",
+    "tgs_path": "models/victory_medal/heartbreaker.tgs",
+    "webp_path": "models/victory_medal/heartbreaker.webp",
     "custom_emoji_id": "5879658061827677600",
     "model_id": "5219843131159120631"
   },
   {
     "name": "sharpshooter",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/sharpshooter.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/sharpshooter.webp",
+    "tgs_path": "models/victory_medal/sharpshooter.tgs",
+    "webp_path": "models/victory_medal/sharpshooter.webp",
     "custom_emoji_id": "5879893791107722531",
     "model_id": "5462879885737361217"
   },
   {
     "name": "radiant_order",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/radiant_order.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/radiant_order.webp",
+    "tgs_path": "models/victory_medal/radiant_order.tgs",
+    "webp_path": "models/victory_medal/radiant_order.webp",
     "custom_emoji_id": "5879486366215053152",
     "model_id": "5474355475711562313"
   },
   {
     "name": "nice_try",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/nice_try.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/nice_try.webp",
+    "tgs_path": "models/victory_medal/nice_try.tgs",
+    "webp_path": "models/victory_medal/nice_try.webp",
     "custom_emoji_id": "5879628538222486010",
     "model_id": "5467462916489906592"
   },
   {
     "name": "crypto_whale",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/crypto_whale.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/crypto_whale.webp",
+    "tgs_path": "models/victory_medal/crypto_whale.tgs",
+    "webp_path": "models/victory_medal/crypto_whale.webp",
     "custom_emoji_id": "5879769954315673430",
     "model_id": "5201741884115946604"
   },
   {
     "name": "king_troll",
     "rarity_permille": 0.2,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/king_troll.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/king_troll.webp",
+    "tgs_path": "models/victory_medal/king_troll.tgs",
+    "webp_path": "models/victory_medal/king_troll.webp",
     "custom_emoji_id": "5879718646636355820",
     "model_id": "5201992138975382009"
   },
   {
     "name": "brewmaster",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/brewmaster.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/brewmaster.webp",
+    "tgs_path": "models/victory_medal/brewmaster.tgs",
+    "webp_path": "models/victory_medal/brewmaster.webp",
     "custom_emoji_id": "5879928301169941806",
     "model_id": "5465399158934371671"
   },
   {
     "name": "crystal_trophy",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/victory_medal/crystal_trophy.tgs",
-    "webp_path": "TG_Photos_repo/models/victory_medal/crystal_trophy.webp",
+    "tgs_path": "models/victory_medal/crystal_trophy.tgs",
+    "webp_path": "models/victory_medal/crystal_trophy.webp",
     "custom_emoji_id": "5879713484085667868",
     "model_id": "5201920133848665059"
   }

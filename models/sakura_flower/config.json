@@ -2,800 +2,800 @@
   {
     "name": "savanna",
     "rarity_permille": 0.7,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/savanna.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/savanna.webp",
+    "tgs_path": "models/sakura_flower/savanna.tgs",
+    "webp_path": "models/sakura_flower/savanna.webp",
     "custom_emoji_id": "5879582526237842633",
     "model_id": "5253847795990815795"
   },
   {
     "name": "azure",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/azure.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/azure.webp",
+    "tgs_path": "models/sakura_flower/azure.tgs",
+    "webp_path": "models/sakura_flower/azure.webp",
     "custom_emoji_id": "5882248627186835688",
     "model_id": "5260299554128948472"
   },
   {
     "name": "spotty_leo",
     "rarity_permille": 0.7,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/spotty_leo.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/spotty_leo.webp",
+    "tgs_path": "models/sakura_flower/spotty_leo.tgs",
+    "webp_path": "models/sakura_flower/spotty_leo.webp",
     "custom_emoji_id": "5881735129486860049",
     "model_id": "5260312997376584836"
   },
   {
     "name": "myrtella",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/myrtella.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/myrtella.webp",
+    "tgs_path": "models/sakura_flower/myrtella.tgs",
+    "webp_path": "models/sakura_flower/myrtella.webp",
     "custom_emoji_id": "5882073920802136036",
     "model_id": "5260470605496478426"
   },
   {
     "name": "party_bloom",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/party_bloom.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/party_bloom.webp",
+    "tgs_path": "models/sakura_flower/party_bloom.tgs",
+    "webp_path": "models/sakura_flower/party_bloom.webp",
     "custom_emoji_id": "5882041068597289433",
     "model_id": "5260518206619020031"
   },
   {
     "name": "aetheris",
     "rarity_permille": 1.1,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/aetheris.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/aetheris.webp",
+    "tgs_path": "models/sakura_flower/aetheris.tgs",
+    "webp_path": "models/sakura_flower/aetheris.webp",
     "custom_emoji_id": "5882227491652772060",
     "model_id": "5289528034938874588"
   },
   {
     "name": "hydrangea",
     "rarity_permille": 1.1,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/hydrangea.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/hydrangea.webp",
+    "tgs_path": "models/sakura_flower/hydrangea.tgs",
+    "webp_path": "models/sakura_flower/hydrangea.webp",
     "custom_emoji_id": "5881807130318609936",
     "model_id": "5289534851051971580"
   },
   {
     "name": "nectarium",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/nectarium.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/nectarium.webp",
+    "tgs_path": "models/sakura_flower/nectarium.tgs",
+    "webp_path": "models/sakura_flower/nectarium.webp",
     "custom_emoji_id": "5881989271291698991",
     "model_id": "5289550600697047332"
   },
   {
     "name": "violet_iris",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/violet_iris.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/violet_iris.webp",
+    "tgs_path": "models/sakura_flower/violet_iris.tgs",
+    "webp_path": "models/sakura_flower/violet_iris.webp",
     "custom_emoji_id": "5879914814972632283",
     "model_id": "5289609763871548157"
   },
   {
     "name": "indigo",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/indigo.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/indigo.webp",
+    "tgs_path": "models/sakura_flower/indigo.tgs",
+    "webp_path": "models/sakura_flower/indigo.webp",
     "custom_emoji_id": "5881752210571796591",
     "model_id": "5289615115400799625"
   },
   {
     "name": "solivine",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/solivine.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/solivine.webp",
+    "tgs_path": "models/sakura_flower/solivine.tgs",
+    "webp_path": "models/sakura_flower/solivine.webp",
     "custom_emoji_id": "5879627271207132839",
     "model_id": "5289617426093205699"
   },
   {
     "name": "hybrid",
     "rarity_permille": 1.2,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/hybrid.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/hybrid.webp",
+    "tgs_path": "models/sakura_flower/hybrid.tgs",
+    "webp_path": "models/sakura_flower/hybrid.webp",
     "custom_emoji_id": "5882222247497703072",
     "model_id": "5289619930059141287"
   },
   {
     "name": "floraven",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/floraven.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/floraven.webp",
+    "tgs_path": "models/sakura_flower/floraven.tgs",
+    "webp_path": "models/sakura_flower/floraven.webp",
     "custom_emoji_id": "5882118378008616060",
     "model_id": "5289621360283248285"
   },
   {
     "name": "bumblebee",
     "rarity_permille": 1.1,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/bumblebee.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/bumblebee.webp",
+    "tgs_path": "models/sakura_flower/bumblebee.tgs",
+    "webp_path": "models/sakura_flower/bumblebee.webp",
     "custom_emoji_id": "5881961250925060551",
     "model_id": "5289636126380810661"
   },
   {
     "name": "lanceolata",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/lanceolata.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/lanceolata.webp",
+    "tgs_path": "models/sakura_flower/lanceolata.tgs",
+    "webp_path": "models/sakura_flower/lanceolata.webp",
     "custom_emoji_id": "5881828227197966791",
     "model_id": "5289702861582656678"
   },
   {
     "name": "hawaii",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/hawaii.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/hawaii.webp",
+    "tgs_path": "models/sakura_flower/hawaii.tgs",
+    "webp_path": "models/sakura_flower/hawaii.webp",
     "custom_emoji_id": "5882089210885710843",
     "model_id": "5289741640842372879"
   },
   {
     "name": "flameris",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/flameris.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/flameris.webp",
+    "tgs_path": "models/sakura_flower/flameris.tgs",
+    "webp_path": "models/sakura_flower/flameris.webp",
     "custom_emoji_id": "5882017278773435282",
     "model_id": "5289742478360998289"
   },
   {
     "name": "seraphina",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/seraphina.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/seraphina.webp",
+    "tgs_path": "models/sakura_flower/seraphina.tgs",
+    "webp_path": "models/sakura_flower/seraphina.webp",
     "custom_emoji_id": "5881849066379288023",
     "model_id": "5289750819187486239"
   },
   {
     "name": "orchidra",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/orchidra.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/orchidra.webp",
+    "tgs_path": "models/sakura_flower/orchidra.tgs",
+    "webp_path": "models/sakura_flower/orchidra.webp",
     "custom_emoji_id": "5882104432249806572",
     "model_id": "5289773608283958770"
   },
   {
     "name": "hellebore",
     "rarity_permille": 1.1,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/hellebore.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/hellebore.webp",
+    "tgs_path": "models/sakura_flower/hellebore.tgs",
+    "webp_path": "models/sakura_flower/hellebore.webp",
     "custom_emoji_id": "5881778809304260516",
     "model_id": "5289774493047218689"
   },
   {
     "name": "aubrieta",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/aubrieta.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/aubrieta.webp",
+    "tgs_path": "models/sakura_flower/aubrieta.tgs",
+    "webp_path": "models/sakura_flower/aubrieta.webp",
     "custom_emoji_id": "5882012176352290849",
     "model_id": "5289793073075741267"
   },
   {
     "name": "ghostia",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/ghostia.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/ghostia.webp",
+    "tgs_path": "models/sakura_flower/ghostia.tgs",
+    "webp_path": "models/sakura_flower/ghostia.webp",
     "custom_emoji_id": "5882173250510789705",
     "model_id": "5289874527130510992"
   },
   {
     "name": "gerbera",
     "rarity_permille": 1.1,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/gerbera.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/gerbera.webp",
+    "tgs_path": "models/sakura_flower/gerbera.tgs",
+    "webp_path": "models/sakura_flower/gerbera.webp",
     "custom_emoji_id": "5881713143549271476",
     "model_id": "5289918945682288004"
   },
   {
     "name": "brunnera",
     "rarity_permille": 1.1,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/brunnera.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/brunnera.webp",
+    "tgs_path": "models/sakura_flower/brunnera.tgs",
+    "webp_path": "models/sakura_flower/brunnera.webp",
     "custom_emoji_id": "5881934832581221724",
     "model_id": "5289922763908214335"
   },
   {
     "name": "geranium",
     "rarity_permille": 1.1,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/geranium.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/geranium.webp",
+    "tgs_path": "models/sakura_flower/geranium.tgs",
+    "webp_path": "models/sakura_flower/geranium.webp",
     "custom_emoji_id": "5881922317046523187",
     "model_id": "5289925237809376454"
   },
   {
     "name": "sylvaris",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/sylvaris.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/sylvaris.webp",
+    "tgs_path": "models/sakura_flower/sylvaris.tgs",
+    "webp_path": "models/sakura_flower/sylvaris.webp",
     "custom_emoji_id": "5881906571696413869",
     "model_id": "5289961139441000810"
   },
   {
     "name": "floravelle",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/floravelle.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/floravelle.webp",
+    "tgs_path": "models/sakura_flower/floravelle.tgs",
+    "webp_path": "models/sakura_flower/floravelle.webp",
     "custom_emoji_id": "5881975690605108840",
     "model_id": "5290029794493231189"
   },
   {
     "name": "crimsonia",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/crimsonia.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/crimsonia.webp",
+    "tgs_path": "models/sakura_flower/crimsonia.tgs",
+    "webp_path": "models/sakura_flower/crimsonia.webp",
     "custom_emoji_id": "5881763467681079047",
     "model_id": "5291758789412807348"
   },
   {
     "name": "aster",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/aster.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/aster.webp",
+    "tgs_path": "models/sakura_flower/aster.tgs",
+    "webp_path": "models/sakura_flower/aster.webp",
     "custom_emoji_id": "5882199939437567190",
     "model_id": "5291791701747196535"
   },
   {
     "name": "tropicana",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/tropicana.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/tropicana.webp",
+    "tgs_path": "models/sakura_flower/tropicana.tgs",
+    "webp_path": "models/sakura_flower/tropicana.webp",
     "custom_emoji_id": "5882024700476923297",
     "model_id": "5291835201175969394"
   },
   {
     "name": "false_bird",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/false_bird.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/false_bird.webp",
+    "tgs_path": "models/sakura_flower/false_bird.tgs",
+    "webp_path": "models/sakura_flower/false_bird.webp",
     "custom_emoji_id": "5882091250995176273",
     "model_id": "5291873924601111982"
   },
   {
     "name": "oxalis",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/oxalis.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/oxalis.webp",
+    "tgs_path": "models/sakura_flower/oxalis.tgs",
+    "webp_path": "models/sakura_flower/oxalis.webp",
     "custom_emoji_id": "5882242794621246482",
     "model_id": "5291892049363099503"
   },
   {
     "name": "meadowlyn",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/meadowlyn.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/meadowlyn.webp",
+    "tgs_path": "models/sakura_flower/meadowlyn.tgs",
+    "webp_path": "models/sakura_flower/meadowlyn.webp",
     "custom_emoji_id": "5881822141229309663",
     "model_id": "5291931893774702463"
   },
   {
     "name": "celestara",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/celestara.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/celestara.webp",
+    "tgs_path": "models/sakura_flower/celestara.tgs",
+    "webp_path": "models/sakura_flower/celestara.webp",
     "custom_emoji_id": "5882082957413328101",
     "model_id": "5292022367260793778"
   },
   {
     "name": "aurivelle",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/aurivelle.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/aurivelle.webp",
+    "tgs_path": "models/sakura_flower/aurivelle.tgs",
+    "webp_path": "models/sakura_flower/aurivelle.webp",
     "custom_emoji_id": "5881838629608758268",
     "model_id": "5292035226392880027"
   },
   {
     "name": "marigold",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/marigold.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/marigold.webp",
+    "tgs_path": "models/sakura_flower/marigold.tgs",
+    "webp_path": "models/sakura_flower/marigold.webp",
     "custom_emoji_id": "5882259562173577172",
     "model_id": "5292167180673113670"
   },
   {
     "name": "zephyra",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/zephyra.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/zephyra.webp",
+    "tgs_path": "models/sakura_flower/zephyra.tgs",
+    "webp_path": "models/sakura_flower/zephyra.webp",
     "custom_emoji_id": "5882234007118161415",
     "model_id": "5292180065575002788"
   },
   {
     "name": "clivia",
     "rarity_permille": 1.1,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/clivia.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/clivia.webp",
+    "tgs_path": "models/sakura_flower/clivia.tgs",
+    "webp_path": "models/sakura_flower/clivia.webp",
     "custom_emoji_id": "5881962092738649397",
     "model_id": "5292270328607693888"
   },
   {
     "name": "jellybud",
     "rarity_permille": 0.6,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/jellybud.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/jellybud.webp",
+    "tgs_path": "models/sakura_flower/jellybud.tgs",
+    "webp_path": "models/sakura_flower/jellybud.webp",
     "custom_emoji_id": "5881945836287434753",
     "model_id": "5298635749313242270"
   },
   {
     "name": "dark_loader",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/dark_loader.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/dark_loader.webp",
+    "tgs_path": "models/sakura_flower/dark_loader.tgs",
+    "webp_path": "models/sakura_flower/dark_loader.webp",
     "custom_emoji_id": "5882236957760691498",
     "model_id": "5298891780903689405"
   },
   {
     "name": "loves_or_not",
     "rarity_permille": 0.4,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/loves_or_not.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/loves_or_not.webp",
+    "tgs_path": "models/sakura_flower/loves_or_not.tgs",
+    "webp_path": "models/sakura_flower/loves_or_not.webp",
     "custom_emoji_id": "5881996031570222565",
     "model_id": "5298974557808390674"
   },
   {
     "name": "icebound",
     "rarity_permille": 0.4,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/icebound.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/icebound.webp",
+    "tgs_path": "models/sakura_flower/icebound.tgs",
+    "webp_path": "models/sakura_flower/icebound.webp",
     "custom_emoji_id": "5882221822295941139",
     "model_id": "5303009907216248779"
   },
   {
     "name": "glitch",
     "rarity_permille": 0.7,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/glitch.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/glitch.webp",
+    "tgs_path": "models/sakura_flower/glitch.tgs",
+    "webp_path": "models/sakura_flower/glitch.webp",
     "custom_emoji_id": "5882182467510607207",
     "model_id": "5303059170491134380"
   },
   {
     "name": "wildflower",
     "rarity_permille": 0.6,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/wildflower.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/wildflower.webp",
+    "tgs_path": "models/sakura_flower/wildflower.tgs",
+    "webp_path": "models/sakura_flower/wildflower.webp",
     "custom_emoji_id": "5882128741764702427",
     "model_id": "5303075444122218071"
   },
   {
     "name": "big_bang",
     "rarity_permille": 0.4,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/big_bang.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/big_bang.webp",
+    "tgs_path": "models/sakura_flower/big_bang.tgs",
+    "webp_path": "models/sakura_flower/big_bang.webp",
     "custom_emoji_id": "5881715132119130526",
     "model_id": "5303174314269373003"
   },
   {
     "name": "silveria",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/silveria.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/silveria.webp",
+    "tgs_path": "models/sakura_flower/silveria.tgs",
+    "webp_path": "models/sakura_flower/silveria.webp",
     "custom_emoji_id": "5882218579595633815",
     "model_id": "5303182586376384478"
   },
   {
     "name": "nightshade",
     "rarity_permille": 1.1,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/nightshade.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/nightshade.webp",
+    "tgs_path": "models/sakura_flower/nightshade.tgs",
+    "webp_path": "models/sakura_flower/nightshade.webp",
     "custom_emoji_id": "5882196112621705713",
     "model_id": "5303270701925430985"
   },
   {
     "name": "cosmea",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/cosmea.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/cosmea.webp",
+    "tgs_path": "models/sakura_flower/cosmea.tgs",
+    "webp_path": "models/sakura_flower/cosmea.webp",
     "custom_emoji_id": "5881832079783632385",
     "model_id": "5303370276447220274"
   },
   {
     "name": "bull’s_eye",
     "rarity_permille": 0.4,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/bull’s_eye.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/bull’s_eye.webp",
+    "tgs_path": "models/sakura_flower/bull’s_eye.tgs",
+    "webp_path": "models/sakura_flower/bull’s_eye.webp",
     "custom_emoji_id": "5881779376239943339",
     "model_id": "5303405014142711631"
   },
   {
     "name": "monsoon",
     "rarity_permille": 0.4,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/monsoon.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/monsoon.webp",
+    "tgs_path": "models/sakura_flower/monsoon.tgs",
+    "webp_path": "models/sakura_flower/monsoon.webp",
     "custom_emoji_id": "5879874983445929522",
     "model_id": "5303408772239093973"
   },
   {
     "name": "goldensia",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/goldensia.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/goldensia.webp",
+    "tgs_path": "models/sakura_flower/goldensia.tgs",
+    "webp_path": "models/sakura_flower/goldensia.webp",
     "custom_emoji_id": "5881879676611206141",
     "model_id": "5303454883007982075"
   },
   {
     "name": "snowdrop",
     "rarity_permille": 0.4,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/snowdrop.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/snowdrop.webp",
+    "tgs_path": "models/sakura_flower/snowdrop.tgs",
+    "webp_path": "models/sakura_flower/snowdrop.webp",
     "custom_emoji_id": "5881977043519806815",
     "model_id": "5332791764497497060"
   },
   {
     "name": "carnation",
     "rarity_permille": 0.2,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/carnation.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/carnation.webp",
+    "tgs_path": "models/sakura_flower/carnation.tgs",
+    "webp_path": "models/sakura_flower/carnation.webp",
     "custom_emoji_id": "5881965030496279076",
     "model_id": "5303474270490359409"
   },
   {
     "name": "fabulous",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/fabulous.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/fabulous.webp",
+    "tgs_path": "models/sakura_flower/fabulous.tgs",
+    "webp_path": "models/sakura_flower/fabulous.webp",
     "custom_emoji_id": "5882102576823934883",
     "model_id": "5303521364806756657"
   },
   {
     "name": "pokerface",
     "rarity_permille": 0.7,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/pokerface.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/pokerface.webp",
+    "tgs_path": "models/sakura_flower/pokerface.tgs",
+    "webp_path": "models/sakura_flower/pokerface.webp",
     "custom_emoji_id": "5881895533630463876",
     "model_id": "5303524577442297044"
   },
   {
     "name": "bronzula",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/bronzula.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/bronzula.webp",
+    "tgs_path": "models/sakura_flower/bronzula.tgs",
+    "webp_path": "models/sakura_flower/bronzula.webp",
     "custom_emoji_id": "5882054408765709669",
     "model_id": "5303542285592457395"
   },
   {
     "name": "blazing_dusk",
     "rarity_permille": 0.4,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/blazing_dusk.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/blazing_dusk.webp",
+    "tgs_path": "models/sakura_flower/blazing_dusk.tgs",
+    "webp_path": "models/sakura_flower/blazing_dusk.webp",
     "custom_emoji_id": "5882006665909249876",
     "model_id": "5305295328033928352"
   },
   {
     "name": "ping_blossom",
     "rarity_permille": 0.7,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/ping_blossom.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/ping_blossom.webp",
+    "tgs_path": "models/sakura_flower/ping_blossom.tgs",
+    "webp_path": "models/sakura_flower/ping_blossom.webp",
     "custom_emoji_id": "5881804299935162299",
     "model_id": "5305305073314718667"
   },
   {
     "name": "fire_bloom",
     "rarity_permille": 0.4,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/fire_bloom.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/fire_bloom.webp",
+    "tgs_path": "models/sakura_flower/fire_bloom.tgs",
+    "webp_path": "models/sakura_flower/fire_bloom.webp",
     "custom_emoji_id": "5881720745641385701",
     "model_id": "5305334519610499983"
   },
   {
     "name": "lemon_queen",
     "rarity_permille": 1.2,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/lemon_queen.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/lemon_queen.webp",
+    "tgs_path": "models/sakura_flower/lemon_queen.tgs",
+    "webp_path": "models/sakura_flower/lemon_queen.webp",
     "custom_emoji_id": "5881805940612669603",
     "model_id": "5305359954406825443"
   },
   {
     "name": "dahlia",
     "rarity_permille": 1.2,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/dahlia.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/dahlia.webp",
+    "tgs_path": "models/sakura_flower/dahlia.tgs",
+    "webp_path": "models/sakura_flower/dahlia.webp",
     "custom_emoji_id": "5881834527914990326",
     "model_id": "5305380875192523897"
   },
   {
     "name": "windy",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/windy.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/windy.webp",
+    "tgs_path": "models/sakura_flower/windy.tgs",
+    "webp_path": "models/sakura_flower/windy.webp",
     "custom_emoji_id": "5882101223909235362",
     "model_id": "5305428635228856487"
   },
   {
     "name": "plumeria",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/plumeria.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/plumeria.webp",
+    "tgs_path": "models/sakura_flower/plumeria.tgs",
+    "webp_path": "models/sakura_flower/plumeria.webp",
     "custom_emoji_id": "5882141686796130885",
     "model_id": "5305471206944697493"
   },
   {
     "name": "barbia",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/barbia.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/barbia.webp",
+    "tgs_path": "models/sakura_flower/barbia.tgs",
+    "webp_path": "models/sakura_flower/barbia.webp",
     "custom_emoji_id": "5881992758805142853",
     "model_id": "5305480295095492033"
   },
   {
     "name": "primrose",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/primrose.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/primrose.webp",
+    "tgs_path": "models/sakura_flower/primrose.tgs",
+    "webp_path": "models/sakura_flower/primrose.webp",
     "custom_emoji_id": "5881900348288801937",
     "model_id": "5305482618672799086"
   },
   {
     "name": "pixel_bloom",
     "rarity_permille": 0.4,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/pixel_bloom.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/pixel_bloom.webp",
+    "tgs_path": "models/sakura_flower/pixel_bloom.tgs",
+    "webp_path": "models/sakura_flower/pixel_bloom.webp",
     "custom_emoji_id": "5881993527604288352",
     "model_id": "5305511742846034682"
   },
   {
     "name": "party_time",
     "rarity_permille": 0.7,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/party_time.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/party_time.webp",
+    "tgs_path": "models/sakura_flower/party_time.tgs",
+    "webp_path": "models/sakura_flower/party_time.webp",
     "custom_emoji_id": "5881915840235840399",
     "model_id": "5305515492352488010"
   },
   {
     "name": "shake_it",
     "rarity_permille": 0.4,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/shake_it.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/shake_it.webp",
+    "tgs_path": "models/sakura_flower/shake_it.tgs",
+    "webp_path": "models/sakura_flower/shake_it.webp",
     "custom_emoji_id": "5881709351093148873",
     "model_id": "5305540025205680275"
   },
   {
     "name": "hollyhock",
     "rarity_permille": 1.2,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/hollyhock.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/hollyhock.webp",
+    "tgs_path": "models/sakura_flower/hollyhock.tgs",
+    "webp_path": "models/sakura_flower/hollyhock.webp",
     "custom_emoji_id": "5881748650043907257",
     "model_id": "5305554731173698604"
   },
   {
     "name": "anemone",
     "rarity_permille": 1.2,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/anemone.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/anemone.webp",
+    "tgs_path": "models/sakura_flower/anemone.tgs",
+    "webp_path": "models/sakura_flower/anemone.webp",
     "custom_emoji_id": "5881903775672705740",
     "model_id": "5305555504267816855"
   },
   {
     "name": "white_peony",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/white_peony.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/white_peony.webp",
+    "tgs_path": "models/sakura_flower/white_peony.tgs",
+    "webp_path": "models/sakura_flower/white_peony.webp",
     "custom_emoji_id": "5882114731581382220",
     "model_id": "5305556633844212035"
   },
   {
     "name": "morning_sun",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/morning_sun.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/morning_sun.webp",
+    "tgs_path": "models/sakura_flower/morning_sun.tgs",
+    "webp_path": "models/sakura_flower/morning_sun.webp",
     "custom_emoji_id": "5882035768607645208",
     "model_id": "5305571348402168537"
   },
   {
     "name": "wilted",
     "rarity_permille": 0.2,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/wilted.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/wilted.webp",
+    "tgs_path": "models/sakura_flower/wilted.tgs",
+    "webp_path": "models/sakura_flower/wilted.webp",
     "custom_emoji_id": "5881906103544978935",
     "model_id": "5305606897846478760"
   },
   {
     "name": "violet",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/violet.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/violet.webp",
+    "tgs_path": "models/sakura_flower/violet.tgs",
+    "webp_path": "models/sakura_flower/violet.webp",
     "custom_emoji_id": "5882138830642880664",
     "model_id": "5305616346774530430"
   },
   {
     "name": "flowey",
     "rarity_permille": 0.1,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/flowey.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/flowey.webp",
+    "tgs_path": "models/sakura_flower/flowey.tgs",
+    "webp_path": "models/sakura_flower/flowey.webp",
     "custom_emoji_id": "5882065545615908575",
     "model_id": "5305632530211297270"
   },
   {
     "name": "peach_perfect",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/peach_perfect.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/peach_perfect.webp",
+    "tgs_path": "models/sakura_flower/peach_perfect.tgs",
+    "webp_path": "models/sakura_flower/peach_perfect.webp",
     "custom_emoji_id": "5882230528194649842",
     "model_id": "5305683614552319407"
   },
   {
     "name": "hibiscus",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/hibiscus.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/hibiscus.webp",
+    "tgs_path": "models/sakura_flower/hibiscus.tgs",
+    "webp_path": "models/sakura_flower/hibiscus.webp",
     "custom_emoji_id": "5882217763551845541",
     "model_id": "5305697513066490797"
   },
   {
     "name": "sakura",
     "rarity_permille": 0.4,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/sakura.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/sakura.webp",
+    "tgs_path": "models/sakura_flower/sakura.tgs",
+    "webp_path": "models/sakura_flower/sakura.webp",
     "custom_emoji_id": "5882146935246167618",
     "model_id": "5305707743678585806"
   },
   {
     "name": "vanilla",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/vanilla.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/vanilla.webp",
+    "tgs_path": "models/sakura_flower/vanilla.tgs",
+    "webp_path": "models/sakura_flower/vanilla.webp",
     "custom_emoji_id": "5881718271740222624",
     "model_id": "5305713786697575600"
   },
   {
     "name": "peony",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/peony.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/peony.webp",
+    "tgs_path": "models/sakura_flower/peony.tgs",
+    "webp_path": "models/sakura_flower/peony.webp",
     "custom_emoji_id": "5882091036246810785",
     "model_id": "5305744152116356338"
   },
   {
     "name": "allamanda",
     "rarity_permille": 1.1,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/allamanda.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/allamanda.webp",
+    "tgs_path": "models/sakura_flower/allamanda.tgs",
+    "webp_path": "models/sakura_flower/allamanda.webp",
     "custom_emoji_id": "5882053919139439034",
     "model_id": "5305779044430670387"
   },
   {
     "name": "sunflower",
     "rarity_permille": 0.2,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/sunflower.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/sunflower.webp",
+    "tgs_path": "models/sakura_flower/sunflower.tgs",
+    "webp_path": "models/sakura_flower/sunflower.webp",
     "custom_emoji_id": "5882005721016442199",
     "model_id": "5305795245047308805"
   },
   {
     "name": "venus_flytrap",
     "rarity_permille": 0.4,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/venus_flytrap.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/venus_flytrap.webp",
+    "tgs_path": "models/sakura_flower/venus_flytrap.tgs",
+    "webp_path": "models/sakura_flower/venus_flytrap.webp",
     "custom_emoji_id": "5881898926654628107",
     "model_id": "5307521615741872806"
   },
   {
     "name": "heartbeat",
     "rarity_permille": 0.4,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/heartbeat.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/heartbeat.webp",
+    "tgs_path": "models/sakura_flower/heartbeat.tgs",
+    "webp_path": "models/sakura_flower/heartbeat.webp",
     "custom_emoji_id": "5882049692891618361",
     "model_id": "5307529192064183157"
   },
   {
     "name": "bubblia",
     "rarity_permille": 0.4,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/bubblia.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/bubblia.webp",
+    "tgs_path": "models/sakura_flower/bubblia.tgs",
+    "webp_path": "models/sakura_flower/bubblia.webp",
     "custom_emoji_id": "5882114203300405468",
     "model_id": "5307579048044557558"
   },
   {
     "name": "red_poppy",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/red_poppy.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/red_poppy.webp",
+    "tgs_path": "models/sakura_flower/red_poppy.tgs",
+    "webp_path": "models/sakura_flower/red_poppy.webp",
     "custom_emoji_id": "5881834042583686026",
     "model_id": "5307633710093336209"
   },
   {
     "name": "dog_flower",
     "rarity_permille": 0.2,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/dog_flower.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/dog_flower.webp",
+    "tgs_path": "models/sakura_flower/dog_flower.tgs",
+    "webp_path": "models/sakura_flower/dog_flower.webp",
     "custom_emoji_id": "5882084074104822602",
     "model_id": "5307697434523098258"
   },
   {
     "name": "petunia",
     "rarity_permille": 1.1,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/petunia.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/petunia.webp",
+    "tgs_path": "models/sakura_flower/petunia.tgs",
+    "webp_path": "models/sakura_flower/petunia.webp",
     "custom_emoji_id": "5882105170984181407",
     "model_id": "5307936599776978422"
   },
   {
     "name": "twilight",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/twilight.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/twilight.webp",
+    "tgs_path": "models/sakura_flower/twilight.tgs",
+    "webp_path": "models/sakura_flower/twilight.webp",
     "custom_emoji_id": "5881787442188527992",
     "model_id": "5309849668404929875"
   },
   {
     "name": "yellow_poppy",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/yellow_poppy.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/yellow_poppy.webp",
+    "tgs_path": "models/sakura_flower/yellow_poppy.tgs",
+    "webp_path": "models/sakura_flower/yellow_poppy.webp",
     "custom_emoji_id": "5881925753020357588",
     "model_id": "5309871847616048489"
   },
   {
     "name": "meower",
     "rarity_permille": 0.2,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/meower.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/meower.webp",
+    "tgs_path": "models/sakura_flower/meower.tgs",
+    "webp_path": "models/sakura_flower/meower.webp",
     "custom_emoji_id": "5881954572250914692",
     "model_id": "5309982400074245296"
   },
   {
     "name": "shimeria",
     "rarity_permille": 0.7,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/shimeria.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/shimeria.webp",
+    "tgs_path": "models/sakura_flower/shimeria.tgs",
+    "webp_path": "models/sakura_flower/shimeria.webp",
     "custom_emoji_id": "5881831173545533815",
     "model_id": "5310000125404276886"
   },
   {
     "name": "luminosia",
     "rarity_permille": 0.7,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/luminosia.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/luminosia.webp",
+    "tgs_path": "models/sakura_flower/luminosia.tgs",
+    "webp_path": "models/sakura_flower/luminosia.webp",
     "custom_emoji_id": "5882204230109895637",
     "model_id": "5310096345556608825"
   },
   {
     "name": "zap_aster",
     "rarity_permille": 0.2,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/zap_aster.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/zap_aster.webp",
+    "tgs_path": "models/sakura_flower/zap_aster.tgs",
+    "webp_path": "models/sakura_flower/zap_aster.webp",
     "custom_emoji_id": "5879863279660048161",
     "model_id": "5310114551922975204"
   },
   {
     "name": "dark_neo",
     "rarity_permille": 0.4,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/dark_neo.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/dark_neo.webp",
+    "tgs_path": "models/sakura_flower/dark_neo.tgs",
+    "webp_path": "models/sakura_flower/dark_neo.webp",
     "custom_emoji_id": "5882243297132422793",
     "model_id": "5310215170121819338"
   },
   {
     "name": "verdania",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/verdania.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/verdania.webp",
+    "tgs_path": "models/sakura_flower/verdania.tgs",
+    "webp_path": "models/sakura_flower/verdania.webp",
     "custom_emoji_id": "5881713890873580871",
     "model_id": "5418061902003596124"
   },
   {
     "name": "noctivis",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/noctivis.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/noctivis.webp",
+    "tgs_path": "models/sakura_flower/noctivis.tgs",
+    "webp_path": "models/sakura_flower/noctivis.webp",
     "custom_emoji_id": "5418116942009490918",
     "model_id": "5418116942009490918"
   },
   {
     "name": "eclipsia",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/eclipsia.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/eclipsia.webp",
+    "tgs_path": "models/sakura_flower/eclipsia.tgs",
+    "webp_path": "models/sakura_flower/eclipsia.webp",
     "custom_emoji_id": "5418201690304174768",
     "model_id": "5418201690304174768"
   },
   {
     "name": "floris",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/floris.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/floris.webp",
+    "tgs_path": "models/sakura_flower/floris.tgs",
+    "webp_path": "models/sakura_flower/floris.webp",
     "custom_emoji_id": "5420126686056309342",
     "model_id": "5420126686056309342"
   },
   {
     "name": "lunaris",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/sakura_flower/lunaris.tgs",
-    "webp_path": "TG_Photos_repo/models/sakura_flower/lunaris.webp",
+    "tgs_path": "models/sakura_flower/lunaris.tgs",
+    "webp_path": "models/sakura_flower/lunaris.webp",
     "custom_emoji_id": "5420366134778026706",
     "model_id": "5420366134778026706"
   }

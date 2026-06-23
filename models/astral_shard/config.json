@@ -2,400 +2,400 @@
   {
     "name": "moonstone",
     "rarity_permille": 2.3,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/moonstone.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/moonstone.webp",
+    "tgs_path": "models/astral_shard/moonstone.tgs",
+    "webp_path": "models/astral_shard/moonstone.webp",
     "custom_emoji_id": "5883991567865224430",
     "model_id": "5228724745570116166"
   },
   {
     "name": "ethereal",
     "rarity_permille": 2.4,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/ethereal.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/ethereal.webp",
+    "tgs_path": "models/astral_shard/ethereal.tgs",
+    "webp_path": "models/astral_shard/ethereal.webp",
     "custom_emoji_id": "5881898565877374381",
     "model_id": "5228725956750894991"
   },
   {
     "name": "sunstone",
     "rarity_permille": 2.4,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/sunstone.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/sunstone.webp",
+    "tgs_path": "models/astral_shard/sunstone.tgs",
+    "webp_path": "models/astral_shard/sunstone.webp",
     "custom_emoji_id": "5881993050862925043",
     "model_id": "5228728782839375852"
   },
   {
     "name": "true_opal",
     "rarity_permille": 2.3,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/true_opal.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/true_opal.webp",
+    "tgs_path": "models/astral_shard/true_opal.tgs",
+    "webp_path": "models/astral_shard/true_opal.webp",
     "custom_emoji_id": "5881794481639923381",
     "model_id": "5228778054704195989"
   },
   {
     "name": "bouquet",
     "rarity_permille": 2.4,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/bouquet.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/bouquet.webp",
+    "tgs_path": "models/astral_shard/bouquet.tgs",
+    "webp_path": "models/astral_shard/bouquet.webp",
     "custom_emoji_id": "5881879444682973263",
     "model_id": "5228778445546218401"
   },
   {
     "name": "amethyst",
     "rarity_permille": 2.4,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/amethyst.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/amethyst.webp",
+    "tgs_path": "models/astral_shard/amethyst.tgs",
+    "webp_path": "models/astral_shard/amethyst.webp",
     "custom_emoji_id": "5884511499426209960",
     "model_id": "5228790643253340034"
   },
   {
     "name": "citrine",
     "rarity_permille": 2.4,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/citrine.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/citrine.webp",
+    "tgs_path": "models/astral_shard/citrine.tgs",
+    "webp_path": "models/astral_shard/citrine.webp",
     "custom_emoji_id": "5882227813775318729",
     "model_id": "5228801380671579872"
   },
   {
     "name": "spinel",
     "rarity_permille": 2.4,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/spinel.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/spinel.webp",
+    "tgs_path": "models/astral_shard/spinel.tgs",
+    "webp_path": "models/astral_shard/spinel.webp",
     "custom_emoji_id": "5881748074518290389",
     "model_id": "5228847641764324578"
   },
   {
     "name": "nectarite",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/nectarite.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/nectarite.webp",
+    "tgs_path": "models/astral_shard/nectarite.tgs",
+    "webp_path": "models/astral_shard/nectarite.webp",
     "custom_emoji_id": "5882082630995811751",
     "model_id": "5228868601204732845"
   },
   {
     "name": "emerald",
     "rarity_permille": 2.4,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/emerald.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/emerald.webp",
+    "tgs_path": "models/astral_shard/emerald.tgs",
+    "webp_path": "models/astral_shard/emerald.webp",
     "custom_emoji_id": "5884121701079326420",
     "model_id": "5228869674946556294"
   },
   {
     "name": "barbed",
     "rarity_permille": 1.7,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/barbed.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/barbed.webp",
+    "tgs_path": "models/astral_shard/barbed.tgs",
+    "webp_path": "models/astral_shard/barbed.webp",
     "custom_emoji_id": "5881880307971399228",
     "model_id": "5228875206864432045"
   },
   {
     "name": "garnet",
     "rarity_permille": 2.4,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/garnet.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/garnet.webp",
+    "tgs_path": "models/astral_shard/garnet.tgs",
+    "webp_path": "models/astral_shard/garnet.webp",
     "custom_emoji_id": "5881709338208247053",
     "model_id": "5228879463177019590"
   },
   {
     "name": "ocean_jasper",
     "rarity_permille": 2.4,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/ocean_jasper.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/ocean_jasper.webp",
+    "tgs_path": "models/astral_shard/ocean_jasper.tgs",
+    "webp_path": "models/astral_shard/ocean_jasper.webp",
     "custom_emoji_id": "5881940385973936807",
     "model_id": "5228884879130782046"
   },
   {
     "name": "arctite",
     "rarity_permille": 1.7,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/arctite.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/arctite.webp",
+    "tgs_path": "models/astral_shard/arctite.tgs",
+    "webp_path": "models/astral_shard/arctite.webp",
     "custom_emoji_id": "5884193207989847582",
     "model_id": "5228888010161941058"
   },
   {
     "name": "tourmaline",
     "rarity_permille": 2.4,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/tourmaline.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/tourmaline.webp",
+    "tgs_path": "models/astral_shard/tourmaline.tgs",
+    "webp_path": "models/astral_shard/tourmaline.webp",
     "custom_emoji_id": "5882197233608171818",
     "model_id": "5228894873519685084"
   },
   {
     "name": "galactite",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/galactite.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/galactite.webp",
+    "tgs_path": "models/astral_shard/galactite.tgs",
+    "webp_path": "models/astral_shard/galactite.webp",
     "custom_emoji_id": "5882163801582738750",
     "model_id": "5228909326084630459"
   },
   {
     "name": "elven_might",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/elven_might.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/elven_might.webp",
+    "tgs_path": "models/astral_shard/elven_might.tgs",
+    "webp_path": "models/astral_shard/elven_might.webp",
     "custom_emoji_id": "5884370620203932733",
     "model_id": "5228911598122330170"
   },
   {
     "name": "sapphire",
     "rarity_permille": 2.4,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/sapphire.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/sapphire.webp",
+    "tgs_path": "models/astral_shard/sapphire.tgs",
+    "webp_path": "models/astral_shard/sapphire.webp",
     "custom_emoji_id": "5882039805876903527",
     "model_id": "5228981786477881645"
   },
   {
     "name": "gold_999",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/gold_999.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/gold_999.webp",
+    "tgs_path": "models/astral_shard/gold_999.tgs",
+    "webp_path": "models/astral_shard/gold_999.webp",
     "custom_emoji_id": "5881890890770826034",
     "model_id": "5228988078604969573"
   },
   {
     "name": "moonlit",
     "rarity_permille": 2.4,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/moonlit.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/moonlit.webp",
+    "tgs_path": "models/astral_shard/moonlit.tgs",
+    "webp_path": "models/astral_shard/moonlit.webp",
     "custom_emoji_id": "5884333120844471194",
     "model_id": "5229005748100427055"
   },
   {
     "name": "tanzanite",
     "rarity_permille": 2.4,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/tanzanite.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/tanzanite.webp",
+    "tgs_path": "models/astral_shard/tanzanite.tgs",
+    "webp_path": "models/astral_shard/tanzanite.webp",
     "custom_emoji_id": "5881910231008550298",
     "model_id": "5229006173302185555"
   },
   {
     "name": "bogartite",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/bogartite.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/bogartite.webp",
+    "tgs_path": "models/astral_shard/bogartite.tgs",
+    "webp_path": "models/astral_shard/bogartite.webp",
     "custom_emoji_id": "5884485841291584671",
     "model_id": "5229057837463789792"
   },
   {
     "name": "labradorite",
     "rarity_permille": 2.3,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/labradorite.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/labradorite.webp",
+    "tgs_path": "models/astral_shard/labradorite.tgs",
+    "webp_path": "models/astral_shard/labradorite.webp",
     "custom_emoji_id": "5884197232374194132",
     "model_id": "5229057940543005628"
   },
   {
     "name": "ruby_fuchsite",
     "rarity_permille": 2.4,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/ruby_fuchsite.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/ruby_fuchsite.webp",
+    "tgs_path": "models/astral_shard/ruby_fuchsite.tgs",
+    "webp_path": "models/astral_shard/ruby_fuchsite.webp",
     "custom_emoji_id": "5884277376463936687",
     "model_id": "5229170335542175398"
   },
   {
     "name": "warholite",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/warholite.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/warholite.webp",
+    "tgs_path": "models/astral_shard/warholite.tgs",
+    "webp_path": "models/astral_shard/warholite.webp",
     "custom_emoji_id": "5882226551054933524",
     "model_id": "5229203780452509411"
   },
   {
     "name": "jurassic",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/jurassic.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/jurassic.webp",
+    "tgs_path": "models/astral_shard/jurassic.tgs",
+    "webp_path": "models/astral_shard/jurassic.webp",
     "custom_emoji_id": "5882002177668422846",
     "model_id": "5229213023222131686"
   },
   {
     "name": "candy_flossite",
     "rarity_permille": 2.4,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/candy_flossite.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/candy_flossite.webp",
+    "tgs_path": "models/astral_shard/candy_flossite.tgs",
+    "webp_path": "models/astral_shard/candy_flossite.webp",
     "custom_emoji_id": "5884307939451214699",
     "model_id": "5229220865832412484"
   },
   {
     "name": "aquarium",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/aquarium.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/aquarium.webp",
+    "tgs_path": "models/astral_shard/aquarium.tgs",
+    "webp_path": "models/astral_shard/aquarium.webp",
     "custom_emoji_id": "5881986964894260822",
     "model_id": "5230972439395068561"
   },
   {
     "name": "dark_soul",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/dark_soul.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/dark_soul.webp",
+    "tgs_path": "models/astral_shard/dark_soul.tgs",
+    "webp_path": "models/astral_shard/dark_soul.webp",
     "custom_emoji_id": "5882248966489251645",
     "model_id": "5231048980007250548"
   },
   {
     "name": "pure_silver",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/pure_silver.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/pure_silver.webp",
+    "tgs_path": "models/astral_shard/pure_silver.tgs",
+    "webp_path": "models/astral_shard/pure_silver.webp",
     "custom_emoji_id": "5884386588892341073",
     "model_id": "5231070734016607712"
   },
   {
     "name": "glowstone",
     "rarity_permille": 2.3,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/glowstone.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/glowstone.webp",
+    "tgs_path": "models/astral_shard/glowstone.tgs",
+    "webp_path": "models/astral_shard/glowstone.webp",
     "custom_emoji_id": "5882058836876992391",
     "model_id": "5231134836403494883"
   },
   {
     "name": "black_diamond",
     "rarity_permille": 2.3,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/black_diamond.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/black_diamond.webp",
+    "tgs_path": "models/astral_shard/black_diamond.tgs",
+    "webp_path": "models/astral_shard/black_diamond.webp",
     "custom_emoji_id": "5884078631147283527",
     "model_id": "5231150598933470872"
   },
   {
     "name": "aquamarine",
     "rarity_permille": 2.4,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/aquamarine.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/aquamarine.webp",
+    "tgs_path": "models/astral_shard/aquamarine.tgs",
+    "webp_path": "models/astral_shard/aquamarine.webp",
     "custom_emoji_id": "5881783890250571604",
     "model_id": "5231175642887776933"
   },
   {
     "name": "fractured",
     "rarity_permille": 1.7,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/fractured.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/fractured.webp",
+    "tgs_path": "models/astral_shard/fractured.tgs",
+    "webp_path": "models/astral_shard/fractured.webp",
     "custom_emoji_id": "5884017947554356695",
     "model_id": "5231184237117336335"
   },
   {
     "name": "white_opal",
     "rarity_permille": 2.3,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/white_opal.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/white_opal.webp",
+    "tgs_path": "models/astral_shard/white_opal.tgs",
+    "webp_path": "models/astral_shard/white_opal.webp",
     "custom_emoji_id": "5881944380293520966",
     "model_id": "5231184713858703552"
   },
   {
     "name": "ammolite",
     "rarity_permille": 2.4,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/ammolite.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/ammolite.webp",
+    "tgs_path": "models/astral_shard/ammolite.tgs",
+    "webp_path": "models/astral_shard/ammolite.webp",
     "custom_emoji_id": "5881707607336428274",
     "model_id": "5231236932071091733"
   },
   {
     "name": "red_ruby",
     "rarity_permille": 2.4,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/red_ruby.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/red_ruby.webp",
+    "tgs_path": "models/astral_shard/red_ruby.tgs",
+    "webp_path": "models/astral_shard/red_ruby.webp",
     "custom_emoji_id": "5882084177184038626",
     "model_id": "5231242025902302930"
   },
   {
     "name": "blender",
     "rarity_permille": 1.7,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/blender.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/blender.webp",
+    "tgs_path": "models/astral_shard/blender.tgs",
+    "webp_path": "models/astral_shard/blender.webp",
     "custom_emoji_id": "5882191955093364960",
     "model_id": "5231256603021304047"
   },
   {
     "name": "rgb-ite",
     "rarity_permille": 2.3,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/rgb-ite.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/rgb-ite.webp",
+    "tgs_path": "models/astral_shard/rgb-ite.tgs",
+    "webp_path": "models/astral_shard/rgb-ite.webp",
     "custom_emoji_id": "5881707478487408405",
     "model_id": "5231310659479693336"
   },
   {
     "name": "premium",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/premium.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/premium.webp",
+    "tgs_path": "models/astral_shard/premium.tgs",
+    "webp_path": "models/astral_shard/premium.webp",
     "custom_emoji_id": "5881911390649719855",
     "model_id": "5231351100891749937"
   },
   {
     "name": "gramite",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/gramite.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/gramite.webp",
+    "tgs_path": "models/astral_shard/gramite.tgs",
+    "webp_path": "models/astral_shard/gramite.webp",
     "custom_emoji_id": "5881806864030637508",
     "model_id": "5231409757260111786"
   },
   {
     "name": "excalibrite",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/excalibrite.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/excalibrite.webp",
+    "tgs_path": "models/astral_shard/excalibrite.tgs",
+    "webp_path": "models/astral_shard/excalibrite.webp",
     "custom_emoji_id": "5882167654168403912",
     "model_id": "5235477774189225492"
   },
   {
     "name": "uranium",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/uranium.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/uranium.webp",
+    "tgs_path": "models/astral_shard/uranium.tgs",
+    "webp_path": "models/astral_shard/uranium.webp",
     "custom_emoji_id": "5883997232927087859",
     "model_id": "5235506120973377950"
   },
   {
     "name": "eve’s_apple",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/eve’s_apple.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/eve’s_apple.webp",
+    "tgs_path": "models/astral_shard/eve’s_apple.tgs",
+    "webp_path": "models/astral_shard/eve’s_apple.webp",
     "custom_emoji_id": "5882069209223012829",
     "model_id": "5235650869961186864"
   },
   {
     "name": "silver_art",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/silver_art.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/silver_art.webp",
+    "tgs_path": "models/astral_shard/silver_art.tgs",
+    "webp_path": "models/astral_shard/silver_art.webp",
     "custom_emoji_id": "5881986256224657104",
     "model_id": "5235686127347720748"
   },
   {
     "name": "nouveau_gold",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/nouveau_gold.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/nouveau_gold.webp",
+    "tgs_path": "models/astral_shard/nouveau_gold.tgs",
+    "webp_path": "models/astral_shard/nouveau_gold.webp",
     "custom_emoji_id": "5884270749329400738",
     "model_id": "5235774766882773613"
   },
   {
     "name": "muffin",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/muffin.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/muffin.webp",
+    "tgs_path": "models/astral_shard/muffin.tgs",
+    "webp_path": "models/astral_shard/muffin.webp",
     "custom_emoji_id": "5884428542132887620",
     "model_id": "5235851831480970469"
   },
   {
     "name": "crystal_punk",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/crystal_punk.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/crystal_punk.webp",
+    "tgs_path": "models/astral_shard/crystal_punk.tgs",
+    "webp_path": "models/astral_shard/crystal_punk.webp",
     "custom_emoji_id": "5881792016328695229",
     "model_id": "5237722654810597423"
   },
   {
     "name": "ivy_vine",
     "rarity_permille": 1.7,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/ivy_vine.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/ivy_vine.webp",
+    "tgs_path": "models/astral_shard/ivy_vine.tgs",
+    "webp_path": "models/astral_shard/ivy_vine.webp",
     "custom_emoji_id": "5882212570936386099",
     "model_id": "5237984153894411241"
   },
   {
     "name": "lovestone",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/astral_shard/lovestone.tgs",
-    "webp_path": "TG_Photos_repo/models/astral_shard/lovestone.webp",
+    "tgs_path": "models/astral_shard/lovestone.tgs",
+    "webp_path": "models/astral_shard/lovestone.webp",
     "custom_emoji_id": "5884091159566884996",
     "model_id": "5238089586751593236"
   }

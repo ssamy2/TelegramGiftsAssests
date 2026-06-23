@@ -2,800 +2,800 @@
   {
     "name": "saffron",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/saffron.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/saffron.webp",
+    "tgs_path": "models/lunar_snake/saffron.tgs",
+    "webp_path": "models/lunar_snake/saffron.webp",
     "custom_emoji_id": "5877413773911794244",
     "model_id": "5474171857269714947"
   },
   {
     "name": "limescale",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/limescale.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/limescale.webp",
+    "tgs_path": "models/lunar_snake/limescale.tgs",
+    "webp_path": "models/lunar_snake/limescale.webp",
     "custom_emoji_id": "5877690073452912057",
     "model_id": "5472089592700102094"
   },
   {
     "name": "purple_mamba",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/purple_mamba.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/purple_mamba.webp",
+    "tgs_path": "models/lunar_snake/purple_mamba.tgs",
+    "webp_path": "models/lunar_snake/purple_mamba.webp",
     "custom_emoji_id": "5877477180513985487",
     "model_id": "5188303695950932127"
   },
   {
     "name": "golden_coal",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/golden_coal.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/golden_coal.webp",
+    "tgs_path": "models/lunar_snake/golden_coal.tgs",
+    "webp_path": "models/lunar_snake/golden_coal.webp",
     "custom_emoji_id": "5879776353816944372",
     "model_id": "5226896442416718465"
   },
   {
     "name": "aurium",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/aurium.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/aurium.webp",
+    "tgs_path": "models/lunar_snake/aurium.tgs",
+    "webp_path": "models/lunar_snake/aurium.webp",
     "custom_emoji_id": "5877667254291668527",
     "model_id": "5219819083637221366"
   },
   {
     "name": "amethyssst",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/amethyssst.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/amethyssst.webp",
+    "tgs_path": "models/lunar_snake/amethyssst.tgs",
+    "webp_path": "models/lunar_snake/amethyssst.webp",
     "custom_emoji_id": "5879611809324867155",
     "model_id": "5219682731310475727"
   },
   {
     "name": "sandrift",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/sandrift.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/sandrift.webp",
+    "tgs_path": "models/lunar_snake/sandrift.tgs",
+    "webp_path": "models/lunar_snake/sandrift.webp",
     "custom_emoji_id": "5879909948774685995",
     "model_id": "5208709270257820369"
   },
   {
     "name": "neurotoxin",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/neurotoxin.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/neurotoxin.webp",
+    "tgs_path": "models/lunar_snake/neurotoxin.tgs",
+    "webp_path": "models/lunar_snake/neurotoxin.webp",
     "custom_emoji_id": "5879549901666262103",
     "model_id": "5224583198800895770"
   },
   {
     "name": "red_cheddar",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/red_cheddar.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/red_cheddar.webp",
+    "tgs_path": "models/lunar_snake/red_cheddar.tgs",
+    "webp_path": "models/lunar_snake/red_cheddar.webp",
     "custom_emoji_id": "5877618837125341180",
     "model_id": "5215366027184993334"
   },
   {
     "name": "cyber_ruby",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/cyber_ruby.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/cyber_ruby.webp",
+    "tgs_path": "models/lunar_snake/cyber_ruby.tgs",
+    "webp_path": "models/lunar_snake/cyber_ruby.webp",
     "custom_emoji_id": "5879734267432412186",
     "model_id": "5199514569910805898"
   },
   {
     "name": "hydra",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/hydra.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/hydra.webp",
+    "tgs_path": "models/lunar_snake/hydra.tgs",
+    "webp_path": "models/lunar_snake/hydra.webp",
     "custom_emoji_id": "5879573403727306852",
     "model_id": "5235496719289969742"
   },
   {
     "name": "synthwave",
     "rarity_permille": 0.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/synthwave.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/synthwave.webp",
+    "tgs_path": "models/lunar_snake/synthwave.tgs",
+    "webp_path": "models/lunar_snake/synthwave.webp",
     "custom_emoji_id": "5877525958457566326",
     "model_id": "5235593957349546789"
   },
   {
     "name": "red_reptile",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/red_reptile.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/red_reptile.webp",
+    "tgs_path": "models/lunar_snake/red_reptile.tgs",
+    "webp_path": "models/lunar_snake/red_reptile.webp",
     "custom_emoji_id": "5877452922538697041",
     "model_id": "5474359379836822396"
   },
   {
     "name": "golden_sky",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/golden_sky.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/golden_sky.webp",
+    "tgs_path": "models/lunar_snake/golden_sky.tgs",
+    "webp_path": "models/lunar_snake/golden_sky.webp",
     "custom_emoji_id": "5877499364020068532",
     "model_id": "5213213084633555915"
   },
   {
     "name": "crimson_jade",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/crimson_jade.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/crimson_jade.webp",
+    "tgs_path": "models/lunar_snake/crimson_jade.tgs",
+    "webp_path": "models/lunar_snake/crimson_jade.webp",
     "custom_emoji_id": "5877322291108388452",
     "model_id": "5226610268745786684"
   },
   {
     "name": "gulal",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/gulal.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/gulal.webp",
+    "tgs_path": "models/lunar_snake/gulal.tgs",
+    "webp_path": "models/lunar_snake/gulal.webp",
     "custom_emoji_id": "5879885927022602763",
     "model_id": "5226709353641305177"
   },
   {
     "name": "super_hot",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/super_hot.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/super_hot.webp",
+    "tgs_path": "models/lunar_snake/super_hot.tgs",
+    "webp_path": "models/lunar_snake/super_hot.webp",
     "custom_emoji_id": "5879943363620250052",
     "model_id": "5219722025966266533"
   },
   {
     "name": "kinder_garter",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/kinder_garter.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/kinder_garter.webp",
+    "tgs_path": "models/lunar_snake/kinder_garter.tgs",
+    "webp_path": "models/lunar_snake/kinder_garter.webp",
     "custom_emoji_id": "5879552805064155429",
     "model_id": "5215295971973424987"
   },
   {
     "name": "banded_boa",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/banded_boa.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/banded_boa.webp",
+    "tgs_path": "models/lunar_snake/banded_boa.tgs",
+    "webp_path": "models/lunar_snake/banded_boa.webp",
     "custom_emoji_id": "5877306644542528715",
     "model_id": "5208589578109215958"
   },
   {
     "name": "arctic_viper",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/arctic_viper.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/arctic_viper.webp",
+    "tgs_path": "models/lunar_snake/arctic_viper.tgs",
+    "webp_path": "models/lunar_snake/arctic_viper.webp",
     "custom_emoji_id": "5879667596655074496",
     "model_id": "5474313651320021818"
   },
   {
     "name": "hong_kong",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/hong_kong.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/hong_kong.webp",
+    "tgs_path": "models/lunar_snake/hong_kong.tgs",
+    "webp_path": "models/lunar_snake/hong_kong.webp",
     "custom_emoji_id": "5879786713278063497",
     "model_id": "5219785823410481326"
   },
   {
     "name": "poisonous",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/poisonous.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/poisonous.webp",
+    "tgs_path": "models/lunar_snake/poisonous.tgs",
+    "webp_path": "models/lunar_snake/poisonous.webp",
     "custom_emoji_id": "5879917915939019354",
     "model_id": "5217979871266891345"
   },
   {
     "name": "angelic",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/angelic.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/angelic.webp",
+    "tgs_path": "models/lunar_snake/angelic.tgs",
+    "webp_path": "models/lunar_snake/angelic.webp",
     "custom_emoji_id": "5879626725746287109",
     "model_id": "5235792410608428134"
   },
   {
     "name": "dark_rattle",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/dark_rattle.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/dark_rattle.webp",
+    "tgs_path": "models/lunar_snake/dark_rattle.tgs",
+    "webp_path": "models/lunar_snake/dark_rattle.webp",
     "custom_emoji_id": "5879800998339289281",
     "model_id": "5237899220916134551"
   },
   {
     "name": "cherry_glitch",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/cherry_glitch.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/cherry_glitch.webp",
+    "tgs_path": "models/lunar_snake/cherry_glitch.tgs",
+    "webp_path": "models/lunar_snake/cherry_glitch.webp",
     "custom_emoji_id": "5877371855030984066",
     "model_id": "5235686058628246630"
   },
   {
     "name": "rainbow_scale",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/rainbow_scale.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/rainbow_scale.webp",
+    "tgs_path": "models/lunar_snake/rainbow_scale.tgs",
+    "webp_path": "models/lunar_snake/rainbow_scale.webp",
     "custom_emoji_id": "5879657855669247867",
     "model_id": "5215525473550889031"
   },
   {
     "name": "sea_snake",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/sea_snake.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/sea_snake.webp",
+    "tgs_path": "models/lunar_snake/sea_snake.tgs",
+    "webp_path": "models/lunar_snake/sea_snake.webp",
     "custom_emoji_id": "5879958615049116576",
     "model_id": "5208667849593219795"
   },
   {
     "name": "pearl_scales",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/pearl_scales.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/pearl_scales.webp",
+    "tgs_path": "models/lunar_snake/pearl_scales.tgs",
+    "webp_path": "models/lunar_snake/pearl_scales.webp",
     "custom_emoji_id": "5879495243912452772",
     "model_id": "5192668404925883148"
   },
   {
     "name": "gold_rush",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/gold_rush.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/gold_rush.webp",
+    "tgs_path": "models/lunar_snake/gold_rush.tgs",
+    "webp_path": "models/lunar_snake/gold_rush.webp",
     "custom_emoji_id": "5877240579355583338",
     "model_id": "5201983033644705285"
   },
   {
     "name": "hot_cherry",
     "rarity_permille": 0.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/hot_cherry.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/hot_cherry.webp",
+    "tgs_path": "models/lunar_snake/hot_cherry.tgs",
+    "webp_path": "models/lunar_snake/hot_cherry.webp",
     "custom_emoji_id": "5879654544249461875",
     "model_id": "5235812811703085889"
   },
   {
     "name": "albino",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/albino.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/albino.webp",
+    "tgs_path": "models/lunar_snake/albino.tgs",
+    "webp_path": "models/lunar_snake/albino.webp",
     "custom_emoji_id": "5879617388487386155",
     "model_id": "5188624010316899415"
   },
   {
     "name": "lancehead",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/lancehead.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/lancehead.webp",
+    "tgs_path": "models/lunar_snake/lancehead.tgs",
+    "webp_path": "models/lunar_snake/lancehead.webp",
     "custom_emoji_id": "5879901182746434841",
     "model_id": "5208831247329026090"
   },
   {
     "name": "blue_horizon",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/blue_horizon.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/blue_horizon.webp",
+    "tgs_path": "models/lunar_snake/blue_horizon.tgs",
+    "webp_path": "models/lunar_snake/blue_horizon.webp",
     "custom_emoji_id": "5877754248854248932",
     "model_id": "5219695002032039560"
   },
   {
     "name": "rosepepper",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/rosepepper.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/rosepepper.webp",
+    "tgs_path": "models/lunar_snake/rosepepper.tgs",
+    "webp_path": "models/lunar_snake/rosepepper.webp",
     "custom_emoji_id": "5877576643366626867",
     "model_id": "5208683594943324765"
   },
   {
     "name": "golden_bleu",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/golden_bleu.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/golden_bleu.webp",
+    "tgs_path": "models/lunar_snake/golden_bleu.tgs",
+    "webp_path": "models/lunar_snake/golden_bleu.webp",
     "custom_emoji_id": "5877240824168718135",
     "model_id": "5217630643181086392"
   },
   {
     "name": "python_dev",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/python_dev.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/python_dev.webp",
+    "tgs_path": "models/lunar_snake/python_dev.tgs",
+    "webp_path": "models/lunar_snake/python_dev.webp",
     "custom_emoji_id": "5879903128366619773",
     "model_id": "5237899092067114238"
   },
   {
     "name": "taipei",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/taipei.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/taipei.webp",
+    "tgs_path": "models/lunar_snake/taipei.tgs",
+    "webp_path": "models/lunar_snake/taipei.webp",
     "custom_emoji_id": "5879486099927080700",
     "model_id": "5217911826100022986"
   },
   {
     "name": "venomous",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/venomous.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/venomous.webp",
+    "tgs_path": "models/lunar_snake/venomous.tgs",
+    "webp_path": "models/lunar_snake/venomous.webp",
     "custom_emoji_id": "5877430399730195556",
     "model_id": "5217425640097081100"
   },
   {
     "name": "ender_snake",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/ender_snake.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/ender_snake.webp",
+    "tgs_path": "models/lunar_snake/ender_snake.tgs",
+    "webp_path": "models/lunar_snake/ender_snake.webp",
     "custom_emoji_id": "5877550121943572662",
     "model_id": "5219873685556455142"
   },
   {
     "name": "blood_adder",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/blood_adder.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/blood_adder.webp",
+    "tgs_path": "models/lunar_snake/blood_adder.tgs",
+    "webp_path": "models/lunar_snake/blood_adder.webp",
     "custom_emoji_id": "5879901221401141313",
     "model_id": "5240039922810774933"
   },
   {
     "name": "amber_adder",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/amber_adder.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/amber_adder.webp",
+    "tgs_path": "models/lunar_snake/amber_adder.tgs",
+    "webp_path": "models/lunar_snake/amber_adder.webp",
     "custom_emoji_id": "5879915734095634183",
     "model_id": "5215289774335615769"
   },
   {
     "name": "mandarin",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/mandarin.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/mandarin.webp",
+    "tgs_path": "models/lunar_snake/mandarin.tgs",
+    "webp_path": "models/lunar_snake/mandarin.webp",
     "custom_emoji_id": "5879870349176217426",
     "model_id": "5217947040536883812"
   },
   {
     "name": "timelock",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/timelock.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/timelock.webp",
+    "tgs_path": "models/lunar_snake/timelock.tgs",
+    "webp_path": "models/lunar_snake/timelock.webp",
     "custom_emoji_id": "5879803656924045165",
     "model_id": "5202151142959635261"
   },
   {
     "name": "xenomorph",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/xenomorph.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/xenomorph.webp",
+    "tgs_path": "models/lunar_snake/xenomorph.tgs",
+    "webp_path": "models/lunar_snake/xenomorph.webp",
     "custom_emoji_id": "5879753191058317307",
     "model_id": "5238137965263218169"
   },
   {
     "name": "yellow_cobra",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/yellow_cobra.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/yellow_cobra.webp",
+    "tgs_path": "models/lunar_snake/yellow_cobra.tgs",
+    "webp_path": "models/lunar_snake/yellow_cobra.webp",
     "custom_emoji_id": "5879509520383745250",
     "model_id": "5188598154613776353"
   },
   {
     "name": "green_viper",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/green_viper.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/green_viper.webp",
+    "tgs_path": "models/lunar_snake/green_viper.tgs",
+    "webp_path": "models/lunar_snake/green_viper.webp",
     "custom_emoji_id": "5877628560931298869",
     "model_id": "5474223654575301310"
   },
   {
     "name": "black_mamba",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/black_mamba.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/black_mamba.webp",
+    "tgs_path": "models/lunar_snake/black_mamba.tgs",
+    "webp_path": "models/lunar_snake/black_mamba.webp",
     "custom_emoji_id": "5877738383245057855",
     "model_id": "5188199590238644276"
   },
   {
     "name": "jade_serpent",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/jade_serpent.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/jade_serpent.webp",
+    "tgs_path": "models/lunar_snake/jade_serpent.tgs",
+    "webp_path": "models/lunar_snake/jade_serpent.webp",
     "custom_emoji_id": "5877260203061157903",
     "model_id": "5219711331497699557"
   },
   {
     "name": "sunset_snake",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/sunset_snake.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/sunset_snake.webp",
+    "tgs_path": "models/lunar_snake/sunset_snake.tgs",
+    "webp_path": "models/lunar_snake/sunset_snake.webp",
     "custom_emoji_id": "5879817121646516973",
     "model_id": "5195324940982706662"
   },
   {
     "name": "jelly_hazard",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/jelly_hazard.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/jelly_hazard.webp",
+    "tgs_path": "models/lunar_snake/jelly_hazard.tgs",
+    "webp_path": "models/lunar_snake/jelly_hazard.webp",
     "custom_emoji_id": "5879975494270590371",
     "model_id": "5190503346271709978"
   },
   {
     "name": "geodesic",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/geodesic.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/geodesic.webp",
+    "tgs_path": "models/lunar_snake/geodesic.tgs",
+    "webp_path": "models/lunar_snake/geodesic.webp",
     "custom_emoji_id": "5879558173773274940",
     "model_id": "5219879354913284528"
   },
   {
     "name": "dragon_ball",
     "rarity_permille": 0.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/dragon_ball.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/dragon_ball.webp",
+    "tgs_path": "models/lunar_snake/dragon_ball.tgs",
+    "webp_path": "models/lunar_snake/dragon_ball.webp",
     "custom_emoji_id": "5879683887466028788",
     "model_id": "5193139339499953388"
   },
   {
     "name": "water_snake",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/water_snake.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/water_snake.webp",
+    "tgs_path": "models/lunar_snake/water_snake.tgs",
+    "webp_path": "models/lunar_snake/water_snake.webp",
     "custom_emoji_id": "5877402143140357280",
     "model_id": "5474136771681871145"
   },
   {
     "name": "caustic_moss",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/caustic_moss.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/caustic_moss.webp",
+    "tgs_path": "models/lunar_snake/caustic_moss.tgs",
+    "webp_path": "models/lunar_snake/caustic_moss.webp",
     "custom_emoji_id": "5877570218095550177",
     "model_id": "5208547796667361657"
   },
   {
     "name": "sun_serpent",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/sun_serpent.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/sun_serpent.webp",
+    "tgs_path": "models/lunar_snake/sun_serpent.tgs",
+    "webp_path": "models/lunar_snake/sun_serpent.webp",
     "custom_emoji_id": "5879972616642502253",
     "model_id": "5222225618237676953"
   },
   {
     "name": "soul_eater",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/soul_eater.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/soul_eater.webp",
+    "tgs_path": "models/lunar_snake/soul_eater.tgs",
+    "webp_path": "models/lunar_snake/soul_eater.webp",
     "custom_emoji_id": "5877707506725166962",
     "model_id": "5237825042535964177"
   },
   {
     "name": "redstone",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/redstone.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/redstone.webp",
+    "tgs_path": "models/lunar_snake/redstone.tgs",
+    "webp_path": "models/lunar_snake/redstone.webp",
     "custom_emoji_id": "5879529814104220861",
     "model_id": "5222399177866110432"
   },
   {
     "name": "copperhead",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/copperhead.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/copperhead.webp",
+    "tgs_path": "models/lunar_snake/copperhead.tgs",
+    "webp_path": "models/lunar_snake/copperhead.webp",
     "custom_emoji_id": "5879697442382816850",
     "model_id": "5208854315598376273"
   },
   {
     "name": "fallen_star",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/fallen_star.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/fallen_star.webp",
+    "tgs_path": "models/lunar_snake/fallen_star.tgs",
+    "webp_path": "models/lunar_snake/fallen_star.webp",
     "custom_emoji_id": "5879957803300299088",
     "model_id": "5208799486045874912"
   },
   {
     "name": "straciatella",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/straciatella.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/straciatella.webp",
+    "tgs_path": "models/lunar_snake/straciatella.tgs",
+    "webp_path": "models/lunar_snake/straciatella.webp",
     "custom_emoji_id": "5877381750635633976",
     "model_id": "5215681849015167896"
   },
   {
     "name": "the_deadliest",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/the_deadliest.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/the_deadliest.webp",
+    "tgs_path": "models/lunar_snake/the_deadliest.tgs",
+    "webp_path": "models/lunar_snake/the_deadliest.webp",
     "custom_emoji_id": "5879779291574574794",
     "model_id": "5235808070059190491"
   },
   {
     "name": "iron_mine",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/iron_mine.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/iron_mine.webp",
+    "tgs_path": "models/lunar_snake/iron_mine.tgs",
+    "webp_path": "models/lunar_snake/iron_mine.webp",
     "custom_emoji_id": "5877255401287721022",
     "model_id": "5201805320782894729"
   },
   {
     "name": "red_amethyst",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/red_amethyst.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/red_amethyst.webp",
+    "tgs_path": "models/lunar_snake/red_amethyst.tgs",
+    "webp_path": "models/lunar_snake/red_amethyst.webp",
     "custom_emoji_id": "5879900031695199943",
     "model_id": "5220097818424797398"
   },
   {
     "name": "blue_boa",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/blue_boa.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/blue_boa.webp",
+    "tgs_path": "models/lunar_snake/blue_boa.tgs",
+    "webp_path": "models/lunar_snake/blue_boa.webp",
     "custom_emoji_id": "5877466082318489819",
     "model_id": "5188232704436497083"
   },
   {
     "name": "spring_burst",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/spring_burst.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/spring_burst.webp",
+    "tgs_path": "models/lunar_snake/spring_burst.tgs",
+    "webp_path": "models/lunar_snake/spring_burst.webp",
     "custom_emoji_id": "5880003368608341472",
     "model_id": "5215314126800185166"
   },
   {
     "name": "wood_snake",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/wood_snake.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/wood_snake.webp",
+    "tgs_path": "models/lunar_snake/wood_snake.tgs",
+    "webp_path": "models/lunar_snake/wood_snake.webp",
     "custom_emoji_id": "5879921622495796868",
     "model_id": "5208932385218913607"
   },
   {
     "name": "polarized",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/polarized.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/polarized.webp",
+    "tgs_path": "models/lunar_snake/polarized.tgs",
+    "webp_path": "models/lunar_snake/polarized.webp",
     "custom_emoji_id": "5877224443163451036",
     "model_id": "5222411908149173354"
   },
   {
     "name": "white_grape",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/white_grape.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/white_grape.webp",
+    "tgs_path": "models/lunar_snake/white_grape.tgs",
+    "webp_path": "models/lunar_snake/white_grape.webp",
     "custom_emoji_id": "5879618556718489502",
     "model_id": "5219943641983773072"
   },
   {
     "name": "vibrant_venom",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/vibrant_venom.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/vibrant_venom.webp",
+    "tgs_path": "models/lunar_snake/vibrant_venom.tgs",
+    "webp_path": "models/lunar_snake/vibrant_venom.webp",
     "custom_emoji_id": "5879832484744535715",
     "model_id": "5215268690341158645"
   },
   {
     "name": "adhesive",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/adhesive.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/adhesive.webp",
+    "tgs_path": "models/lunar_snake/adhesive.tgs",
+    "webp_path": "models/lunar_snake/adhesive.webp",
     "custom_emoji_id": "5879741083545509318",
     "model_id": "5235552399245994450"
   },
   {
     "name": "gold_quartz",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/gold_quartz.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/gold_quartz.webp",
+    "tgs_path": "models/lunar_snake/gold_quartz.tgs",
+    "webp_path": "models/lunar_snake/gold_quartz.webp",
     "custom_emoji_id": "5879561029926526096",
     "model_id": "5217779751560703947"
   },
   {
     "name": "gen_zmei",
     "rarity_permille": 0.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/gen_zmei.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/gen_zmei.webp",
+    "tgs_path": "models/lunar_snake/gen_zmei.tgs",
+    "webp_path": "models/lunar_snake/gen_zmei.webp",
     "custom_emoji_id": "5880007229783942275",
     "model_id": "5237966991205103206"
   },
   {
     "name": "hissmas_tree",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/hissmas_tree.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/hissmas_tree.webp",
+    "tgs_path": "models/lunar_snake/hissmas_tree.tgs",
+    "webp_path": "models/lunar_snake/hissmas_tree.webp",
     "custom_emoji_id": "5879912195042581389",
     "model_id": "5204360740424674568"
   },
   {
     "name": "frosting",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/frosting.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/frosting.webp",
+    "tgs_path": "models/lunar_snake/frosting.tgs",
+    "webp_path": "models/lunar_snake/frosting.webp",
     "custom_emoji_id": "5879735259569856212",
     "model_id": "5217522740717708993"
   },
   {
     "name": "night_market",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/night_market.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/night_market.webp",
+    "tgs_path": "models/lunar_snake/night_market.tgs",
+    "webp_path": "models/lunar_snake/night_market.webp",
     "custom_emoji_id": "5879452032246488720",
     "model_id": "5217629771302726560"
   },
   {
     "name": "cryoshard",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/cryoshard.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/cryoshard.webp",
+    "tgs_path": "models/lunar_snake/cryoshard.tgs",
+    "webp_path": "models/lunar_snake/cryoshard.webp",
     "custom_emoji_id": "5879592722490203215",
     "model_id": "5220125400704771959"
   },
   {
     "name": "snake_game",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/snake_game.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/snake_game.webp",
+    "tgs_path": "models/lunar_snake/snake_game.tgs",
+    "webp_path": "models/lunar_snake/snake_game.webp",
     "custom_emoji_id": "5877741720434647142",
     "model_id": "5237980361438289078"
   },
   {
     "name": "fire_dragon",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/fire_dragon.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/fire_dragon.webp",
+    "tgs_path": "models/lunar_snake/fire_dragon.tgs",
+    "webp_path": "models/lunar_snake/fire_dragon.webp",
     "custom_emoji_id": "5879631441620378745",
     "model_id": "5231310603645115043"
   },
   {
     "name": "psychedelic",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/psychedelic.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/psychedelic.webp",
+    "tgs_path": "models/lunar_snake/psychedelic.tgs",
+    "webp_path": "models/lunar_snake/psychedelic.webp",
     "custom_emoji_id": "5879887103843639101",
     "model_id": "5215375471818074629"
   },
   {
     "name": "pink_venom",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/pink_venom.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/pink_venom.webp",
+    "tgs_path": "models/lunar_snake/pink_venom.tgs",
+    "webp_path": "models/lunar_snake/pink_venom.webp",
     "custom_emoji_id": "5879816069379529834",
     "model_id": "5215387459071799002"
   },
   {
     "name": "orange_rocks",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/orange_rocks.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/orange_rocks.webp",
+    "tgs_path": "models/lunar_snake/orange_rocks.tgs",
+    "webp_path": "models/lunar_snake/orange_rocks.webp",
     "custom_emoji_id": "5879915068375703723",
     "model_id": "5226858861452878434"
   },
   {
     "name": "hissium",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/hissium.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/hissium.webp",
+    "tgs_path": "models/lunar_snake/hissium.tgs",
+    "webp_path": "models/lunar_snake/hissium.webp",
     "custom_emoji_id": "5879882512523599350",
     "model_id": "5219675120628427087"
   },
   {
     "name": "lapis",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/lapis.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/lapis.webp",
+    "tgs_path": "models/lunar_snake/lapis.tgs",
+    "webp_path": "models/lunar_snake/lapis.webp",
     "custom_emoji_id": "5879820415886433448",
     "model_id": "5224332759257865188"
   },
   {
     "name": "hisstagram",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/hisstagram.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/hisstagram.webp",
+    "tgs_path": "models/lunar_snake/hisstagram.tgs",
+    "webp_path": "models/lunar_snake/hisstagram.webp",
     "custom_emoji_id": "5879901457624342341",
     "model_id": "5210697569532928948"
   },
   {
     "name": "tropicool",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/tropicool.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/tropicool.webp",
+    "tgs_path": "models/lunar_snake/tropicool.tgs",
+    "webp_path": "models/lunar_snake/tropicool.webp",
     "custom_emoji_id": "5877431542191497624",
     "model_id": "5233355888546313148"
   },
   {
     "name": "fromage",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/fromage.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/fromage.webp",
+    "tgs_path": "models/lunar_snake/fromage.tgs",
+    "webp_path": "models/lunar_snake/fromage.webp",
     "custom_emoji_id": "5879511431644191972",
     "model_id": "5217651787305083149"
   },
   {
     "name": "prismatic",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/prismatic.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/prismatic.webp",
+    "tgs_path": "models/lunar_snake/prismatic.tgs",
+    "webp_path": "models/lunar_snake/prismatic.webp",
     "custom_emoji_id": "5877589618462825815",
     "model_id": "5193047560343806485"
   },
   {
     "name": "purple_cap",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/purple_cap.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/purple_cap.webp",
+    "tgs_path": "models/lunar_snake/purple_cap.tgs",
+    "webp_path": "models/lunar_snake/purple_cap.webp",
     "custom_emoji_id": "5879648286482113602",
     "model_id": "5215407211626391326"
   },
   {
     "name": "purple_laser",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/purple_laser.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/purple_laser.webp",
+    "tgs_path": "models/lunar_snake/purple_laser.tgs",
+    "webp_path": "models/lunar_snake/purple_laser.webp",
     "custom_emoji_id": "5877421028111556715",
     "model_id": "5215373251319980853"
   },
   {
     "name": "glowbra",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/glowbra.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/glowbra.webp",
+    "tgs_path": "models/lunar_snake/glowbra.tgs",
+    "webp_path": "models/lunar_snake/glowbra.webp",
     "custom_emoji_id": "5877621684688659554",
     "model_id": "5208941610808665608"
   },
   {
     "name": "stone_python",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/stone_python.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/stone_python.webp",
+    "tgs_path": "models/lunar_snake/stone_python.tgs",
+    "webp_path": "models/lunar_snake/stone_python.webp",
     "custom_emoji_id": "5879959585711727616",
     "model_id": "5208612951321239714"
   },
   {
     "name": "diamondback",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/diamondback.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/diamondback.webp",
+    "tgs_path": "models/lunar_snake/diamondback.tgs",
+    "webp_path": "models/lunar_snake/diamondback.webp",
     "custom_emoji_id": "5879891514775051329",
     "model_id": "5199851321116614626"
   },
   {
     "name": "bear_paw",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/bear_paw.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/bear_paw.webp",
+    "tgs_path": "models/lunar_snake/bear_paw.tgs",
+    "webp_path": "models/lunar_snake/bear_paw.webp",
     "custom_emoji_id": "5879671818607927035",
     "model_id": "5208958120662952400"
   },
   {
     "name": "rorschach",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/rorschach.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/rorschach.webp",
+    "tgs_path": "models/lunar_snake/rorschach.tgs",
+    "webp_path": "models/lunar_snake/rorschach.webp",
     "custom_emoji_id": "5879919251673849292",
     "model_id": "5188207389899255388"
   },
   {
     "name": "lunar_year",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/lunar_year.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/lunar_year.webp",
+    "tgs_path": "models/lunar_snake/lunar_year.tgs",
+    "webp_path": "models/lunar_snake/lunar_year.webp",
     "custom_emoji_id": "5879737458593111486",
     "model_id": "5230975274073482061"
   },
   {
     "name": "hellspawn",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/hellspawn.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/hellspawn.webp",
+    "tgs_path": "models/lunar_snake/hellspawn.tgs",
+    "webp_path": "models/lunar_snake/hellspawn.webp",
     "custom_emoji_id": "5879502682795809387",
     "model_id": "5235876132405928314"
   },
   {
     "name": "frost_fangs",
     "rarity_permille": 1.3,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/frost_fangs.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/frost_fangs.webp",
+    "tgs_path": "models/lunar_snake/frost_fangs.tgs",
+    "webp_path": "models/lunar_snake/frost_fangs.webp",
     "custom_emoji_id": "5879565784455322457",
     "model_id": "5215287218830076348"
   },
   {
     "name": "green_flakes",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/green_flakes.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/green_flakes.webp",
+    "tgs_path": "models/lunar_snake/green_flakes.tgs",
+    "webp_path": "models/lunar_snake/green_flakes.webp",
     "custom_emoji_id": "5879864250322656525",
     "model_id": "5208792545378722375"
   },
   {
     "name": "candy_stripe",
     "rarity_permille": 0.8,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/candy_stripe.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/candy_stripe.webp",
+    "tgs_path": "models/lunar_snake/candy_stripe.tgs",
+    "webp_path": "models/lunar_snake/candy_stripe.webp",
     "custom_emoji_id": "5879666394064231917",
     "model_id": "5217873252998734174"
   },
   {
     "name": "blizzard",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/lunar_snake/blizzard.tgs",
-    "webp_path": "TG_Photos_repo/models/lunar_snake/blizzard.webp",
+    "tgs_path": "models/lunar_snake/blizzard.tgs",
+    "webp_path": "models/lunar_snake/blizzard.webp",
     "custom_emoji_id": "5879907084031499447",
     "model_id": "5208723168771991902"
   }

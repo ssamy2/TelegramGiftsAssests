@@ -2,400 +2,400 @@
   {
     "name": "clown",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/clown.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/clown.webp",
+    "tgs_path": "models/bling_binky/clown.tgs",
+    "webp_path": "models/bling_binky/clown.webp",
     "custom_emoji_id": "5881716012587425507",
     "model_id": "5188406319899509804"
   },
   {
     "name": "event_horizon",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/event_horizon.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/event_horizon.webp",
+    "tgs_path": "models/bling_binky/event_horizon.tgs",
+    "webp_path": "models/bling_binky/event_horizon.webp",
     "custom_emoji_id": "5881715106349326444",
     "model_id": "5188421983645240253"
   },
   {
     "name": "cupid_ruby",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/cupid_ruby.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/cupid_ruby.webp",
+    "tgs_path": "models/bling_binky/cupid_ruby.tgs",
+    "webp_path": "models/bling_binky/cupid_ruby.webp",
     "custom_emoji_id": "5881919495253007701",
     "model_id": "5188441525746436333"
   },
   {
     "name": "brass_knuckles",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/brass_knuckles.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/brass_knuckles.webp",
+    "tgs_path": "models/bling_binky/brass_knuckles.tgs",
+    "webp_path": "models/bling_binky/brass_knuckles.webp",
     "custom_emoji_id": "5882240604187925264",
     "model_id": "5190481476298245053"
   },
   {
     "name": "bloodsucker",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/bloodsucker.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/bloodsucker.webp",
+    "tgs_path": "models/bling_binky/bloodsucker.tgs",
+    "webp_path": "models/bling_binky/bloodsucker.webp",
     "custom_emoji_id": "5884345675033879176",
     "model_id": "5190616540134804205"
   },
   {
     "name": "cthulhu",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/cthulhu.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/cthulhu.webp",
+    "tgs_path": "models/bling_binky/cthulhu.tgs",
+    "webp_path": "models/bling_binky/cthulhu.webp",
     "custom_emoji_id": "5881784225258020240",
     "model_id": "5190640647786236373"
   },
   {
     "name": "abyss_binky",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/abyss_binky.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/abyss_binky.webp",
+    "tgs_path": "models/bling_binky/abyss_binky.tgs",
+    "webp_path": "models/bling_binky/abyss_binky.webp",
     "custom_emoji_id": "5881956719734562542",
     "model_id": "5190657303669408530"
   },
   {
     "name": "bullet",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/bullet.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/bullet.webp",
+    "tgs_path": "models/bling_binky/bullet.tgs",
+    "webp_path": "models/bling_binky/bullet.webp",
     "custom_emoji_id": "5881788992671719715",
     "model_id": "5190832375126331094"
   },
   {
     "name": "red_bull",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/red_bull.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/red_bull.webp",
+    "tgs_path": "models/bling_binky/red_bull.tgs",
+    "webp_path": "models/bling_binky/red_bull.webp",
     "custom_emoji_id": "5882164252554306158",
     "model_id": "5192668825832687056"
   },
   {
     "name": "tribal_skull",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/tribal_skull.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/tribal_skull.webp",
+    "tgs_path": "models/bling_binky/tribal_skull.tgs",
+    "webp_path": "models/bling_binky/tribal_skull.webp",
     "custom_emoji_id": "5884310920158519076",
     "model_id": "5195154035644076654"
   },
   {
     "name": "rancho",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/rancho.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/rancho.webp",
+    "tgs_path": "models/bling_binky/rancho.tgs",
+    "webp_path": "models/bling_binky/rancho.webp",
     "custom_emoji_id": "5882087982525062356",
     "model_id": "5195375827755238056"
   },
   {
     "name": "shiny_armor",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/shiny_armor.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/shiny_armor.webp",
+    "tgs_path": "models/bling_binky/shiny_armor.tgs",
+    "webp_path": "models/bling_binky/shiny_armor.webp",
     "custom_emoji_id": "5884050134039272250",
     "model_id": "5197222732411997590"
   },
   {
     "name": "baby_lou",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/baby_lou.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/baby_lou.webp",
+    "tgs_path": "models/bling_binky/baby_lou.tgs",
+    "webp_path": "models/bling_binky/baby_lou.webp",
     "custom_emoji_id": "5881739342849776783",
     "model_id": "5197433744155246223"
   },
   {
     "name": "toxic_slime",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/toxic_slime.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/toxic_slime.webp",
+    "tgs_path": "models/bling_binky/toxic_slime.tgs",
+    "webp_path": "models/bling_binky/toxic_slime.webp",
     "custom_emoji_id": "5884120859265737632",
     "model_id": "5201864011511006888"
   },
   {
     "name": "poison_apple",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/poison_apple.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/poison_apple.webp",
+    "tgs_path": "models/bling_binky/poison_apple.tgs",
+    "webp_path": "models/bling_binky/poison_apple.webp",
     "custom_emoji_id": "5882177184700833578",
     "model_id": "5201868418147451100"
   },
   {
     "name": "metal_chain",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/metal_chain.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/metal_chain.webp",
+    "tgs_path": "models/bling_binky/metal_chain.tgs",
+    "webp_path": "models/bling_binky/metal_chain.webp",
     "custom_emoji_id": "5884223113847119269",
     "model_id": "5202038112305315551"
   },
   {
     "name": "royal_heir",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/royal_heir.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/royal_heir.webp",
+    "tgs_path": "models/bling_binky/royal_heir.tgs",
+    "webp_path": "models/bling_binky/royal_heir.webp",
     "custom_emoji_id": "5881873096721309434",
     "model_id": "5204196281831946417"
   },
   {
     "name": "adult_toy",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/adult_toy.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/adult_toy.webp",
+    "tgs_path": "models/bling_binky/adult_toy.tgs",
+    "webp_path": "models/bling_binky/adult_toy.webp",
     "custom_emoji_id": "5881938607857474196",
     "model_id": "5204287004426148458"
   },
   {
     "name": "regent",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/regent.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/regent.webp",
+    "tgs_path": "models/bling_binky/regent.tgs",
+    "webp_path": "models/bling_binky/regent.webp",
     "custom_emoji_id": "5881874131808427952",
     "model_id": "5206193527523937462"
   },
   {
     "name": "first_ax",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/first_ax.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/first_ax.webp",
+    "tgs_path": "models/bling_binky/first_ax.tgs",
+    "webp_path": "models/bling_binky/first_ax.webp",
     "custom_emoji_id": "5882162929704378909",
     "model_id": "5206532271594571252"
   },
   {
     "name": "biscuit",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/biscuit.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/biscuit.webp",
+    "tgs_path": "models/bling_binky/biscuit.tgs",
+    "webp_path": "models/bling_binky/biscuit.webp",
     "custom_emoji_id": "5884216074395721684",
     "model_id": "5415964115422184384"
   },
   {
     "name": "crystal_wings",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/crystal_wings.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/crystal_wings.webp",
+    "tgs_path": "models/bling_binky/crystal_wings.tgs",
+    "webp_path": "models/bling_binky/crystal_wings.webp",
     "custom_emoji_id": "5881885676680519100",
     "model_id": "5418107166663933821"
   },
   {
     "name": "red_lipstick",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/red_lipstick.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/red_lipstick.webp",
+    "tgs_path": "models/bling_binky/red_lipstick.tgs",
+    "webp_path": "models/bling_binky/red_lipstick.webp",
     "custom_emoji_id": "5881919409353661879",
     "model_id": "5420310210008875889"
   },
   {
     "name": "victorian",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/victorian.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/victorian.webp",
+    "tgs_path": "models/bling_binky/victorian.tgs",
+    "webp_path": "models/bling_binky/victorian.webp",
     "custom_emoji_id": "5883996859264933644",
     "model_id": "5422350272229833214"
   },
   {
     "name": "silver_spoon",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/silver_spoon.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/silver_spoon.webp",
+    "tgs_path": "models/bling_binky/silver_spoon.tgs",
+    "webp_path": "models/bling_binky/silver_spoon.webp",
     "custom_emoji_id": "5881749783915274280",
     "model_id": "5422600544269141823"
   },
   {
     "name": "illuminati",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/illuminati.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/illuminati.webp",
+    "tgs_path": "models/bling_binky/illuminati.tgs",
+    "webp_path": "models/bling_binky/illuminati.webp",
     "custom_emoji_id": "5884474077376158119",
     "model_id": "5422624419992340185"
   },
   {
     "name": "night_bat",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/night_bat.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/night_bat.webp",
+    "tgs_path": "models/bling_binky/night_bat.tgs",
+    "webp_path": "models/bling_binky/night_bat.webp",
     "custom_emoji_id": "5884212844580314233",
     "model_id": "5424741929063577091"
   },
   {
     "name": "crystal_sky",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/crystal_sky.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/crystal_sky.webp",
+    "tgs_path": "models/bling_binky/crystal_sky.tgs",
+    "webp_path": "models/bling_binky/crystal_sky.webp",
     "custom_emoji_id": "5881964871582489687",
     "model_id": "5429199052849841993"
   },
   {
     "name": "peach_flower",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/peach_flower.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/peach_flower.webp",
+    "tgs_path": "models/bling_binky/peach_flower.tgs",
+    "webp_path": "models/bling_binky/peach_flower.webp",
     "custom_emoji_id": "5881709879374126884",
     "model_id": "5431614709960835549"
   },
   {
     "name": "leopard",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/leopard.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/leopard.webp",
+    "tgs_path": "models/bling_binky/leopard.tgs",
+    "webp_path": "models/bling_binky/leopard.webp",
     "custom_emoji_id": "5881862707195420379",
     "model_id": "5431695043029140656"
   },
   {
     "name": "irish_kiss",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/irish_kiss.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/irish_kiss.webp",
+    "tgs_path": "models/bling_binky/irish_kiss.tgs",
+    "webp_path": "models/bling_binky/irish_kiss.webp",
     "custom_emoji_id": "5881949499894538652",
     "model_id": "5434119483348257746"
   },
   {
     "name": "the_ankh",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/the_ankh.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/the_ankh.webp",
+    "tgs_path": "models/bling_binky/the_ankh.tgs",
+    "webp_path": "models/bling_binky/the_ankh.webp",
     "custom_emoji_id": "5881750642908734856",
     "model_id": "5436330493857530975"
   },
   {
     "name": "water_lily",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/water_lily.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/water_lily.webp",
+    "tgs_path": "models/bling_binky/water_lily.tgs",
+    "webp_path": "models/bling_binky/water_lily.webp",
     "custom_emoji_id": "5881991869746913418",
     "model_id": "5440358889713338611"
   },
   {
     "name": "violetta",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/violetta.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/violetta.webp",
+    "tgs_path": "models/bling_binky/violetta.tgs",
+    "webp_path": "models/bling_binky/violetta.webp",
     "custom_emoji_id": "5881885973033263249",
     "model_id": "5440405859475685942"
   },
   {
     "name": "cubic",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/cubic.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/cubic.webp",
+    "tgs_path": "models/bling_binky/cubic.tgs",
+    "webp_path": "models/bling_binky/cubic.webp",
     "custom_emoji_id": "5881827982384832728",
     "model_id": "5440546042913261436"
   },
   {
     "name": "christmas",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/christmas.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/christmas.webp",
+    "tgs_path": "models/bling_binky/christmas.tgs",
+    "webp_path": "models/bling_binky/christmas.webp",
     "custom_emoji_id": "5881985216842570889",
     "model_id": "5443078115112815154"
   },
   {
     "name": "ice_queen",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/ice_queen.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/ice_queen.webp",
+    "tgs_path": "models/bling_binky/ice_queen.tgs",
+    "webp_path": "models/bling_binky/ice_queen.webp",
     "custom_emoji_id": "5882240428094266033",
     "model_id": "5453969757038478161"
   },
   {
     "name": "diamond",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/diamond.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/diamond.webp",
+    "tgs_path": "models/bling_binky/diamond.tgs",
+    "webp_path": "models/bling_binky/diamond.webp",
     "custom_emoji_id": "5882049104481098748",
     "model_id": "5454361878962667533"
   },
   {
     "name": "gem_seeker",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/gem_seeker.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/gem_seeker.webp",
+    "tgs_path": "models/bling_binky/gem_seeker.tgs",
+    "webp_path": "models/bling_binky/gem_seeker.webp",
     "custom_emoji_id": "5882119073793319305",
     "model_id": "5456366554948075263"
   },
   {
     "name": "ice_pop",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/ice_pop.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/ice_pop.webp",
+    "tgs_path": "models/bling_binky/ice_pop.tgs",
+    "webp_path": "models/bling_binky/ice_pop.webp",
     "custom_emoji_id": "5882058544819216169",
     "model_id": "5458431674008241157"
   },
   {
     "name": "danger_bot",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/danger_bot.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/danger_bot.webp",
+    "tgs_path": "models/bling_binky/danger_bot.tgs",
+    "webp_path": "models/bling_binky/danger_bot.webp",
     "custom_emoji_id": "5881981359961939489",
     "model_id": "5458465080263867974"
   },
   {
     "name": "shellfish",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/shellfish.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/shellfish.webp",
+    "tgs_path": "models/bling_binky/shellfish.tgs",
+    "webp_path": "models/bling_binky/shellfish.webp",
     "custom_emoji_id": "5882082227268886536",
     "model_id": "5458753032051262631"
   },
   {
     "name": "soccer",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/soccer.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/soccer.webp",
+    "tgs_path": "models/bling_binky/soccer.tgs",
+    "webp_path": "models/bling_binky/soccer.webp",
     "custom_emoji_id": "5884469357207100792",
     "model_id": "5461055564018649382"
   },
   {
     "name": "monarch",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/monarch.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/monarch.webp",
+    "tgs_path": "models/bling_binky/monarch.tgs",
+    "webp_path": "models/bling_binky/monarch.webp",
     "custom_emoji_id": "5881949345275715807",
     "model_id": "5462983497528409812"
   },
   {
     "name": "light_bulb",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/light_bulb.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/light_bulb.webp",
+    "tgs_path": "models/bling_binky/light_bulb.tgs",
+    "webp_path": "models/bling_binky/light_bulb.webp",
     "custom_emoji_id": "5884488242178301786",
     "model_id": "5462992813312485450"
   },
   {
     "name": "marmalade",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/marmalade.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/marmalade.webp",
+    "tgs_path": "models/bling_binky/marmalade.tgs",
+    "webp_path": "models/bling_binky/marmalade.webp",
     "custom_emoji_id": "5884111071035268529",
     "model_id": "5463078631054018010"
   },
   {
     "name": "grizzly_bear",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/grizzly_bear.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/grizzly_bear.webp",
+    "tgs_path": "models/bling_binky/grizzly_bear.tgs",
+    "webp_path": "models/bling_binky/grizzly_bear.webp",
     "custom_emoji_id": "5881830134163447046",
     "model_id": "5465405992227342923"
   },
   {
     "name": "black_metal",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/black_metal.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/black_metal.webp",
+    "tgs_path": "models/bling_binky/black_metal.tgs",
+    "webp_path": "models/bling_binky/black_metal.webp",
     "custom_emoji_id": "5882215457154408082",
     "model_id": "5467796760002854762"
   },
   {
     "name": "void_watcher",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/void_watcher.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/void_watcher.webp",
+    "tgs_path": "models/bling_binky/void_watcher.tgs",
+    "webp_path": "models/bling_binky/void_watcher.webp",
     "custom_emoji_id": "5882056947091382078",
     "model_id": "5467851374806990153"
   },
   {
     "name": "star_fighter",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/bling_binky/star_fighter.tgs",
-    "webp_path": "TG_Photos_repo/models/bling_binky/star_fighter.webp",
+    "tgs_path": "models/bling_binky/star_fighter.tgs",
+    "webp_path": "models/bling_binky/star_fighter.webp",
     "custom_emoji_id": "5882024773491368220",
     "model_id": "5469841812975813275"
   }

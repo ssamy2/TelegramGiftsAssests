@@ -2,560 +2,560 @@
   {
     "name": "whole_milk",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/whole_milk.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/whole_milk.webp",
+    "tgs_path": "models/love_potion/whole_milk.tgs",
+    "webp_path": "models/love_potion/whole_milk.webp",
     "custom_emoji_id": "5882244323629604168",
     "model_id": "5269238510648325396"
   },
   {
     "name": "diamonds",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/love_potion/diamonds.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/diamonds.webp",
+    "tgs_path": "models/love_potion/diamonds.tgs",
+    "webp_path": "models/love_potion/diamonds.webp",
     "custom_emoji_id": "5881974466539429380",
     "model_id": "5269543728204247620"
   },
   {
     "name": "kiwi_juice",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/love_potion/kiwi_juice.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/kiwi_juice.webp",
+    "tgs_path": "models/love_potion/kiwi_juice.tgs",
+    "webp_path": "models/love_potion/kiwi_juice.webp",
     "custom_emoji_id": "5881893008189693399",
     "model_id": "5269664167677159980"
   },
   {
     "name": "spades",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/love_potion/spades.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/spades.webp",
+    "tgs_path": "models/love_potion/spades.tgs",
+    "webp_path": "models/love_potion/spades.webp",
     "custom_emoji_id": "5882125718107726945",
     "model_id": "5269763170968297861"
   },
   {
     "name": "hearts",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/love_potion/hearts.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/hearts.webp",
+    "tgs_path": "models/love_potion/hearts.tgs",
+    "webp_path": "models/love_potion/hearts.webp",
     "custom_emoji_id": "5881705459852778811",
     "model_id": "5271477666078286726"
   },
   {
     "name": "clubs",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/love_potion/clubs.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/clubs.webp",
+    "tgs_path": "models/love_potion/clubs.tgs",
+    "webp_path": "models/love_potion/clubs.webp",
     "custom_emoji_id": "5881910712044886893",
     "model_id": "5271574272777676141"
   },
   {
     "name": "nurgle’s_rot",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/nurgle’s_rot.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/nurgle’s_rot.webp",
+    "tgs_path": "models/love_potion/nurgle’s_rot.tgs",
+    "webp_path": "models/love_potion/nurgle’s_rot.webp",
     "custom_emoji_id": "5882126074590010903",
     "model_id": "5271885395913633947"
   },
   {
     "name": "bubble_bath",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/bubble_bath.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/bubble_bath.webp",
+    "tgs_path": "models/love_potion/bubble_bath.tgs",
+    "webp_path": "models/love_potion/bubble_bath.webp",
     "custom_emoji_id": "5881927290618650319",
     "model_id": "5273986953476336640"
   },
   {
     "name": "emo_tears",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/emo_tears.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/emo_tears.webp",
+    "tgs_path": "models/love_potion/emo_tears.tgs",
+    "webp_path": "models/love_potion/emo_tears.webp",
     "custom_emoji_id": "5882154936770239786",
     "model_id": "5274048487472785953"
   },
   {
     "name": "star_power",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/star_power.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/star_power.webp",
+    "tgs_path": "models/love_potion/star_power.tgs",
+    "webp_path": "models/love_potion/star_power.webp",
     "custom_emoji_id": "5882165403605541174",
     "model_id": "5275979934265794843"
   },
   {
     "name": "first_aid",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/first_aid.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/first_aid.webp",
+    "tgs_path": "models/love_potion/first_aid.tgs",
+    "webp_path": "models/love_potion/first_aid.webp",
     "custom_emoji_id": "5882180835423034640",
     "model_id": "5276064794229632925"
   },
   {
     "name": "lucky_charm",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/lucky_charm.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/lucky_charm.webp",
+    "tgs_path": "models/love_potion/lucky_charm.tgs",
+    "webp_path": "models/love_potion/lucky_charm.webp",
     "custom_emoji_id": "5882139126995623597",
     "model_id": "5276190314648854845"
   },
   {
     "name": "angel_wings",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/angel_wings.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/angel_wings.webp",
+    "tgs_path": "models/love_potion/angel_wings.tgs",
+    "webp_path": "models/love_potion/angel_wings.webp",
     "custom_emoji_id": "5882132126198930830",
     "model_id": "5276364368198524811"
   },
   {
     "name": "white_ink",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/white_ink.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/white_ink.webp",
+    "tgs_path": "models/love_potion/white_ink.tgs",
+    "webp_path": "models/love_potion/white_ink.webp",
     "custom_emoji_id": "5881867019342584562",
     "model_id": "5276424484855769216"
   },
   {
     "name": "paint_bottle",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/paint_bottle.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/paint_bottle.webp",
+    "tgs_path": "models/love_potion/paint_bottle.tgs",
+    "webp_path": "models/love_potion/paint_bottle.webp",
     "custom_emoji_id": "5881821140501930361",
     "model_id": "5276492873620021661"
   },
   {
     "name": "jinx_tonic",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/jinx_tonic.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/jinx_tonic.webp",
+    "tgs_path": "models/love_potion/jinx_tonic.tgs",
+    "webp_path": "models/love_potion/jinx_tonic.webp",
     "custom_emoji_id": "5881725448630575063",
     "model_id": "5278307896734543189"
   },
   {
     "name": "flat_pink",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/flat_pink.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/flat_pink.webp",
+    "tgs_path": "models/love_potion/flat_pink.tgs",
+    "webp_path": "models/love_potion/flat_pink.webp",
     "custom_emoji_id": "5882105115149606368",
     "model_id": "5278430565295481219"
   },
   {
     "name": "bloodlust",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/bloodlust.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/bloodlust.webp",
+    "tgs_path": "models/love_potion/bloodlust.tgs",
+    "webp_path": "models/love_potion/bloodlust.webp",
     "custom_emoji_id": "5882064403154608648",
     "model_id": "5278540198630681185"
   },
   {
     "name": "surreal",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/surreal.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/surreal.webp",
+    "tgs_path": "models/love_potion/surreal.tgs",
+    "webp_path": "models/love_potion/surreal.webp",
     "custom_emoji_id": "5881790680593866430",
     "model_id": "5278662918731230176"
   },
   {
     "name": "fine_mead",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/fine_mead.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/fine_mead.webp",
+    "tgs_path": "models/love_potion/fine_mead.tgs",
+    "webp_path": "models/love_potion/fine_mead.webp",
     "custom_emoji_id": "5882118837570117043",
     "model_id": "5280811261372688167"
   },
   {
     "name": "pickle_rick",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/pickle_rick.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/pickle_rick.webp",
+    "tgs_path": "models/love_potion/pickle_rick.tgs",
+    "webp_path": "models/love_potion/pickle_rick.webp",
     "custom_emoji_id": "5882161323386609487",
     "model_id": "5280835240175101706"
   },
   {
     "name": "dragon_soul",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/dragon_soul.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/dragon_soul.webp",
+    "tgs_path": "models/love_potion/dragon_soul.tgs",
+    "webp_path": "models/love_potion/dragon_soul.webp",
     "custom_emoji_id": "5881721643289550322",
     "model_id": "5280924884732506447"
   },
   {
     "name": "laxative",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/laxative.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/laxative.webp",
+    "tgs_path": "models/love_potion/laxative.tgs",
+    "webp_path": "models/love_potion/laxative.webp",
     "custom_emoji_id": "5881780780694249368",
     "model_id": "5280999685882930313"
   },
   {
     "name": "crime_scene",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/crime_scene.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/crime_scene.webp",
+    "tgs_path": "models/love_potion/crime_scene.tgs",
+    "webp_path": "models/love_potion/crime_scene.webp",
     "custom_emoji_id": "5881859868222039280",
     "model_id": "5282986443264779887"
   },
   {
     "name": "eye-lixir",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/eye-lixir.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/eye-lixir.webp",
+    "tgs_path": "models/love_potion/eye-lixir.tgs",
+    "webp_path": "models/love_potion/eye-lixir.webp",
     "custom_emoji_id": "5882173572633337245",
     "model_id": "5283011418499605504"
   },
   {
     "name": "ice_queen",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/ice_queen.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/ice_queen.webp",
+    "tgs_path": "models/love_potion/ice_queen.tgs",
+    "webp_path": "models/love_potion/ice_queen.webp",
     "custom_emoji_id": "5882080217224192196",
     "model_id": "5283184011760395436"
   },
   {
     "name": "energy_drink",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/energy_drink.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/energy_drink.webp",
+    "tgs_path": "models/love_potion/energy_drink.tgs",
+    "webp_path": "models/love_potion/energy_drink.webp",
     "custom_emoji_id": "5881772581601682826",
     "model_id": "5284993017625729790"
   },
   {
     "name": "old_rum",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/old_rum.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/old_rum.webp",
+    "tgs_path": "models/love_potion/old_rum.tgs",
+    "webp_path": "models/love_potion/old_rum.webp",
     "custom_emoji_id": "5881859077948055416",
     "model_id": "5285070649159609808"
   },
   {
     "name": "gold_rush",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/gold_rush.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/gold_rush.webp",
+    "tgs_path": "models/love_potion/gold_rush.tgs",
+    "webp_path": "models/love_potion/gold_rush.webp",
     "custom_emoji_id": "5881861925511372668",
     "model_id": "5285081923448760194"
   },
   {
     "name": "formic_acid",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/formic_acid.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/formic_acid.webp",
+    "tgs_path": "models/love_potion/formic_acid.tgs",
+    "webp_path": "models/love_potion/formic_acid.webp",
     "custom_emoji_id": "5881876494040440359",
     "model_id": "5285083293543329548"
   },
   {
     "name": "cherry_wine",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/love_potion/cherry_wine.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/cherry_wine.webp",
+    "tgs_path": "models/love_potion/cherry_wine.tgs",
+    "webp_path": "models/love_potion/cherry_wine.webp",
     "custom_emoji_id": "5882052832512712137",
     "model_id": "5285119856599918852"
   },
   {
     "name": "sea_salt",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/sea_salt.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/sea_salt.webp",
+    "tgs_path": "models/love_potion/sea_salt.tgs",
+    "webp_path": "models/love_potion/sea_salt.webp",
     "custom_emoji_id": "5882174869713460560",
     "model_id": "5285214826916770171"
   },
   {
     "name": "poison_flask",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/love_potion/poison_flask.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/poison_flask.webp",
+    "tgs_path": "models/love_potion/poison_flask.tgs",
+    "webp_path": "models/love_potion/poison_flask.webp",
     "custom_emoji_id": "5881714015427633419",
     "model_id": "5285223665959464838"
   },
   {
     "name": "starry_night",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/starry_night.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/starry_night.webp",
+    "tgs_path": "models/love_potion/starry_night.tgs",
+    "webp_path": "models/love_potion/starry_night.webp",
     "custom_emoji_id": "5881934261350572251",
     "model_id": "5285226105500886551"
   },
   {
     "name": "sunset_serum",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/sunset_serum.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/sunset_serum.webp",
+    "tgs_path": "models/love_potion/sunset_serum.tgs",
+    "webp_path": "models/love_potion/sunset_serum.webp",
     "custom_emoji_id": "5881734279083335052",
     "model_id": "5285248624014421683"
   },
   {
     "name": "sugar_ponies",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/sugar_ponies.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/sugar_ponies.webp",
+    "tgs_path": "models/love_potion/sugar_ponies.tgs",
+    "webp_path": "models/love_potion/sugar_ponies.webp",
     "custom_emoji_id": "5882238959215451643",
     "model_id": "5285270000066651395"
   },
   {
     "name": "first_kiss",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/first_kiss.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/first_kiss.webp",
+    "tgs_path": "models/love_potion/first_kiss.tgs",
+    "webp_path": "models/love_potion/first_kiss.webp",
     "custom_emoji_id": "5881859335646095364",
     "model_id": "5285312107926018617"
   },
   {
     "name": "romeo",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/love_potion/romeo.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/romeo.webp",
+    "tgs_path": "models/love_potion/romeo.tgs",
+    "webp_path": "models/love_potion/romeo.webp",
     "custom_emoji_id": "5882068234265436767",
     "model_id": "5285383400088170066"
   },
   {
     "name": "sour_cider",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/sour_cider.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/sour_cider.webp",
+    "tgs_path": "models/love_potion/sour_cider.tgs",
+    "webp_path": "models/love_potion/sour_cider.webp",
     "custom_emoji_id": "5882047115911241774",
     "model_id": "5285406373868238076"
   },
   {
     "name": "fairy_pollen",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/fairy_pollen.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/fairy_pollen.webp",
+    "tgs_path": "models/love_potion/fairy_pollen.tgs",
+    "webp_path": "models/love_potion/fairy_pollen.webp",
     "custom_emoji_id": "5882099673426042376",
     "model_id": "5285415638112692724"
   },
   {
     "name": "milkshake",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/love_potion/milkshake.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/milkshake.webp",
+    "tgs_path": "models/love_potion/milkshake.tgs",
+    "webp_path": "models/love_potion/milkshake.webp",
     "custom_emoji_id": "5881770313858949350",
     "model_id": "5285438925425371430"
   },
   {
     "name": "ocean_glow",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/ocean_glow.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/ocean_glow.webp",
+    "tgs_path": "models/love_potion/ocean_glow.tgs",
+    "webp_path": "models/love_potion/ocean_glow.webp",
     "custom_emoji_id": "5881874037319147176",
     "model_id": "5285502624085339081"
   },
   {
     "name": "mouthwash",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/love_potion/mouthwash.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/mouthwash.webp",
+    "tgs_path": "models/love_potion/mouthwash.tgs",
+    "webp_path": "models/love_potion/mouthwash.webp",
     "custom_emoji_id": "5882065902098192914",
     "model_id": "5285525271447893237"
   },
   {
     "name": "aerogel",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/aerogel.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/aerogel.webp",
+    "tgs_path": "models/love_potion/aerogel.tgs",
+    "webp_path": "models/love_potion/aerogel.webp",
     "custom_emoji_id": "5882119610664231323",
     "model_id": "5287266644463217568"
   },
   {
     "name": "royal_spritz",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/royal_spritz.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/royal_spritz.webp",
+    "tgs_path": "models/love_potion/royal_spritz.tgs",
+    "webp_path": "models/love_potion/royal_spritz.webp",
     "custom_emoji_id": "5881878027343765173",
     "model_id": "5287295790111285594"
   },
   {
     "name": "liquid_pearl",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/liquid_pearl.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/liquid_pearl.webp",
+    "tgs_path": "models/love_potion/liquid_pearl.tgs",
+    "webp_path": "models/love_potion/liquid_pearl.webp",
     "custom_emoji_id": "5882071992361819545",
     "model_id": "5287323694513811853"
   },
   {
     "name": "bubble_gum",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/love_potion/bubble_gum.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/bubble_gum.webp",
+    "tgs_path": "models/love_potion/bubble_gum.tgs",
+    "webp_path": "models/love_potion/bubble_gum.webp",
     "custom_emoji_id": "5881816725275549120",
     "model_id": "5287371901226740723"
   },
   {
     "name": "copper_sulfate",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/copper_sulfate.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/copper_sulfate.webp",
+    "tgs_path": "models/love_potion/copper_sulfate.tgs",
+    "webp_path": "models/love_potion/copper_sulfate.webp",
     "custom_emoji_id": "5881734992047906592",
     "model_id": "5287398315275610455"
   },
   {
     "name": "seeker’s_wish",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/seeker’s_wish.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/seeker’s_wish.webp",
+    "tgs_path": "models/love_potion/seeker’s_wish.tgs",
+    "webp_path": "models/love_potion/seeker’s_wish.webp",
     "custom_emoji_id": "5881780583125752657",
     "model_id": "5287422397157240185"
   },
   {
     "name": "berry_bomb",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/berry_bomb.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/berry_bomb.webp",
+    "tgs_path": "models/love_potion/berry_bomb.tgs",
+    "webp_path": "models/love_potion/berry_bomb.webp",
     "custom_emoji_id": "5882259467684290102",
     "model_id": "5287429711486545615"
   },
   {
     "name": "rusty_water",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/rusty_water.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/rusty_water.webp",
+    "tgs_path": "models/love_potion/rusty_water.tgs",
+    "webp_path": "models/love_potion/rusty_water.webp",
     "custom_emoji_id": "5881802083732037229",
     "model_id": "5287473829390607716"
   },
   {
     "name": "mystic_dew",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/mystic_dew.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/mystic_dew.webp",
+    "tgs_path": "models/love_potion/mystic_dew.tgs",
+    "webp_path": "models/love_potion/mystic_dew.webp",
     "custom_emoji_id": "5882252149060018612",
     "model_id": "5287504718795400438"
   },
   {
     "name": "toxic_waste",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/toxic_waste.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/toxic_waste.webp",
+    "tgs_path": "models/love_potion/toxic_waste.tgs",
+    "webp_path": "models/love_potion/toxic_waste.webp",
     "custom_emoji_id": "5881893540765637642",
     "model_id": "5287699521332079197"
   },
   {
     "name": "durov_duck",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/durov_duck.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/durov_duck.webp",
+    "tgs_path": "models/love_potion/durov_duck.tgs",
+    "webp_path": "models/love_potion/durov_duck.webp",
     "custom_emoji_id": "5882185113210461249",
     "model_id": "5287727391374859716"
   },
   {
     "name": "no_signal",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/no_signal.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/no_signal.webp",
+    "tgs_path": "models/love_potion/no_signal.tgs",
+    "webp_path": "models/love_potion/no_signal.webp",
     "custom_emoji_id": "5882130236413320945",
     "model_id": "5287750919205708216"
   },
   {
     "name": "molten_gold",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/molten_gold.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/molten_gold.webp",
+    "tgs_path": "models/love_potion/molten_gold.tgs",
+    "webp_path": "models/love_potion/molten_gold.webp",
     "custom_emoji_id": "5881794404330513305",
     "model_id": "5287775048331977122"
   },
   {
     "name": "juliet",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/juliet.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/juliet.webp",
+    "tgs_path": "models/love_potion/juliet.tgs",
+    "webp_path": "models/love_potion/juliet.webp",
     "custom_emoji_id": "5881919619807059314",
     "model_id": "5287788375615499081"
   },
   {
     "name": "banana",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/banana.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/banana.webp",
+    "tgs_path": "models/love_potion/banana.tgs",
+    "webp_path": "models/love_potion/banana.webp",
     "custom_emoji_id": "5881875063816331983",
     "model_id": "5289515313245745506"
   },
   {
     "name": "gothic_cola",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/love_potion/gothic_cola.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/gothic_cola.webp",
+    "tgs_path": "models/love_potion/gothic_cola.tgs",
+    "webp_path": "models/love_potion/gothic_cola.webp",
     "custom_emoji_id": "5881726350573707250",
     "model_id": "5289677435376268187"
   },
   {
     "name": "astral_guide",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/astral_guide.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/astral_guide.webp",
+    "tgs_path": "models/love_potion/astral_guide.tgs",
+    "webp_path": "models/love_potion/astral_guide.webp",
     "custom_emoji_id": "5881883679520726515",
     "model_id": "5289878688953819208"
   },
   {
     "name": "healing_potion",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/healing_potion.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/healing_potion.webp",
+    "tgs_path": "models/love_potion/healing_potion.tgs",
+    "webp_path": "models/love_potion/healing_potion.webp",
     "custom_emoji_id": "5881818417492663881",
     "model_id": "5289962513830539557"
   },
   {
     "name": "tropicano",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/love_potion/tropicano.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/tropicano.webp",
+    "tgs_path": "models/love_potion/tropicano.tgs",
+    "webp_path": "models/love_potion/tropicano.webp",
     "custom_emoji_id": "5881807963542266906",
     "model_id": "5290014848007037091"
   },
   {
     "name": "golden_mire",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/golden_mire.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/golden_mire.webp",
+    "tgs_path": "models/love_potion/golden_mire.tgs",
+    "webp_path": "models/love_potion/golden_mire.webp",
     "custom_emoji_id": "5882043220375904377",
     "model_id": "5291759098650454600"
   },
   {
     "name": "beholder",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/beholder.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/beholder.webp",
+    "tgs_path": "models/love_potion/beholder.tgs",
+    "webp_path": "models/love_potion/beholder.webp",
     "custom_emoji_id": "5881812670826423600",
     "model_id": "5291800433415711018"
   },
   {
     "name": "fragrant_oil",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/fragrant_oil.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/fragrant_oil.webp",
+    "tgs_path": "models/love_potion/fragrant_oil.tgs",
+    "webp_path": "models/love_potion/fragrant_oil.webp",
     "custom_emoji_id": "5881983863927872485",
     "model_id": "5291835802471394169"
   },
   {
     "name": "espresso",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/espresso.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/espresso.webp",
+    "tgs_path": "models/love_potion/espresso.tgs",
+    "webp_path": "models/love_potion/espresso.webp",
     "custom_emoji_id": "5882003947194948511",
     "model_id": "5291945856713382770"
   },
   {
     "name": "beauty_brew",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/love_potion/beauty_brew.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/beauty_brew.webp",
+    "tgs_path": "models/love_potion/beauty_brew.tgs",
+    "webp_path": "models/love_potion/beauty_brew.webp",
     "custom_emoji_id": "5882143026825927699",
     "model_id": "5292173253756869867"
   },
   {
     "name": "ruby_essence",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/ruby_essence.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/ruby_essence.webp",
+    "tgs_path": "models/love_potion/ruby_essence.tgs",
+    "webp_path": "models/love_potion/ruby_essence.webp",
     "custom_emoji_id": "5882161069983540196",
     "model_id": "5292197747955359680"
   },
   {
     "name": "unicorn_tears",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/unicorn_tears.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/unicorn_tears.webp",
+    "tgs_path": "models/love_potion/unicorn_tears.tgs",
+    "webp_path": "models/love_potion/unicorn_tears.webp",
     "custom_emoji_id": "5881911240325864806",
     "model_id": "5292203468851799117"
   },
   {
     "name": "peach_nectar",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/love_potion/peach_nectar.tgs",
-    "webp_path": "TG_Photos_repo/models/love_potion/peach_nectar.webp",
+    "tgs_path": "models/love_potion/peach_nectar.tgs",
+    "webp_path": "models/love_potion/peach_nectar.webp",
     "custom_emoji_id": "5292233976004504056",
     "model_id": "5292233976004504056"
   }

@@ -2,400 +2,400 @@
   {
     "name": "elephant",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/elephant.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/elephant.webp",
+    "tgs_path": "models/bow_tie/elephant.tgs",
+    "webp_path": "models/bow_tie/elephant.webp",
     "custom_emoji_id": "5882111733694208821",
     "model_id": "5359648645970945235"
   },
   {
     "name": "durov’s_dog",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/durov’s_dog.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/durov’s_dog.webp",
+    "tgs_path": "models/bow_tie/durov’s_dog.tgs",
+    "webp_path": "models/bow_tie/durov’s_dog.webp",
     "custom_emoji_id": "5882054919866817802",
     "model_id": "5379942645617422056"
   },
   {
     "name": "tortuga",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/tortuga.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/tortuga.webp",
+    "tgs_path": "models/bow_tie/tortuga.tgs",
+    "webp_path": "models/bow_tie/tortuga.webp",
     "custom_emoji_id": "5882251715268322068",
     "model_id": "5384362128310300406"
   },
   {
     "name": "mondrian",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/mondrian.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/mondrian.webp",
+    "tgs_path": "models/bow_tie/mondrian.tgs",
+    "webp_path": "models/bow_tie/mondrian.webp",
     "custom_emoji_id": "5881953288055694445",
     "model_id": "5386358807066599734"
   },
   {
     "name": "union_jack",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/union_jack.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/union_jack.webp",
+    "tgs_path": "models/bow_tie/union_jack.tgs",
+    "webp_path": "models/bow_tie/union_jack.webp",
     "custom_emoji_id": "5881892917995379707",
     "model_id": "5386638834639332596"
   },
   {
     "name": "mistletoe",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/mistletoe.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/mistletoe.webp",
+    "tgs_path": "models/bow_tie/mistletoe.tgs",
+    "webp_path": "models/bow_tie/mistletoe.webp",
     "custom_emoji_id": "5882103775119810308",
     "model_id": "5386830901281842318"
   },
   {
     "name": "dracarys",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/dracarys.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/dracarys.webp",
+    "tgs_path": "models/bow_tie/dracarys.tgs",
+    "webp_path": "models/bow_tie/dracarys.webp",
     "custom_emoji_id": "5881763403256569726",
     "model_id": "5393362133494821910"
   },
   {
     "name": "football",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/football.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/football.webp",
+    "tgs_path": "models/bow_tie/football.tgs",
+    "webp_path": "models/bow_tie/football.webp",
     "custom_emoji_id": "5882164952633974236",
     "model_id": "5397937231442766605"
   },
   {
     "name": "irish_knot",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/irish_knot.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/irish_knot.webp",
+    "tgs_path": "models/bow_tie/irish_knot.tgs",
+    "webp_path": "models/bow_tie/irish_knot.webp",
     "custom_emoji_id": "5882259270115794682",
     "model_id": "5399899752324166120"
   },
   {
     "name": "the_lion",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/the_lion.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/the_lion.webp",
+    "tgs_path": "models/bow_tie/the_lion.tgs",
+    "webp_path": "models/bow_tie/the_lion.webp",
     "custom_emoji_id": "5881931186153987871",
     "model_id": "5400208268414969003"
   },
   {
     "name": "sailor_moon",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/sailor_moon.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/sailor_moon.webp",
+    "tgs_path": "models/bow_tie/sailor_moon.tgs",
+    "webp_path": "models/bow_tie/sailor_moon.webp",
     "custom_emoji_id": "5882169324910682349",
     "model_id": "5400235674601287599"
   },
   {
     "name": "classic",
     "rarity_permille": 5.0,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/classic.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/classic.webp",
+    "tgs_path": "models/bow_tie/classic.tgs",
+    "webp_path": "models/bow_tie/classic.webp",
     "custom_emoji_id": "5881979066449403363",
     "model_id": "5404632041780179304"
   },
   {
     "name": "canada",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/canada.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/canada.webp",
+    "tgs_path": "models/bow_tie/canada.tgs",
+    "webp_path": "models/bow_tie/canada.webp",
     "custom_emoji_id": "5881803956337777759",
     "model_id": "5404730997826681051"
   },
   {
     "name": "squid_tie",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/squid_tie.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/squid_tie.webp",
+    "tgs_path": "models/bow_tie/squid_tie.tgs",
+    "webp_path": "models/bow_tie/squid_tie.webp",
     "custom_emoji_id": "5882166391448021488",
     "model_id": "5406595241266407472"
   },
   {
     "name": "bordeaux",
     "rarity_permille": 5.0,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/bordeaux.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/bordeaux.webp",
+    "tgs_path": "models/bow_tie/bordeaux.tgs",
+    "webp_path": "models/bow_tie/bordeaux.webp",
     "custom_emoji_id": "5882211003273322516",
     "model_id": "5406739388958798088"
   },
   {
     "name": "singularity",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/singularity.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/singularity.webp",
+    "tgs_path": "models/bow_tie/singularity.tgs",
+    "webp_path": "models/bow_tie/singularity.webp",
     "custom_emoji_id": "5882058175452028009",
     "model_id": "5406882733492300631"
   },
   {
     "name": "cambridge",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/cambridge.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/cambridge.webp",
+    "tgs_path": "models/bow_tie/cambridge.tgs",
+    "webp_path": "models/bow_tie/cambridge.webp",
     "custom_emoji_id": "5882033810102558002",
     "model_id": "5406947231016182216"
   },
   {
     "name": "prism",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/prism.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/prism.webp",
+    "tgs_path": "models/bow_tie/prism.tgs",
+    "webp_path": "models/bow_tie/prism.webp",
     "custom_emoji_id": "5882251616484072799",
     "model_id": "5406977428931241496"
   },
   {
     "name": "farfalle",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/farfalle.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/farfalle.webp",
+    "tgs_path": "models/bow_tie/farfalle.tgs",
+    "webp_path": "models/bow_tie/farfalle.webp",
     "custom_emoji_id": "5881909217396268142",
     "model_id": "5406996790643814594"
   },
   {
     "name": "cupid’s_bow",
     "rarity_permille": 4.0,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/cupid’s_bow.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/cupid’s_bow.webp",
+    "tgs_path": "models/bow_tie/cupid’s_bow.tgs",
+    "webp_path": "models/bow_tie/cupid’s_bow.webp",
     "custom_emoji_id": "5881839256673983866",
     "model_id": "5407076595431142392"
   },
   {
     "name": "eggplants",
     "rarity_permille": 3.5,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/eggplants.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/eggplants.webp",
+    "tgs_path": "models/bow_tie/eggplants.tgs",
+    "webp_path": "models/bow_tie/eggplants.webp",
     "custom_emoji_id": "5882105634840649875",
     "model_id": "5409026673792279826"
   },
   {
     "name": "spider_sense",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/spider_sense.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/spider_sense.webp",
+    "tgs_path": "models/bow_tie/spider_sense.tgs",
+    "webp_path": "models/bow_tie/spider_sense.webp",
     "custom_emoji_id": "5881837916644187623",
     "model_id": "5409190616988939559"
   },
   {
     "name": "ladybug",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/ladybug.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/ladybug.webp",
+    "tgs_path": "models/bow_tie/ladybug.tgs",
+    "webp_path": "models/bow_tie/ladybug.webp",
     "custom_emoji_id": "5881753018025648005",
     "model_id": "5411128424628517912"
   },
   {
     "name": "cherries",
     "rarity_permille": 3.5,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/cherries.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/cherries.webp",
+    "tgs_path": "models/bow_tie/cherries.tgs",
+    "webp_path": "models/bow_tie/cherries.webp",
     "custom_emoji_id": "5881943001609018297",
     "model_id": "5411139587248517537"
   },
   {
     "name": "doge_gem",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/doge_gem.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/doge_gem.webp",
+    "tgs_path": "models/bow_tie/doge_gem.tgs",
+    "webp_path": "models/bow_tie/doge_gem.webp",
     "custom_emoji_id": "5882077734733095102",
     "model_id": "5411244667918382477"
   },
   {
     "name": "heritage",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/heritage.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/heritage.webp",
+    "tgs_path": "models/bow_tie/heritage.tgs",
+    "webp_path": "models/bow_tie/heritage.webp",
     "custom_emoji_id": "5882260610145590952",
     "model_id": "5411252141161473512"
   },
   {
     "name": "the_badger",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/the_badger.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/the_badger.webp",
+    "tgs_path": "models/bow_tie/the_badger.tgs",
+    "webp_path": "models/bow_tie/the_badger.webp",
     "custom_emoji_id": "5881771555104496956",
     "model_id": "5307824058748922768"
   },
   {
     "name": "strawberry",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/strawberry.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/strawberry.webp",
+    "tgs_path": "models/bow_tie/strawberry.tgs",
+    "webp_path": "models/bow_tie/strawberry.webp",
     "custom_emoji_id": "5882102503809491247",
     "model_id": "5411315423209613247"
   },
   {
     "name": "bus_guys",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/bus_guys.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/bus_guys.webp",
+    "tgs_path": "models/bow_tie/bus_guys.tgs",
+    "webp_path": "models/bow_tie/bus_guys.webp",
     "custom_emoji_id": "5882245801098354307",
     "model_id": "5411379130459518004"
   },
   {
     "name": "bumblebee",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/bumblebee.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/bumblebee.webp",
+    "tgs_path": "models/bow_tie/bumblebee.tgs",
+    "webp_path": "models/bow_tie/bumblebee.webp",
     "custom_emoji_id": "5881765460545903934",
     "model_id": "5411400832929262407"
   },
   {
     "name": "blue_morpho",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/blue_morpho.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/blue_morpho.webp",
+    "tgs_path": "models/bow_tie/blue_morpho.tgs",
+    "webp_path": "models/bow_tie/blue_morpho.webp",
     "custom_emoji_id": "5881788485865578541",
     "model_id": "5411434093156005615"
   },
   {
     "name": "vampire",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/vampire.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/vampire.webp",
+    "tgs_path": "models/bow_tie/vampire.tgs",
+    "webp_path": "models/bow_tie/vampire.webp",
     "custom_emoji_id": "5881777894476228134",
     "model_id": "5411527238111752695"
   },
   {
     "name": "batwing",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/batwing.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/batwing.webp",
+    "tgs_path": "models/bow_tie/batwing.tgs",
+    "webp_path": "models/bow_tie/batwing.webp",
     "custom_emoji_id": "5881944908574499154",
     "model_id": "5411528865904355186"
   },
   {
     "name": "the_serpent",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/the_serpent.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/the_serpent.webp",
+    "tgs_path": "models/bow_tie/the_serpent.tgs",
+    "webp_path": "models/bow_tie/the_serpent.webp",
     "custom_emoji_id": "5881940059556421465",
     "model_id": "5411561859843125084"
   },
   {
     "name": "velvet_gold",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/velvet_gold.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/velvet_gold.webp",
+    "tgs_path": "models/bow_tie/velvet_gold.tgs",
+    "webp_path": "models/bow_tie/velvet_gold.webp",
     "custom_emoji_id": "5882256358127967965",
     "model_id": "5411635003136176061"
   },
   {
     "name": "dark_lord",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/dark_lord.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/dark_lord.webp",
+    "tgs_path": "models/bow_tie/dark_lord.tgs",
+    "webp_path": "models/bow_tie/dark_lord.webp",
     "custom_emoji_id": "5879513579127840520",
     "model_id": "5413333581097363171"
   },
   {
     "name": "the_raven",
     "rarity_permille": 1.5,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/the_raven.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/the_raven.webp",
+    "tgs_path": "models/bow_tie/the_raven.tgs",
+    "webp_path": "models/bow_tie/the_raven.webp",
     "custom_emoji_id": "5881918674914254324",
     "model_id": "5413375598762421141"
   },
   {
     "name": "creator",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/creator.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/creator.webp",
+    "tgs_path": "models/bow_tie/creator.tgs",
+    "webp_path": "models/bow_tie/creator.webp",
     "custom_emoji_id": "5881924696458405019",
     "model_id": "5413399740773590835"
   },
   {
     "name": "gamepad",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/gamepad.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/gamepad.webp",
+    "tgs_path": "models/bow_tie/gamepad.tgs",
+    "webp_path": "models/bow_tie/gamepad.webp",
     "custom_emoji_id": "5881851445791169980",
     "model_id": "5413558792002496766"
   },
   {
     "name": "modern_art",
     "rarity_permille": 2.5,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/modern_art.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/modern_art.webp",
+    "tgs_path": "models/bow_tie/modern_art.tgs",
+    "webp_path": "models/bow_tie/modern_art.webp",
     "custom_emoji_id": "5882122810414865983",
     "model_id": "5416063591159720222"
   },
   {
     "name": "tie_fighter",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/tie_fighter.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/tie_fighter.webp",
+    "tgs_path": "models/bow_tie/tie_fighter.tgs",
+    "webp_path": "models/bow_tie/tie_fighter.webp",
     "custom_emoji_id": "5882233710765416620",
     "model_id": "5417885082494986973"
   },
   {
     "name": "volleyball",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/volleyball.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/volleyball.webp",
+    "tgs_path": "models/bow_tie/volleyball.tgs",
+    "webp_path": "models/bow_tie/volleyball.webp",
     "custom_emoji_id": "5882052879757352058",
     "model_id": "5418175830306087396"
   },
   {
     "name": "billiards",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/billiards.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/billiards.webp",
+    "tgs_path": "models/bow_tie/billiards.tgs",
+    "webp_path": "models/bow_tie/billiards.webp",
     "custom_emoji_id": "5882215384139964345",
     "model_id": "5418255613618579680"
   },
   {
     "name": "utyan",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/utyan.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/utyan.webp",
+    "tgs_path": "models/bow_tie/utyan.tgs",
+    "webp_path": "models/bow_tie/utyan.webp",
     "custom_emoji_id": "5882232808822284551",
     "model_id": "5418311181905457701"
   },
   {
     "name": "baby_yoda",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/baby_yoda.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/baby_yoda.webp",
+    "tgs_path": "models/bow_tie/baby_yoda.tgs",
+    "webp_path": "models/bow_tie/baby_yoda.webp",
     "custom_emoji_id": "5881732286218510110",
     "model_id": "5420097686437127275"
   },
   {
     "name": "dribble",
     "rarity_permille": 3.0,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/dribble.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/dribble.webp",
+    "tgs_path": "models/bow_tie/dribble.tgs",
+    "webp_path": "models/bow_tie/dribble.webp",
     "custom_emoji_id": "5881760796211420742",
     "model_id": "5420265482219447175"
   },
   {
     "name": "red_rose",
     "rarity_permille": 4.0,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/red_rose.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/red_rose.webp",
+    "tgs_path": "models/bow_tie/red_rose.tgs",
+    "webp_path": "models/bow_tie/red_rose.webp",
     "custom_emoji_id": "5881963226610016824",
     "model_id": "5420266332622975183"
   },
   {
     "name": "chebu",
     "rarity_permille": 1.0,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/chebu.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/chebu.webp",
+    "tgs_path": "models/bow_tie/chebu.tgs",
+    "webp_path": "models/bow_tie/chebu.webp",
     "custom_emoji_id": "5882207047608443647",
     "model_id": "5420578035579512436"
   },
   {
     "name": "despicable",
     "rarity_permille": 2.0,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/despicable.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/despicable.webp",
+    "tgs_path": "models/bow_tie/despicable.tgs",
+    "webp_path": "models/bow_tie/despicable.webp",
     "custom_emoji_id": "5882061860533969348",
     "model_id": "5429434275323736073"
   },
   {
     "name": "firefly",
     "rarity_permille": 0.5,
-    "tgs_path": "TG_Photos_repo/models/bow_tie/firefly.tgs",
-    "webp_path": "TG_Photos_repo/models/bow_tie/firefly.webp",
+    "tgs_path": "models/bow_tie/firefly.tgs",
+    "webp_path": "models/bow_tie/firefly.webp",
     "custom_emoji_id": "5882171360725180129",
     "model_id": "5440801035121620705"
   }
