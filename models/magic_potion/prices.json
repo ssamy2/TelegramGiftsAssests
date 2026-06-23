@@ -1,16 +1,16 @@
 {
   "backdrops": {
     "Emerald": 2.43,
-    "Roman Silver": 2.44,
+    "Roman Silver": 2.43,
     "French Blue": 2.46,
     "Sapphire": 2.48,
-    "Persimmon": 2.44,
-    "Platinum": 2.43,
-    "Silver Blue": 2.46,
+    "Persimmon": 2.46,
+    "Platinum": 2.44,
+    "Silver Blue": 2.44,
     "Coral Red": 2.47,
-    "Sky Blue": 2.46,
+    "Sky Blue": 2.47,
     "Cobalt Blue": 2.45,
-    "Pure Gold": 2.4,
+    "Pure Gold": 2.45,
     "Purple": 2.42,
     "Khaki Green": 2.47,
     "Midnight Blue": 85.0,
@@ -22,7 +22,7 @@
     "Malachite": 2.41,
     "Pacific Cyan": 2.45,
     "Moonstone": 2.46,
-    "Dark Lilac": 2.42,
+    "Dark Lilac": 2.46,
     "Cyberpunk": 2.44,
     "Lemongrass": 2.46,
     "Shamrock Green": 2.44,
@@ -36,7 +36,7 @@
     "Battleship Grey": 2.45,
     "Turquoise": 2.43,
     "Electric Indigo": 2.44,
-    "Carrot Juice": 2.46,
+    "Carrot Juice": 2.45,
     "Desert Sand": 2.46,
     "Mystic Pearl": 2.43,
     "Navy Blue": 2.46,
@@ -56,7 +56,7 @@
     "Strawberry": 2.43,
     "Grape": 2.48,
     "Lavender": 2.42,
-    "Azure Blue": 2.46,
+    "Azure Blue": 2.45,
     "Copper": 2.43,
     "Black": 999.0,
     "Onyx Black": 310.0
@@ -116,7 +116,7 @@
     "Magic Wand": 55.44,
     "Maple": 399.0,
     "Mask": 57.0,
-    "Moon Eagle": 86.27,
+    "Moon Eagle": 86.26,
     "Moon": 48.0,
     "Mushroom": 55.0,
     "Nice Ghost": 45.0,
@@ -206,5 +206,5 @@
     "Wicked Melon": 46.0,
     "Goth Sweat": 100.0
   },
-  "last_updated": 1782183955
+  "last_updated": 1782186505
 }
