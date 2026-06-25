@@ -1,0 +1,220 @@
+{
+  "decisions": [
+    {
+      "kind": "missing_prices_without_source",
+      "target": "TG_Photos_repo/models/durovs_cap/prices.json",
+      "decision": "provide_price_source",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "legacy_regular_ids",
+      "target": "upgraded[47] khabibs_papakha",
+      "decision": "delete_catalog_entry",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "stale_or_unverified_regular_id",
+      "target": "upgraded[47] khabibs_papakha",
+      "decision": "delete_catalog_entry",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "legacy_regular_ids",
+      "target": "upgraded[98] ufc_strike",
+      "decision": "delete_catalog_entry",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "stale_or_unverified_regular_id",
+      "target": "upgraded[98] ufc_strike",
+      "decision": "delete_catalog_entry",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/models/b-day_candle",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/models/durov’s_cap",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/models/jack-in-the-box",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/tgs/by_name/bird_mark.tgs",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/tgs/by_name/cream_icecream.tgs",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/tgs/by_name/lamp_candle.tgs",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/tgs/by_name/mask.tgs",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/tgs/by_name/surfboard.tgs",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/tgs/by_name/upgraded_backpack.tgs",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/tgs/by_name/upgraded_eagle.tgs",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/tgs/by_name/upgraded_torch.tgs",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/webp/by_name/backpack.webp",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/webp/by_name/bird_mark.webp",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/webp/by_name/book.webp",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/webp/by_name/cone_icecream.webp",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/webp/by_name/cream_icecream.webp",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/webp/by_name/durovs_statuette.webp",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/webp/by_name/eagle.webp",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/webp/by_name/golden_medal.webp",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/webp/by_name/grave.webp",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/webp/by_name/lamp_candle.webp",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/webp/by_name/mask.webp",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/webp/by_name/pink_flamingo.webp",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/webp/by_name/sneakers.webp",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/webp/by_name/surfboard.webp",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/webp/by_name/torch.webp",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/webp/by_name/tshirt.webp",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/webp/by_name/ufc_box.webp",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/webp/by_name/upgraded_backpack.webp",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/webp/by_name/upgraded_eagle.webp",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    },
+    {
+      "kind": "unowned_orphan_asset",
+      "target": "TG_Photos_repo/webp/by_name/upgraded_torch.webp",
+      "decision": "delete_path",
+      "note": "Approved via automated script"
+    }
+  ]
+}

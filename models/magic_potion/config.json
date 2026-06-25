@@ -4,375 +4,382 @@
     "rarity_permille": 2.5,
     "tgs_path": "models/magic_potion/saltwater.tgs",
     "webp_path": "models/magic_potion/saltwater.webp",
-    "custom_emoji_id": "5884285635686047306",
-    "model_id": "5393244494340580496"
+    "model_id": "5393244494340580496",
+    "custom_emoji_id": "5884285635686047306"
   },
   {
     "name": "chromatica",
     "rarity_permille": 2.0,
     "tgs_path": "models/magic_potion/chromatica.tgs",
     "webp_path": "models/magic_potion/chromatica.webp",
-    "custom_emoji_id": "5881889778374288110",
-    "model_id": "5393328860383177726"
+    "model_id": "5393328860383177726",
+    "custom_emoji_id": "5881889778374288110"
   },
   {
     "name": "the_blues",
     "rarity_permille": 3.0,
     "tgs_path": "models/magic_potion/the_blues.tgs",
     "webp_path": "models/magic_potion/the_blues.webp",
-    "custom_emoji_id": "5883968645624767781",
-    "model_id": "5395387494042723296"
+    "model_id": "5395387494042723296",
+    "custom_emoji_id": "5883968645624767781"
   },
   {
     "name": "mad_magenta",
     "rarity_permille": 3.0,
     "tgs_path": "models/magic_potion/mad_magenta.tgs",
     "webp_path": "models/magic_potion/mad_magenta.webp",
-    "custom_emoji_id": "5882226052838727779",
-    "model_id": "5395390766807802294"
+    "model_id": "5395390766807802294",
+    "custom_emoji_id": "5882226052838727779"
   },
   {
     "name": "agent_orange",
     "rarity_permille": 2.5,
     "tgs_path": "models/magic_potion/agent_orange.tgs",
     "webp_path": "models/magic_potion/agent_orange.webp",
-    "custom_emoji_id": "5881922218262273627",
-    "model_id": "5395568466784709288"
+    "model_id": "5395568466784709288",
+    "custom_emoji_id": "5881922218262273627"
   },
   {
     "name": "red_rum",
     "rarity_permille": 2.0,
     "tgs_path": "models/magic_potion/red_rum.tgs",
     "webp_path": "models/magic_potion/red_rum.webp",
-    "custom_emoji_id": "5884216864669703146",
-    "model_id": "5395575463286429068"
+    "model_id": "5395575463286429068",
+    "custom_emoji_id": "5884216864669703146"
   },
   {
     "name": "twilight",
     "rarity_permille": 2.5,
     "tgs_path": "models/magic_potion/twilight.tgs",
     "webp_path": "models/magic_potion/twilight.webp",
-    "custom_emoji_id": "5882169492414406104",
-    "model_id": "5395610514514535868"
+    "model_id": "5395610514514535868",
+    "custom_emoji_id": "5882169492414406104"
   },
   {
     "name": "pink_poultice",
     "rarity_permille": 3.0,
     "tgs_path": "models/magic_potion/pink_poultice.tgs",
     "webp_path": "models/magic_potion/pink_poultice.webp",
-    "custom_emoji_id": "5882099763620355780",
-    "model_id": "5395624997144255311"
+    "model_id": "5395624997144255311",
+    "custom_emoji_id": "5882099763620355780"
   },
   {
     "name": "black_bile",
     "rarity_permille": 3.0,
     "tgs_path": "models/magic_potion/black_bile.tgs",
     "webp_path": "models/magic_potion/black_bile.webp",
-    "custom_emoji_id": "5882087840791143071",
-    "model_id": "5395753717314117426"
+    "model_id": "5395753717314117426",
+    "custom_emoji_id": "5882087840791143071"
   },
   {
     "name": "quicksilver",
     "rarity_permille": 2.0,
     "tgs_path": "models/magic_potion/quicksilver.tgs",
     "webp_path": "models/magic_potion/quicksilver.webp",
-    "custom_emoji_id": "5881707401177997157",
-    "model_id": "5395813365819926654"
+    "model_id": "5395813365819926654",
+    "custom_emoji_id": "5881707401177997157"
   },
   {
     "name": "turning_blue",
     "rarity_permille": 2.5,
     "tgs_path": "models/magic_potion/turning_blue.tgs",
     "webp_path": "models/magic_potion/turning_blue.webp",
-    "custom_emoji_id": "5882244559852805868",
-    "model_id": "5397567387513938549"
+    "model_id": "5397567387513938549",
+    "custom_emoji_id": "5882244559852805868"
   },
   {
     "name": "dark_side",
     "rarity_permille": 2.5,
     "tgs_path": "models/magic_potion/dark_side.tgs",
     "webp_path": "models/magic_potion/dark_side.webp",
-    "custom_emoji_id": "5881820994473041383",
-    "model_id": "5397669796714144829"
+    "model_id": "5397669796714144829",
+    "custom_emoji_id": "5881820994473041383"
   },
   {
     "name": "green_goo",
     "rarity_permille": 3.5,
     "tgs_path": "models/magic_potion/green_goo.tgs",
     "webp_path": "models/magic_potion/green_goo.webp",
-    "custom_emoji_id": "5882174418741894795",
-    "model_id": "5397741020156814438"
+    "model_id": "5397741020156814438",
+    "custom_emoji_id": "5882174418741894795"
   },
   {
     "name": "warm_embrace",
     "rarity_permille": 3.0,
     "tgs_path": "models/magic_potion/warm_embrace.tgs",
     "webp_path": "models/magic_potion/warm_embrace.webp",
-    "custom_emoji_id": "5882109551850822802",
-    "model_id": "5397788754423343216"
+    "model_id": "5397788754423343216",
+    "custom_emoji_id": "5882109551850822802"
   },
   {
     "name": "angry_amethyst",
     "rarity_permille": 2.5,
     "tgs_path": "models/magic_potion/angry_amethyst.tgs",
     "webp_path": "models/magic_potion/angry_amethyst.webp",
-    "custom_emoji_id": "5881760916470505409",
-    "model_id": "5397828302482201462"
+    "model_id": "5397828302482201462",
+    "custom_emoji_id": "5881760916470505409"
   },
   {
     "name": "fool’s_gold",
     "rarity_permille": 2.0,
     "tgs_path": "models/magic_potion/fool’s_gold.tgs",
     "webp_path": "models/magic_potion/fool’s_gold.webp",
-    "custom_emoji_id": "5882056045148249421",
-    "model_id": "5397890880155707973"
+    "model_id": "5397890880155707973",
+    "custom_emoji_id": "5882056045148249421"
   },
   {
     "name": "liquid_death",
     "rarity_permille": 2.5,
     "tgs_path": "models/magic_potion/liquid_death.tgs",
     "webp_path": "models/magic_potion/liquid_death.webp",
-    "custom_emoji_id": "5881752867701792889",
-    "model_id": "5397968069307949381"
+    "model_id": "5397968069307949381",
+    "custom_emoji_id": "5881752867701792889"
   },
   {
     "name": "dark_secret",
     "rarity_permille": 2.5,
     "tgs_path": "models/magic_potion/dark_secret.tgs",
     "webp_path": "models/magic_potion/dark_secret.webp",
-    "custom_emoji_id": "5881754220616491256",
-    "model_id": "5397996523466284889"
+    "model_id": "5397996523466284889",
+    "custom_emoji_id": "5881754220616491256"
   },
   {
     "name": "color_drain",
     "rarity_permille": 2.0,
     "tgs_path": "models/magic_potion/color_drain.tgs",
     "webp_path": "models/magic_potion/color_drain.webp",
-    "custom_emoji_id": "5881926242646630317",
-    "model_id": "5398015150739447811"
+    "model_id": "5398015150739447811",
+    "custom_emoji_id": "5881926242646630317"
   },
   {
     "name": "cold_night",
     "rarity_permille": 2.5,
     "tgs_path": "models/magic_potion/cold_night.tgs",
     "webp_path": "models/magic_potion/cold_night.webp",
-    "custom_emoji_id": "5884278841047784602",
-    "model_id": "5398032266184119813"
+    "model_id": "5398032266184119813",
+    "custom_emoji_id": "5884278841047784602"
   },
   {
     "name": "dimensional",
     "rarity_permille": 2.5,
     "tgs_path": "models/magic_potion/dimensional.tgs",
     "webp_path": "models/magic_potion/dimensional.webp",
-    "custom_emoji_id": "5881794125157637369",
-    "model_id": "5398095363548668030"
+    "model_id": "5398095363548668030",
+    "custom_emoji_id": "5881794125157637369"
   },
   {
     "name": "blue_lagoon",
     "rarity_permille": 2.5,
     "tgs_path": "models/magic_potion/blue_lagoon.tgs",
     "webp_path": "models/magic_potion/blue_lagoon.webp",
-    "custom_emoji_id": "5884365706761346735",
-    "model_id": "5398115043088820666"
+    "model_id": "5398115043088820666",
+    "custom_emoji_id": "5884365706761346735"
   },
   {
     "name": "purple_rain",
     "rarity_permille": 2.5,
     "tgs_path": "models/magic_potion/purple_rain.tgs",
     "webp_path": "models/magic_potion/purple_rain.webp",
-    "custom_emoji_id": "5882076244379443088",
-    "model_id": "5398120441862710563"
+    "model_id": "5398120441862710563",
+    "custom_emoji_id": "5882076244379443088"
   },
   {
     "name": "queen_bee",
     "rarity_permille": 1.5,
     "tgs_path": "models/magic_potion/queen_bee.tgs",
     "webp_path": "models/magic_potion/queen_bee.webp",
-    "custom_emoji_id": "5882115238387522419",
-    "model_id": "5409272126878279484"
+    "model_id": "5409272126878279484",
+    "custom_emoji_id": "5882115238387522419"
   },
   {
     "name": "moonlight",
     "rarity_permille": 1.5,
     "tgs_path": "models/magic_potion/moonlight.tgs",
     "webp_path": "models/magic_potion/moonlight.webp",
-    "custom_emoji_id": "5882080118439943519",
-    "model_id": "5411281724896209749"
+    "model_id": "5411281724896209749",
+    "custom_emoji_id": "5882080118439943519"
   },
   {
     "name": "poison_toad",
     "rarity_permille": 2.0,
     "tgs_path": "models/magic_potion/poison_toad.tgs",
     "webp_path": "models/magic_potion/poison_toad.webp",
-    "custom_emoji_id": "5883986800451526373",
-    "model_id": "5411405475788944497"
+    "model_id": "5411405475788944497",
+    "custom_emoji_id": "5883986800451526373"
   },
   {
     "name": "star_power",
     "rarity_permille": 1.5,
     "tgs_path": "models/magic_potion/star_power.tgs",
     "webp_path": "models/magic_potion/star_power.webp",
-    "custom_emoji_id": "5882079491374720505",
-    "model_id": "5413786648607486834"
+    "model_id": "5413786648607486834",
+    "custom_emoji_id": "5882079491374720505"
   },
   {
     "name": "hemlock",
     "rarity_permille": 2.0,
     "tgs_path": "models/magic_potion/hemlock.tgs",
     "webp_path": "models/magic_potion/hemlock.webp",
-    "custom_emoji_id": "5882199797703647025",
-    "model_id": "5413887945411159101"
+    "model_id": "5413887945411159101",
+    "custom_emoji_id": "5882199797703647025"
   },
   {
     "name": "error_elixir",
     "rarity_permille": 1.0,
     "tgs_path": "models/magic_potion/error_elixir.tgs",
     "webp_path": "models/magic_potion/error_elixir.webp",
-    "custom_emoji_id": "5881883812664713334",
-    "model_id": "5424860955492248164"
+    "model_id": "5424860955492248164",
+    "custom_emoji_id": "5881883812664713334"
   },
   {
     "name": "starsurge",
     "rarity_permille": 2.0,
     "tgs_path": "models/magic_potion/starsurge.tgs",
     "webp_path": "models/magic_potion/starsurge.webp",
-    "custom_emoji_id": "5884405254820208225",
-    "model_id": "5427161219716898320"
+    "model_id": "5427161219716898320",
+    "custom_emoji_id": "5884405254820208225"
   },
   {
     "name": "heartbreaker",
     "rarity_permille": 2.0,
     "tgs_path": "models/magic_potion/heartbreaker.tgs",
     "webp_path": "models/magic_potion/heartbreaker.webp",
-    "custom_emoji_id": "5884340263375084761",
-    "model_id": "5427307248604964056"
+    "model_id": "5427307248604964056",
+    "custom_emoji_id": "5884340263375084761"
   },
   {
     "name": "gold_medal",
     "rarity_permille": 1.0,
     "tgs_path": "models/magic_potion/gold_medal.tgs",
     "webp_path": "models/magic_potion/gold_medal.webp",
-    "custom_emoji_id": "5882001752466661625",
-    "model_id": "5427320597363318882"
+    "model_id": "5427320597363318882",
+    "custom_emoji_id": "5882001752466661625"
   },
   {
     "name": "anaglyph",
     "rarity_permille": 1.5,
     "tgs_path": "models/magic_potion/anaglyph.tgs",
     "webp_path": "models/magic_potion/anaglyph.webp",
-    "custom_emoji_id": "5881869819661261940",
-    "model_id": "5431344874345489231"
+    "model_id": "5431344874345489231",
+    "custom_emoji_id": "5881869819661261940"
   },
   {
     "name": "goth_sweat",
     "rarity_permille": 1.0,
     "tgs_path": "models/magic_potion/goth_sweat.tgs",
     "webp_path": "models/magic_potion/goth_sweat.webp",
-    "custom_emoji_id": "5881760250750576603",
-    "model_id": "5431382708712397658"
+    "model_id": "5431382708712397658",
+    "custom_emoji_id": "5881760250750576603"
   },
   {
     "name": "rewind",
     "rarity_permille": 2.0,
     "tgs_path": "models/magic_potion/rewind.tgs",
     "webp_path": "models/magic_potion/rewind.webp",
-    "custom_emoji_id": "5882030606056956104",
-    "model_id": "5431432045001726415"
+    "model_id": "5431432045001726415",
+    "custom_emoji_id": "5882030606056956104"
   },
   {
     "name": "unicorn_blood",
     "rarity_permille": 1.5,
     "tgs_path": "models/magic_potion/unicorn_blood.tgs",
     "webp_path": "models/magic_potion/unicorn_blood.webp",
-    "custom_emoji_id": "5881892028937149984",
-    "model_id": "5431462242916789350"
+    "model_id": "5431462242916789350",
+    "custom_emoji_id": "5881892028937149984"
   },
   {
     "name": "vulnerability",
     "rarity_permille": 1.5,
     "tgs_path": "models/magic_potion/vulnerability.tgs",
     "webp_path": "models/magic_potion/vulnerability.webp",
-    "custom_emoji_id": "5882129643707834289",
-    "model_id": "5431485233876721301"
+    "model_id": "5431485233876721301",
+    "custom_emoji_id": "5882129643707834289"
   },
   {
     "name": "wicked_melon",
     "rarity_permille": 2.5,
     "tgs_path": "models/magic_potion/wicked_melon.tgs",
     "webp_path": "models/magic_potion/wicked_melon.webp",
-    "custom_emoji_id": "5884005170026651949",
-    "model_id": "5431504123142890731"
+    "model_id": "5431504123142890731",
+    "custom_emoji_id": "5884005170026651949"
   },
   {
     "name": "overcharge",
     "rarity_permille": 1.0,
     "tgs_path": "models/magic_potion/overcharge.tgs",
     "webp_path": "models/magic_potion/overcharge.webp",
-    "custom_emoji_id": "5884381722694392349",
-    "model_id": "5431508491124631167"
+    "model_id": "5431508491124631167",
+    "custom_emoji_id": "5884381722694392349"
+  },
+  {
+    "name": "deep_freeze",
+    "rarity_permille": 1.0,
+    "tgs_path": "models/magic_potion/deep_freeze.tgs",
+    "webp_path": "models/magic_potion/deep_freeze.webp",
+    "model_id": "5431583146246168918"
   },
   {
     "name": "bloodlust",
     "rarity_permille": 1.5,
     "tgs_path": "models/magic_potion/bloodlust.tgs",
     "webp_path": "models/magic_potion/bloodlust.webp",
-    "custom_emoji_id": "5883953273936813216",
-    "model_id": "5431619361410410411"
+    "model_id": "5431619361410410411",
+    "custom_emoji_id": "5883953273936813216"
   },
   {
     "name": "verdant_vial",
     "rarity_permille": 1.5,
     "tgs_path": "models/magic_potion/verdant_vial.tgs",
     "webp_path": "models/magic_potion/verdant_vial.webp",
-    "custom_emoji_id": "5882049310639529898",
-    "model_id": "5431742176000240420"
+    "model_id": "5431742176000240420",
+    "custom_emoji_id": "5882049310639529898"
   },
   {
     "name": "spooky_juice",
     "rarity_permille": 1.0,
     "tgs_path": "models/magic_potion/spooky_juice.tgs",
     "webp_path": "models/magic_potion/spooky_juice.webp",
-    "custom_emoji_id": "5882202194295399053",
-    "model_id": "5431763908534756670"
+    "model_id": "5431763908534756670",
+    "custom_emoji_id": "5882202194295399053"
   },
   {
     "name": "mummify",
     "rarity_permille": 2.0,
     "tgs_path": "models/magic_potion/mummify.tgs",
     "webp_path": "models/magic_potion/mummify.webp",
-    "custom_emoji_id": "5881913774356573561",
-    "model_id": "5431819902023391834"
+    "model_id": "5431819902023391834",
+    "custom_emoji_id": "5881913774356573561"
   },
   {
     "name": "emerald_elixir",
     "rarity_permille": 1.5,
     "tgs_path": "models/magic_potion/emerald_elixir.tgs",
     "webp_path": "models/magic_potion/emerald_elixir.webp",
-    "custom_emoji_id": "5882211376935478098",
-    "model_id": "5431829192037656134"
+    "model_id": "5431829192037656134",
+    "custom_emoji_id": "5882211376935478098"
   },
   {
     "name": "false_flight",
     "rarity_permille": 1.5,
     "tgs_path": "models/magic_potion/false_flight.tgs",
     "webp_path": "models/magic_potion/false_flight.webp",
-    "custom_emoji_id": "5881761483406187404",
-    "model_id": "5431874482467790298"
+    "model_id": "5431874482467790298",
+    "custom_emoji_id": "5881761483406187404"
   },
   {
     "name": "supernova",
     "rarity_permille": 2.0,
     "tgs_path": "models/magic_potion/supernova.tgs",
     "webp_path": "models/magic_potion/supernova.webp",
-    "custom_emoji_id": "5881830817063248336",
-    "model_id": "5431881397365138866"
+    "model_id": "5431881397365138866",
+    "custom_emoji_id": "5881830817063248336"
   },
   {
     "name": "on_pause",
     "rarity_permille": 1.5,
     "tgs_path": "models/magic_potion/on_pause.tgs",
     "webp_path": "models/magic_potion/on_pause.webp",
-    "custom_emoji_id": "5881845475786629577",
-    "model_id": "5433800951393704886"
+    "model_id": "5433800951393704886",
+    "custom_emoji_id": "5881845475786629577"
   }
 ]

@@ -1,0 +1,95 @@
+{
+  "items": [
+    {
+      "kind": "missing_prices_without_source",
+      "target": "TG_Photos_repo/models/durovs_cap/prices.json",
+      "reason": "prices.json is missing and no local price cache is available to rebuild it",
+      "evidence": "Telegram proves identity but does not provide market prices",
+      "recommendation": "Provide or approve a trusted local price source before rebuilding prices.json.",
+      "allowed_decisions": [
+        "provide_price_source"
+      ],
+      "blocking": true,
+      "payload": {
+        "regular_id": "5915521180483191380",
+        "short_name": "durovs_cap"
+      }
+    },
+    {
+      "kind": "missing_sticker_set_verification",
+      "target": "TG_Photos_repo/models/electric_skull/config.json",
+      "reason": "expected model sticker set is missing or unreadable; custom emoji mapping cannot be verified",
+      "evidence": "Expected sticker set g_5846192273657692751_8650527575_Sami3d_main",
+      "recommendation": "Approve a manual sticker-set rebuild or provide the missing local model TGS files.",
+      "allowed_decisions": [
+        "defer"
+      ],
+      "blocking": true,
+      "payload": {
+        "index": 18,
+        "short_name": "electric_skull"
+      }
+    },
+    {
+      "kind": "missing_sticker_set_verification",
+      "target": "TG_Photos_repo/models/gem_signet/config.json",
+      "reason": "expected model sticker set is missing or unreadable; custom emoji mapping cannot be verified",
+      "evidence": "Expected sticker set g_5859442703032386168_8650527575_Sami3d_main",
+      "recommendation": "Approve a manual sticker-set rebuild or provide the missing local model TGS files.",
+      "allowed_decisions": [
+        "defer"
+      ],
+      "blocking": true,
+      "payload": {
+        "index": 25,
+        "short_name": "gem_signet"
+      }
+    },
+    {
+      "kind": "stale_or_unverified_regular_id",
+      "target": "upgraded[47] khabibs_papakha",
+      "reason": "regular_id is not active/upgradable in Telegram catalog",
+      "evidence": "Telegram full sync has no active upgraded metadata for this regular_id",
+      "recommendation": "Approve deletion or archival of this catalog row because Telegram no longer proves it as active.",
+      "allowed_decisions": [
+        "delete_catalog_entry",
+        "archive_catalog_entry"
+      ],
+      "blocking": true,
+      "payload": {
+        "regular_id": "5839094187366024301"
+      }
+    },
+    {
+      "kind": "missing_sticker_set_verification",
+      "target": "TG_Photos_repo/models/perfume_bottle/config.json",
+      "reason": "expected model sticker set is missing or unreadable; custom emoji mapping cannot be verified",
+      "evidence": "Expected sticker set g_5913517067138499193_8650527575_Sami3d_main",
+      "recommendation": "Approve a manual sticker-set rebuild or provide the missing local model TGS files.",
+      "allowed_decisions": [
+        "defer"
+      ],
+      "blocking": true,
+      "payload": {
+        "index": 67,
+        "short_name": "perfume_bottle"
+      }
+    },
+    {
+      "kind": "stale_or_unverified_regular_id",
+      "target": "upgraded[98] ufc_strike",
+      "reason": "regular_id is not active/upgradable in Telegram catalog",
+      "evidence": "Telegram full sync has no active upgraded metadata for this regular_id",
+      "recommendation": "Approve deletion or archival of this catalog row because Telegram no longer proves it as active.",
+      "allowed_decisions": [
+        "delete_catalog_entry",
+        "archive_catalog_entry"
+      ],
+      "blocking": true,
+      "payload": {
+        "regular_id": "5882260270843168924"
+      }
+    }
+  ],
+  "blocking_count": 6
+}

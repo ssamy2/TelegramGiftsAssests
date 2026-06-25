@@ -1,0 +1,546 @@
+[
+  {
+    "name": "Mittens",
+    "rarity_percent": 0.4
+  },
+  {
+    "name": "Hot Drink",
+    "rarity_percent": 0.6
+  },
+  {
+    "name": "Snowman",
+    "rarity_percent": 0.4
+  },
+  {
+    "name": "Festive Wreath",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "New Year’s Eve",
+    "rarity_percent": 0.6
+  },
+  {
+    "name": "Stocking",
+    "rarity_percent": 0.6
+  },
+  {
+    "name": "Ice Skates",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Cookie",
+    "rarity_percent": 0.6
+  },
+  {
+    "name": "Bowtie",
+    "rarity_percent": 0.6
+  },
+  {
+    "name": "Santa Hat",
+    "rarity_percent": 0.6
+  },
+  {
+    "name": "Winter House",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Jingle Bell",
+    "rarity_percent": 0.6
+  },
+  {
+    "name": "Mistletoe",
+    "rarity_percent": 0.4
+  },
+  {
+    "name": "Fireworks",
+    "rarity_percent": 0.6
+  },
+  {
+    "name": "Takoyaki",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Teru Bōzu",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Lotus Flower",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Onigiri",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Twin Koi",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Cowboy Hat",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Academic Cap",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Police Hat",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Snow Angel",
+    "rarity_percent": 0.6
+  },
+  {
+    "name": "Rudolph",
+    "rarity_percent": 0.4
+  },
+  {
+    "name": "Turban",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Tricorne",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Sailor Hat",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Straw Hat",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Steampunk Hat",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Winged Helmet",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Gua Pi Mao",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Propeller Cap",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Winter Hat",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Fedora",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Elf Hat",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Cavalier Hat",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Nemes",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Pith Helmet",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Star",
+    "rarity_percent": 0.6
+  },
+  {
+    "name": "Candy",
+    "rarity_percent": 0.6
+  },
+  {
+    "name": "Magic Wand",
+    "rarity_percent": 0.4
+  },
+  {
+    "name": "Chest",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Bottle",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Cocktail",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Corn",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Hermit Shell",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Dessert",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Wolf Rage",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Handset",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Jellyfish",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Toy Bucket",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Cherry",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Hand of God",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Coin Purse",
+    "rarity_percent": 0.6
+  },
+  {
+    "name": "Burger",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Tooth",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Piggy Bank",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Shooting Star",
+    "rarity_percent": 0.4
+  },
+  {
+    "name": "Ice Pop",
+    "rarity_percent": 0.6
+  },
+  {
+    "name": "Brain",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Potion",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Pizza Slice",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Cupcake",
+    "rarity_percent": 0.6
+  },
+  {
+    "name": "Gingerbread",
+    "rarity_percent": 0.4
+  },
+  {
+    "name": "Christmas Tree",
+    "rarity_percent": 0.4
+  },
+  {
+    "name": "Ornament",
+    "rarity_percent": 0.6
+  },
+  {
+    "name": "Snowflake",
+    "rarity_percent": 0.4
+  },
+  {
+    "name": "Pawn",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Gift Box",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Lion Head",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Knight",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Gamepad",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Book",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Crystal Ball",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Koala",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Illuminati",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Unicorn Head",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Gold",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Rain Drop",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Lemon Slice",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Sparks",
+    "rarity_percent": 0.6
+  },
+  {
+    "name": "PC Mouse",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Flashlight",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Mushroom",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Ball",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Diamonds",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Love Letter",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Champagne",
+    "rarity_percent": 0.6
+  },
+  {
+    "name": "Spades",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Wreath",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Twin Peaks",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Love Lock",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Turkey",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Coconut",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Shield",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Ouroboros",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Owl",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Candle",
+    "rarity_percent": 0.6
+  },
+  {
+    "name": "Red Deer",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Peace Dove",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Aztec Totem",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Silver Ibis",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Anubis",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "All-Seeing Eye",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Tiki Mask",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Lion of Babylon",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Fried Egg",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Thunderbird",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Jolly Roger",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Viking Shield",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Jörmungandr",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Flower Sun",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Hourglass",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Wontons",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Hazelnut",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Mustache",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Worker Ant",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Horn",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Jewel",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Crystal",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Telescope",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Iron Helmet",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Galaxy",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Arcane Mirror",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Magic Vial",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Pumpkin Coach",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Doberman",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Okami Wolf",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Flower Cross",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Nordic Wolf",
+    "rarity_percent": 0.6
+  },
+  {
+    "name": "Eikthyrnir",
+    "rarity_percent": 0.6
+  },
+  {
+    "name": "Tribal Shield",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "White Deer",
+    "rarity_percent": 0.4
+  },
+  {
+    "name": "Pegasus",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Yogi Shaman",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Bull of Heaven",
+    "rarity_percent": 0.8
+  }
+]

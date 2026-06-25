@@ -4,335 +4,342 @@
     "rarity_permille": 2.0,
     "tgs_path": "models/gem_signet/bloodstone.tgs",
     "webp_path": "models/gem_signet/bloodstone.webp",
-    "custom_emoji_id": "5882222006979536263",
-    "model_id": "5375055028669147853"
+    "model_id": "5375055028669147853",
+    "custom_emoji_id": "5882222006979536263"
   },
   {
     "name": "event_horizon",
     "rarity_permille": 0.5,
     "tgs_path": "models/gem_signet/event_horizon.tgs",
     "webp_path": "models/gem_signet/event_horizon.webp",
-    "custom_emoji_id": "5881783705566977933",
-    "model_id": "5375079394018618845"
+    "model_id": "5375079394018618845",
+    "custom_emoji_id": "5881783705566977933"
   },
   {
     "name": "amethyst",
     "rarity_permille": 4.0,
     "tgs_path": "models/gem_signet/amethyst.tgs",
     "webp_path": "models/gem_signet/amethyst.webp",
-    "custom_emoji_id": "5882197194953465402",
-    "model_id": "5375092145776522095"
+    "model_id": "5375092145776522095",
+    "custom_emoji_id": "5882197194953465402"
   },
   {
     "name": "water_lily",
     "rarity_permille": 0.3,
     "tgs_path": "models/gem_signet/water_lily.tgs",
     "webp_path": "models/gem_signet/water_lily.webp",
-    "custom_emoji_id": "5882159644054396923",
-    "model_id": "5375126230636982032"
+    "model_id": "5375126230636982032",
+    "custom_emoji_id": "5882159644054396923"
   },
   {
     "name": "timekeeper",
     "rarity_permille": 0.5,
     "tgs_path": "models/gem_signet/timekeeper.tgs",
     "webp_path": "models/gem_signet/timekeeper.webp",
-    "custom_emoji_id": "5881808977154546397",
-    "model_id": "5375129778279968773"
+    "model_id": "5375129778279968773",
+    "custom_emoji_id": "5881808977154546397"
   },
   {
     "name": "love_seal",
     "rarity_permille": 0.2,
     "tgs_path": "models/gem_signet/love_seal.tgs",
     "webp_path": "models/gem_signet/love_seal.webp",
-    "custom_emoji_id": "5884068477844594902",
-    "model_id": "5375148444207838025"
+    "model_id": "5375148444207838025",
+    "custom_emoji_id": "5884068477844594902"
   },
   {
     "name": "ogre’s_kiss",
     "rarity_permille": 4.0,
     "tgs_path": "models/gem_signet/ogre’s_kiss.tgs",
     "webp_path": "models/gem_signet/ogre’s_kiss.webp",
-    "custom_emoji_id": "5882203405476174641",
-    "model_id": "5375170125202746211"
+    "model_id": "5375170125202746211",
+    "custom_emoji_id": "5882203405476174641"
   },
   {
     "name": "sentry_turret",
     "rarity_permille": 1.5,
     "tgs_path": "models/gem_signet/sentry_turret.tgs",
     "webp_path": "models/gem_signet/sentry_turret.webp",
-    "custom_emoji_id": "5881788193807802001",
-    "model_id": "5375208341821747777"
+    "model_id": "5375208341821747777",
+    "custom_emoji_id": "5881788193807802001"
   },
   {
     "name": "old_bronze",
     "rarity_permille": 3.5,
     "tgs_path": "models/gem_signet/old_bronze.tgs",
     "webp_path": "models/gem_signet/old_bronze.webp",
-    "custom_emoji_id": "5881790908227133103",
-    "model_id": "5375227368526867792"
+    "model_id": "5375227368526867792",
+    "custom_emoji_id": "5881790908227133103"
   },
   {
     "name": "bubble_queen",
     "rarity_permille": 0.2,
     "tgs_path": "models/gem_signet/bubble_queen.tgs",
     "webp_path": "models/gem_signet/bubble_queen.webp",
-    "custom_emoji_id": "5881770687521103785",
-    "model_id": "5375245626432853430"
+    "model_id": "5375245626432853430",
+    "custom_emoji_id": "5881770687521103785"
   },
   {
     "name": "fading_crown",
     "rarity_permille": 1.5,
     "tgs_path": "models/gem_signet/fading_crown.tgs",
     "webp_path": "models/gem_signet/fading_crown.webp",
-    "custom_emoji_id": "5884068486434528469",
-    "model_id": "5375247898470544118"
+    "model_id": "5375247898470544118",
+    "custom_emoji_id": "5884068486434528469"
   },
   {
     "name": "blood_opal",
     "rarity_permille": 1.5,
     "tgs_path": "models/gem_signet/blood_opal.tgs",
     "webp_path": "models/gem_signet/blood_opal.webp",
-    "custom_emoji_id": "5881983571870097559",
-    "model_id": "5375265808484166819"
+    "model_id": "5375265808484166819",
+    "custom_emoji_id": "5881983571870097559"
   },
   {
     "name": "death_star",
     "rarity_permille": 1.5,
     "tgs_path": "models/gem_signet/death_star.tgs",
     "webp_path": "models/gem_signet/death_star.webp",
-    "custom_emoji_id": "5882261460549115519",
-    "model_id": "5375294455916033272"
+    "model_id": "5375294455916033272",
+    "custom_emoji_id": "5882261460549115519"
   },
   {
     "name": "green_beryl",
     "rarity_permille": 4.2,
     "tgs_path": "models/gem_signet/green_beryl.tgs",
     "webp_path": "models/gem_signet/green_beryl.webp",
-    "custom_emoji_id": "5882052647829118412",
-    "model_id": "5375296496025499507"
+    "model_id": "5375296496025499507",
+    "custom_emoji_id": "5882052647829118412"
   },
   {
     "name": "dark_violet",
     "rarity_permille": 4.0,
     "tgs_path": "models/gem_signet/dark_violet.tgs",
     "webp_path": "models/gem_signet/dark_violet.webp",
-    "custom_emoji_id": "5884018286856772596",
-    "model_id": "5375303093095265238"
+    "model_id": "5375303093095265238",
+    "custom_emoji_id": "5884018286856772596"
   },
   {
     "name": "el_dorado",
     "rarity_permille": 0.5,
     "tgs_path": "models/gem_signet/el_dorado.tgs",
     "webp_path": "models/gem_signet/el_dorado.webp",
-    "custom_emoji_id": "5884452138683212181",
-    "model_id": "5375321282281762559"
+    "model_id": "5375321282281762559",
+    "custom_emoji_id": "5884452138683212181"
   },
   {
     "name": "helios",
     "rarity_permille": 5.0,
     "tgs_path": "models/gem_signet/helios.tgs",
     "webp_path": "models/gem_signet/helios.webp",
-    "custom_emoji_id": "5884202785766907035",
-    "model_id": "5375348993410757196"
+    "model_id": "5375348993410757196",
+    "custom_emoji_id": "5884202785766907035"
   },
   {
     "name": "sunstone",
     "rarity_permille": 0.3,
     "tgs_path": "models/gem_signet/sunstone.tgs",
     "webp_path": "models/gem_signet/sunstone.webp",
-    "custom_emoji_id": "5881969454312594636",
-    "model_id": "5375378263612877936"
+    "model_id": "5375378263612877936",
+    "custom_emoji_id": "5881969454312594636"
   },
   {
     "name": "dragon_soul",
     "rarity_permille": 0.3,
     "tgs_path": "models/gem_signet/dragon_soul.tgs",
     "webp_path": "models/gem_signet/dragon_soul.webp",
-    "custom_emoji_id": "5881822055329963779",
-    "model_id": "5375387807030209339"
+    "model_id": "5375387807030209339",
+    "custom_emoji_id": "5881822055329963779"
   },
   {
     "name": "elven_shade",
     "rarity_permille": 4.0,
     "tgs_path": "models/gem_signet/elven_shade.tgs",
     "webp_path": "models/gem_signet/elven_shade.webp",
-    "custom_emoji_id": "5882215663312838241",
-    "model_id": "5375392187896854684"
+    "model_id": "5375392187896854684",
+    "custom_emoji_id": "5882215663312838241"
   },
   {
     "name": "render",
     "rarity_permille": 3.0,
     "tgs_path": "models/gem_signet/render.tgs",
     "webp_path": "models/gem_signet/render.webp",
-    "custom_emoji_id": "5882124051660414935",
-    "model_id": "5375420719364602142"
+    "model_id": "5375420719364602142",
+    "custom_emoji_id": "5882124051660414935"
+  },
+  {
+    "name": "fire_stone",
+    "rarity_permille": 0.2,
+    "tgs_path": "models/gem_signet/fire_stone.tgs",
+    "webp_path": "models/gem_signet/fire_stone.webp",
+    "model_id": "5375443401086888815"
   },
   {
     "name": "brass_zircon",
     "rarity_permille": 3.5,
     "tgs_path": "models/gem_signet/brass_zircon.tgs",
     "webp_path": "models/gem_signet/brass_zircon.webp",
-    "custom_emoji_id": "5882206459197922487",
-    "model_id": "5375444603677731602"
+    "model_id": "5375444603677731602",
+    "custom_emoji_id": "5882206459197922487"
   },
   {
     "name": "paper_topaz",
     "rarity_permille": 0.3,
     "tgs_path": "models/gem_signet/paper_topaz.tgs",
     "webp_path": "models/gem_signet/paper_topaz.webp",
-    "custom_emoji_id": "5883996524257484549",
-    "model_id": "5375457875126677005"
+    "model_id": "5375457875126677005",
+    "custom_emoji_id": "5883996524257484549"
   },
   {
     "name": "malachite",
     "rarity_permille": 4.0,
     "tgs_path": "models/gem_signet/malachite.tgs",
     "webp_path": "models/gem_signet/malachite.webp",
-    "custom_emoji_id": "5883996670286372490",
-    "model_id": "5375473959779201867"
+    "model_id": "5375473959779201867",
+    "custom_emoji_id": "5883996670286372490"
   },
   {
     "name": "hot_cherry",
     "rarity_permille": 0.5,
     "tgs_path": "models/gem_signet/hot_cherry.tgs",
     "webp_path": "models/gem_signet/hot_cherry.webp",
-    "custom_emoji_id": "5881799777334600171",
-    "model_id": "5375504119039553249"
+    "model_id": "5375504119039553249",
+    "custom_emoji_id": "5881799777334600171"
   },
   {
     "name": "malibu_pink",
     "rarity_permille": 4.0,
     "tgs_path": "models/gem_signet/malibu_pink.tgs",
     "webp_path": "models/gem_signet/malibu_pink.webp",
-    "custom_emoji_id": "5881768630231768863",
-    "model_id": "5375518829302541405"
+    "model_id": "5375518829302541405",
+    "custom_emoji_id": "5881768630231768863"
   },
   {
     "name": "nuclear_core",
     "rarity_permille": 4.0,
     "tgs_path": "models/gem_signet/nuclear_core.tgs",
     "webp_path": "models/gem_signet/nuclear_core.webp",
-    "custom_emoji_id": "5881924863962128593",
-    "model_id": "5375526538768837469"
+    "model_id": "5375526538768837469",
+    "custom_emoji_id": "5881924863962128593"
   },
   {
     "name": "arc_reactor",
     "rarity_permille": 1.2,
     "tgs_path": "models/gem_signet/arc_reactor.tgs",
     "webp_path": "models/gem_signet/arc_reactor.webp",
-    "custom_emoji_id": "5882215925305843238",
-    "model_id": "5375549525433807208"
+    "model_id": "5375549525433807208",
+    "custom_emoji_id": "5882215925305843238"
   },
   {
     "name": "silver_gold",
     "rarity_permille": 4.0,
     "tgs_path": "models/gem_signet/silver_gold.tgs",
     "webp_path": "models/gem_signet/silver_gold.webp",
-    "custom_emoji_id": "5884064925906645783",
-    "model_id": "5375551660032553896"
+    "model_id": "5375551660032553896",
+    "custom_emoji_id": "5884064925906645783"
   },
   {
     "name": "jet_black",
     "rarity_permille": 3.0,
     "tgs_path": "models/gem_signet/jet_black.tgs",
     "webp_path": "models/gem_signet/jet_black.webp",
-    "custom_emoji_id": "5884269250385813404",
-    "model_id": "5375565197769469984"
+    "model_id": "5375565197769469984",
+    "custom_emoji_id": "5884269250385813404"
   },
   {
     "name": "pink_quartz",
     "rarity_permille": 4.0,
     "tgs_path": "models/gem_signet/pink_quartz.tgs",
     "webp_path": "models/gem_signet/pink_quartz.webp",
-    "custom_emoji_id": "5882113000709562948",
-    "model_id": "5375573886488309909"
+    "model_id": "5375573886488309909",
+    "custom_emoji_id": "5882113000709562948"
   },
   {
     "name": "black_lotus",
     "rarity_permille": 1.5,
     "tgs_path": "models/gem_signet/black_lotus.tgs",
     "webp_path": "models/gem_signet/black_lotus.webp",
-    "custom_emoji_id": "5881942662306603390",
-    "model_id": "5377464397948018423"
+    "model_id": "5377464397948018423",
+    "custom_emoji_id": "5881942662306603390"
   },
   {
     "name": "spinny_boi",
     "rarity_permille": 0.1,
     "tgs_path": "models/gem_signet/spinny_boi.tgs",
     "webp_path": "models/gem_signet/spinny_boi.webp",
-    "custom_emoji_id": "5881857866767277698",
-    "model_id": "5377467971360811804"
+    "model_id": "5377467971360811804",
+    "custom_emoji_id": "5881857866767277698"
   },
   {
     "name": "fleur_de_mer",
     "rarity_permille": 4.2,
     "tgs_path": "models/gem_signet/fleur_de_mer.tgs",
     "webp_path": "models/gem_signet/fleur_de_mer.webp",
-    "custom_emoji_id": "5881727797977685778",
-    "model_id": "5377488883556574134"
+    "model_id": "5377488883556574134",
+    "custom_emoji_id": "5881727797977685778"
   },
   {
     "name": "moonstone",
     "rarity_permille": 4.0,
     "tgs_path": "models/gem_signet/moonstone.tgs",
     "webp_path": "models/gem_signet/moonstone.webp",
-    "custom_emoji_id": "5881849817998564620",
-    "model_id": "5377492469854265905"
+    "model_id": "5377492469854265905",
+    "custom_emoji_id": "5881849817998564620"
   },
   {
     "name": "night_king",
     "rarity_permille": 0.2,
     "tgs_path": "models/gem_signet/night_king.tgs",
     "webp_path": "models/gem_signet/night_king.webp",
-    "custom_emoji_id": "5882135003827019118",
-    "model_id": "5377596360818190585"
+    "model_id": "5377596360818190585",
+    "custom_emoji_id": "5882135003827019118"
   },
   {
     "name": "pixel_emerald",
     "rarity_permille": 0.3,
     "tgs_path": "models/gem_signet/pixel_emerald.tgs",
     "webp_path": "models/gem_signet/pixel_emerald.webp",
-    "custom_emoji_id": "5884087032103312913",
-    "model_id": "5377615215724618328"
+    "model_id": "5377615215724618328",
+    "custom_emoji_id": "5884087032103312913"
   },
   {
     "name": "neon_signet",
     "rarity_permille": 3.0,
     "tgs_path": "models/gem_signet/neon_signet.tgs",
     "webp_path": "models/gem_signet/neon_signet.webp",
-    "custom_emoji_id": "5881960198658072445",
-    "model_id": "5377624845041295166"
+    "model_id": "5377624845041295166",
+    "custom_emoji_id": "5881960198658072445"
   },
   {
     "name": "snake_ruby",
     "rarity_permille": 4.0,
     "tgs_path": "models/gem_signet/snake_ruby.tgs",
     "webp_path": "models/gem_signet/snake_ruby.webp",
-    "custom_emoji_id": "5884310679640350323",
-    "model_id": "5377706324865870394"
+    "model_id": "5377706324865870394",
+    "custom_emoji_id": "5884310679640350323"
   },
   {
     "name": "sapphire",
     "rarity_permille": 4.0,
     "tgs_path": "models/gem_signet/sapphire.tgs",
     "webp_path": "models/gem_signet/sapphire.webp",
-    "custom_emoji_id": "5884268696335031933",
-    "model_id": "5377716753046464406"
+    "model_id": "5377716753046464406",
+    "custom_emoji_id": "5884268696335031933"
   },
   {
     "name": "tanzanite",
     "rarity_permille": 4.0,
     "tgs_path": "models/gem_signet/tanzanite.tgs",
     "webp_path": "models/gem_signet/tanzanite.webp",
-    "custom_emoji_id": "5882041472324215352",
-    "model_id": "5377796987330520314"
+    "model_id": "5377796987330520314",
+    "custom_emoji_id": "5882041472324215352"
   },
   {
     "name": "feral_rage",
     "rarity_permille": 1.5,
     "tgs_path": "models/gem_signet/feral_rage.tgs",
     "webp_path": "models/gem_signet/feral_rage.webp",
-    "custom_emoji_id": "5881791900364578780",
-    "model_id": "5377855025223590927"
+    "model_id": "5377855025223590927",
+    "custom_emoji_id": "5881791900364578780"
   }
 ]

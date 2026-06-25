@@ -1,18 +1,354 @@
 [
   {
+    "name": "wild_cat",
+    "rarity_percent": 3.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/wild_cat.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/wild_cat.webp",
+    "model_id": "5296245222055913714"
+  },
+  {
     "name": "planet_express",
     "rarity_percent": 2.0,
     "tgs_path": "TG_Photos_repo/models/surge_board/planet_express.tgs",
     "webp_path": "TG_Photos_repo/models/surge_board/planet_express.webp",
-    "custom_emoji_id": "5895256197635776136",
-    "model_id": "5296256960201530659"
+    "model_id": "5296256960201530659",
+    "custom_emoji_id": "5895256197635776136"
+  },
+  {
+    "name": "titanic",
+    "rarity_percent": 1.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/titanic.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/titanic.webp",
+    "model_id": "5296260121297462798"
+  },
+  {
+    "name": "surrealist",
+    "rarity_percent": 1.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/surrealist.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/surrealist.webp",
+    "model_id": "5296261865054197956"
+  },
+  {
+    "name": "great_dragon",
+    "rarity_percent": 1.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/great_dragon.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/great_dragon.webp",
+    "model_id": "5296262036852876624"
+  },
+  {
+    "name": "hoverboard",
+    "rarity_percent": 3.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/hoverboard.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/hoverboard.webp",
+    "model_id": "5296262187176731902"
+  },
+  {
+    "name": "tiki_spirit",
+    "rarity_percent": 3.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/tiki_spirit.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/tiki_spirit.webp",
+    "model_id": "5296275480100514042"
+  },
+  {
+    "name": "scarab",
+    "rarity_percent": 2.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/scarab.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/scarab.webp",
+    "model_id": "5296307335872946198"
+  },
+  {
+    "name": "ouija_board",
+    "rarity_percent": 2.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/ouija_board.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/ouija_board.webp",
+    "model_id": "5296315221432901012"
+  },
+  {
+    "name": "ton_shard",
+    "rarity_percent": 1.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/ton_shard.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/ton_shard.webp",
+    "model_id": "5296355357902286053"
+  },
+  {
+    "name": "steam_jet",
+    "rarity_percent": 2.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/steam_jet.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/steam_jet.webp",
+    "model_id": "5296356569083061332"
+  },
+  {
+    "name": "carpe_diem",
+    "rarity_percent": 1.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/carpe_diem.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/carpe_diem.webp",
+    "model_id": "5296371622943432086"
+  },
+  {
+    "name": "golden_siren",
+    "rarity_percent": 1.5,
+    "tgs_path": "TG_Photos_repo/models/surge_board/golden_siren.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/golden_siren.webp",
+    "model_id": "5296378048214509330"
+  },
+  {
+    "name": "rune_nova",
+    "rarity_percent": 2.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/rune_nova.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/rune_nova.webp",
+    "model_id": "5296407503100224266"
+  },
+  {
+    "name": "canine_cool",
+    "rarity_percent": 3.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/canine_cool.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/canine_cool.webp",
+    "model_id": "5296412386478040574"
+  },
+  {
+    "name": "tiger_mask",
+    "rarity_percent": 3.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/tiger_mask.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/tiger_mask.webp",
+    "model_id": "5296419666447604986"
+  },
+  {
+    "name": "polar_shard",
+    "rarity_percent": 2.5,
+    "tgs_path": "TG_Photos_repo/models/surge_board/polar_shard.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/polar_shard.webp",
+    "model_id": "5296426242042540702"
+  },
+  {
+    "name": "graffiti",
+    "rarity_percent": 4.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/graffiti.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/graffiti.webp",
+    "model_id": "5296438349555342832"
+  },
+  {
+    "name": "bitcoin",
+    "rarity_percent": 0.5,
+    "tgs_path": "TG_Photos_repo/models/surge_board/bitcoin.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/bitcoin.webp",
+    "model_id": "5296444615912628471"
+  },
+  {
+    "name": "golden_hoard",
+    "rarity_percent": 1.5,
+    "tgs_path": "TG_Photos_repo/models/surge_board/golden_hoard.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/golden_hoard.webp",
+    "model_id": "5296457483634648949"
+  },
+  {
+    "name": "quantum",
+    "rarity_percent": 2.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/quantum.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/quantum.webp",
+    "model_id": "5296468083613934051"
+  },
+  {
+    "name": "ayanami",
+    "rarity_percent": 0.5,
+    "tgs_path": "TG_Photos_repo/models/surge_board/ayanami.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/ayanami.webp",
+    "model_id": "5296470832393004163"
+  },
+  {
+    "name": "new_age",
+    "rarity_percent": 2.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/new_age.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/new_age.webp",
+    "model_id": "5296473482387823503"
+  },
+  {
+    "name": "one_percenter",
+    "rarity_percent": 2.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/one_percenter.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/one_percenter.webp",
+    "model_id": "5296493479755556197"
+  },
+  {
+    "name": "divinity",
+    "rarity_percent": 2.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/divinity.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/divinity.webp",
+    "model_id": "5296496250009462334"
+  },
+  {
+    "name": "sugar_breeze",
+    "rarity_percent": 3.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/sugar_breeze.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/sugar_breeze.webp",
+    "model_id": "5296529445811691824"
+  },
+  {
+    "name": "balls_of_steel",
+    "rarity_percent": 0.5,
+    "tgs_path": "TG_Photos_repo/models/surge_board/balls_of_steel.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/balls_of_steel.webp",
+    "model_id": "5296531889648084762"
+  },
+  {
+    "name": "oracle",
+    "rarity_percent": 1.5,
+    "tgs_path": "TG_Photos_repo/models/surge_board/oracle.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/oracle.webp",
+    "model_id": "5296560043158711134"
+  },
+  {
+    "name": "aloha",
+    "rarity_percent": 4.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/aloha.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/aloha.webp",
+    "model_id": "5296568057567683955"
+  },
+  {
+    "name": "akoya_pearl",
+    "rarity_percent": 1.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/akoya_pearl.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/akoya_pearl.webp",
+    "model_id": "5296571274498186712"
+  },
+  {
+    "name": "starboard",
+    "rarity_percent": 2.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/starboard.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/starboard.webp",
+    "model_id": "5296579366216578361"
+  },
+  {
+    "name": "privateer",
+    "rarity_percent": 2.5,
+    "tgs_path": "TG_Photos_repo/models/surge_board/privateer.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/privateer.webp",
+    "model_id": "5296626872849834666"
+  },
+  {
+    "name": "celestial",
+    "rarity_percent": 3.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/celestial.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/celestial.webp",
+    "model_id": "5296645538777703585"
+  },
+  {
+    "name": "pepe_surfer",
+    "rarity_percent": 0.5,
+    "tgs_path": "TG_Photos_repo/models/surge_board/pepe_surfer.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/pepe_surfer.webp",
+    "model_id": "5296668615636983652"
+  },
+  {
+    "name": "gothic_glider",
+    "rarity_percent": 2.5,
+    "tgs_path": "TG_Photos_repo/models/surge_board/gothic_glider.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/gothic_glider.webp",
+    "model_id": "5296671746668143506"
+  },
+  {
+    "name": "isotope",
+    "rarity_percent": 3.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/isotope.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/isotope.webp",
+    "model_id": "5296680774689402619"
+  },
+  {
+    "name": "made_in_heaven",
+    "rarity_percent": 2.5,
+    "tgs_path": "TG_Photos_repo/models/surge_board/made_in_heaven.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/made_in_heaven.webp",
+    "model_id": "5296685743966560391"
+  },
+  {
+    "name": "duke",
+    "rarity_percent": 0.5,
+    "tgs_path": "TG_Photos_repo/models/surge_board/duke.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/duke.webp",
+    "model_id": "5296699032595378161"
+  },
+  {
+    "name": "pixel_feet",
+    "rarity_percent": 2.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/pixel_feet.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/pixel_feet.webp",
+    "model_id": "5296714180945028809"
+  },
+  {
+    "name": "magma_missile",
+    "rarity_percent": 2.5,
+    "tgs_path": "TG_Photos_repo/models/surge_board/magma_missile.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/magma_missile.webp",
+    "model_id": "5296716362788412217"
+  },
+  {
+    "name": "french_riviera",
+    "rarity_percent": 2.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/french_riviera.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/french_riviera.webp",
+    "model_id": "5296717522429586198"
+  },
+  {
+    "name": "blåhaj",
+    "rarity_percent": 4.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/blåhaj.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/blåhaj.webp",
+    "model_id": "5296722264073480483"
+  },
+  {
+    "name": "onyx_gold",
+    "rarity_percent": 1.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/onyx_gold.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/onyx_gold.webp",
+    "model_id": "5296724793809227023"
+  },
+  {
+    "name": "drakkar",
+    "rarity_percent": 3.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/drakkar.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/drakkar.webp",
+    "model_id": "5296730626374803675"
+  },
+  {
+    "name": "da_vinci",
+    "rarity_percent": 2.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/da_vinci.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/da_vinci.webp",
+    "model_id": "5296744576428583708"
+  },
+  {
+    "name": "obsidian",
+    "rarity_percent": 1.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/obsidian.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/obsidian.webp",
+    "model_id": "5296784944826196104"
+  },
+  {
+    "name": "firefly_board",
+    "rarity_percent": 1.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/firefly_board.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/firefly_board.webp",
+    "model_id": "5296785133804757011"
+  },
+  {
+    "name": "magic_carpet",
+    "rarity_percent": 2.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/magic_carpet.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/magic_carpet.webp",
+    "model_id": "5298955926240275596"
+  },
+  {
+    "name": "love_shard",
+    "rarity_percent": 2.0,
+    "tgs_path": "TG_Photos_repo/models/surge_board/love_shard.tgs",
+    "webp_path": "TG_Photos_repo/models/surge_board/love_shard.webp",
+    "model_id": "5299004820147971583"
   },
   {
     "name": "poseidon",
     "rarity_percent": 2.5,
     "tgs_path": "TG_Photos_repo/models/surge_board/poseidon.tgs",
     "webp_path": "TG_Photos_repo/models/surge_board/poseidon.webp",
-    "custom_emoji_id": "5895663193031712831",
-    "model_id": "5299022884780416042"
+    "model_id": "5299022884780416042",
+    "custom_emoji_id": "5895663193031712831"
   }
 ]

@@ -1,0 +1,530 @@
+[
+  {
+    "name": "Trophy",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Star",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Skull",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Candy",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Cap",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Cocktail",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Crab",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Top Hat",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Venetian Mask",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Flamingo",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Toilet",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Dice",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Leaf",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Spanner",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Garden Pot",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Piñata",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Paw",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "The Eye",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Star Crown",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Scarab",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Car",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Coffee Bean",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Calm Wolf",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Dessert",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Wolf Rage",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Coat of Arms",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Bone",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Jellyfish",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Sea Jelly",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Hand of God",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Acorn",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Coin Purse",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Bottlenose",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Manta Ray",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Sauron",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Shark Knife",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Piggy Bank",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Bubble Tea",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Birthday Cake",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Sprout",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Pineapple",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Flipper",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Ink Pen",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Vortex",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "High Heels",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Sakura",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Cicada",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Maple Leaf",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Pizza Slice",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Cobra",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Rook",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Grape",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Glasses",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Mask",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Light Bulb",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Gem",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Gift Box",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Pyramid",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Lion Head",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Royal Crown",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Spider Web",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Knight",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Crusader",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Key",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Bunny",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Crown",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Pearl",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Illuminati",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Bishop",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Eagle",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Mannaz Rune",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Unicorn Head",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Gold",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Jumbo Pencil",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Octopus",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Cash",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Hedgehog",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Anchor",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Sparks",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Fehu Rune",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Tie",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Genie Lamp",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Champagne",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Scorpion",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Wreath",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Lemon",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Ring",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Diamond",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Coconut",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Coin",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Shield",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Ouroboros",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Money Bag",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Blood Drop",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Owl",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Sun",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Inguz Rune",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Wasp",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Smartphone",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Doberman",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Okami Wolf",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Bastet",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Celtic Wolf",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Flower Cross",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Sun Lion",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Mountain Goat",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Fenrir",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Inca Sun",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Firebird",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Moon Eagle",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Nordic Wolf",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Lion King",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Kitsune",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Eikthyrnir",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Tribal Shield",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "White Deer",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Sumerian Bird",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Pegasus",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Phoenix",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Mafdet",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Mayan Moth",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Spirit Impala",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Moon Cross",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Rhino Warrior",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Totem Bear",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Mountain Lion",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Bull of Heaven",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Ram of Amun",
+    "rarity_percent": 1.0
+  },
+  {
+    "name": "Arabian Horse",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Celtic Cross",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Golden Scarab",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Alkonost",
+    "rarity_percent": 1.0
+  }
+]

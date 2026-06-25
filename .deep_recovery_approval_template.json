@@ -1,0 +1,66 @@
+{
+  "decisions": [
+    {
+      "kind": "missing_prices_without_source",
+      "target": "TG_Photos_repo/models/durovs_cap/prices.json",
+      "decision": "",
+      "note": "",
+      "allowed_decisions": [
+        "provide_price_source"
+      ],
+      "recommendation": "Provide or approve a trusted local price source before rebuilding prices.json."
+    },
+    {
+      "kind": "missing_sticker_set_verification",
+      "target": "TG_Photos_repo/models/electric_skull/config.json",
+      "decision": "",
+      "note": "",
+      "allowed_decisions": [
+        "defer"
+      ],
+      "recommendation": "Approve a manual sticker-set rebuild or provide the missing local model TGS files."
+    },
+    {
+      "kind": "missing_sticker_set_verification",
+      "target": "TG_Photos_repo/models/gem_signet/config.json",
+      "decision": "",
+      "note": "",
+      "allowed_decisions": [
+        "defer"
+      ],
+      "recommendation": "Approve a manual sticker-set rebuild or provide the missing local model TGS files."
+    },
+    {
+      "kind": "stale_or_unverified_regular_id",
+      "target": "upgraded[47] khabibs_papakha",
+      "decision": "",
+      "note": "",
+      "allowed_decisions": [
+        "delete_catalog_entry",
+        "archive_catalog_entry"
+      ],
+      "recommendation": "Approve deletion or archival of this catalog row because Telegram no longer proves it as active."
+    },
+    {
+      "kind": "missing_sticker_set_verification",
+      "target": "TG_Photos_repo/models/perfume_bottle/config.json",
+      "decision": "",
+      "note": "",
+      "allowed_decisions": [
+        "defer"
+      ],
+      "recommendation": "Approve a manual sticker-set rebuild or provide the missing local model TGS files."
+    },
+    {
+      "kind": "stale_or_unverified_regular_id",
+      "target": "upgraded[98] ufc_strike",
+      "decision": "",
+      "note": "",
+      "allowed_decisions": [
+        "delete_catalog_entry",
+        "archive_catalog_entry"
+      ],
+      "recommendation": "Approve deletion or archival of this catalog row because Telegram no longer proves it as active."
+    }
+  ]
+}
