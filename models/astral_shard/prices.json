@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Amber": 2.5,
+    "Amber": 2.47,
     "Electric Purple": 2.48,
     "Pine Green": 2.48,
     "Raspberry": 2.48,
@@ -9,11 +9,11 @@
     "Mystic Pearl": 2.48,
     "Emerald": 2.5,
     "Khaki Green": 2.48,
-    "Steel Grey": 2.49,
+    "Steel Grey": 2.48,
     "Grape": 2.49,
     "Light Olive": 2.48,
-    "Battleship Grey": 2.48,
-    "Moonstone": 2.48,
+    "Battleship Grey": 2.47,
+    "Moonstone": 2.47,
     "Cobalt Blue": 2.48,
     "Jade Green": 2.48,
     "Coral Red": 2.49,
@@ -55,7 +55,7 @@
     "Malachite": 2.48,
     "English Violet": 2.5,
     "Pure Gold": 2.48,
-    "Chestnut": 2.48,
+    "Chestnut": 2.49,
     "Copper": 2.48,
     "Desert Sand": 2.48,
     "Black": 2350.0,
@@ -90,7 +90,7 @@
     "Blood Drop": 180.0,
     "Bone": 242.0,
     "Bubble Tea": 200.0,
-    "Bull of Heaven": 147.49,
+    "Bull of Heaven": 147.47,
     "Bunny Ears": 370.0,
     "Calm Wolf": 114.75,
     "Car": 3000.0,
@@ -240,5 +240,5 @@
     "Warholite": 121.0,
     "White Opal": 222.0
   },
-  "last_updated": 1782614224
+  "last_updated": 1782618094
 }

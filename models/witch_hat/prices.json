@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Fandango": 2.5,
-    "Battleship Grey": 2.48,
+    "Battleship Grey": 2.47,
     "Azure Blue": 2.48,
     "Cobalt Blue": 2.48,
     "Chocolate": 2.48,
@@ -11,9 +11,9 @@
     "Strawberry": 2.48,
     "Pine Green": 2.48,
     "Purple": 2.48,
-    "Steel Grey": 2.49,
+    "Steel Grey": 2.48,
     "Sapphire": 2.5,
-    "Amber": 2.5,
+    "Amber": 2.47,
     "Cappuccino": 2.48,
     "Sky Blue": 2.48,
     "Cyberpunk": 2.48,
@@ -27,11 +27,11 @@
     "Indigo Dye": 2.48,
     "Roman Silver": 2.48,
     "Khaki Green": 2.48,
-    "Chestnut": 2.48,
+    "Chestnut": 2.49,
     "Hunter Green": 2.5,
     "Jade Green": 2.48,
     "Midnight Blue": 5.5,
-    "Moonstone": 2.48,
+    "Moonstone": 2.47,
     "Carrot Juice": 2.48,
     "Caramel": 2.5,
     "Light Olive": 2.48,
@@ -69,7 +69,7 @@
     "Bandage": 7.9,
     "Baphomet": 4.95,
     "Bastet": 5.5,
-    "Birthday Cake": 7.49,
+    "Birthday Cake": 7.5,
     "Black Widow": 5.5,
     "Blood Drop": 4.0,
     "Bloody Axe": 4.69,
@@ -300,5 +300,5 @@
     "Young Witch": 5.0,
     "Cat’s Grasp": 4.39
   },
-  "last_updated": 1782614224
+  "last_updated": 1782618094
 }

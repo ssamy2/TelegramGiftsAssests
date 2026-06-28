@@ -13,21 +13,21 @@
     "Grape": 2.49,
     "Fandango": 2.5,
     "Pistachio": 2.48,
-    "Battleship Grey": 2.48,
+    "Battleship Grey": 2.47,
     "Copper": 2.48,
     "Lavender": 2.48,
     "Raspberry": 2.48,
     "Pure Gold": 2.48,
-    "Chestnut": 2.48,
+    "Chestnut": 2.49,
     "Khaki Green": 2.48,
     "Turquoise": 2.48,
     "Sapphire": 2.5,
-    "Moonstone": 2.48,
+    "Moonstone": 2.47,
     "Mint Green": 2.48,
     "Persimmon": 2.48,
     "Ivory White": 2.5,
     "Azure Blue": 2.48,
-    "Amber": 2.5,
+    "Amber": 2.47,
     "Emerald": 2.5,
     "Pacific Cyan": 2.48,
     "Pacific Green": 2.48,
@@ -49,7 +49,7 @@
     "Lemongrass": 2.48,
     "Purple": 2.48,
     "Indigo Dye": 2.48,
-    "Steel Grey": 2.49,
+    "Steel Grey": 2.48,
     "Electric Indigo": 2.5,
     "French Blue": 2.48,
     "Light Olive": 2.48,
@@ -59,7 +59,7 @@
     "Jade Green": 2.48,
     "Desert Sand": 2.48,
     "Black": 59.0,
-    "Onyx Black": 17.4
+    "Onyx Black": 18.0
   },
   "symbols": {
     "Pegasus": 6.46,
@@ -206,7 +206,7 @@
     "Blink": 7.0,
     "Bloodshot": 6.74,
     "Blue Flame": 7.5,
-    "Blue Period": 5.77,
+    "Blue Period": 6.0,
     "Canceled": 6.66,
     "Cirrus": 5.86,
     "Concentric Circles": 6.2,
@@ -251,5 +251,5 @@
     "True North": 6.14,
     "Visible Spectrum": 6.04
   },
-  "last_updated": 1782614224
+  "last_updated": 1782618094
 }

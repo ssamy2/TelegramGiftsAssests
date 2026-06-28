@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Chestnut": 2.48,
+    "Chestnut": 2.49,
     "Sky Blue": 2.48,
     "Indigo Dye": 2.48,
     "Desert Sand": 2.48,
@@ -12,7 +12,7 @@
     "Orange": 2.48,
     "Pacific Cyan": 2.48,
     "Grape": 2.49,
-    "Moonstone": 2.48,
+    "Moonstone": 2.47,
     "French Blue": 2.48,
     "Mint Green": 2.48,
     "Silver Blue": 2.48,
@@ -25,7 +25,7 @@
     "Chocolate": 2.48,
     "Electric Purple": 2.48,
     "Burgundy": 2.5,
-    "Battleship Grey": 2.48,
+    "Battleship Grey": 2.47,
     "Emerald": 2.5,
     "Pine Green": 2.48,
     "Pacific Green": 2.48,
@@ -36,7 +36,7 @@
     "Coral Red": 2.49,
     "Platinum": 2.48,
     "Copper": 2.48,
-    "Steel Grey": 2.49,
+    "Steel Grey": 2.48,
     "Malachite": 2.48,
     "Persimmon": 2.48,
     "Shamrock Green": 2.5,
@@ -56,7 +56,7 @@
     "Navy Blue": 2.49,
     "Khaki Green": 2.48,
     "Electric Indigo": 2.5,
-    "Amber": 2.5,
+    "Amber": 2.47,
     "Ivory White": 2.5,
     "Black": 32.0,
     "Onyx Black": 5.6
@@ -200,7 +200,7 @@
     "Wolf Rage": 3.6
   },
   "models": {
-    "4th of July": 5.49,
+    "4th of July": 5.77,
     "Airsoft": 4.0,
     "Al Capone": 6.99,
     "Amethyst": 3.18,
@@ -250,7 +250,7 @@
     "La Bomba": 12.0,
     "Lady Serenity": 6.0,
     "Le Pepe": 9.31,
-    "Lime Time": 3.01,
+    "Lime Time": 2.99,
     "Little Fairy": 3.15,
     "Lord Vader": 3.09,
     "Luminous": 4.0,
@@ -301,5 +301,5 @@
     "Windy Day": 3.98,
     "Yoshi Green": 3.3
   },
-  "last_updated": 1782614224
+  "last_updated": 1782618094
 }
