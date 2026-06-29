@@ -20,14 +20,14 @@
     "Satin Gold": 2.51,
     "Platinum": 2.53,
     "Rosewood": 2.5,
-    "Desert Sand": 2.49,
+    "Desert Sand": 2.51,
     "Azure Blue": 2.5,
-    "Electric Indigo": 2.5,
+    "Electric Indigo": 2.51,
     "Shamrock Green": 2.5,
-    "Sky Blue": 2.51,
+    "Sky Blue": 2.49,
     "Persimmon": 2.51,
     "Cobalt Blue": 2.5,
-    "French Blue": 2.5,
+    "French Blue": 2.51,
     "Indigo Dye": 2.5,
     "Electric Purple": 2.51,
     "Silver Blue": 2.49,
@@ -42,7 +42,7 @@
     "Cyberpunk": 2.5,
     "Pure Gold": 2.5,
     "Mystic Pearl": 2.5,
-    "Ivory White": 2.5,
+    "Ivory White": 2.55,
     "Grape": 2.49,
     "Pacific Cyan": 2.51,
     "Battleship Grey": 2.51,
@@ -97,7 +97,7 @@
     "Crown": 5.9,
     "Cupcake": 3.06,
     "Cursor": 4.0,
-    "Dessert": 3.3,
+    "Dessert": 3.05,
     "Diamond": 3.8,
     "Dolphin": 6.5,
     "Egg": 6.0,
@@ -295,5 +295,5 @@
     "Waffle": 2.99,
     "White Gold": 8.7
   },
-  "last_updated": 1782708354
+  "last_updated": 1782712167
 }

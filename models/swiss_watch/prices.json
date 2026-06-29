@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "French Blue": 2.5,
+    "French Blue": 2.51,
     "Shamrock Green": 2.5,
     "Light Olive": 2.5,
     "Grape": 2.49,
@@ -8,7 +8,7 @@
     "Battleship Grey": 2.51,
     "Pistachio": 2.5,
     "Caramel": 2.5,
-    "Desert Sand": 2.49,
+    "Desert Sand": 2.51,
     "Midnight Blue": 70.0,
     "Silver Blue": 2.49,
     "Malachite": 2.5,
@@ -25,7 +25,7 @@
     "Cobalt Blue": 2.5,
     "Orange": 2.5,
     "Khaki Green": 2.51,
-    "Sky Blue": 2.51,
+    "Sky Blue": 2.49,
     "Copper": 2.5,
     "Platinum": 2.53,
     "Roman Silver": 2.5,
@@ -44,7 +44,7 @@
     "Mint Green": 2.5,
     "Raspberry": 2.54,
     "Navy Blue": 2.5,
-    "Electric Indigo": 2.5,
+    "Electric Indigo": 2.51,
     "Burgundy": 2.5,
     "Moonstone": 2.51,
     "Coral Red": 2.5,
@@ -56,7 +56,7 @@
     "Persimmon": 2.51,
     "Sapphire": 2.51,
     "Hunter Green": 2.49,
-    "Ivory White": 2.5,
+    "Ivory White": 2.55,
     "Purple": 2.49,
     "Black": 464.0,
     "Onyx Black": 85.0
@@ -188,7 +188,7 @@
     "Ouroboros": 46.0,
     "Owl": 299.0,
     "Oxen of Fire": 120.0,
-    "Palette": 131.35,
+    "Palette": 131.32,
     "Pawn": 188.0,
     "PC Mouse": 145.0,
     "Pearl": 41.0,
@@ -223,7 +223,7 @@
     "Star Crown": 149.0,
     "Star": 104.9,
     "Strawberry": 90.0,
-    "Sumerian Bird": 41.57,
+    "Sumerian Bird": 40.25,
     "Sun Lion": 79.3,
     "Sun Mountain": 50.0,
     "Sun": 200.0,
@@ -285,7 +285,7 @@
     "Patrician": 82.2,
     "Patriot": 90.0,
     "Pink Cycle": 39.8,
-    "Pip-Boy": 37.8,
+    "Pip-Boy": 37.0,
     "Platinum": 87.0,
     "Pot of Gold": 168.0,
     "Rockefeller": 560.0,
@@ -295,7 +295,7 @@
     "Secret Agent": 65.0,
     "Sovereign": 110.0,
     "Spacewalk": 105.0,
-    "Sputnik": 155.0,
+    "Sputnik": 170.0,
     "Tachymeter": 139.0,
     "The Grid": 49.0,
     "The Original": 79.0,
@@ -304,5 +304,5 @@
     "Xenowatch": 65.0,
     "Zenith": 82.99
   },
-  "last_updated": 1782708354
+  "last_updated": 1782712167
 }

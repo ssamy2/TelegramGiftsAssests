@@ -27,11 +27,11 @@
     "Pistachio": 2.5,
     "Satin Gold": 2.51,
     "Moonstone": 2.51,
-    "Ivory White": 2.5,
+    "Ivory White": 2.55,
     "Dark Lilac": 2.5,
     "Sapphire": 2.51,
-    "French Blue": 2.5,
-    "Desert Sand": 2.49,
+    "French Blue": 2.51,
+    "Desert Sand": 2.51,
     "Pacific Green": 2.5,
     "Carrot Juice": 2.49,
     "Strawberry": 2.51,
@@ -46,7 +46,7 @@
     "Electric Purple": 2.51,
     "Hunter Green": 2.49,
     "Khaki Green": 2.51,
-    "Sky Blue": 2.51,
+    "Sky Blue": 2.49,
     "Cappuccino": 2.49,
     "Emerald": 2.51,
     "Persimmon": 2.51,
@@ -56,7 +56,7 @@
     "Coral Red": 2.5,
     "Light Olive": 2.5,
     "Caramel": 2.5,
-    "Electric Indigo": 2.5,
+    "Electric Indigo": 2.51,
     "Indigo Dye": 2.5,
     "Black": 110.0,
     "Onyx Black": 38.6
@@ -249,7 +249,7 @@
     "Celestial Bud": 25.0,
     "Cobalt Magic": 20.6,
     "Ember Spark": 22.0,
-    "Fallout": 20.38,
+    "Fallout": 21.79,
     "Fireflies": 25.0,
     "Fracture": 27.5,
     "Gentle Magic": 29.5,
@@ -261,7 +261,7 @@
     "Ice Artifact": 23.0,
     "Inferno": 22.9,
     "Ink Blaze": 21.5,
-    "Jade Bloom": 20.4,
+    "Jade Bloom": 20.35,
     "Lilac Relic": 26.0,
     "Lunar Charm": 20.6,
     "Midnight Glow": 21.0,
@@ -292,5 +292,5 @@
     "Vivid Prize": 32.0,
     "Winter": 22.99
   },
-  "last_updated": 1782708354
+  "last_updated": 1782712167
 }
