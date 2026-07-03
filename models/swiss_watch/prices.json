@@ -1,8 +1,8 @@
 {
   "backdrops": {
-    "French Blue": 2.59,
+    "French Blue": 2.6,
     "Shamrock Green": 2.59,
-    "Light Olive": 2.59,
+    "Light Olive": 2.6,
     "Grape": 2.6,
     "Pure Gold": 2.59,
     "Battleship Grey": 2.62,
@@ -20,8 +20,8 @@
     "Emerald": 2.59,
     "Carrot Juice": 2.6,
     "Cappuccino": 2.59,
-    "Lemongrass": 2.59,
-    "Turquoise": 2.6,
+    "Lemongrass": 2.6,
+    "Turquoise": 2.61,
     "Cobalt Blue": 2.6,
     "Orange": 2.59,
     "Khaki Green": 2.6,
@@ -35,7 +35,7 @@
     "Fandango": 2.6,
     "Lavender": 2.6,
     "Electric Purple": 2.71,
-    "Azure Blue": 2.59,
+    "Azure Blue": 2.6,
     "Pine Green": 2.6,
     "Chestnut": 2.59,
     "Rosewood": 2.59,
@@ -49,7 +49,7 @@
     "Moonstone": 2.59,
     "Coral Red": 2.6,
     "Satin Gold": 2.6,
-    "Amber": 2.6,
+    "Amber": 2.72,
     "Strawberry": 2.6,
     "Steel Grey": 2.59,
     "Aquamarine": 2.6,
@@ -127,7 +127,7 @@
     "Crown": 73.0,
     "Crusader": 70.0,
     "Crystal Ball": 52.9,
-    "Cupcake": 258.0,
+    "Cupcake": 57.0,
     "Diamond": 70.0,
     "Diamonds": 110.0,
     "Dice": 65.0,
@@ -191,7 +191,7 @@
     "Ouroboros": 46.0,
     "Owl": 299.0,
     "Oxen of Fire": 120.0,
-    "Palette": 128.68,
+    "Palette": 128.67,
     "Pawn": 188.0,
     "PC Mouse": 145.0,
     "Pearl": 41.0,
@@ -235,7 +235,7 @@
     "The Eye": 81.8,
     "Thief": 257.0,
     "Tie": 55.0,
-    "Tooth": 40.55,
+    "Tooth": 39.7,
     "Top Hat": 95.0,
     "Totem Bear": 46.0,
     "Toy Bucket": 63.0,
@@ -306,5 +306,5 @@
     "Xenowatch": 65.0,
     "Zenith": 81.0
   },
-  "last_updated": 1783106567
+  "last_updated": 1783108924
 }
