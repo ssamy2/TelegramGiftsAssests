@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Chestnut": 2.59,
+    "Chestnut": 2.51,
     "Sky Blue": 2.57,
     "Indigo Dye": 2.55,
     "Desert Sand": 2.57,
@@ -8,17 +8,17 @@
     "Azure Blue": 2.57,
     "Hunter Green": 2.49,
     "Light Olive": 2.53,
-    "Roman Silver": 2.57,
+    "Roman Silver": 2.51,
     "Orange": 2.53,
-    "Pacific Cyan": 2.54,
-    "Grape": 2.49,
+    "Pacific Cyan": 2.57,
+    "Grape": 2.57,
     "Moonstone": 2.55,
-    "French Blue": 2.58,
+    "French Blue": 2.51,
     "Mint Green": 2.57,
     "Silver Blue": 2.58,
     "Aquamarine": 2.57,
     "Cobalt Blue": 2.54,
-    "Raspberry": 2.49,
+    "Raspberry": 2.57,
     "Lemongrass": 2.57,
     "Turquoise": 2.54,
     "Cyberpunk": 2.57,
@@ -28,10 +28,10 @@
     "Battleship Grey": 2.57,
     "Emerald": 2.56,
     "Pine Green": 2.56,
-    "Pacific Green": 2.55,
+    "Pacific Green": 2.51,
     "Pure Gold": 2.52,
     "Midnight Blue": 4.0,
-    "Fandango": 2.57,
+    "Fandango": 2.55,
     "Jade Green": 2.58,
     "Coral Red": 2.54,
     "Platinum": 2.55,
@@ -44,7 +44,7 @@
     "Cappuccino": 2.54,
     "Caramel": 2.54,
     "Carrot Juice": 2.57,
-    "Lavender": 2.54,
+    "Lavender": 2.53,
     "Rosewood": 2.53,
     "Neon Blue": 2.57,
     "Strawberry": 2.52,
@@ -59,7 +59,7 @@
     "Amber": 2.57,
     "Ivory White": 2.59,
     "Black": 23.49,
-    "Onyx Black": 7.0
+    "Onyx Black": 6.95
   },
   "symbols": {
     "Alarm": 4.0,
@@ -195,7 +195,7 @@
     "Unicorn": 3.86,
     "Vortex": 6.0,
     "Watermelon": 3.13,
-    "White Deer": 3.7,
+    "White Deer": 3.99,
     "Winter House": 3.39,
     "Wolf Rage": 3.6
   },
@@ -236,7 +236,7 @@
     "Glenda": 3.8,
     "Golden Gun": 7.99,
     "Green Light": 3.05,
-    "Green Shine": 4.8,
+    "Green Shine": 3.8,
     "Green Stripe": 3.5,
     "Hellfire": 3.95,
     "Holographic": 5.5,
@@ -301,5 +301,5 @@
     "Windy Day": 3.33,
     "Yoshi Green": 3.39
   },
-  "last_updated": 1783040876
+  "last_updated": 1783044715
 }
