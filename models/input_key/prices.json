@@ -27,7 +27,7 @@
     "Chestnut": 2.63,
     "Neon Blue": 2.65,
     "Malachite": 2.61,
-    "Carrot Juice": 2.64,
+    "Carrot Juice": 2.65,
     "Pine Green": 2.63,
     "Shamrock Green": 2.68,
     "Moonstone": 2.65,
@@ -41,7 +41,7 @@
     "Desert Sand": 2.64,
     "Gunship Green": 2.62,
     "Tomato": 2.65,
-    "Indigo Dye": 2.62,
+    "Indigo Dye": 2.63,
     "Cobalt Blue": 2.63,
     "Mexican Pink": 2.66,
     "Steel Grey": 2.65,
@@ -75,7 +75,7 @@
     "Deep Cyan": 2.69,
     "Old Gold": 2.63,
     "Dark Lilac": 2.64,
-    "Amber": 2.69,
+    "Amber": 2.71,
     "Silver Blue": 2.65,
     "Midnight Blue": 6.2,
     "Black": 38.45,
@@ -184,7 +184,7 @@
     "High Heels": 6.0,
     "Holy Grail": 8.99,
     "Horned Helm": 6.0,
-    "Hot Matcha": 5.15,
+    "Hot Matcha": 5.13,
     "Hourglass": 6.0,
     "Ice Pop": 5.13,
     "Illuminati": 14.0,
@@ -205,7 +205,7 @@
     "Like": 5.42,
     "Lily": 5.14,
     "Lingerie": 5.11,
-    "Lion King": 7.59,
+    "Lion King": 7.58,
     "Lotus Flower": 169.0,
     "Love Berry": 7.6,
     "Love Bulb": 10.0,
@@ -263,7 +263,7 @@
     "Plume": 6.44,
     "Plumeria": 6.0,
     "Poppy": 5.98,
-    "Pussy Willow": 10.01,
+    "Pussy Willow": 10.0,
     "Pyramid": 6.0,
     "Rabbit Mask": 5.5,
     "Radar": 9.0,
@@ -331,7 +331,7 @@
     "Wepwawet": 5.98,
     "Winter Hat": 5.14,
     "Wizard Hat": 14.0,
-    "Wontons": 7.58
+    "Wontons": 7.59
   },
   "models": {
     "Angel": 17.0,
@@ -395,5 +395,5 @@
     "X-Ray": 9.14,
     "Zombie": 7.5
   },
-  "last_updated": 1783129844
+  "last_updated": 1783132134
 }

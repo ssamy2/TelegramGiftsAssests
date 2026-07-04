@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Neon Blue": 2.65,
-    "Carrot Juice": 2.64,
+    "Carrot Juice": 2.65,
     "Lavender": 2.63,
     "Roman Silver": 2.63,
     "Jade Green": 2.65,
@@ -22,7 +22,7 @@
     "Malachite": 2.61,
     "Steel Grey": 2.65,
     "Sapphire": 2.65,
-    "Amber": 2.69,
+    "Amber": 2.71,
     "Pistachio": 2.65,
     "Chestnut": 2.63,
     "Coral Red": 2.69,
@@ -49,7 +49,7 @@
     "Pure Gold": 2.69,
     "Cyberpunk": 2.64,
     "Persimmon": 2.68,
-    "Indigo Dye": 2.62,
+    "Indigo Dye": 2.63,
     "Grape": 2.7,
     "English Violet": 2.7,
     "Shamrock Green": 2.68,
@@ -97,7 +97,7 @@
     "Chest": 19.0,
     "Cicada": 24.0,
     "Cobra": 18.0,
-    "Coffin": 11.03,
+    "Coffin": 9.81,
     "Conch": 20.0,
     "Cone": 9.82,
     "Crow": 10.0,
@@ -111,7 +111,7 @@
     "Eyeball": 10.0,
     "Feather": 26.5,
     "Fish Skeleton": 10.01,
-    "Fish": 15.81,
+    "Fish": 15.82,
     "Fleur-de-lis": 25.0,
     "Flower Tulip": 10.0,
     "Flower": 19.0,
@@ -140,7 +140,7 @@
     "Money Bag": 26.0,
     "Monstera": 30.0,
     "Moon Eagle": 16.88,
-    "Moon": 10.17,
+    "Moon": 10.08,
     "Mountain Goat": 36.0,
     "Mushroom": 10.5,
     "Nice Ghost": 10.49,
@@ -164,7 +164,7 @@
     "Scarecrow": 10.5,
     "Scissors": 25.0,
     "Seahorse": 11.03,
-    "Severed Hand": 11.5,
+    "Severed Hand": 10.5,
     "Shield": 16.0,
     "Shooting Star": 17.0,
     "Skull": 10.0,
@@ -247,5 +247,5 @@
     "Wednesday": 23.9,
     "World Cup": 29.9
   },
-  "last_updated": 1783129844
+  "last_updated": 1783132134
 }

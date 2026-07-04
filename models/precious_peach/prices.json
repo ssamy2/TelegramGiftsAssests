@@ -9,7 +9,7 @@
     "Sapphire": 2.65,
     "Roman Silver": 2.63,
     "Neon Blue": 2.65,
-    "Indigo Dye": 2.62,
+    "Indigo Dye": 2.63,
     "Navy Blue": 2.65,
     "Steel Grey": 2.65,
     "Platinum": 2.65,
@@ -17,9 +17,9 @@
     "Lavender": 2.63,
     "Shamrock Green": 2.68,
     "Persimmon": 2.68,
-    "Carrot Juice": 2.64,
+    "Carrot Juice": 2.65,
     "Dark Lilac": 2.64,
-    "Amber": 2.69,
+    "Amber": 2.71,
     "Electric Purple": 2.66,
     "English Violet": 2.7,
     "Turquoise": 2.65,
@@ -209,7 +209,7 @@
     "Rhino Warrior": 333.0,
     "Rocket": 281.0,
     "Romantic Cake": 1500.0,
-    "Rook": 370.0,
+    "Rook": 370.01,
     "Sakura": 467.0,
     "Sauron": 1500.0,
     "Scissors": 450.0,
@@ -321,5 +321,5 @@
     "Smelting": 4100.0,
     "Blizzard": 980.0
   },
-  "last_updated": 1783129845
+  "last_updated": 1783132134
 }

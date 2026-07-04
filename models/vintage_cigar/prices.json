@@ -30,7 +30,7 @@
     "Pistachio": 2.65,
     "Pine Green": 2.63,
     "Midnight Blue": 44.0,
-    "Carrot Juice": 2.64,
+    "Carrot Juice": 2.65,
     "Silver Blue": 2.65,
     "Turquoise": 2.65,
     "Malachite": 2.61,
@@ -51,9 +51,9 @@
     "Copper": 2.7,
     "Satin Gold": 2.64,
     "Cobalt Blue": 2.63,
-    "Amber": 2.69,
+    "Amber": 2.71,
     "Cappuccino": 2.65,
-    "Indigo Dye": 2.62,
+    "Indigo Dye": 2.63,
     "Persimmon": 2.68,
     "Steel Grey": 2.65,
     "Platinum": 2.65,
@@ -99,7 +99,7 @@
     "Cap": 44.0,
     "Car": 40.0,
     "Cash": 36.0,
-    "Celtic Cross": 28.59,
+    "Celtic Cross": 28.47,
     "Celtic Wolf": 29.99,
     "Champagne": 32.99,
     "Cherry": 280.0,
@@ -181,7 +181,7 @@
     "Oxen of Fire": 35.0,
     "Paw": 62.0,
     "Pawn": 62.0,
-    "Pearl": 50.0,
+    "Pearl": 28.49,
     "Pegasus": 45.0,
     "Pencil": 58.0,
     "Phoenix": 35.0,
@@ -233,12 +233,12 @@
     "Turtle": 33.0,
     "Twin Peaks": 53.0,
     "Unicorn Head": 51.15,
-    "Unicorn": 100.0,
+    "Unicorn": 28.49,
     "Venetian Mask": 49.0,
     "White Deer": 30.0,
     "Wolf Rage": 60.0,
     "Wreath": 40.0,
-    "Yogi Shaman": 28.51
+    "Yogi Shaman": 28.46
   },
   "models": {
     "Psychonaut": 150.0,
@@ -297,5 +297,5 @@
     "Vaporwave": 30.0,
     "Warm Glow": 28.5
   },
-  "last_updated": 1783129845
+  "last_updated": 1783132134
 }

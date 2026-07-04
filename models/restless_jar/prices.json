@@ -15,9 +15,9 @@
     "Sapphire": 2.65,
     "Chestnut": 2.63,
     "Pacific Cyan": 2.63,
-    "Indigo Dye": 2.62,
+    "Indigo Dye": 2.63,
     "Azure Blue": 2.6,
-    "Carrot Juice": 2.64,
+    "Carrot Juice": 2.65,
     "Midnight Blue": 5.5,
     "Old Gold": 2.63,
     "Desert Sand": 2.64,
@@ -64,7 +64,7 @@
     "Rifle Green": 2.64,
     "Neon Blue": 2.65,
     "Strawberry": 2.68,
-    "Amber": 2.69,
+    "Amber": 2.71,
     "Caramel": 2.64,
     "Moonstone": 2.65,
     "Platinum": 2.65,
@@ -93,7 +93,7 @@
     "Avocado": 4.95,
     "Axe": 4.99,
     "Aztec Falcon": 5.0,
-    "Balloon": 4.01,
+    "Balloon": 6.0,
     "Bamboo": 5.0,
     "Banana": 5.0,
     "Bandage": 4.14,
@@ -337,7 +337,7 @@
     "Venetian Mask": 4.3,
     "Viking Shield": 5.0,
     "Violet": 6.5,
-    "Wagasa": 4.01,
+    "Wagasa": 7.0,
     "War Bonnet": 9.0,
     "Warhorse": 4.5,
     "Winged Helm": 6.0,
@@ -396,5 +396,5 @@
     "Utya Duck": 47.0,
     "Witchcraft": 4.3
   },
-  "last_updated": 1783129845
+  "last_updated": 1783132134
 }
