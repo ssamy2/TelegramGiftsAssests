@@ -99,7 +99,7 @@
     "Cap": 44.0,
     "Car": 40.0,
     "Cash": 36.0,
-    "Celtic Cross": 28.39,
+    "Celtic Cross": 28.31,
     "Celtic Wolf": 29.99,
     "Champagne": 32.99,
     "Cherry": 280.0,
@@ -238,7 +238,7 @@
     "White Deer": 30.0,
     "Wolf Rage": 60.0,
     "Wreath": 40.0,
-    "Yogi Shaman": 28.38
+    "Yogi Shaman": 28.3
   },
   "models": {
     "Psychonaut": 150.0,
@@ -297,5 +297,5 @@
     "Vaporwave": 30.0,
     "Warm Glow": 28.5
   },
-  "last_updated": 1783134392
+  "last_updated": 1783136694
 }

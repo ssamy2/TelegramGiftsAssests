@@ -168,7 +168,7 @@
     "Ice Pop": 600.0,
     "Imperial Lion": 120.0,
     "Inca Sun": 122.0,
-    "Inguz Rune": 104.99,
+    "Inguz Rune": 111.0,
     "Ink Pen": 103.51,
     "Iron Helmet": 520.0,
     "Jolly Roger": 250.0,
@@ -213,7 +213,7 @@
     "Pickaxe": 160.0,
     "Piggy Bank": 167.0,
     "Pineapple": 125.0,
-    "Pirate Scull": 1349.99,
+    "Pirate Scull": 1350.0,
     "Pizza Slice": 120.0,
     "Polar Bear": 102.0,
     "Police Badge": 250.0,
@@ -235,7 +235,7 @@
     "Shield": 240.0,
     "Shinto Shrine": 125.0,
     "Silver Ibis": 499.0,
-    "Skull": 220.0,
+    "Skull": 219.99,
     "Snail": 450.0,
     "Spades": 215.0,
     "Sparks": 106.0,
@@ -366,5 +366,5 @@
     "Faubourg": 281.0,
     "Vert d’Eau": 145.0
   },
-  "last_updated": 1783134392
+  "last_updated": 1783136694
 }

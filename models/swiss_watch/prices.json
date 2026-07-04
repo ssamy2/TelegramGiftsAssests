@@ -78,6 +78,7 @@
     "Planet": 38.18,
     "Viking": 85.0,
     "Gear": 105.0,
+    "Carrot": 78.2,
     "Alkonost": 81.2,
     "Anchor": 135.0,
     "Arabian Horse": 81.8,
@@ -104,7 +105,6 @@
     "Cap": 69.5,
     "Car": 74.99,
     "Carambola": 56.0,
-    "Carrot": 78.2,
     "Cash": 128.3,
     "Celtic Cross": 54.4,
     "Celtic Wolf": 74.99,
@@ -127,7 +127,7 @@
     "Crown": 73.0,
     "Crusader": 70.0,
     "Crystal Ball": 52.9,
-    "Cupcake": 49.02,
+    "Cupcake": 48.98,
     "Diamond": 70.0,
     "Diamonds": 110.0,
     "Dice": 65.0,
@@ -191,7 +191,7 @@
     "Ouroboros": 46.0,
     "Owl": 299.0,
     "Oxen of Fire": 120.0,
-    "Palette": 128.6,
+    "Palette": 128.59,
     "Pawn": 188.0,
     "PC Mouse": 145.0,
     "Pearl": 41.0,
@@ -306,5 +306,5 @@
     "Xenowatch": 65.0,
     "Zenith": 81.0
   },
-  "last_updated": 1783134392
+  "last_updated": 1783136694
 }

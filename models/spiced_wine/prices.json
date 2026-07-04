@@ -73,7 +73,7 @@
     "Ball": 4.5,
     "Bandage": 8.0,
     "Baphomet": 8.0,
-    "Bastet": 4.22,
+    "Bastet": 4.23,
     "Bee": 8.0,
     "Beetle": 4.53,
     "Bell Pepper": 8.0,
@@ -90,7 +90,7 @@
     "Bread": 4.19,
     "Bubble Tea": 9.9,
     "Bubbles": 6.0,
-    "Bug": 5.71,
+    "Bug": 5.72,
     "Bull of Heaven": 10.0,
     "Bunny Ears": 4.5,
     "Bunny": 6.0,
@@ -146,7 +146,7 @@
     "Elephant": 3.58,
     "Feather": 8.0,
     "Fehu Rune": 3.6,
-    "Fenrir": 3.7,
+    "Fenrir": 3.62,
     "Fire": 4.45,
     "Firebird": 7.2,
     "Fish Skeleton": 4.92,
@@ -170,7 +170,7 @@
     "Gold": 6.98,
     "Golden Scarab": 4.44,
     "Grape": 4.39,
-    "Grenade": 3.55,
+    "Grenade": 3.47,
     "Guitar": 6.98,
     "Hamburger": 4.65,
     "Hammerhead": 3.75,
@@ -269,7 +269,7 @@
     "Sea Horse": 3.97,
     "Sea Jelly": 5.0,
     "Seahorse": 8.0,
-    "Shark Knife": 5.62,
+    "Shark Knife": 5.61,
     "Sharp Sword": 7.5,
     "Shell": 3.57,
     "Shield": 4.5,
@@ -421,5 +421,5 @@
     "With Caution": 5.0,
     "Yellow Pop": 8.0
   },
-  "last_updated": 1783134392
+  "last_updated": 1783136694
 }

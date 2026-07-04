@@ -1,6 +1,5 @@
 {
   "backdrops": {
-    "Black": 22.9,
     "Emerald": 2.65,
     "Roman Silver": 2.63,
     "Steel Grey": 2.65,
@@ -79,6 +78,7 @@
     "Pacific Cyan": 2.63,
     "Mexican Pink": 2.66,
     "Satin Gold": 2.64,
+    "Black": 22.9,
     "Onyx Black": 6.8
   },
   "symbols": {},
@@ -134,5 +134,5 @@
     "Trader": 3.83,
     "Twin Peaks": 3.09
   },
-  "last_updated": 1783134392
+  "last_updated": 1783136694
 }

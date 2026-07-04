@@ -112,7 +112,7 @@
     "Coffin": 10.99,
     "Coin": 12.0,
     "Cone": 12.0,
-    "Croissant": 12.75,
+    "Croissant": 12.76,
     "Crow": 16.25,
     "Crown": 40.0,
     "Crystal Ball": 14.0,
@@ -216,7 +216,7 @@
     "Pearl": 15.0,
     "Phoenix": 12.0,
     "Pickaxe": 11.99,
-    "Piggy Bank": 9.99,
+    "Piggy Bank": 9.98,
     "Pineapple": 16.0,
     "Piñata": 9.99,
     "Planet": 17.0,
@@ -279,7 +279,7 @@
     "Witch's Hat": 9.99,
     "Witch’s Hat": 9.99,
     "Wolf Rage": 19.0,
-    "Wreath": 13.39
+    "Wreath": 13.4
   },
   "models": {
     "Azalea": 8.38,
@@ -333,5 +333,5 @@
     "White Rose": 11.0,
     "Wreath": 8.88
   },
-  "last_updated": 1783134392
+  "last_updated": 1783136694
 }

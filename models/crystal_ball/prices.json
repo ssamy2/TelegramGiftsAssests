@@ -97,10 +97,10 @@
     "Chest": 19.0,
     "Cicada": 24.0,
     "Cobra": 18.0,
-    "Coffin": 9.81,
+    "Coffin": 9.72,
     "Conch": 20.0,
     "Cone": 9.82,
-    "Crow": 10.0,
+    "Crow": 9.81,
     "Crystal Ball": 13.0,
     "Cupcake": 22.0,
     "Cursor": 19.0,
@@ -111,7 +111,7 @@
     "Eyeball": 10.0,
     "Feather": 26.5,
     "Fish Skeleton": 10.01,
-    "Fish": 15.81,
+    "Fish": 15.82,
     "Fleur-de-lis": 25.0,
     "Flower Tulip": 10.0,
     "Flower": 19.0,
@@ -140,7 +140,7 @@
     "Money Bag": 26.0,
     "Monstera": 30.0,
     "Moon Eagle": 16.88,
-    "Moon": 9.84,
+    "Moon": 9.73,
     "Mountain Goat": 36.0,
     "Mushroom": 10.5,
     "Nice Ghost": 10.49,
@@ -247,5 +247,5 @@
     "Wednesday": 23.9,
     "World Cup": 29.9
   },
-  "last_updated": 1783134392
+  "last_updated": 1783136694
 }

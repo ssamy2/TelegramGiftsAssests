@@ -84,7 +84,7 @@
   "symbols": {
     "Alarm": 3.9,
     "Alert Serpent": 3.0,
-    "Ancient Urn": 3.03,
+    "Ancient Urn": 3.0,
     "Arabian Horse": 8.0,
     "Arcane Mirror": 2.99,
     "Axe": 6.66,
@@ -165,7 +165,7 @@
     "Eye of Horus": 4.0,
     "Feather": 5.05,
     "Fenrir": 3.63,
-    "Fez": 2.96,
+    "Fez": 6.0,
     "Fire": 2.99,
     "Fishing Hook": 4.0,
     "Flag": 2.97,
@@ -183,7 +183,7 @@
     "Grenade": 2.97,
     "Griffon": 2.99,
     "Guitar": 3.3,
-    "Hamburger": 3.69,
+    "Hamburger": 3.61,
     "Hard Hat": 3.0,
     "Hazelnut": 6.0,
     "Hermit Shell": 5.12,
@@ -262,7 +262,7 @@
     "Radar": 11.0,
     "Rain Drop": 3.2,
     "Ram of Amun": 4.49,
-    "Red Deer": 3.74,
+    "Red Deer": 3.75,
     "Rhino Warrior": 6.2,
     "Robin Hood": 4.41,
     "Rook": 4.5,
@@ -403,5 +403,5 @@
     "Treasure Map": 2.98,
     "Unicorn": 11.0
   },
-  "last_updated": 1783134392
+  "last_updated": 1783136694
 }
