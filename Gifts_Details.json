@@ -180,7 +180,8 @@
       "full_name": "Durov’s Cap",
       "short_name": "durovs_cap",
       "regular_id": "5915521180483191380",
-      "custom_emoji_id": "5890897450075429395"
+      "custom_emoji_id": "5890897450075429395",
+      "models": "models/durovs_cap/prices.json"
     },
     {
       "full_name": "Easter Egg",
@@ -1243,6 +1244,12 @@
       "floor_price_ton": 21.61,
       "models": "models/rare_bird/prices.json",
       "custom_emoji_id": "5893391945606110355"
+    },
+    {
+      "full_name": "Gift 5999298447486747746",
+      "short_name": "gift_5999298447486747746",
+      "regular_id": "5999298447486747746",
+      "models": "models/gift_5999298447486747746/prices.json"
     }
   ],
   "unupgraded": [
@@ -1378,13 +1385,6 @@
       "id": "6001229799790478558",
       "price_ton": 64.5,
       "custom_emoji_id": "5891122557901351876"
-    },
-    {
-      "full_name": "Statue",
-      "short_name": "statue",
-      "id": "5999298447486747746",
-      "price_ton": 6.06,
-      "custom_emoji_id": "5891200369823849956"
     },
     {
       "full_name": "Durov's Coat",
