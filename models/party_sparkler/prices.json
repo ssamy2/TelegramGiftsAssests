@@ -2,7 +2,7 @@
   "backdrops": {
     "Chestnut": 2.63,
     "Sky Blue": 2.59,
-    "Indigo Dye": 2.65,
+    "Indigo Dye": 2.61,
     "Desert Sand": 2.59,
     "Pistachio": 2.65,
     "Azure Blue": 2.6,
@@ -18,9 +18,9 @@
     "Silver Blue": 2.59,
     "Aquamarine": 2.67,
     "Cobalt Blue": 2.64,
-    "Raspberry": 2.6,
+    "Raspberry": 2.63,
     "Lemongrass": 2.62,
-    "Turquoise": 2.6,
+    "Turquoise": 2.61,
     "Cyberpunk": 2.61,
     "Chocolate": 2.64,
     "Electric Purple": 2.66,
@@ -43,8 +43,8 @@
     "Satin Gold": 2.59,
     "Cappuccino": 2.65,
     "Caramel": 2.64,
-    "Carrot Juice": 2.65,
-    "Lavender": 2.64,
+    "Carrot Juice": 2.64,
+    "Lavender": 2.61,
     "Rosewood": 2.61,
     "Neon Blue": 2.65,
     "Strawberry": 2.61,
@@ -102,7 +102,7 @@
     "Eggplant": 3.99,
     "Eikthyrnir": 3.3,
     "Fehu Rune": 3.85,
-    "Festive Wreath": 3.13,
+    "Festive Wreath": 3.84,
     "Firebird": 5.88,
     "Fireworks": 3.3,
     "Fish": 6.02,
@@ -157,7 +157,7 @@
     "Phoenix": 3.85,
     "Piggy Bank": 3.99,
     "Pizza Slice": 3.9,
-    "Plum": 7.0,
+    "Plum": 4.51,
     "Plume": 3.5,
     "Police Badge": 3.99,
     "Pyramid": 3.99,
@@ -301,5 +301,5 @@
     "Windy Day": 3.98,
     "Yoshi Green": 3.2
   },
-  "last_updated": 1783143661
+  "last_updated": 1783145972
 }

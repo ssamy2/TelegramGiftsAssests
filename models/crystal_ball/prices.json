@@ -1,8 +1,8 @@
 {
   "backdrops": {
     "Neon Blue": 2.65,
-    "Carrot Juice": 2.65,
-    "Lavender": 2.64,
+    "Carrot Juice": 2.64,
+    "Lavender": 2.61,
     "Roman Silver": 2.63,
     "Jade Green": 2.62,
     "Pine Green": 2.63,
@@ -15,7 +15,7 @@
     "Electric Purple": 2.66,
     "Chocolate": 2.64,
     "Strawberry": 2.61,
-    "Turquoise": 2.6,
+    "Turquoise": 2.61,
     "Sky Blue": 2.59,
     "Satin Gold": 2.59,
     "Desert Sand": 2.59,
@@ -44,12 +44,12 @@
     "Orange": 2.65,
     "Platinum": 2.59,
     "Caramel": 2.64,
-    "Raspberry": 2.6,
+    "Raspberry": 2.63,
     "Silver Blue": 2.59,
     "Pure Gold": 2.62,
     "Cyberpunk": 2.61,
     "Persimmon": 2.68,
-    "Indigo Dye": 2.65,
+    "Indigo Dye": 2.61,
     "Grape": 2.61,
     "English Violet": 2.7,
     "Shamrock Green": 2.64,
@@ -89,7 +89,7 @@
     "Bow Tie": 13.5,
     "Bunny Ears": 17.89,
     "Bunny": 26.0,
-    "Candle": 10.0,
+    "Candle": 9.99,
     "Carambola": 21.0,
     "Carrot": 53.0,
     "Cauldron": 10.0,
@@ -164,7 +164,7 @@
     "Scarecrow": 10.5,
     "Scissors": 25.0,
     "Seahorse": 11.03,
-    "Severed Hand": 10.0,
+    "Severed Hand": 12.0,
     "Shield": 16.0,
     "Shooting Star": 17.0,
     "Skull": 10.0,
@@ -247,5 +247,5 @@
     "Wednesday": 23.9,
     "World Cup": 29.9
   },
-  "last_updated": 1783143661
+  "last_updated": 1783145972
 }
