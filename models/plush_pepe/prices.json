@@ -4,10 +4,10 @@
     "Pacific Green": 2.64,
     "Chestnut": 2.62,
     "Electric Indigo": 2.6,
-    "Pine Green": 2.62,
-    "Purple": 2.62,
+    "Pine Green": 2.61,
+    "Purple": 2.59,
     "Orange": 2.62,
-    "Indigo Dye": 2.61,
+    "Indigo Dye": 2.59,
     "Electric Purple": 2.66,
     "Pure Gold": 2.59,
     "Neon Blue": 2.62,
@@ -15,7 +15,7 @@
     "Battleship Grey": 2.62,
     "Pacific Cyan": 2.6,
     "Jade Green": 2.62,
-    "Fandango": 2.61,
+    "Fandango": 2.59,
     "Lavender": 2.61,
     "Aquamarine": 2.6,
     "Shamrock Green": 2.59,
@@ -23,7 +23,7 @@
     "Mint Green": 2.61,
     "Desert Sand": 2.62,
     "Strawberry": 2.62,
-    "Cobalt Blue": 2.64,
+    "Cobalt Blue": 2.59,
     "French Blue": 2.68,
     "Platinum": 2.59,
     "Steel Grey": 2.59,
@@ -35,14 +35,14 @@
     "Sapphire": 2.59,
     "Sky Blue": 2.59,
     "Cyberpunk": 2.64,
-    "Coral Red": 2.62,
-    "Burgundy": 2.6,
+    "Coral Red": 2.59,
+    "Burgundy": 2.59,
     "Hunter Green": 2.63,
     "Khaki Green": 2.59,
-    "Raspberry": 2.63,
-    "Emerald": 2.6,
+    "Raspberry": 2.59,
+    "Emerald": 2.59,
     "Malachite": 2.65,
-    "Turquoise": 2.64,
+    "Turquoise": 2.61,
     "Silver Blue": 2.59,
     "Roman Silver": 2.62,
     "Moonstone": 2.64,
@@ -55,9 +55,9 @@
     "Azure Blue": 2.59,
     "Persimmon": 2.63,
     "Chocolate": 2.59,
-    "Pistachio": 2.63,
+    "Pistachio": 2.61,
     "Ivory White": 2.59,
-    "Copper": 2.62
+    "Copper": 2.59
   },
   "symbols": {
     "Oak Leaf": 4999.0,
@@ -141,7 +141,7 @@
     "Sunflower": 12250.0,
     "Toilet Paper": 4950.0,
     "Turkey": 6999.0,
-    "Twin Peaks": 4700.0,
+    "Twin Peaks": 4640.0,
     "Wasp": 5999.0
   },
   "models": {
@@ -177,7 +177,7 @@
     "Steel Frog": 12500.0,
     "Stripes": 4890.0,
     "Sunset": 15000.0,
-    "Tropical": 4700.0,
+    "Tropical": 4640.0,
     "Two Face": 8000.0,
     "Yellow Hug": 4900.0,
     "Cozy Galaxy": 44000.0,
@@ -193,5 +193,5 @@
     "X-Ray": 8000.0,
     "Yellow Purp": 7700.0
   },
-  "last_updated": 1783155305
+  "last_updated": 1783157623
 }
