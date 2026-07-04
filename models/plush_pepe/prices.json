@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "English Violet": 2.62,
+    "English Violet": 2.7,
     "Pacific Green": 2.64,
     "Chestnut": 2.63,
     "Electric Indigo": 2.63,
@@ -22,7 +22,7 @@
     "Midnight Blue": 8500.0,
     "Mint Green": 2.64,
     "Desert Sand": 2.65,
-    "Strawberry": 2.62,
+    "Strawberry": 2.68,
     "Cobalt Blue": 2.64,
     "French Blue": 2.68,
     "Platinum": 2.65,
@@ -32,10 +32,10 @@
     "Caramel": 2.64,
     "Lemongrass": 2.65,
     "Grape": 2.7,
-    "Sapphire": 2.62,
+    "Sapphire": 2.65,
     "Sky Blue": 2.64,
-    "Cyberpunk": 2.62,
-    "Coral Red": 2.62,
+    "Cyberpunk": 2.64,
+    "Coral Red": 2.69,
     "Burgundy": 2.65,
     "Hunter Green": 2.63,
     "Khaki Green": 2.65,
@@ -43,15 +43,15 @@
     "Emerald": 2.74,
     "Malachite": 2.65,
     "Turquoise": 2.65,
-    "Silver Blue": 2.63,
+    "Silver Blue": 2.65,
     "Roman Silver": 2.63,
     "Moonstone": 2.65,
     "Light Olive": 2.65,
     "Navy Blue": 2.65,
-    "Mystic Pearl": 2.65,
+    "Mystic Pearl": 2.63,
     "Carrot Juice": 2.64,
     "Cappuccino": 2.65,
-    "Dark Lilac": 2.62,
+    "Dark Lilac": 2.65,
     "Azure Blue": 2.62,
     "Persimmon": 2.68,
     "Chocolate": 2.64,
@@ -192,5 +192,5 @@
     "X-Ray": 8000.0,
     "Yellow Purp": 7700.0
   },
-  "last_updated": 1783125253
+  "last_updated": 1783127557
 }
