@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Chestnut": 2.63,
+    "Chestnut": 2.6,
     "Electric Indigo": 2.63,
     "Sky Blue": 2.64,
     "Cappuccino": 2.65,
@@ -25,23 +25,23 @@
     "Turquoise": 2.65,
     "Orange": 2.65,
     "Grape": 2.7,
-    "Purple": 2.64,
+    "Purple": 2.65,
     "Satin Gold": 2.64,
-    "Cobalt Blue": 2.63,
-    "Rosewood": 2.63,
+    "Cobalt Blue": 2.64,
+    "Rosewood": 2.65,
     "Coral Red": 2.69,
     "Emerald": 2.65,
     "Chocolate": 2.64,
     "Azure Blue": 2.6,
     "Lemongrass": 2.65,
     "Khaki Green": 2.65,
-    "Cyberpunk": 2.64,
+    "Cyberpunk": 2.65,
     "Pine Green": 2.63,
-    "Desert Sand": 2.64,
+    "Desert Sand": 2.65,
     "Light Olive": 2.65,
     "Malachite": 2.61,
     "Pure Gold": 2.69,
-    "Fandango": 2.63,
+    "Fandango": 2.65,
     "Mystic Pearl": 2.63,
     "Raspberry": 2.63,
     "Silver Blue": 2.65,
@@ -209,7 +209,7 @@
     "Rhino Warrior": 333.0,
     "Rocket": 281.0,
     "Romantic Cake": 1500.0,
-    "Rook": 370.01,
+    "Rook": 370.0,
     "Sakura": 467.0,
     "Sauron": 1500.0,
     "Scissors": 450.0,
@@ -321,5 +321,5 @@
     "Smelting": 4100.0,
     "Blizzard": 980.0
   },
-  "last_updated": 1783132134
+  "last_updated": 1783134392
 }

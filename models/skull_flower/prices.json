@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Burgundy": 2.65,
-    "Chestnut": 2.63,
+    "Chestnut": 2.6,
     "English Violet": 2.7,
     "Sapphire": 2.65,
     "Grape": 2.7,
@@ -9,7 +9,7 @@
     "Aquamarine": 2.67,
     "Indigo Dye": 2.63,
     "Shamrock Green": 2.68,
-    "Purple": 2.64,
+    "Purple": 2.65,
     "Navy Blue": 2.65,
     "Cappuccino": 2.65,
     "Azure Blue": 2.6,
@@ -21,18 +21,18 @@
     "Dark Lilac": 2.64,
     "Silver Blue": 2.65,
     "Pacific Cyan": 2.63,
-    "Desert Sand": 2.64,
+    "Desert Sand": 2.65,
     "Electric Purple": 2.66,
     "French Blue": 2.68,
     "Neon Blue": 2.65,
     "Coral Red": 2.69,
     "Pine Green": 2.63,
     "Battleship Grey": 2.63,
-    "Cyberpunk": 2.64,
+    "Cyberpunk": 2.65,
     "Strawberry": 2.68,
     "Light Olive": 2.65,
     "Pistachio": 2.65,
-    "Rosewood": 2.63,
+    "Rosewood": 2.65,
     "Malachite": 2.61,
     "Caramel": 2.64,
     "Electric Indigo": 2.63,
@@ -41,9 +41,9 @@
     "Lemongrass": 2.65,
     "Orange": 2.65,
     "Midnight Blue": 16.0,
-    "Fandango": 2.63,
+    "Fandango": 2.65,
     "Steel Grey": 2.65,
-    "Cobalt Blue": 2.63,
+    "Cobalt Blue": 2.64,
     "Emerald": 2.65,
     "Roman Silver": 2.63,
     "Satin Gold": 2.64,
@@ -112,7 +112,7 @@
     "Coffin": 10.99,
     "Coin": 12.0,
     "Cone": 12.0,
-    "Croissant": 12.76,
+    "Croissant": 12.75,
     "Crow": 16.25,
     "Crown": 40.0,
     "Crystal Ball": 14.0,
@@ -279,7 +279,7 @@
     "Witch's Hat": 9.99,
     "Witch’s Hat": 9.99,
     "Wolf Rage": 19.0,
-    "Wreath": 13.4
+    "Wreath": 13.39
   },
   "models": {
     "Azalea": 8.38,
@@ -333,5 +333,5 @@
     "White Rose": 11.0,
     "Wreath": 8.88
   },
-  "last_updated": 1783132134
+  "last_updated": 1783134392
 }

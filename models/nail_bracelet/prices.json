@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Cobalt Blue": 2.63,
+    "Cobalt Blue": 2.64,
     "Hunter Green": 2.63,
     "Mustard": 2.7,
     "Old Gold": 2.63,
@@ -9,7 +9,7 @@
     "Khaki Green": 2.65,
     "Ivory White": 2.65,
     "Carrot Juice": 2.65,
-    "Cyberpunk": 2.64,
+    "Cyberpunk": 2.65,
     "Pure Gold": 2.69,
     "Tactical Pine": 2.66,
     "Raspberry": 2.63,
@@ -37,12 +37,12 @@
     "Light Olive": 2.65,
     "Sky Blue": 2.64,
     "Dark Lilac": 2.64,
-    "Purple": 2.64,
-    "Fandango": 2.63,
+    "Purple": 2.65,
+    "Fandango": 2.65,
     "Mint Green": 2.64,
     "Battleship Grey": 2.63,
     "Burgundy": 2.65,
-    "Rosewood": 2.63,
+    "Rosewood": 2.65,
     "Amber": 2.71,
     "English Violet": 2.7,
     "Dark Green": 2.7,
@@ -55,9 +55,9 @@
     "Neon Blue": 2.65,
     "Mystic Pearl": 2.63,
     "Electric Purple": 2.66,
-    "Chestnut": 2.63,
+    "Chestnut": 2.6,
     "Gunmetal": 2.77,
-    "Desert Sand": 2.64,
+    "Desert Sand": 2.65,
     "Coral Red": 2.69,
     "Platinum": 2.65,
     "Orange": 2.65,
@@ -68,7 +68,7 @@
     "Pine Green": 2.63,
     "Cappuccino": 2.65,
     "Turquoise": 2.65,
-    "Camo Green": 2.62,
+    "Camo Green": 2.63,
     "Feldgrau": 2.7,
     "Satin Gold": 2.64,
     "Gunship Green": 2.62,
@@ -339,5 +339,5 @@
     "Vague Dream": 110.0,
     "X-Ray": 135.0
   },
-  "last_updated": 1783132134
+  "last_updated": 1783134392
 }

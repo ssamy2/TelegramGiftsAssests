@@ -1,12 +1,12 @@
 {
   "backdrops": {
-    "Cyberpunk": 2.64,
+    "Cyberpunk": 2.65,
     "Sky Blue": 2.64,
     "Dark Lilac": 2.64,
-    "Desert Sand": 2.64,
-    "Purple": 2.64,
+    "Desert Sand": 2.65,
+    "Purple": 2.65,
     "Jade Green": 2.65,
-    "Chestnut": 2.63,
+    "Chestnut": 2.6,
     "Deep Cyan": 2.69,
     "Tomato": 2.65,
     "Fire Engine": 2.69,
@@ -17,7 +17,7 @@
     "Neon Blue": 2.65,
     "Mint Green": 2.64,
     "English Violet": 2.7,
-    "Rosewood": 2.63,
+    "Rosewood": 2.65,
     "Roman Silver": 2.63,
     "French Blue": 2.68,
     "Turquoise": 2.65,
@@ -45,7 +45,7 @@
     "Amber": 2.71,
     "Carrot Juice": 2.65,
     "Persimmon": 2.68,
-    "Fandango": 2.63,
+    "Fandango": 2.65,
     "Copper": 2.7,
     "Chocolate": 2.64,
     "Tactical Pine": 2.66,
@@ -65,13 +65,13 @@
     "Orange": 2.65,
     "Ivory White": 2.65,
     "Midnight Blue": 2.88,
-    "Cobalt Blue": 2.63,
+    "Cobalt Blue": 2.64,
     "Marine Blue": 2.63,
     "Sapphire": 2.65,
     "Khaki Green": 2.65,
     "Silver Blue": 2.65,
     "Gunship Green": 2.62,
-    "Camo Green": 2.62,
+    "Camo Green": 2.63,
     "Satin Gold": 2.64,
     "Strawberry": 2.68,
     "Rifle Green": 2.64,
@@ -134,5 +134,5 @@
     "Topokki": 2.76,
     "Turtle Soup": 2.93
   },
-  "last_updated": 1783132134
+  "last_updated": 1783134392
 }

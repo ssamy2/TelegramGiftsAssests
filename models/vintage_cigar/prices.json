@@ -6,13 +6,13 @@
     "Electric Purple": 2.66,
     "Sky Blue": 2.64,
     "Electric Indigo": 2.63,
-    "Desert Sand": 2.64,
+    "Desert Sand": 2.65,
     "Shamrock Green": 2.68,
     "Aquamarine": 2.67,
     "Khaki Green": 2.65,
-    "Cyberpunk": 2.64,
+    "Cyberpunk": 2.65,
     "Emerald": 2.65,
-    "Rosewood": 2.63,
+    "Rosewood": 2.65,
     "Chocolate": 2.64,
     "Jade Green": 2.65,
     "Strawberry": 2.68,
@@ -26,7 +26,7 @@
     "Lemongrass": 2.65,
     "Burgundy": 2.65,
     "Mystic Pearl": 2.63,
-    "Chestnut": 2.63,
+    "Chestnut": 2.6,
     "Pistachio": 2.65,
     "Pine Green": 2.63,
     "Midnight Blue": 44.0,
@@ -38,9 +38,9 @@
     "Azure Blue": 2.6,
     "English Violet": 2.7,
     "French Blue": 2.68,
-    "Purple": 2.64,
+    "Purple": 2.65,
     "Lavender": 2.63,
-    "Fandango": 2.63,
+    "Fandango": 2.65,
     "Neon Blue": 2.65,
     "Caramel": 2.64,
     "Dark Lilac": 2.64,
@@ -50,7 +50,7 @@
     "Light Olive": 2.65,
     "Copper": 2.7,
     "Satin Gold": 2.64,
-    "Cobalt Blue": 2.63,
+    "Cobalt Blue": 2.64,
     "Amber": 2.71,
     "Cappuccino": 2.65,
     "Indigo Dye": 2.63,
@@ -99,7 +99,7 @@
     "Cap": 44.0,
     "Car": 40.0,
     "Cash": 36.0,
-    "Celtic Cross": 28.47,
+    "Celtic Cross": 28.39,
     "Celtic Wolf": 29.99,
     "Champagne": 32.99,
     "Cherry": 280.0,
@@ -238,7 +238,7 @@
     "White Deer": 30.0,
     "Wolf Rage": 60.0,
     "Wreath": 40.0,
-    "Yogi Shaman": 28.46
+    "Yogi Shaman": 28.38
   },
   "models": {
     "Psychonaut": 150.0,
@@ -297,5 +297,5 @@
     "Vaporwave": 30.0,
     "Warm Glow": 28.5
   },
-  "last_updated": 1783132134
+  "last_updated": 1783134392
 }
