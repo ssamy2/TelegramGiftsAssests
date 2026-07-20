@@ -13,7 +13,7 @@
     "Chestnut": 2.7,
     "Malachite": 2.69,
     "Ivory White": 2.73,
-    "Steel Grey": 2.68,
+    "Steel Grey": 2.7,
     "Light Olive": 2.69,
     "Turquoise": 2.7,
     "Shamrock Green": 2.7,
@@ -24,7 +24,7 @@
     "Grape": 2.69,
     "Rosewood": 2.69,
     "Neon Blue": 2.7,
-    "Pacific Cyan": 2.7,
+    "Pacific Cyan": 2.75,
     "Pine Green": 2.7,
     "Sky Blue": 2.68,
     "Carrot Juice": 2.69,
@@ -42,14 +42,14 @@
     "Desert Sand": 2.69,
     "Mystic Pearl": 2.69,
     "Aquamarine": 2.68,
-    "Orange": 2.7,
+    "Orange": 2.69,
     "Electric Purple": 2.7,
     "Satin Gold": 2.7,
     "English Violet": 2.7,
     "Hunter Green": 2.69,
     "Persimmon": 2.69,
     "Cyberpunk": 2.7,
-    "Caramel": 2.73,
+    "Caramel": 2.7,
     "Mint Green": 2.7,
     "Jade Green": 2.68,
     "Khaki Green": 2.7,
@@ -284,5 +284,5 @@
     "Villager": 802.0,
     "Voltage": 900.0
   },
-  "last_updated": 1784541231
+  "last_updated": 1784543776
 }

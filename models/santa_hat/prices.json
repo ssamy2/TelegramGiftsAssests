@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Orange": 2.7,
+    "Orange": 2.69,
     "Khaki Green": 2.7,
     "Turquoise": 2.7,
     "Navy Blue": 2.7,
@@ -8,7 +8,7 @@
     "Burgundy": 2.69,
     "Cappuccino": 2.7,
     "Amber": 2.7,
-    "Caramel": 2.73,
+    "Caramel": 2.7,
     "Emerald": 2.73,
     "Moonstone": 2.7,
     "Fandango": 2.7,
@@ -16,7 +16,7 @@
     "Dark Lilac": 2.7,
     "Chocolate": 2.7,
     "Aquamarine": 2.68,
-    "Pacific Cyan": 2.7,
+    "Pacific Cyan": 2.75,
     "Azure Blue": 2.7,
     "Sapphire": 2.7,
     "Pistachio": 2.69,
@@ -42,7 +42,7 @@
     "English Violet": 2.7,
     "Indigo Dye": 2.7,
     "Jade Green": 2.68,
-    "Steel Grey": 2.68,
+    "Steel Grey": 2.7,
     "Shamrock Green": 2.7,
     "Grape": 2.69,
     "Lavender": 2.69,
@@ -87,7 +87,7 @@
     "Chest": 4.0,
     "Chili Pepper": 3.55,
     "Chili": 3.87,
-    "Christmas Tree": 3.17,
+    "Christmas Tree": 4.0,
     "Cicada": 6.99,
     "Cobra": 4.6,
     "Cocktail": 3.7,
@@ -222,10 +222,10 @@
     "Creamy": 20.4,
     "Dandelion": 3.672,
     "Dreamy": 3.519,
-    "Evergreen": 3.264,
+    "Evergreen": 3.2436,
     "Festive": 5.1,
     "Fireball": 27.54,
-    "Frosted Sun": 3.4884,
+    "Frosted Sun": 3.3558,
     "Golden Tide": 5.1,
     "Hearth's Fire": 3.17,
     "Hearth’s Fire": 3.57,
@@ -274,5 +274,5 @@
     "Yule Hat": 15.3,
     "Zesty": 5.304
   },
-  "last_updated": 1784541231
+  "last_updated": 1784543777
 }
