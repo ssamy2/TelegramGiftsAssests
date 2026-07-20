@@ -1,7 +1,7 @@
 {
   "backdrops": {
-    "Lavender": 2.68,
-    "Mint Green": 2.7,
+    "Lavender": 2.67,
+    "Mint Green": 2.65,
     "Lemongrass": 2.68,
     "Caramel": 2.7,
     "Carrot Juice": 2.68,
@@ -30,10 +30,10 @@
     "French Blue": 2.69,
     "Tactical Pine": 2.7,
     "Mexican Pink": 2.79,
-    "Strawberry": 2.68,
+    "Strawberry": 2.66,
     "Mystic Pearl": 2.69,
     "Steel Grey": 2.68,
-    "Battleship Grey": 2.71,
+    "Battleship Grey": 2.66,
     "Cobalt Blue": 2.69,
     "Copper": 2.7,
     "Chocolate": 2.68,
@@ -50,7 +50,7 @@
     "Pacific Cyan": 2.75,
     "Azure Blue": 2.69,
     "Cappuccino": 2.69,
-    "Seal Brown": 2.69,
+    "Seal Brown": 2.65,
     "French Violet": 2.69,
     "Fandango": 2.69,
     "Chestnut": 2.7,
@@ -67,10 +67,10 @@
     "Marine Blue": 2.7,
     "Moonstone": 2.69,
     "Silver Blue": 2.7,
-    "Fire Engine": 2.9,
+    "Fire Engine": 2.65,
     "Light Olive": 2.69,
     "Deep Cyan": 2.69,
-    "Desert Sand": 2.7,
+    "Desert Sand": 2.65,
     "Hunter Green": 2.7,
     "Navy Blue": 2.68,
     "Malachite": 2.69,
@@ -376,7 +376,7 @@
     "Snowballs": 3.876,
     "Straw Hat": 8.6598,
     "Super Pixel": 3.978,
-    "Tennis Set": 3.9984,
+    "Tennis Set": 4.08,
     "TON Holder": 30.4062,
     "Tortilla Chips": 3.876,
     "Toy Bucket": 3.9678,
@@ -385,5 +385,5 @@
     "Witch Brew": 4.0596,
     "Witch Doctor": 6.12
   },
-  "last_updated": 1784571233
+  "last_updated": 1784572044
 }

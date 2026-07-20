@@ -1,7 +1,7 @@
 {
   "backdrops": {
-    "Lavender": 2.68,
-    "Mint Green": 2.7,
+    "Lavender": 2.67,
+    "Mint Green": 2.65,
     "Rifle Green": 2.69,
     "Gunmetal": 2.88,
     "Burnt Sienna": 2.69,
@@ -35,17 +35,17 @@
     "Orange": 2.7,
     "Pistachio": 2.69,
     "Purple": 2.69,
-    "Fire Engine": 2.9,
+    "Fire Engine": 2.65,
     "Silver Blue": 2.7,
     "Sapphire": 2.7,
     "Indigo Dye": 2.7,
     "Dark Green": 2.69,
     "Pure Gold": 2.7,
-    "Desert Sand": 2.7,
+    "Desert Sand": 2.65,
     "Burgundy": 2.68,
     "Gunship Green": 2.7,
     "Chestnut": 2.7,
-    "Seal Brown": 2.69,
+    "Seal Brown": 2.65,
     "Amber": 2.7,
     "Coral Red": 2.68,
     "Feldgrau": 2.7,
@@ -62,7 +62,7 @@
     "Hunter Green": 2.7,
     "Malachite": 2.69,
     "Ivory White": 2.87,
-    "Battleship Grey": 2.71,
+    "Battleship Grey": 2.66,
     "Copper": 2.7,
     "Khaki Green": 2.7,
     "Camo Green": 2.69,
@@ -76,7 +76,7 @@
     "Tactical Pine": 2.7,
     "Pine Green": 2.68,
     "Electric Purple": 2.7,
-    "Strawberry": 2.68,
+    "Strawberry": 2.66,
     "Marine Blue": 2.7,
     "Black": 95.88,
     "Onyx Black": 28.05
@@ -285,7 +285,7 @@
   "models": {
     "Antique": 42.84,
     "Azure Gem": 20.3898,
-    "Blood Gem": 19.89,
+    "Blood Gem": 19.0332,
     "Blossom": 20.4,
     "Broken Heart": 21.42,
     "Bubbles": 19.176,
@@ -317,7 +317,7 @@
     "Obsidian": 21.267,
     "Padlock": 29.2536,
     "Pepe Love": 136.5984,
-    "Pink Glass": 19.0434,
+    "Pink Glass": 19.0026,
     "Pink Zebra": 19.4616,
     "Purple Glow": 19.5024,
     "Puzzle": 20.4,
@@ -334,5 +334,5 @@
     "Web Locket": 20.8998,
     "White Claws": 21.165
   },
-  "last_updated": 1784571233
+  "last_updated": 1784572044
 }

@@ -12,7 +12,7 @@
     "Steel Grey": 2.68,
     "Grape": 2.68,
     "Light Olive": 2.69,
-    "Battleship Grey": 2.71,
+    "Battleship Grey": 2.66,
     "Moonstone": 2.69,
     "Cobalt Blue": 2.69,
     "Jade Green": 2.7,
@@ -23,7 +23,7 @@
     "Persimmon": 2.7,
     "Chocolate": 2.68,
     "Indigo Dye": 2.7,
-    "Mint Green": 2.7,
+    "Mint Green": 2.65,
     "Sapphire": 2.7,
     "Lemongrass": 2.68,
     "Purple": 2.69,
@@ -36,8 +36,8 @@
     "Platinum": 2.7,
     "Silver Blue": 2.7,
     "Hunter Green": 2.7,
-    "Strawberry": 2.68,
-    "Lavender": 2.68,
+    "Strawberry": 2.66,
+    "Lavender": 2.67,
     "Cappuccino": 2.69,
     "Shamrock Green": 2.7,
     "Rosewood": 2.69,
@@ -57,7 +57,7 @@
     "Pure Gold": 2.7,
     "Chestnut": 2.7,
     "Copper": 2.7,
-    "Desert Sand": 2.7,
+    "Desert Sand": 2.65,
     "Black": 1669.638,
     "Onyx Black": 331.5
   },
@@ -213,7 +213,7 @@
     "Wreath": 365.0
   },
   "models": {
-    "Amethyst": 116.127,
+    "Amethyst": 115.9536,
     "Ammolite": 117.3,
     "Aquamarine": 116.2086,
     "Aquarium": 153.0,
@@ -221,7 +221,7 @@
     "Barbed": 125.0,
     "Black Diamond": 132.6,
     "Blender": 132.6,
-    "Bogartite": 116.28,
+    "Bogartite": 115.974,
     "Bouquet": 142.7898,
     "Candy Flossite": 124.9908,
     "Citrine": 132.6,
@@ -235,12 +235,12 @@
     "Fractured": 119.3298,
     "Galactite": 224.4,
     "Garnet": 116.28,
-    "Glowstone": 116.1168,
+    "Glowstone": 115.9434,
     "Gold 999": 187.6698,
     "Gramite": 121.89,
     "Ivy Vine": 122.4,
     "Jurassic": 118.32,
-    "Labradorite": 116.1168,
+    "Labradorite": 115.9434,
     "Lovestone": 214.2,
     "Moonlit": 143.9934,
     "Moonstone": 142.29,
@@ -264,5 +264,5 @@
     "Warholite": 202.98,
     "White Opal": 234.6
   },
-  "last_updated": 1784571233
+  "last_updated": 1784572044
 }

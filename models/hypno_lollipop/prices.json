@@ -1,10 +1,10 @@
 {
   "backdrops": {
-    "Desert Sand": 2.7,
+    "Desert Sand": 2.65,
     "Dark Lilac": 2.7,
     "Raspberry": 2.69,
     "Ivory White": 2.87,
-    "Battleship Grey": 2.71,
+    "Battleship Grey": 2.66,
     "Cobalt Blue": 2.69,
     "Electric Purple": 2.7,
     "Sky Blue": 2.69,
@@ -34,7 +34,7 @@
     "Light Olive": 2.69,
     "Neon Blue": 2.69,
     "Emerald": 2.69,
-    "Strawberry": 2.68,
+    "Strawberry": 2.66,
     "Azure Blue": 2.69,
     "Pure Gold": 2.7,
     "Khaki Green": 2.7,
@@ -49,9 +49,9 @@
     "Grape": 2.68,
     "Moonstone": 2.69,
     "Satin Gold": 2.7,
-    "Mint Green": 2.7,
+    "Mint Green": 2.65,
     "Steel Grey": 2.68,
-    "Lavender": 2.68,
+    "Lavender": 2.67,
     "Hunter Green": 2.7,
     "Silver Blue": 2.7,
     "Platinum": 2.7,
@@ -342,7 +342,7 @@
     "Day Night": 5.0796,
     "Expired": 3.1212,
     "Flashing": 3.876,
-    "Flower Sky": 3.264,
+    "Flower Sky": 3.2334,
     "Flytrap": 3.1926,
     "Fragile Orb": 3.1824,
     "Frozen": 3.5598,
@@ -421,5 +421,5 @@
     "White Bloom": 3.672,
     "Windmill": 3.4578
   },
-  "last_updated": 1784571233
+  "last_updated": 1784572044
 }

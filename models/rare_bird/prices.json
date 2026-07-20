@@ -1,9 +1,9 @@
 {
   "backdrops": {
-    "Lavender": 2.68,
+    "Lavender": 2.67,
     "Neon Blue": 2.69,
     "Azure Blue": 2.69,
-    "Mint Green": 2.7,
+    "Mint Green": 2.65,
     "Orange": 2.7,
     "Fandango": 2.69,
     "English Violet": 2.7,
@@ -46,11 +46,11 @@
     "Dark Lilac": 2.7,
     "Khaki Green": 2.7,
     "Gunship Green": 2.7,
-    "Seal Brown": 2.69,
+    "Seal Brown": 2.65,
     "Shamrock Green": 2.7,
     "Pure Gold": 2.7,
     "Amber": 2.7,
-    "Fire Engine": 2.9,
+    "Fire Engine": 2.65,
     "Old Gold": 2.7,
     "Pistachio": 2.69,
     "Silver Blue": 2.7,
@@ -65,11 +65,11 @@
     "Sapphire": 2.7,
     "Sky Blue": 2.69,
     "Lemongrass": 2.68,
-    "Strawberry": 2.68,
-    "Desert Sand": 2.7,
+    "Strawberry": 2.66,
+    "Desert Sand": 2.65,
     "Light Olive": 2.69,
     "Steel Grey": 2.68,
-    "Battleship Grey": 2.71,
+    "Battleship Grey": 2.66,
     "Gunmetal": 2.88,
     "Deep Cyan": 2.69,
     "Carmine": 2.79,
@@ -282,7 +282,7 @@
     "Yogi Shaman": 25.0
   },
   "models": {
-    "Amber Toucan": 20.3388,
+    "Amber Toucan": 20.6958,
     "Apex Drone": 38.76,
     "Aurora Moth": 66.3,
     "Azure Spark": 20.4,
@@ -334,5 +334,5 @@
     "Winged Victory": 28.56,
     "Zombie Rider": 183.6
   },
-  "last_updated": 1784571233
+  "last_updated": 1784572044
 }

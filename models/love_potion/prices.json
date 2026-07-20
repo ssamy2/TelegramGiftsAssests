@@ -15,8 +15,8 @@
     "Hunter Green": 2.7,
     "Khaki Green": 2.7,
     "Amber": 2.7,
-    "Mint Green": 2.7,
-    "Strawberry": 2.68,
+    "Mint Green": 2.65,
+    "Strawberry": 2.66,
     "Orange": 2.7,
     "Electric Indigo": 2.68,
     "Carrot Juice": 2.68,
@@ -29,7 +29,7 @@
     "Sapphire": 2.7,
     "Burgundy": 2.68,
     "Neon Blue": 2.69,
-    "Desert Sand": 2.7,
+    "Desert Sand": 2.65,
     "Electric Purple": 2.7,
     "Malachite": 2.69,
     "Emerald": 2.69,
@@ -44,8 +44,8 @@
     "Jade Green": 2.7,
     "Moonstone": 2.69,
     "Rosewood": 2.69,
-    "Battleship Grey": 2.71,
-    "Lavender": 2.68,
+    "Battleship Grey": 2.66,
+    "Lavender": 2.67,
     "Pure Gold": 2.7,
     "Ivory White": 2.87,
     "Aquamarine": 2.7,
@@ -378,7 +378,7 @@
     "Paint Bottle": 20.3694,
     "Peach Nectar": 11.5158,
     "Pickle Rick": 40.8,
-    "Poison Flask": 11.526,
+    "Poison Flask": 11.6382,
     "Romeo": 15.402,
     "Royal Spritz": 12.9744,
     "Ruby Essence": 11.5974,
@@ -400,5 +400,5 @@
     "Nurgle’s Rot": 12.495,
     "Seeker’s Wish": 12.24
   },
-  "last_updated": 1784571233
+  "last_updated": 1784572044
 }
