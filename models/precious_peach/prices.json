@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Chestnut": 2.7,
-    "Electric Indigo": 2.7,
+    "Electric Indigo": 2.68,
     "Sky Blue": 2.68,
     "Cappuccino": 2.68,
     "Pacific Green": 2.68,
@@ -33,11 +33,11 @@
     "Emerald": 2.68,
     "Chocolate": 2.68,
     "Azure Blue": 2.7,
-    "Lemongrass": 2.7,
+    "Lemongrass": 2.68,
     "Khaki Green": 2.68,
     "Cyberpunk": 2.68,
     "Pine Green": 2.7,
-    "Desert Sand": 2.68,
+    "Desert Sand": 2.69,
     "Light Olive": 2.69,
     "Malachite": 2.69,
     "Pure Gold": 2.7,
@@ -57,7 +57,7 @@
     "Mint Green": 2.7,
     "Burgundy": 2.68,
     "Midnight Blue": 408.0,
-    "Pacific Cyan": 2.68,
+    "Pacific Cyan": 2.75,
     "Black": 1938.0,
     "Onyx Black": 561.0
   },
@@ -284,7 +284,7 @@
     "Purple Glow": 247.9824,
     "Pure Peach": 251.0,
     "Cutie Pink": 306.0,
-    "Iron Blush": 244.29,
+    "Iron Blush": 243.78,
     "999 Karat": 918.0,
     "Airy Bright": 320.0,
     "Angelic": 1071.0,
@@ -298,12 +298,12 @@
     "Cherry Season": 290.7,
     "Christmas": 259.998,
     "Clear Sky": 867.0,
-    "Cold Iron": 244.1778,
+    "Cold Iron": 265.2,
     "Cozy Warmth": 408.0,
     "Crypto Orange": 600.78,
     "Cutout": 324.9924,
     "Dreamer": 375.0,
-    "Elegance": 399.84,
+    "Elegance": 304.98,
     "Faded Silver": 408.0,
     "Fuzzy Lilac": 242.8518,
     "Glass Heart": 319.26,
@@ -330,7 +330,7 @@
     "Neo-Chrome": 407.9898,
     "Neptune": 248.8698,
     "Ogre Green": 1020.0,
-    "Party-Ready": 244.188,
+    "Party-Ready": 357.0,
     "Peach Black": 510.0,
     "Pink Cupid": 459.0,
     "Polaris": 257.04,
@@ -359,5 +359,5 @@
     "Smelting": 4100.0,
     "Blizzard": 994.9998
   },
-  "last_updated": 1784553798
+  "last_updated": 1784556291
 }
