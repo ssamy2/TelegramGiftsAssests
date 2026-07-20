@@ -1258,10 +1258,10 @@
       "tgmrkt_price_ton": 20.0736
     },
     {
-      "full_name": "Gift 5999298447486747746",
-      "short_name": "gift_5999298447486747746",
+      "full_name": "Liberty Figure",
+      "short_name": "liberty_figure",
       "regular_id": "5999298447486747746",
-      "models": "models/gift_5999298447486747746/prices.json",
+      "models": "models/liberty_figure/prices.json",
       "custom_emoji_id": "5891200369823849956"
     }
   ],
