@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Burgundy": 2.68,
+    "Burgundy": 2.7,
     "Chestnut": 2.7,
     "English Violet": 2.7,
     "Sapphire": 2.7,
@@ -8,7 +8,7 @@
     "Platinum": 2.7,
     "Aquamarine": 2.7,
     "Indigo Dye": 2.7,
-    "Shamrock Green": 2.69,
+    "Shamrock Green": 2.7,
     "Purple": 2.69,
     "Navy Blue": 2.68,
     "Cappuccino": 2.69,
@@ -53,7 +53,7 @@
     "Pacific Green": 2.7,
     "Mint Green": 2.7,
     "Pure Gold": 2.7,
-    "Persimmon": 2.7,
+    "Persimmon": 2.65,
     "Turquoise": 2.69,
     "Amber": 2.72,
     "Mystic Pearl": 2.7,
@@ -71,7 +71,7 @@
     "Bubble Tea": 15.0,
     "Flamingo": 15.0,
     "Alarm": 14.0,
-    "Alkonost": 17.6,
+    "Alkonost": 17.61,
     "Amour Scoops": 11.5,
     "Anchor": 11.0,
     "Apple": 12.7,
@@ -128,7 +128,7 @@
     "Cupid": 16.25,
     "Cupid’s Arrow": 13.0,
     "Cursor": 17.5,
-    "Cute Bear": 17.33,
+    "Cute Bear": 17.34,
     "Dessert": 15.09,
     "Diamond": 10.0,
     "Diamonds": 20.0,
@@ -162,7 +162,7 @@
     "Grim Reaper": 17.5,
     "Half Moon": 9.13,
     "Hamburger": 49.0,
-    "Happy Smile": 10.39,
+    "Happy Smile": 10.38,
     "Heart Balloon": 18.0,
     "Heart Shades": 10.0,
     "Heart": 13.99,
@@ -266,7 +266,7 @@
     "Tie": 21.5,
     "Toilet Paper": 16.0,
     "Tooth": 17.0,
-    "Top Hat": 10.99,
+    "Top Hat": 10.98,
     "Totem Bear": 15.0,
     "Treats": 16.25,
     "Tree of Life": 15.0,
@@ -337,5 +337,5 @@
     "White Rose": 9.69,
     "Wreath": 10.2
   },
-  "last_updated": 1784574563
+  "last_updated": 1784577035
 }

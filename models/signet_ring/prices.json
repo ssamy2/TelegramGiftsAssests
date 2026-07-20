@@ -4,7 +4,7 @@
     "Electric Purple": 2.7,
     "Coral Red": 2.68,
     "Steel Grey": 2.7,
-    "Burgundy": 2.68,
+    "Burgundy": 2.7,
     "Pine Green": 2.68,
     "Pacific Cyan": 2.75,
     "Sapphire": 2.7,
@@ -17,7 +17,7 @@
     "Cyberpunk": 2.7,
     "Strawberry": 2.69,
     "Fandango": 2.69,
-    "Shamrock Green": 2.69,
+    "Shamrock Green": 2.7,
     "Indigo Dye": 2.7,
     "Pure Gold": 2.7,
     "Khaki Green": 2.7,
@@ -31,7 +31,7 @@
     "Roman Silver": 2.7,
     "Electric Indigo": 2.7,
     "Lavender": 2.68,
-    "Persimmon": 2.7,
+    "Persimmon": 2.65,
     "Turquoise": 2.69,
     "Chocolate": 2.69,
     "Cobalt Blue": 2.69,
@@ -239,7 +239,7 @@
     "Totem Bear": 50.0,
     "Toy Bucket": 666.0,
     "Tree of Life": 59.0,
-    "Tribal Shield": 32.89,
+    "Tribal Shield": 32.9,
     "Trophy": 35.0,
     "Tulip": 50.9,
     "Turtle": 195.0,
@@ -257,8 +257,8 @@
   },
   "models": {
     "Black Noir": 39.78,
-    "Black Opal": 29.2128,
-    "Blue Gold": 29.07,
+    "Black Opal": 29.2332,
+    "Blue Gold": 28.662,
     "Blued Steel": 40.8,
     "Candy Cane": 29.3556,
     "Carpenter": 33.1398,
@@ -269,7 +269,7 @@
     "Crypto Boom": 357.0,
     "Diamonds": 28.866,
     "Dirt Diamond": 39.984,
-    "Emerald": 33.9558,
+    "Emerald": 33.9252,
     "Gold": 30.9978,
     "Golden Pearl": 31.62,
     "Good Boy": 52.5912,
@@ -307,5 +307,5 @@
     "White Gold": 28.6722,
     "Yin-Yang": 33.558
   },
-  "last_updated": 1784574563
+  "last_updated": 1784577035
 }

@@ -19,7 +19,7 @@
     "Fandango": 2.69,
     "Lavender": 2.68,
     "Aquamarine": 2.7,
-    "Shamrock Green": 2.69,
+    "Shamrock Green": 2.7,
     "Midnight Blue": 8500.0,
     "Mint Green": 2.7,
     "Desert Sand": 2.7,
@@ -37,7 +37,7 @@
     "Sky Blue": 2.69,
     "Cyberpunk": 2.7,
     "Coral Red": 2.68,
-    "Burgundy": 2.68,
+    "Burgundy": 2.7,
     "Hunter Green": 2.7,
     "Khaki Green": 2.7,
     "Raspberry": 2.69,
@@ -54,7 +54,7 @@
     "Cappuccino": 2.69,
     "Dark Lilac": 2.7,
     "Azure Blue": 2.69,
-    "Persimmon": 2.7,
+    "Persimmon": 2.65,
     "Chocolate": 2.69,
     "Pistachio": 2.69,
     "Ivory White": 2.87,
@@ -150,6 +150,7 @@
     "Moon Eagle": 10000.0,
     "Moon": 19490.0,
     "Nordic Wolf": 27777.0,
+    "Owl": 13000.0,
     "Passion Latte": 12000.0,
     "Pearl": 16666.0,
     "Pencil": 10000.0,
@@ -195,6 +196,7 @@
     "Princess": 7200.0,
     "Pumpkin": 4799.0,
     "Puppy Pug": 7000.0,
+    "Raphael": 11200.0,
     "Red Menace": 5899.9962,
     "Red Pepple": 6885.0,
     "Sketchy": 6500.0,
@@ -207,7 +209,6 @@
     "Yellow Hug": 4900.0,
     "Cozy Galaxy": 44000.0,
     "Leonardo": 17888.0,
-    "Raphael": 11200.0,
     "Toading...": 6400.0,
     "Christmas": 15000.0,
     "Emo Boi": 9900.0,
@@ -216,5 +217,5 @@
     "Yellow Purp": 7700.0,
     "Hothead": 10200.0
   },
-  "last_updated": 1784574563
+  "last_updated": 1784577035
 }

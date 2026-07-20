@@ -13,7 +13,7 @@
     "Deep Cyan": 2.69,
     "Raspberry": 2.69,
     "Pistachio": 2.69,
-    "Tactical Pine": 2.68,
+    "Tactical Pine": 2.7,
     "Desert Sand": 2.7,
     "Silver Blue": 2.7,
     "Feldgrau": 2.7,
@@ -27,12 +27,12 @@
     "Orange": 2.7,
     "Copper": 2.7,
     "Ranger Green": 2.69,
-    "French Violet": 2.69,
+    "French Violet": 2.7,
     "Pure Gold": 2.7,
-    "Persimmon": 2.7,
+    "Persimmon": 2.65,
     "Tomato": 2.7,
     "Mustard": 2.7,
-    "Shamrock Green": 2.69,
+    "Shamrock Green": 2.7,
     "Caramel": 2.7,
     "Dark Green": 2.69,
     "Mint Green": 2.7,
@@ -42,7 +42,7 @@
     "Cappuccino": 2.69,
     "Turquoise": 2.69,
     "Marine Blue": 2.7,
-    "Rifle Green": 2.69,
+    "Rifle Green": 2.7,
     "Camo Green": 2.69,
     "Strawberry": 2.69,
     "Pacific Green": 2.7,
@@ -73,7 +73,7 @@
     "Amber": 2.72,
     "Grape": 2.69,
     "Hunter Green": 2.7,
-    "Burgundy": 2.68,
+    "Burgundy": 2.7,
     "English Violet": 2.7,
     "Chestnut": 2.7,
     "Pacific Cyan": 2.75,
@@ -84,7 +84,7 @@
   "symbols": {},
   "models": {
     "Adventure": 4.08,
-    "Alcatraz": 4.08,
+    "Alcatraz": 3.978,
     "Ambition": 3.2436,
     "Ballerina": 3.213,
     "Barry Allen": 3.3966,
@@ -134,5 +134,5 @@
     "Trader": 4.0698,
     "Twin Peaks": 3.2844
   },
-  "last_updated": 1784574563
+  "last_updated": 1784577035
 }

@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "French Blue": 2.69,
-    "Shamrock Green": 2.69,
+    "Shamrock Green": 2.7,
     "Light Olive": 2.69,
     "Grape": 2.69,
     "Pure Gold": 2.7,
@@ -45,7 +45,7 @@
     "Raspberry": 2.69,
     "Navy Blue": 2.68,
     "Electric Indigo": 2.7,
-    "Burgundy": 2.68,
+    "Burgundy": 2.7,
     "Moonstone": 2.69,
     "Coral Red": 2.68,
     "Satin Gold": 2.7,
@@ -53,7 +53,7 @@
     "Strawberry": 2.69,
     "Steel Grey": 2.7,
     "Aquamarine": 2.7,
-    "Persimmon": 2.7,
+    "Persimmon": 2.65,
     "Sapphire": 2.7,
     "Hunter Green": 2.7,
     "Ivory White": 2.87,
@@ -100,7 +100,7 @@
     "Bishop": 60.0,
     "Boat": 230.0,
     "Bone": 124.0,
-    "Book": 220.0,
+    "Book": 228.0,
     "Brain": 180.0,
     "Bubble Tea": 98.0,
     "Bug": 169.0,
@@ -194,7 +194,7 @@
     "Ouroboros": 85.0,
     "Owl": 80.0,
     "Oxen of Fire": 120.0,
-    "Palette": 118.14,
+    "Palette": 118.11,
     "Pawn": 188.0,
     "Pear": 73.0,
     "Pearl": 79.0,
@@ -239,7 +239,7 @@
     "Tie": 53.0,
     "Tooth": 140.0,
     "Top Hat": 111.0,
-    "Totem Bear": 56.83,
+    "Totem Bear": 55.09,
     "Toy Bucket": 63.0,
     "Tree of Life": 65.0,
     "Tribal Shield": 63.88,
@@ -288,8 +288,8 @@
     "Outer Space": 94.86,
     "Patrician": 89.9844,
     "Patriot": 86.7,
-    "Pink Cycle": 44.88,
-    "Pip-Boy": 42.6258,
+    "Pink Cycle": 51.0,
+    "Pip-Boy": 42.534,
     "Platinum": 76.4898,
     "Pot of Gold": 161.16,
     "Rockefeller": 529.992,
@@ -308,5 +308,5 @@
     "Xenowatch": 53.04,
     "Zenith": 102.0
   },
-  "last_updated": 1784574563
+  "last_updated": 1784577035
 }
