@@ -17,13 +17,13 @@
     "Lavender": 2.68,
     "Shamrock Green": 2.7,
     "Persimmon": 2.7,
-    "Carrot Juice": 2.68,
+    "Carrot Juice": 2.67,
     "Dark Lilac": 2.7,
     "Amber": 2.68,
     "Electric Purple": 2.68,
-    "English Violet": 2.69,
+    "English Violet": 2.7,
     "Turquoise": 2.73,
-    "Orange": 2.7,
+    "Orange": 2.69,
     "Grape": 2.68,
     "Purple": 2.7,
     "Satin Gold": 2.69,
@@ -47,7 +47,7 @@
     "Silver Blue": 2.68,
     "Caramel": 2.7,
     "Hunter Green": 2.7,
-    "Jade Green": 2.7,
+    "Jade Green": 2.69,
     "Ivory White": 2.79,
     "Pistachio": 2.68,
     "Aquamarine": 2.69,
@@ -96,7 +96,6 @@
     "Bishop": 380.0,
     "Thief": 355.0,
     "Mask": 248.93,
-    "Hermit Shell": 264.92,
     "Wolf Rage": 750.0,
     "Gingerbread": 666.66,
     "Vortex": 250.0,
@@ -203,6 +202,7 @@
     "Heart Shades": 1400.0,
     "Heart": 366.0,
     "Hedgehog": 349.0,
+    "Hermit Shell": 246.99,
     "High Heels": 3000.0,
     "Hippo": 259.0,
     "Ice Pop": 278.5,
@@ -359,5 +359,5 @@
     "Smelting": 4100.0,
     "Blizzard": 994.9998
   },
-  "last_updated": 1784563791
+  "last_updated": 1784565174
 }

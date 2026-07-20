@@ -26,8 +26,8 @@
     "Raspberry": 2.68,
     "Sky Blue": 2.68,
     "Satin Gold": 2.69,
-    "Carrot Juice": 2.68,
-    "English Violet": 2.69,
+    "Carrot Juice": 2.67,
+    "English Violet": 2.7,
     "Roman Silver": 2.69,
     "Electric Indigo": 2.68,
     "Lavender": 2.68,
@@ -41,7 +41,7 @@
     "Emerald": 2.68,
     "Dark Lilac": 2.7,
     "Chestnut": 2.7,
-    "Jade Green": 2.7,
+    "Jade Green": 2.69,
     "Malachite": 2.68,
     "Moonstone": 2.68,
     "Mint Green": 2.7,
@@ -51,7 +51,7 @@
     "Midnight Blue": 44.9922,
     "Neon Blue": 2.7,
     "Light Olive": 2.69,
-    "Orange": 2.7,
+    "Orange": 2.69,
     "Platinum": 2.7,
     "Navy Blue": 2.68,
     "Mystic Pearl": 2.69,
@@ -239,7 +239,7 @@
     "Totem Bear": 50.0,
     "Toy Bucket": 666.0,
     "Tree of Life": 59.0,
-    "Tribal Shield": 32.89,
+    "Tribal Shield": 32.9,
     "Trophy": 35.0,
     "Tulip": 50.9,
     "Turtle": 195.0,
@@ -258,7 +258,7 @@
   "models": {
     "Black Noir": 39.78,
     "Black Opal": 29.3148,
-    "Blue Gold": 29.376,
+    "Blue Gold": 29.07,
     "Blued Steel": 40.8,
     "Candy Cane": 29.3658,
     "Carpenter": 33.1398,
@@ -307,5 +307,5 @@
     "White Gold": 28.764,
     "Yin-Yang": 33.558
   },
-  "last_updated": 1784563791
+  "last_updated": 1784565174
 }

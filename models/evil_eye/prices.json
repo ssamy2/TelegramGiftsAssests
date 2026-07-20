@@ -34,12 +34,12 @@
     "Satin Gold": 2.69,
     "Aquamarine": 2.69,
     "Strawberry": 2.7,
-    "Orange": 2.7,
+    "Orange": 2.69,
     "Navy Blue": 2.68,
     "Mystic Pearl": 2.69,
     "Hunter Green": 2.7,
-    "English Violet": 2.69,
-    "Carrot Juice": 2.68,
+    "English Violet": 2.7,
+    "Carrot Juice": 2.67,
     "Chocolate": 2.68,
     "Platinum": 2.7,
     "Cappuccino": 2.68,
@@ -56,7 +56,7 @@
     "Dark Lilac": 2.7,
     "Electric Purple": 2.68,
     "Malachite": 2.68,
-    "Jade Green": 2.7,
+    "Jade Green": 2.69,
     "Desert Sand": 2.69,
     "Black": 47.9298,
     "Onyx Black": 14.1576
@@ -117,7 +117,7 @@
     "Ghost": 9.9,
     "Glasses": 12.0,
     "Gold": 9.9,
-    "Gravestone": 6.72,
+    "Gravestone": 6.64,
     "Grim Reaper": 6.98,
     "Half Moon": 6.57,
     "Happy Smile": 6.72,
@@ -208,7 +208,7 @@
     "Blink": 6.834,
     "Bloodshot": 6.1506,
     "Blue Flame": 7.1298,
-    "Blue Period": 6.324,
+    "Blue Period": 6.1506,
     "Canceled": 6.9258,
     "Cirrus": 6.1506,
     "Concentric Circles": 7.038,
@@ -253,5 +253,5 @@
     "True North": 6.426,
     "Visible Spectrum": 6.8238
   },
-  "last_updated": 1784563791
+  "last_updated": 1784565173
 }
