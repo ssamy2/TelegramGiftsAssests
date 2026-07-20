@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Sky Blue": 2.69,
+    "Sky Blue": 2.7,
     "Roman Silver": 2.69,
     "Pure Gold": 2.7,
     "Fandango": 2.7,
@@ -24,14 +24,14 @@
     "Pacific Cyan": 2.69,
     "Mustard": 2.7,
     "Hunter Green": 2.7,
-    "Ivory White": 2.68,
+    "Ivory White": 2.73,
     "Marine Blue": 2.7,
     "Mexican Pink": 2.79,
     "Persimmon": 2.69,
     "Electric Indigo": 2.7,
     "Tactical Pine": 2.7,
     "Neon Blue": 2.7,
-    "Sapphire": 2.69,
+    "Sapphire": 2.7,
     "Mystic Pearl": 2.7,
     "Purple": 2.7,
     "Tomato": 2.7,
@@ -50,7 +50,7 @@
     "Rifle Green": 2.68,
     "Carrot Juice": 2.7,
     "Amber": 2.7,
-    "Platinum": 2.7,
+    "Platinum": 2.69,
     "Burnt Sienna": 2.68,
     "Electric Purple": 2.7,
     "Old Gold": 2.68,
@@ -118,7 +118,7 @@
     "Blood Drop": 35.0,
     "Boat": 55.0,
     "Bobble Hat": 44.9,
-    "Bobby Helmet": 31.54,
+    "Bobby Helmet": 30.99,
     "Bouquet": 79.0,
     "Bow Tie": 90.7,
     "Bread": 38.0,
@@ -162,7 +162,7 @@
     "Firebird": 38.0,
     "Fish": 49.0,
     "Flaming Heart": 68.6,
-    "Flamingo": 37.01,
+    "Flamingo": 37.0,
     "Flashlight": 55.0,
     "Flower Cross": 37.99,
     "Flower Tulip": 65.0,
@@ -353,7 +353,7 @@
     "Nebula": 49.98,
     "Night Race": 37.23,
     "Optimus Prime": 29.4168,
-    "Panther": 66.3,
+    "Panther": 34.9962,
     "Poison Ivy": 44.37,
     "Princess": 178.5,
     "Queen Bee": 34.17,
@@ -380,5 +380,5 @@
     "Wild Cat": 79.968,
     "Wild Daisy": 51.0
   },
-  "last_updated": 1784526107
+  "last_updated": 1784528642
 }

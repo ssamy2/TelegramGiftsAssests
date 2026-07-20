@@ -1,10 +1,10 @@
 {
   "backdrops": {
     "Pacific Green": 2.7,
-    "Sapphire": 2.69,
+    "Sapphire": 2.7,
     "Pacific Cyan": 2.69,
     "Electric Purple": 2.7,
-    "Sky Blue": 2.69,
+    "Sky Blue": 2.7,
     "Electric Indigo": 2.7,
     "Desert Sand": 2.68,
     "Shamrock Green": 2.7,
@@ -21,7 +21,7 @@
     "Navy Blue": 2.7,
     "Raspberry": 2.7,
     "Pure Gold": 2.7,
-    "Ivory White": 2.68,
+    "Ivory White": 2.73,
     "Roman Silver": 2.69,
     "Lemongrass": 2.69,
     "Burgundy": 2.7,
@@ -56,7 +56,7 @@
     "Indigo Dye": 2.7,
     "Persimmon": 2.69,
     "Steel Grey": 2.7,
-    "Platinum": 2.7,
+    "Platinum": 2.69,
     "Grape": 2.69,
     "Black": 234.6,
     "Onyx Black": 112.2
@@ -204,7 +204,7 @@
     "Polar Bear": 56.0,
     "Pyramid": 38.0,
     "Rain Drop": 31.5,
-    "Ram of Amun": 31.0,
+    "Ram of Amun": 45.0,
     "Rhino Warrior": 45.0,
     "Ring": 52.9,
     "Rocket": 50.0,
@@ -253,10 +253,10 @@
   "models": {
     "Psychonaut": 142.8,
     "Aquaviolet": 37.332,
-    "Ashtray": 30.9876,
+    "Ashtray": 44.37,
     "Black Plume": 39.7698,
     "Blue Ghoul": 33.6498,
-    "Blue Hue": 30.64903956,
+    "Blue Hue": 32.64,
     "Centurion": 31.62,
     "Cobalt": 31.8546,
     "Cool Blue": 32.64,
@@ -288,7 +288,7 @@
     "Rainbow Road": 33.15,
     "Red Devil": 35.7,
     "Rose Wrapper": 33.15,
-    "Rudolph": 30.6408,
+    "Rudolph": 37.74,
     "Saturation": 35.6898,
     "Saturn V": 59.976,
     "Secret Santa": 35.7,
@@ -307,5 +307,5 @@
     "Vaporwave": 31.8648,
     "Warm Glow": 40.8
   },
-  "last_updated": 1784526107
+  "last_updated": 1784528642
 }

@@ -2,7 +2,7 @@
   "backdrops": {
     "Grape": 2.69,
     "Roman Silver": 2.69,
-    "Ivory White": 2.68,
+    "Ivory White": 2.73,
     "Burgundy": 2.7,
     "Neon Blue": 2.7,
     "Moonstone": 2.7,
@@ -15,7 +15,7 @@
     "Caramel": 2.73,
     "Turquoise": 2.7,
     "Steel Grey": 2.7,
-    "Sapphire": 2.69,
+    "Sapphire": 2.7,
     "Coral Red": 2.68,
     "Light Olive": 2.69,
     "French Blue": 2.7,
@@ -50,9 +50,9 @@
     "Pacific Cyan": 2.69,
     "Pacific Green": 2.7,
     "Cyberpunk": 2.7,
-    "Platinum": 2.7,
+    "Platinum": 2.69,
     "Navy Blue": 2.7,
-    "Sky Blue": 2.69,
+    "Sky Blue": 2.7,
     "Rosewood": 2.69,
     "Cobalt Blue": 2.7,
     "Silver Blue": 2.7,
@@ -135,7 +135,7 @@
     "Eikthyrnir": 68.0,
     "Evil Pumpkin": 777.0,
     "Eyeball": 38.0,
-    "Fenrir": 46.18,
+    "Fenrir": 46.19,
     "Fire": 40.0,
     "Fish Skeleton": 37.16,
     "Fish": 200.0,
@@ -273,7 +273,7 @@
     "Hopberry": 45.9,
     "Icefrog": 72.42,
     "Lava Leap": 80.58,
-    "Lemon Drop": 36.1896,
+    "Lemon Drop": 40.8,
     "Lemon Juice": 40.8,
     "Lilie Pond": 204.0,
     "Lily Pond": 37.23,
@@ -304,5 +304,5 @@
     "Void Hopper": 36.5976,
     "Zodiak Croak": 173.4
   },
-  "last_updated": 1784526107
+  "last_updated": 1784528642
 }

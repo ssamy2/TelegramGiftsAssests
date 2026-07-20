@@ -25,9 +25,9 @@
     "Cobalt Blue": 2.7,
     "Orange": 2.7,
     "Khaki Green": 2.68,
-    "Sky Blue": 2.69,
+    "Sky Blue": 2.7,
     "Copper": 2.7,
-    "Platinum": 2.7,
+    "Platinum": 2.69,
     "Roman Silver": 2.69,
     "Mystic Pearl": 2.7,
     "Pacific Cyan": 2.69,
@@ -54,9 +54,9 @@
     "Steel Grey": 2.7,
     "Aquamarine": 2.7,
     "Persimmon": 2.69,
-    "Sapphire": 2.69,
+    "Sapphire": 2.7,
     "Hunter Green": 2.7,
-    "Ivory White": 2.68,
+    "Ivory White": 2.73,
     "Purple": 2.7,
     "Black": 473.28,
     "Onyx Black": 85.68
@@ -247,12 +247,12 @@
     "Turkey": 250.0,
     "Twin Peaks": 125.0,
     "UFO": 45.0,
-    "Unicorn Head": 87.99,
+    "Unicorn Head": 88.02,
     "Unicorn": 89.6,
     "Venetian Mask": 89.0,
     "Vortex": 50.0,
     "White Deer": 75.0,
-    "Wolf Rage": 89.0,
+    "Wolf Rage": 80.0,
     "Wreath": 85.0,
     "Yogi Shaman": 98.0
   },
@@ -264,7 +264,7 @@
     "Blue Daytona": 336.6,
     "Bronze Age": 88.6584,
     "Bruce Wayne": 49.47,
-    "Cherry Time": 41.616,
+    "Cherry Time": 44.9922,
     "Chromatic": 73.44,
     "Copper Clock": 91.8,
     "Cupid Clock": 55.335,
@@ -289,7 +289,7 @@
     "Patrician": 89.9844,
     "Patriot": 86.7,
     "Pink Cycle": 51.0,
-    "Pip-Boy": 41.2386,
+    "Pip-Boy": 43.1256,
     "Platinum": 76.4898,
     "Pot of Gold": 161.16,
     "Rockefeller": 571.2,
@@ -308,5 +308,5 @@
     "Xenowatch": 53.04,
     "Zenith": 102.0
   },
-  "last_updated": 1784526107
+  "last_updated": 1784528642
 }

@@ -36,7 +36,7 @@
     "Gunship Green": 2.7,
     "Steel Grey": 2.7,
     "Carrot Juice": 2.7,
-    "Ivory White": 2.68,
+    "Ivory White": 2.73,
     "Old Gold": 2.68,
     "Gunmetal": 2.8,
     "Coral Red": 2.68,
@@ -49,8 +49,8 @@
     "Light Olive": 2.69,
     "Midnight Blue": 214.2,
     "Persimmon": 2.69,
-    "Sapphire": 2.69,
-    "Platinum": 2.7,
+    "Sapphire": 2.7,
+    "Platinum": 2.69,
     "Neon Blue": 2.7,
     "Raspberry": 2.7,
     "Celtic Blue": 2.69,
@@ -72,7 +72,7 @@
     "Pure Gold": 2.7,
     "Grape": 2.69,
     "Strawberry": 2.7,
-    "Sky Blue": 2.69,
+    "Sky Blue": 2.7,
     "Deep Cyan": 2.7,
     "Hunter Green": 2.7,
     "Mustard": 2.7,
@@ -138,7 +138,6 @@
     "Turkey": 174.99,
     "Two Katanas": 300.0,
     "Twin Koi": 185.0,
-    "Red Deer": 174.97,
     "Acorn": 300.01,
     "Anchor": 744.44,
     "Ancient Urn": 179.98,
@@ -243,6 +242,7 @@
     "Radar": 330.0,
     "Rain Drop": 360.0,
     "Ram of Amun": 230.0,
+    "Red Deer": 204.09,
     "Ring": 245.0,
     "Rooster": 333.0,
     "Rose": 900.0,
@@ -343,5 +343,5 @@
     "Unicorn": 301.92,
     "Watermelon": 229.5
   },
-  "last_updated": 1784526107
+  "last_updated": 1784528642
 }

@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Platinum": 2.7,
+    "Platinum": 2.69,
     "Orange": 2.7,
     "Roman Silver": 2.69,
     "Ranger Green": 2.7,
@@ -29,7 +29,7 @@
     "Hunter Green": 2.7,
     "Gunship Green": 2.7,
     "Tactical Pine": 2.7,
-    "Ivory White": 2.68,
+    "Ivory White": 2.73,
     "Dark Green": 2.7,
     "Turquoise": 2.7,
     "Tomato": 2.7,
@@ -38,10 +38,10 @@
     "Emerald": 2.73,
     "Mint Green": 2.7,
     "Azure Blue": 2.7,
-    "Sky Blue": 2.69,
+    "Sky Blue": 2.7,
     "French Violet": 2.68,
     "Cyberpunk": 2.7,
-    "Sapphire": 2.69,
+    "Sapphire": 2.7,
     "Pure Gold": 2.7,
     "Satin Gold": 2.7,
     "Chestnut": 2.69,
@@ -99,7 +99,7 @@
     "Baphomet": 2.86,
     "Baseball Cap": 2.75,
     "Basketball": 2.79,
-    "Bastet": 2.7,
+    "Bastet": 2.69,
     "Bearskin": 2.7,
     "Beetle": 2.78,
     "Bell Pepper": 2.7,
@@ -290,7 +290,7 @@
     "Press Hat": 2.79,
     "Propeller Cap": 2.9,
     "Puzzle": 2.75,
-    "Pyramid": 2.95,
+    "Pyramid": 3.0,
     "Radar": 2.7,
     "Rain Drop": 2.7,
     "Ram of Amun": 2.76,
@@ -379,7 +379,7 @@
     "Winter Hat": 2.72,
     "Wizard Hat": 2.75,
     "Wolf Rage": 2.79,
-    "Wontons": 2.8,
+    "Wontons": 2.73,
     "Wreath": 2.75,
     "Yin-Yang": 2.82
   },
@@ -437,5 +437,5 @@
     "Triumph": 2.7336,
     "Victory": 2.856
   },
-  "last_updated": 1784526107
+  "last_updated": 1784528642
 }

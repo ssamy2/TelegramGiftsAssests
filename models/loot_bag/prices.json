@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Ivory White": 2.68,
+    "Ivory White": 2.73,
     "Mint Green": 2.7,
     "Pacific Green": 2.7,
     "French Blue": 2.7,
@@ -39,7 +39,7 @@
     "Indigo Dye": 2.7,
     "Pistachio": 2.68,
     "Moonstone": 2.7,
-    "Platinum": 2.7,
+    "Platinum": 2.69,
     "Orange": 2.7,
     "Burgundy": 2.7,
     "Dark Lilac": 2.7,
@@ -55,8 +55,8 @@
     "Pure Gold": 2.7,
     "Malachite": 2.69,
     "Fandango": 2.7,
-    "Sapphire": 2.69,
-    "Sky Blue": 2.69,
+    "Sapphire": 2.7,
+    "Sky Blue": 2.7,
     "Cyberpunk": 2.7,
     "Black": 449.9934,
     "Onyx Black": 229.5
@@ -161,7 +161,7 @@
     "Fire": 150.0,
     "Firebird": 250.0,
     "Fish": 550.0,
-    "Flamingo": 187.07,
+    "Flamingo": 104.39,
     "Fleur-de-lis": 300.0,
     "Flower": 190.0,
     "Flying Dragon": 350.0,
@@ -221,7 +221,7 @@
     "Ouroboros": 107.99,
     "Owl": 150.0,
     "Oxen of Fire": 249.0,
-    "Paper Lantern": 220.0,
+    "Paper Lantern": 180.0,
     "Pawn": 270.0,
     "PC Mouse": 200.0,
     "Phoenix": 400.0,
@@ -299,7 +299,7 @@
   },
   "models": {
     "Lust Beat": 292.92,
-    "Panthera": 275.4,
+    "Panthera": 306.0,
     "Academic": 104.8152,
     "Aero Swift": 104.8458,
     "Anemone": 202.98,
@@ -375,10 +375,10 @@
     "Vertigo": 122.4,
     "White Pony": 606.9,
     "Woof Pack": 362.1,
-    "Zip Pocket": 104.04,
+    "Zip Pocket": 117.3,
     "City Life": 459.0,
     "Glacier": 612.0,
     "Vert d’Eau": 147.9
   },
-  "last_updated": 1784526107
+  "last_updated": 1784528642
 }
