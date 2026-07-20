@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Amber": 2.7,
+    "Amber": 2.69,
     "Electric Purple": 2.7,
     "Pine Green": 2.7,
     "Raspberry": 2.7,
@@ -8,7 +8,7 @@
     "Electric Indigo": 2.7,
     "Mystic Pearl": 2.7,
     "Emerald": 2.73,
-    "Khaki Green": 2.68,
+    "Khaki Green": 2.7,
     "Steel Grey": 2.7,
     "Grape": 2.69,
     "Light Olive": 2.69,
@@ -16,7 +16,7 @@
     "Moonstone": 2.7,
     "Cobalt Blue": 2.7,
     "Jade Green": 2.7,
-    "Coral Red": 2.68,
+    "Coral Red": 2.69,
     "Fandango": 2.7,
     "Navy Blue": 2.7,
     "Pacific Green": 2.7,
@@ -44,7 +44,7 @@
     "Cyberpunk": 2.7,
     "Sky Blue": 2.7,
     "Orange": 2.7,
-    "Pistachio": 2.68,
+    "Pistachio": 2.69,
     "Midnight Blue": 142.8,
     "Pacific Cyan": 2.69,
     "Caramel": 2.73,
@@ -57,7 +57,7 @@
     "Pure Gold": 2.7,
     "Chestnut": 2.69,
     "Copper": 2.7,
-    "Desert Sand": 2.68,
+    "Desert Sand": 2.69,
     "Black": 1669.638,
     "Onyx Black": 331.5
   },
@@ -199,7 +199,7 @@
     "Star": 170.0,
     "Sumerian Bird": 260.0,
     "Sun Lion": 160.0,
-    "Sun Mountain": 128.58,
+    "Sun Mountain": 125.58,
     "Sun": 229.0,
     "The Eye": 1500.0,
     "Top Hat": 125.0,
@@ -251,12 +251,12 @@
     "Premium": 146.88,
     "Pure Silver": 173.4,
     "Red Ruby": 153.0,
-    "RGB-ite": 116.28,
-    "Ruby Fuchsite": 115.6578,
+    "RGB-ite": 115.566,
+    "Ruby Fuchsite": 115.5558,
     "Sapphire": 126.48,
     "Silver Art": 142.8,
     "Spinel": 117.3,
-    "Sunstone": 115.6578,
+    "Sunstone": 115.5558,
     "Tanzanite": 197.88,
     "Tourmaline": 142.8,
     "True Opal": 193.8,
@@ -264,5 +264,5 @@
     "Warholite": 202.98,
     "White Opal": 234.6
   },
-  "last_updated": 1784528642
+  "last_updated": 1784531162
 }
