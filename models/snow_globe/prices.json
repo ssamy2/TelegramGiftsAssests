@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Pine Green": 2.69,
-    "Gunmetal": 2.74,
+    "Gunmetal": 2.76,
     "Chestnut": 2.69,
     "Tomato": 2.69,
     "Amber": 2.69,
@@ -12,14 +12,14 @@
     "Pacific Cyan": 2.75,
     "Burgundy": 2.68,
     "Old Gold": 2.69,
-    "Lavender": 2.7,
+    "Lavender": 2.67,
     "Mint Green": 2.69,
     "Platinum": 2.69,
     "Carmine": 2.69,
     "Burnt Sienna": 2.68,
     "Persimmon": 2.69,
     "Rifle Green": 2.69,
-    "Electric Purple": 2.64,
+    "Electric Purple": 2.68,
     "Deep Cyan": 2.69,
     "Moonstone": 2.68,
     "Copper": 2.68,
@@ -51,7 +51,7 @@
     "Pistachio": 2.69,
     "Pacific Green": 2.64,
     "Ivory White": 2.69,
-    "Jade Green": 2.68,
+    "Jade Green": 2.7,
     "Battleship Grey": 2.67,
     "Cobalt Blue": 2.69,
     "Marine Blue": 2.69,
@@ -74,10 +74,10 @@
     "Turquoise": 2.69,
     "Sapphire": 2.69,
     "Azure Blue": 2.69,
-    "Purple": 2.69,
+    "Purple": 2.67,
     "Hunter Green": 2.69,
     "Orange": 2.69,
-    "Steel Grey": 2.67,
+    "Steel Grey": 2.68,
     "Black": 24.174,
     "Onyx Black": 7.9968
   },
@@ -226,9 +226,9 @@
     "Bag End": 6.9564,
     "Baobab": 4.0698,
     "Bedrock": 3.9984,
-    "Bikini Bottom": 3.774,
+    "Bikini Bottom": 4.08,
     "Bronze Temple": 4.0698,
-    "Caramel": 3.9678,
+    "Caramel": 3.978,
     "Cherry Duck": 12.954,
     "Choco Waffle": 3.7842,
     "Crimson Cabin": 4.0698,
@@ -271,5 +271,5 @@
     "Wild West": 4.59,
     "Winter": 7.14
   },
-  "last_updated": 1784616724
+  "last_updated": 1784619268
 }

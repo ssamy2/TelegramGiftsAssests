@@ -2,7 +2,7 @@
   "backdrops": {
     "Chocolate": 2.69,
     "Pistachio": 2.69,
-    "Electric Purple": 2.64,
+    "Electric Purple": 2.68,
     "Battleship Grey": 2.67,
     "Emerald": 2.73,
     "Mystic Pearl": 2.69,
@@ -13,7 +13,7 @@
     "Coral Red": 2.68,
     "Orange": 2.69,
     "Hunter Green": 2.69,
-    "Purple": 2.69,
+    "Purple": 2.67,
     "Pure Gold": 2.69,
     "Dark Lilac": 2.68,
     "Aquamarine": 2.69,
@@ -28,7 +28,7 @@
     "Sky Blue": 2.69,
     "Khaki Green": 2.69,
     "Midnight Blue": 10.1898,
-    "Jade Green": 2.68,
+    "Jade Green": 2.7,
     "Turquoise": 2.69,
     "Desert Sand": 2.67,
     "Mint Green": 2.69,
@@ -37,7 +37,7 @@
     "Rosewood": 2.69,
     "Chestnut": 2.69,
     "English Violet": 2.69,
-    "Steel Grey": 2.67,
+    "Steel Grey": 2.68,
     "Cappuccino": 2.69,
     "Shamrock Green": 2.68,
     "Navy Blue": 2.64,
@@ -56,7 +56,7 @@
     "Cobalt Blue": 2.69,
     "Malachite": 2.69,
     "Raspberry": 2.69,
-    "Lavender": 2.7,
+    "Lavender": 2.67,
     "Moonstone": 2.68,
     "Black": 23.2458,
     "Onyx Black": 8.976
@@ -92,7 +92,7 @@
     "Candle": 7.99,
     "Candy": 11.0,
     "Carambola": 14.99,
-    "Carrot": 6.49,
+    "Carrot": 6.33,
     "Cash": 9.99,
     "Cat Mask": 15.4,
     "Celtic Cross": 6.99,
@@ -157,7 +157,7 @@
     "Inguz Rune": 9.8,
     "Key": 10.0,
     "Kitty Cat": 9.89,
-    "Knight": 8.02,
+    "Knight": 8.03,
     "Ladybug": 8.05,
     "Lemon Slice": 8.0,
     "Like": 9.9,
@@ -302,7 +302,7 @@
     "Juicy Melon": 7.548,
     "Key Lime": 6.579,
     "Latte": 9.18,
-    "Lava Cake": 6.12,
+    "Lava Cake": 6.055128,
     "Lavender Kiss": 6.936,
     "Little Sister": 31.62,
     "Lollipop": 10.2,
@@ -355,5 +355,5 @@
     "Сhamomile": 6.2118,
     "Grandma’s Pie": 9.18
   },
-  "last_updated": 1784616724
+  "last_updated": 1784619267
 }

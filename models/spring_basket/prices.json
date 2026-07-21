@@ -1,6 +1,7 @@
 {
   "backdrops": {
-    "Electric Purple": 2.64,
+    "Black": 21.9912,
+    "Electric Purple": 2.68,
     "Cyberpunk": 2.69,
     "Pacific Green": 2.64,
     "Emerald": 2.73,
@@ -24,7 +25,7 @@
     "Pacific Cyan": 2.75,
     "Lemongrass": 2.69,
     "Midnight Blue": 4.488,
-    "Purple": 2.69,
+    "Purple": 2.67,
     "Deep Cyan": 2.69,
     "Mexican Pink": 2.69,
     "Celtic Blue": 2.69,
@@ -35,7 +36,7 @@
     "Rifle Green": 2.69,
     "Shamrock Green": 2.68,
     "Khaki Green": 2.69,
-    "Steel Grey": 2.67,
+    "Steel Grey": 2.68,
     "Grape": 2.69,
     "Chocolate": 2.69,
     "Old Gold": 2.69,
@@ -47,10 +48,10 @@
     "Tomato": 2.69,
     "Marine Blue": 2.69,
     "Feldgrau": 2.68,
-    "Gunmetal": 2.74,
+    "Gunmetal": 2.76,
     "Satin Gold": 2.69,
     "Cappuccino": 2.69,
-    "Jade Green": 2.68,
+    "Jade Green": 2.7,
     "Battleship Grey": 2.67,
     "Cobalt Blue": 2.69,
     "Ranger Green": 2.69,
@@ -65,7 +66,7 @@
     "Neon Blue": 2.79,
     "Pistachio": 2.69,
     "Dark Green": 2.69,
-    "Lavender": 2.7,
+    "Lavender": 2.67,
     "Raspberry": 2.69,
     "French Blue": 2.69,
     "Electric Indigo": 2.69,
@@ -78,12 +79,11 @@
     "Indigo Dye": 2.7,
     "Mystic Pearl": 2.69,
     "Azure Blue": 2.69,
-    "Black": 21.9912,
     "Onyx Black": 7.14
   },
   "symbols": {},
   "models": {
-    "Baby Dragon": 4.59,
+    "Baby Dragon": 4.539,
     "Balloon Dog": 4.46061096,
     "Bastet": 14.229,
     "Bear Market": 5.0898,
@@ -129,10 +129,10 @@
     "Sushi Neko": 11.22,
     "Trash Bandit": 5.0898,
     "Trash Pigeon": 4.998,
-    "Triceratops": 4.9776,
+    "Triceratops": 4.6818,
     "Trojan Horse": 4.9674,
     "Usagi-Chan": 8.0172,
     "Wonderland": 5.0286
   },
-  "last_updated": 1784616724
+  "last_updated": 1784619267
 }
