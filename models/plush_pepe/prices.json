@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Black": 81700.0,
-    "English Violet": 2.69,
+    "English Violet": 2.7,
     "Pacific Green": 2.69,
     "Chestnut": 2.69,
     "Electric Indigo": 2.69,
@@ -9,7 +9,7 @@
     "Purple": 2.69,
     "Orange": 2.69,
     "Indigo Dye": 2.7,
-    "Electric Purple": 2.68,
+    "Electric Purple": 2.69,
     "Pure Gold": 2.68,
     "Neon Blue": 2.79,
     "Rosewood": 2.69,
@@ -28,11 +28,11 @@
     "French Blue": 2.68,
     "Platinum": 2.69,
     "Steel Grey": 2.7,
-    "Amber": 2.69,
+    "Amber": 2.72,
     "Satin Gold": 2.69,
-    "Caramel": 2.7,
+    "Caramel": 2.68,
     "Lemongrass": 2.69,
-    "Grape": 2.7,
+    "Grape": 2.69,
     "Sapphire": 2.69,
     "Sky Blue": 2.69,
     "Cyberpunk": 2.69,
@@ -46,14 +46,14 @@
     "Turquoise": 2.69,
     "Silver Blue": 2.69,
     "Roman Silver": 2.7,
-    "Moonstone": 2.68,
+    "Moonstone": 2.7,
     "Light Olive": 2.69,
     "Navy Blue": 2.69,
     "Mystic Pearl": 2.69,
     "Carrot Juice": 2.69,
-    "Cappuccino": 2.69,
+    "Cappuccino": 2.68,
     "Dark Lilac": 2.7,
-    "Azure Blue": 2.69,
+    "Azure Blue": 2.68,
     "Persimmon": 2.69,
     "Chocolate": 2.69,
     "Pistachio": 2.7,
@@ -66,7 +66,6 @@
     "Cupid's Arrow": 4750.0,
     "Cupid’s Arrow": 4750.0,
     "Boat": 4750.0,
-    "Sun Lion": 4849.0,
     "Shell": 4834.98,
     "Beetle": 4850.0,
     "Sprout": 6300.0,
@@ -162,6 +161,7 @@
     "Spanner": 6122.45,
     "Spirit Impala": 6000.0,
     "Strawberry": 11999.0,
+    "Sun Lion": 6998.0,
     "Sunflower": 12250.0,
     "Totem Bear": 5500.0,
     "Turkey": 6999.0
@@ -217,5 +217,5 @@
     "Yellow Purp": 7700.0,
     "Hothead": 10200.0
   },
-  "last_updated": 1784629277
+  "last_updated": 1784631769
 }
