@@ -30,12 +30,12 @@
     "Carrot Juice": 2.68,
     "Platinum": 2.69,
     "Amber": 2.69,
-    "Indigo Dye": 2.69,
+    "Indigo Dye": 2.7,
     "Moonstone": 2.68,
     "Battleship Grey": 2.67,
     "Lavender": 2.7,
-    "Azure Blue": 2.72,
-    "Silver Blue": 2.7,
+    "Azure Blue": 2.69,
+    "Silver Blue": 2.69,
     "Cappuccino": 2.69,
     "Cobalt Blue": 2.69,
     "Copper": 2.64,
@@ -49,15 +49,15 @@
     "Hunter Green": 2.7,
     "Persimmon": 2.69,
     "Cyberpunk": 2.69,
-    "Caramel": 2.67,
+    "Caramel": 2.69,
     "Mint Green": 2.69,
     "Jade Green": 2.67,
     "Khaki Green": 2.69,
     "Pure Gold": 2.69,
     "Chocolate": 2.69,
     "Sapphire": 2.69,
-    "Coral Red": 2.67,
-    "Burgundy": 2.69,
+    "Coral Red": 2.68,
+    "Burgundy": 2.68,
     "Navy Blue": 2.64,
     "Black": 2000.0
   },
@@ -284,5 +284,5 @@
     "Villager": 802.0,
     "Voltage": 900.0
   },
-  "last_updated": 1784609220
+  "last_updated": 1784611694
 }
