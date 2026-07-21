@@ -2,7 +2,7 @@
   "backdrops": {
     "Amber": 2.69,
     "Electric Purple": 2.68,
-    "Pine Green": 2.65,
+    "Pine Green": 2.7,
     "Raspberry": 2.69,
     "Carrot Juice": 2.68,
     "Electric Indigo": 2.69,
@@ -18,7 +18,7 @@
     "Jade Green": 2.67,
     "Coral Red": 2.67,
     "Fandango": 2.69,
-    "Navy Blue": 2.67,
+    "Navy Blue": 2.69,
     "Pacific Green": 2.65,
     "Persimmon": 2.69,
     "Chocolate": 2.69,
@@ -33,7 +33,7 @@
     "Azure Blue": 2.72,
     "Roman Silver": 2.7,
     "Satin Gold": 2.69,
-    "Platinum": 2.67,
+    "Platinum": 2.69,
     "Silver Blue": 2.7,
     "Hunter Green": 2.7,
     "Strawberry": 2.69,
@@ -56,7 +56,7 @@
     "English Violet": 2.69,
     "Pure Gold": 2.69,
     "Chestnut": 2.69,
-    "Copper": 2.69,
+    "Copper": 2.68,
     "Desert Sand": 2.69,
     "Black": 1669.638,
     "Onyx Black": 331.5
@@ -109,7 +109,7 @@
     "Blood Drop": 180.0,
     "Bone": 237.0,
     "Bubble Tea": 200.0,
-    "Bull of Heaven": 135.51,
+    "Bull of Heaven": 135.49,
     "Bunny Ears": 370.0,
     "Calm Wolf": 190.0,
     "Cap": 124.0,
@@ -240,7 +240,7 @@
     "Gramite": 121.89,
     "Ivy Vine": 118.32,
     "Jurassic": 122.4,
-    "Labradorite": 117.3,
+    "Labradorite": 119.9826,
     "Lovestone": 214.2,
     "Moonlit": 143.9934,
     "Moonstone": 142.29,
@@ -264,5 +264,5 @@
     "Warholite": 202.98,
     "White Opal": 234.6
   },
-  "last_updated": 1784604294
+  "last_updated": 1784606764
 }

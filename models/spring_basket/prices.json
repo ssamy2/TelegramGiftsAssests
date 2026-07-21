@@ -10,13 +10,13 @@
     "Fandango": 2.69,
     "Dark Lilac": 2.68,
     "Desert Sand": 2.69,
-    "Platinum": 2.67,
+    "Platinum": 2.69,
     "Seal Brown": 2.72,
     "Carrot Juice": 2.68,
-    "Pine Green": 2.65,
+    "Pine Green": 2.7,
     "Hunter Green": 2.7,
     "Ivory White": 2.8,
-    "Copper": 2.69,
+    "Copper": 2.68,
     "Gunship Green": 2.69,
     "Fire Engine": 2.8,
     "Carmine": 2.69,
@@ -38,8 +38,8 @@
     "Steel Grey": 2.69,
     "Grape": 2.69,
     "Chocolate": 2.69,
-    "Old Gold": 2.7,
-    "Navy Blue": 2.67,
+    "Old Gold": 2.69,
+    "Navy Blue": 2.69,
     "Light Olive": 2.69,
     "Pure Gold": 2.69,
     "Orange": 2.69,
@@ -84,7 +84,7 @@
   "symbols": {},
   "models": {
     "Baby Dragon": 4.896,
-    "Balloon Dog": 4.488,
+    "Balloon Dog": 4.46061096,
     "Bastet": 14.229,
     "Bear Market": 4.743,
     "Beer Festival": 4.5084,
@@ -98,7 +98,7 @@
     "Chihuahua": 6.12,
     "Choco Bunny": 4.9878,
     "Claw Machine": 9.7818,
-    "Crystal Dragon": 6.7422,
+    "Crystal Dragon": 6.7014,
     "Cute Unicorn": 5.304,
     "Daisy Skunk": 4.896,
     "Dalmatian Pup": 5.202,
@@ -134,5 +134,5 @@
     "Usagi-Chan": 8.0172,
     "Wonderland": 5.0286
   },
-  "last_updated": 1784604294
+  "last_updated": 1784606764
 }

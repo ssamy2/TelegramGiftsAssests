@@ -1,7 +1,7 @@
 {
   "backdrops": {
-    "Platinum": 2.67,
-    "Navy Blue": 2.67,
+    "Platinum": 2.69,
+    "Navy Blue": 2.69,
     "Strawberry": 2.69,
     "Sky Blue": 2.69,
     "Carrot Juice": 2.68,
@@ -34,7 +34,7 @@
     "Jade Green": 2.67,
     "Amber": 2.69,
     "Rosewood": 2.69,
-    "Pine Green": 2.65,
+    "Pine Green": 2.7,
     "Pure Gold": 2.69,
     "Light Olive": 2.69,
     "Chestnut": 2.69,
@@ -57,7 +57,7 @@
     "Emerald": 2.73,
     "Desert Sand": 2.69,
     "Neon Blue": 2.79,
-    "Copper": 2.69,
+    "Copper": 2.68,
     "Black": 21.1854,
     "Onyx Black": 7.1196
   },
@@ -83,7 +83,7 @@
     "Book": 4.0,
     "Bull of Heaven": 4.89,
     "Bunny": 10.0,
-    "Candle": 3.8,
+    "Candle": 3.79,
     "Cash": 3.81,
     "Cat Mask": 17.0,
     "Cauldron": 3.47,
@@ -284,5 +284,5 @@
     "Violet Veil": 3.264,
     "Witchy": 3.876
   },
-  "last_updated": 1784604294
+  "last_updated": 1784606764
 }
