@@ -53,12 +53,12 @@
     "Pine Green": 2.69,
     "Satin Gold": 2.69,
     "Light Olive": 2.69,
-    "Electric Purple": 2.68,
+    "Electric Purple": 2.64,
     "Strawberry": 2.69,
     "Grape": 2.69,
     "Lavender": 2.7,
     "Azure Blue": 2.69,
-    "Copper": 2.64,
+    "Copper": 2.68,
     "Onyx Black": 153.0
   },
   "symbols": {
@@ -98,14 +98,14 @@
     "Cauldron": 90.0,
     "Coffin": 70.0,
     "Corn": 100.0,
-    "Crow": 45.63,
+    "Crow": 45.97,
     "Crown": 46.98,
     "Crusader": 471.0,
     "Crystal Ball": 65.0,
     "Cursor": 180.0,
     "Eikthyrnir": 150.0,
     "Evil Pumpkin": 80.0,
-    "Eyeball": 45.62,
+    "Eyeball": 45.98,
     "Fish Skeleton": 65.0,
     "Flamingo": 69.0,
     "Flying Witch": 199.99,
@@ -145,7 +145,7 @@
     "Ring": 120.0,
     "Rook": 100.0,
     "Royal Crown": 1500.0,
-    "Sauron": 60.0,
+    "Sauron": 77.0,
     "Scarecrow": 88.0,
     "Sea Jelly": 70.0,
     "Severed Hand": 51.0,
@@ -216,5 +216,5 @@
     "Wicked Melon": 46.5018,
     "Goth Sweat": 100.0
   },
-  "last_updated": 1784614223
+  "last_updated": 1784616724
 }

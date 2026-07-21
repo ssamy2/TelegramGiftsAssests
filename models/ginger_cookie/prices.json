@@ -29,7 +29,7 @@
     "Cobalt Blue": 2.69,
     "French Blue": 2.69,
     "Indigo Dye": 2.7,
-    "Electric Purple": 2.68,
+    "Electric Purple": 2.64,
     "Silver Blue": 2.69,
     "Sapphire": 2.69,
     "Amber": 2.69,
@@ -48,7 +48,7 @@
     "Battleship Grey": 2.67,
     "Dark Lilac": 2.68,
     "English Violet": 2.69,
-    "Copper": 2.64,
+    "Copper": 2.68,
     "Chocolate": 2.69,
     "Jade Green": 2.68,
     "Strawberry": 2.69,
@@ -62,7 +62,7 @@
     "Onyx Black": 5.61
   },
   "symbols": {
-    "Alert Serpent": 3.13,
+    "Alert Serpent": 3.8,
     "All-Seeing Eye": 5.0,
     "Anchor": 10.0,
     "Apple": 6.0,
@@ -295,5 +295,5 @@
     "Waffle": 3.213,
     "White Gold": 6.6198
   },
-  "last_updated": 1784614223
+  "last_updated": 1784616724
 }

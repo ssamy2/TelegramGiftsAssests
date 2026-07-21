@@ -13,7 +13,7 @@
     "English Violet": 2.69,
     "Shamrock Green": 2.68,
     "Neon Blue": 2.79,
-    "Electric Purple": 2.68,
+    "Electric Purple": 2.64,
     "Strawberry": 2.69,
     "Malachite": 2.69,
     "Carrot Juice": 2.68,
@@ -25,7 +25,7 @@
     "Persimmon": 2.69,
     "Navy Blue": 2.64,
     "Caramel": 2.69,
-    "Copper": 2.64,
+    "Copper": 2.68,
     "Ivory White": 2.69,
     "Pine Green": 2.69,
     "Amber": 2.69,
@@ -183,7 +183,7 @@
     "Illuminati": 15.94,
     "Ink Pen": 50.0,
     "Jaws": 12.3,
-    "Key": 13.44,
+    "Key": 13.12,
     "Kitty Cat": 12.72,
     "Koala": 45.0,
     "Ladybug": 15.0,
@@ -227,7 +227,7 @@
     "Pear": 16.34,
     "Pearl": 24.0,
     "Pegasus": 22.1,
-    "Phoenix": 14.23,
+    "Phoenix": 14.22,
     "Piggy Bank": 18.0,
     "Planet": 14.85,
     "Plum": 27.0,
@@ -271,7 +271,7 @@
     "Unicorn": 28.0,
     "Viking": 18.0,
     "Voodoo Doll": 22.9,
-    "Vortex": 13.65,
+    "Vortex": 13.64,
     "Water Drops": 30.0,
     "Watermelon": 15.0,
     "Witch's Hat": 15.0,
@@ -329,5 +329,5 @@
     "Violet Shadow": 13.5966,
     "Zap Core": 15.3
   },
-  "last_updated": 1784614224
+  "last_updated": 1784616724
 }

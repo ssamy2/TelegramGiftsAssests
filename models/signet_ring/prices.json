@@ -1,7 +1,7 @@
 {
   "backdrops": {
-    "Copper": 2.64,
-    "Electric Purple": 2.68,
+    "Copper": 2.68,
+    "Electric Purple": 2.64,
     "Coral Red": 2.68,
     "Steel Grey": 2.67,
     "Burgundy": 2.68,
@@ -105,7 +105,7 @@
     "Car": 40.0,
     "Cash": 50.0,
     "Celtic Cross": 35.0,
-    "Celtic Wolf": 29.67,
+    "Celtic Wolf": 29.65,
     "Champagne": 65.0,
     "Chest": 29.99,
     "Chili": 33.21,
@@ -117,7 +117,7 @@
     "Coconut": 50.0,
     "Coffee Bean": 1111.0,
     "Coin Purse": 32.0,
-    "Coin": 29.67,
+    "Coin": 29.65,
     "Conch": 44.9,
     "Cone": 56.0,
     "Corn": 43.0,
@@ -125,7 +125,7 @@
     "Croissant": 43.9,
     "Crown": 139.0,
     "Crusader": 35.0,
-    "Cursor": 58.47,
+    "Cursor": 55.54,
     "Dessert": 44.5,
     "Diamond": 50.0,
     "Dice": 40.0,
@@ -199,7 +199,7 @@
     "Oxen of Fire": 45.88,
     "Paw": 50.0,
     "Pear": 60.0,
-    "Pearl": 30.96,
+    "Pearl": 29.66,
     "Pegasus": 43.31,
     "Phoenix": 45.0,
     "Piggy Bank": 49.88,
@@ -251,7 +251,7 @@
     "Wasp": 44.99,
     "Watermelon": 50.0,
     "White Deer": 37.51,
-    "Wolf Rage": 29.67,
+    "Wolf Rage": 29.65,
     "Wreath": 43.95,
     "Yogi Shaman": 40.95
   },
@@ -272,14 +272,14 @@
     "Emerald": 33.9252,
     "Gold": 30.9978,
     "Golden Pearl": 31.62,
-    "Good Boy": 52.5912,
+    "Good Boy": 47.7666,
     "Green Lantern": 28.5294,
     "Green Rose": 31.11,
     "Hearts": 30.804,
     "Ice Queen": 40.494,
     "Jade Lord": 30.702,
     "Kitteh": 100.98,
-    "Liberty": 30.6,
+    "Liberty": 29.58,
     "Little Star": 30.5898,
     "Mandarin": 28.6212,
     "Mood Ring": 32.64,
@@ -307,5 +307,5 @@
     "White Gold": 28.764,
     "Yin-Yang": 33.558
   },
-  "last_updated": 1784614224
+  "last_updated": 1784616724
 }

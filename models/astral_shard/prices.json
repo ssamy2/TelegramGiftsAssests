@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Amber": 2.69,
-    "Electric Purple": 2.68,
+    "Electric Purple": 2.64,
     "Pine Green": 2.69,
     "Raspberry": 2.69,
     "Carrot Juice": 2.68,
@@ -56,7 +56,7 @@
     "English Violet": 2.69,
     "Pure Gold": 2.69,
     "Chestnut": 2.69,
-    "Copper": 2.64,
+    "Copper": 2.68,
     "Desert Sand": 2.67,
     "Black": 1669.638,
     "Onyx Black": 331.5
@@ -98,7 +98,7 @@
     "Bow Tie": 150.0,
     "Acorn": 480.0,
     "Alarm": 4444.0,
-    "Alkonost": 225.0,
+    "Alkonost": 205.0,
     "Anchor": 140.0,
     "Apple": 150.0,
     "Arabian Horse": 300.0,
@@ -109,7 +109,7 @@
     "Blood Drop": 180.0,
     "Bone": 237.0,
     "Bubble Tea": 200.0,
-    "Bull of Heaven": 135.45,
+    "Bull of Heaven": 135.42,
     "Bunny Ears": 370.0,
     "Calm Wolf": 190.0,
     "Cap": 124.0,
@@ -143,7 +143,7 @@
     "Flower Cross": 233.0,
     "Gem": 480.0,
     "Genie Lamp": 133.0,
-    "Glasses": 800.0,
+    "Glasses": 118.49,
     "Gold": 200.0,
     "Hand of God": 9696.0,
     "Heart": 229.0,
@@ -184,7 +184,7 @@
     "Rain Drop": 260.0,
     "Ram of Amun": 144.0,
     "Rhino Warrior": 200.0,
-    "Ring": 118.4,
+    "Ring": 117.4,
     "Rook": 300.0,
     "Royal Crown": 350.0,
     "Sakura": 130.0,
@@ -264,5 +264,5 @@
     "Warholite": 202.98,
     "White Opal": 234.6
   },
-  "last_updated": 1784614223
+  "last_updated": 1784616724
 }

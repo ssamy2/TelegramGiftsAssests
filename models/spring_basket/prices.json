@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Electric Purple": 2.68,
+    "Electric Purple": 2.64,
     "Cyberpunk": 2.69,
     "Pacific Green": 2.64,
     "Emerald": 2.73,
@@ -16,7 +16,7 @@
     "Pine Green": 2.69,
     "Hunter Green": 2.69,
     "Ivory White": 2.69,
-    "Copper": 2.64,
+    "Copper": 2.68,
     "Gunship Green": 2.69,
     "Fire Engine": 2.8,
     "Carmine": 2.69,
@@ -27,7 +27,7 @@
     "Purple": 2.69,
     "Deep Cyan": 2.69,
     "Mexican Pink": 2.69,
-    "Celtic Blue": 2.67,
+    "Celtic Blue": 2.69,
     "Mint Green": 2.69,
     "English Violet": 2.69,
     "Silver Blue": 2.69,
@@ -83,21 +83,21 @@
   },
   "symbols": {},
   "models": {
-    "Baby Dragon": 4.896,
+    "Baby Dragon": 4.59,
     "Balloon Dog": 4.46061096,
     "Bastet": 14.229,
     "Bear Market": 5.0898,
     "Beer Festival": 4.5084,
     "Blue Shark": 9.9756,
-    "Bondage": 69.36,
+    "Bondage": 69.3498,
     "Bull Market": 7.9356,
     "Candy Bat": 4.6818,
     "Capybara": 5.0592,
-    "Cash Bunny": 9.4656,
+    "Cash Bunny": 9.486,
     "Cheems": 4.7838,
     "Chihuahua": 6.12,
     "Choco Bunny": 4.9878,
-    "Claw Machine": 9.7818,
+    "Claw Machine": 10.6284,
     "Crystal Dragon": 6.681,
     "Cute Unicorn": 5.304,
     "Daisy Skunk": 4.896,
@@ -110,7 +110,7 @@
     "Hamster": 7.0992,
     "Kinder Hippo": 4.7838,
     "Knitty Kitty": 5.9058,
-    "Litter Box": 9.792,
+    "Litter Box": 10.2,
     "Lovely Lamb": 5.202,
     "Magician": 5.7018,
     "Marmot": 4.7736,
@@ -134,5 +134,5 @@
     "Usagi-Chan": 8.0172,
     "Wonderland": 5.0286
   },
-  "last_updated": 1784614223
+  "last_updated": 1784616724
 }

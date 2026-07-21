@@ -38,12 +38,12 @@
     "Silver Blue": 2.69,
     "Cappuccino": 2.69,
     "Cobalt Blue": 2.69,
-    "Copper": 2.64,
+    "Copper": 2.68,
     "Desert Sand": 2.67,
     "Mystic Pearl": 2.69,
     "Aquamarine": 2.69,
     "Orange": 2.69,
-    "Electric Purple": 2.68,
+    "Electric Purple": 2.64,
     "Satin Gold": 2.69,
     "English Violet": 2.69,
     "Hunter Green": 2.69,
@@ -204,7 +204,7 @@
     "Skull": 1000.0,
     "Spades": 1990.0,
     "Spanner": 449.9,
-    "Spirit Impala": 456.0,
+    "Spirit Impala": 440.0,
     "Star": 555.0,
     "Sumerian Bird": 650.0,
     "Sun Lion": 777.0,
@@ -256,7 +256,7 @@
     "Fun Time": 455.0,
     "Goldrose": 500.0,
     "Honey Bee": 580.0,
-    "Ivory": 427.89,
+    "Ivory": 425.89,
     "Jade": 448.0,
     "Jetspin": 439.99,
     "Krueger": 763.0,
@@ -284,5 +284,5 @@
     "Villager": 802.0,
     "Voltage": 900.0
   },
-  "last_updated": 1784614223
+  "last_updated": 1784616724
 }

@@ -19,7 +19,7 @@
     "Carmine": 2.69,
     "Azure Blue": 2.69,
     "Lavender": 2.7,
-    "Celtic Blue": 2.67,
+    "Celtic Blue": 2.69,
     "Light Olive": 2.69,
     "Pacific Cyan": 2.75,
     "Mustard": 2.69,
@@ -36,7 +36,7 @@
     "Purple": 2.69,
     "Tomato": 2.69,
     "Desert Sand": 2.67,
-    "Copper": 2.64,
+    "Copper": 2.68,
     "Grape": 2.69,
     "Shamrock Green": 2.68,
     "Satin Gold": 2.69,
@@ -52,7 +52,7 @@
     "Amber": 2.69,
     "Platinum": 2.69,
     "Burnt Sienna": 2.68,
-    "Electric Purple": 2.68,
+    "Electric Purple": 2.64,
     "Old Gold": 2.69,
     "Mint Green": 2.69,
     "Gunship Green": 2.69,
@@ -117,7 +117,7 @@
     "Birthday Cake": 50.0,
     "Black Cat": 50.0,
     "Blood Drop": 35.0,
-    "Boat": 44.0,
+    "Boat": 42.0,
     "Bobble Hat": 44.9,
     "Bobby Helmet": 77.77,
     "Bouquet": 79.0,
@@ -380,5 +380,5 @@
     "Wild Cat": 79.968,
     "Wild Daisy": 51.0
   },
-  "last_updated": 1784614224
+  "last_updated": 1784616724
 }

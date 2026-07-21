@@ -9,7 +9,7 @@
     "Silver Blue": 2.69,
     "Midnight Blue": 2.74,
     "Fandango": 2.69,
-    "Electric Purple": 2.68,
+    "Electric Purple": 2.64,
     "Ivory White": 2.69,
     "Desert Sand": 2.67,
     "Jade Green": 2.68,
@@ -56,7 +56,7 @@
     "Shamrock Green": 2.68,
     "French Blue": 2.69,
     "Battleship Grey": 2.67,
-    "Copper": 2.64,
+    "Copper": 2.68,
     "English Violet": 2.69,
     "Black": 795.6,
     "Onyx Black": 149.9808
@@ -169,7 +169,7 @@
     "Heraldic Lily": 94.0,
     "Hermit Shell": 200.0,
     "High Heels": 94.0,
-    "Horseshoe": 189.84,
+    "Horseshoe": 189.83,
     "Inca Sun": 210.0,
     "Jellyfish": 135.0,
     "Jewel": 250.0,
@@ -214,7 +214,7 @@
     "Pawn": 61.98,
     "PC Mouse": 109.0,
     "Pear": 200.0,
-    "Pearl": 72.2,
+    "Pearl": 72.21,
     "Pegasus": 1111.0,
     "Pickaxe": 300.0,
     "Piggy Bank": 180.0,
@@ -277,7 +277,7 @@
     "Worker Ant": 105.0,
     "Wreath": 244.5,
     "Yin-Yang": 120.0,
-    "Yogi Shaman": 69.74
+    "Yogi Shaman": 69.34
   },
   "models": {
     "Amethyst": 76.5,
@@ -295,7 +295,7 @@
     "Cupid Quartz": 63.24,
     "Energon": 398.9934,
     "Fireworks": 66.3,
-    "Garnet": 62.3424,
+    "Garnet": 62.2404,
     "Girl Power": 71.4,
     "Gold Gram": 153.0,
     "Gradient": 86.7,
@@ -309,9 +309,9 @@
     "Love Stones": 81.6,
     "Lustrous": 102.0,
     "Martini": 117.3,
-    "Nightstone": 66.3,
+    "Nightstone": 62.2608,
     "Noir Manga": 81.6,
-    "Obsidian": 62.3322,
+    "Obsidian": 62.2302,
     "Orchestra": 69.9924,
     "Paper Plane": 66.3,
     "Pink Sapphire": 86.7,
@@ -324,7 +324,7 @@
     "Shocking Pink": 86.7,
     "Solar Flare": 73.9602,
     "Solarium": 66.3,
-    "Star Forge": 62.3322,
+    "Star Forge": 62.2302,
     "Sugilite": 66.3,
     "Sweet Tooth": 86.7,
     "Tiberium": 90.78,
@@ -335,5 +335,5 @@
     "Solid Waste": 100.0,
     "Jamaica": 459.0
   },
-  "last_updated": 1784614223
+  "last_updated": 1784616724
 }
