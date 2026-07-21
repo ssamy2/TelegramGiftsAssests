@@ -1,6 +1,5 @@
 {
   "backdrops": {
-    "Black": 20.91,
     "Electric Purple": 2.68,
     "Cyberpunk": 2.69,
     "Navy Blue": 2.64,
@@ -17,9 +16,9 @@
     "Shamrock Green": 2.68,
     "Carrot Juice": 2.68,
     "Mystic Pearl": 2.69,
-    "Steel Grey": 2.69,
+    "Steel Grey": 2.67,
     "Battleship Grey": 2.67,
-    "Jade Green": 2.67,
+    "Jade Green": 2.68,
     "Marine Blue": 2.69,
     "Tactical Pine": 2.69,
     "Tomato": 2.69,
@@ -28,7 +27,7 @@
     "Satin Gold": 2.69,
     "Persimmon": 2.69,
     "Dark Lilac": 2.68,
-    "English Violet": 2.65,
+    "English Violet": 2.69,
     "Roman Silver": 2.7,
     "Purple": 2.69,
     "Chestnut": 2.69,
@@ -43,8 +42,8 @@
     "Pacific Green": 2.64,
     "Strawberry": 2.69,
     "Moonstone": 2.68,
-    "Hunter Green": 2.7,
-    "Desert Sand": 2.69,
+    "Hunter Green": 2.69,
+    "Desert Sand": 2.67,
     "Midnight Blue": 3.57,
     "Ranger Green": 2.69,
     "Deep Cyan": 2.69,
@@ -79,6 +78,7 @@
     "Burnt Sienna": 2.68,
     "Malachite": 2.69,
     "Electric Indigo": 2.69,
+    "Black": 20.91,
     "Onyx Black": 5.0898
   },
   "symbols": {
@@ -130,7 +130,7 @@
     "Raphael": 6.63,
     "Rattlesnake": 3.672,
     "Shitty Coffee": 3.57,
-    "Slime": 3.3966,
+    "Slime": 3.519,
     "Smelly Yeti": 3.4986,
     "Snowman": 3.4884,
     "Solid Waste": 3.5088,
@@ -143,5 +143,5 @@
     "Winnie Poo": 3.774,
     "Wrestler": 3.672
   },
-  "last_updated": 1784611694
+  "last_updated": 1784614223
 }
