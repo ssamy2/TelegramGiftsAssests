@@ -7,7 +7,7 @@
     "Strawberry": 2.69,
     "Midnight Blue": 2.74,
     "Pistachio": 2.69,
-    "Pacific Green": 2.67,
+    "Pacific Green": 2.65,
     "Emerald": 2.73,
     "Roman Silver": 2.7,
     "Chestnut": 2.69,
@@ -25,14 +25,14 @@
     "Rosewood": 2.69,
     "Neon Blue": 2.79,
     "Pacific Cyan": 2.75,
-    "Pine Green": 2.7,
+    "Pine Green": 2.65,
     "Sky Blue": 2.69,
     "Carrot Juice": 2.68,
     "Platinum": 2.67,
     "Amber": 2.69,
     "Indigo Dye": 2.69,
-    "Moonstone": 2.69,
-    "Battleship Grey": 2.64,
+    "Moonstone": 2.66,
+    "Battleship Grey": 2.67,
     "Lavender": 2.7,
     "Azure Blue": 2.72,
     "Silver Blue": 2.7,
@@ -56,9 +56,9 @@
     "Pure Gold": 2.69,
     "Chocolate": 2.69,
     "Sapphire": 2.69,
-    "Coral Red": 2.69,
+    "Coral Red": 2.67,
     "Burgundy": 2.69,
-    "Navy Blue": 2.64,
+    "Navy Blue": 2.67,
     "Black": 2000.0
   },
   "symbols": {
@@ -130,7 +130,7 @@
     "Coin Purse": 1899.0,
     "Coin": 490.0,
     "Conch": 1450.0,
-    "Crown": 393.99,
+    "Crown": 399.91,
     "Crusader": 800.0,
     "Cursor": 699.0,
     "Dice": 485.0,
@@ -246,7 +246,7 @@
     "Corkwood": 399.91,
     "Cotton Candy": 750.0,
     "Creamsicle": 410.99,
-    "Dipper": 393.99,
+    "Dipper": 399.91,
     "Duck Tales": 650.0,
     "Duskwave": 555.0,
     "Falcon": 739.0,
@@ -284,5 +284,5 @@
     "Villager": 802.0,
     "Voltage": 900.0
   },
-  "last_updated": 1784601784
+  "last_updated": 1784604294
 }

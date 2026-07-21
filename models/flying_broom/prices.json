@@ -9,8 +9,8 @@
     "Grape": 2.69,
     "Azure Blue": 2.72,
     "Neon Blue": 2.79,
-    "Pacific Green": 2.67,
-    "Navy Blue": 2.64,
+    "Pacific Green": 2.65,
+    "Navy Blue": 2.67,
     "Platinum": 2.67,
     "Burgundy": 2.69,
     "Lemongrass": 2.69,
@@ -27,11 +27,11 @@
     "Turquoise": 2.69,
     "Cyberpunk": 2.69,
     "Orange": 2.69,
-    "Moonstone": 2.69,
+    "Moonstone": 2.66,
     "Hunter Green": 2.7,
     "Satin Gold": 2.69,
     "Steel Grey": 2.69,
-    "Coral Red": 2.69,
+    "Coral Red": 2.67,
     "Jade Green": 2.67,
     "Pure Gold": 2.69,
     "Midnight Blue": 12.24,
@@ -41,7 +41,7 @@
     "Cobalt Blue": 2.69,
     "Chocolate": 2.69,
     "French Blue": 2.69,
-    "Battleship Grey": 2.64,
+    "Battleship Grey": 2.67,
     "Dark Lilac": 2.68,
     "Chestnut": 2.69,
     "Aquamarine": 2.69,
@@ -57,7 +57,7 @@
     "Pistachio": 2.69,
     "Carrot Juice": 2.68,
     "Sky Blue": 2.69,
-    "Pine Green": 2.7,
+    "Pine Green": 2.65,
     "Black": 71.4,
     "Onyx Black": 14.9838
   },
@@ -156,7 +156,7 @@
     "Palette": 12.0,
     "Piggy Bank": 25.0,
     "Piñata": 18.0,
-    "Poison Drop": 10.8,
+    "Poison Drop": 11.99,
     "Polar Bear": 20.97,
     "Potion": 10.21,
     "Pyramid": 18.0,
@@ -245,5 +245,5 @@
     "Zippy Hearts": 19.38,
     "Santa’s Stick": 9.996
   },
-  "last_updated": 1784601784
+  "last_updated": 1784604294
 }
