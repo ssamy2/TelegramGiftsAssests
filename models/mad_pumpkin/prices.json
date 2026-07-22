@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Light Olive": 2.68,
-    "Amber": 2.64,
+    "Amber": 2.65,
     "Shamrock Green": 2.69,
     "Carrot Juice": 2.69,
     "Desert Sand": 2.7,
@@ -14,11 +14,11 @@
     "Pistachio": 2.7,
     "Khaki Green": 2.68,
     "Electric Purple": 2.69,
-    "Cappuccino": 2.69,
-    "Orange": 2.67,
+    "Cappuccino": 2.66,
+    "Orange": 2.68,
     "Fandango": 2.69,
     "Moonstone": 2.69,
-    "Raspberry": 2.68,
+    "Raspberry": 2.67,
     "Burgundy": 2.69,
     "Sapphire": 2.7,
     "Cobalt Blue": 2.69,
@@ -54,10 +54,10 @@
     "Electric Indigo": 2.69,
     "Coral Red": 2.65,
     "Rosewood": 2.69,
-    "Ivory White": 2.79,
+    "Ivory White": 2.68,
     "Lemongrass": 2.66,
-    "Silver Blue": 2.67,
-    "Indigo Dye": 2.69,
+    "Silver Blue": 2.68,
+    "Indigo Dye": 2.68,
     "Black": 80.58,
     "Onyx Black": 22.44
   },
@@ -112,7 +112,7 @@
     "Eyeball": 11.0,
     "Fish Skeleton": 9.5,
     "Fish": 100.0,
-    "Flamingo": 20.0,
+    "Flamingo": 10.0,
     "Flashlight": 15.0,
     "Flipper": 20.0,
     "Flower": 10.8,
@@ -132,7 +132,7 @@
     "High Heels": 31.6,
     "Human Scull": 10.0,
     "Illuminati": 13.0,
-    "Inca Sun": 10.45,
+    "Inca Sun": 10.44,
     "Jaws": 12.0,
     "Jellyfish": 24.0,
     "Jumbo Pencil": 11.0,
@@ -234,7 +234,7 @@
     "Pump King": 9.0576,
     "Purple Imp": 11.22,
     "Red Demon": 11.7096,
-    "Robotic": 9.486,
+    "Robotic": 10.2,
     "Shamrock": 9.6798,
     "Silver Surfer": 10.71,
     "Solaris": 17.7786,
@@ -248,5 +248,5 @@
     "Watermelon": 14.28,
     "Joke-O’-Lantern": 9.3024
   },
-  "last_updated": 1784683749
+  "last_updated": 1784686286
 }
