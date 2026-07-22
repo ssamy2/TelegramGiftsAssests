@@ -1,15 +1,15 @@
 {
   "backdrops": {
     "Black": 25.704,
-    "Platinum": 2.69,
-    "Roman Silver": 2.68,
+    "Platinum": 2.67,
+    "Roman Silver": 2.64,
     "Silver Blue": 2.68,
     "Rosewood": 2.69,
     "Desert Sand": 2.7,
     "Coral Red": 2.65,
     "Khaki Green": 2.68,
     "Burgundy": 2.69,
-    "Indigo Dye": 2.68,
+    "Indigo Dye": 2.64,
     "Carmine": 2.68,
     "Mustard": 2.69,
     "French Violet": 2.7,
@@ -18,7 +18,7 @@
     "Grape": 2.69,
     "Tactical Pine": 2.69,
     "Amber": 2.65,
-    "Cappuccino": 2.66,
+    "Cappuccino": 2.63,
     "Electric Indigo": 2.69,
     "Cyberpunk": 2.68,
     "Navy Blue": 2.7,
@@ -71,7 +71,7 @@
     "Orange": 2.68,
     "Pistachio": 2.7,
     "Malachite": 2.69,
-    "Purple": 2.67,
+    "Purple": 2.66,
     "Cobalt Blue": 2.69,
     "Copper": 2.68,
     "Battleship Grey": 2.69,
@@ -126,7 +126,7 @@
     "Chick": 4.0,
     "Chili Pepper": 3.49,
     "Clubs": 3.5,
-    "Coin": 3.65,
+    "Coin": 3.57,
     "Cone": 3.5,
     "Corn": 3.69,
     "Cowboy Hat": 4.0,
@@ -227,7 +227,7 @@
     "Plume": 4.8,
     "Police Hat": 3.63,
     "Pomegranate": 3.38,
-    "Porrige": 3.37,
+    "Porrige": 3.36,
     "Propeller Cap": 3.55,
     "Radar": 4.0,
     "Ramen": 3.37,
@@ -286,7 +286,7 @@
   "models": {
     "Angel Wings": 3.8658,
     "Aquarium": 3.3456,
-    "Bank Vault": 7.6398,
+    "Bank Vault": 7.599,
     "Battle Royale": 23.46,
     "Bloom Pack": 3.3354,
     "Burger Bag": 3.3048,
@@ -335,5 +335,5 @@
     "Void Beast": 5.1,
     "Wanderer": 3.315
   },
-  "last_updated": 1784686286
+  "last_updated": 1784688711
 }

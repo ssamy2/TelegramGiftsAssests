@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Pine Green": 2.66,
-    "Roman Silver": 2.68,
+    "Roman Silver": 2.64,
     "Steel Grey": 2.68,
     "Copper": 2.68,
     "Battleship Grey": 2.69,
@@ -17,7 +17,7 @@
     "Chestnut": 2.68,
     "Emerald": 2.69,
     "Caramel": 2.68,
-    "Platinum": 2.69,
+    "Platinum": 2.67,
     "Burgundy": 2.69,
     "Rosewood": 2.69,
     "Dark Lilac": 2.68,
@@ -32,8 +32,8 @@
     "English Violet": 2.65,
     "Grape": 2.69,
     "Chocolate": 2.67,
-    "Purple": 2.67,
-    "Indigo Dye": 2.68,
+    "Purple": 2.66,
+    "Indigo Dye": 2.64,
     "Khaki Green": 2.68,
     "Jade Green": 2.69,
     "Electric Purple": 2.69,
@@ -49,7 +49,7 @@
     "Ivory White": 2.68,
     "Malachite": 2.69,
     "Pacific Cyan": 2.68,
-    "Cappuccino": 2.66,
+    "Cappuccino": 2.63,
     "Neon Blue": 2.69,
     "Raspberry": 2.67,
     "Shamrock Green": 2.69,
@@ -132,7 +132,7 @@
     "Diamond": 46.0,
     "Dice": 34.95,
     "Double Axe": 39.0,
-    "Double Bed": 40.85,
+    "Double Bed": 40.83,
     "Drug": 36.6,
     "Eagle": 55.0,
     "Earth": 55.0,
@@ -151,7 +151,7 @@
     "Fluffy Wolf": 40.0,
     "Flying Heart": 49.0,
     "French Fries": 333.0,
-    "Full Moon": 42.25,
+    "Full Moon": 42.23,
     "Galaxy": 40.0,
     "Garden Pot": 45.0,
     "Geisha Fan": 250.0,
@@ -326,7 +326,7 @@
   },
   "models": {
     "Alter Ego": 35.7,
-    "Angel": 66.3,
+    "Angel": 67.218,
     "Bearly Visible": 35.19,
     "Blue Dandy": 32.946,
     "Blueberry": 66.3,
@@ -396,5 +396,5 @@
     "Wizard": 34.986,
     "Zebra": 32.8746
   },
-  "last_updated": 1784686286
+  "last_updated": 1784688711
 }

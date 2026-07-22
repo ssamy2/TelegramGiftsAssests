@@ -19,7 +19,7 @@
     "Chocolate": 2.67,
     "Emerald": 2.69,
     "Carrot Juice": 2.69,
-    "Cappuccino": 2.66,
+    "Cappuccino": 2.63,
     "Lemongrass": 2.66,
     "Turquoise": 2.65,
     "Cobalt Blue": 2.69,
@@ -27,8 +27,8 @@
     "Khaki Green": 2.68,
     "Sky Blue": 2.68,
     "Copper": 2.68,
-    "Platinum": 2.69,
-    "Roman Silver": 2.68,
+    "Platinum": 2.67,
+    "Roman Silver": 2.64,
     "Mystic Pearl": 2.66,
     "Pacific Cyan": 2.68,
     "Cyberpunk": 2.68,
@@ -39,7 +39,7 @@
     "Pine Green": 2.66,
     "Chestnut": 2.68,
     "Rosewood": 2.69,
-    "Indigo Dye": 2.68,
+    "Indigo Dye": 2.64,
     "Dark Lilac": 2.68,
     "Mint Green": 2.69,
     "Raspberry": 2.67,
@@ -57,7 +57,7 @@
     "Sapphire": 2.7,
     "Hunter Green": 2.66,
     "Ivory White": 2.68,
-    "Purple": 2.67,
+    "Purple": 2.66,
     "Black": 473.28,
     "Onyx Black": 85.68
   },
@@ -195,7 +195,7 @@
     "Ouroboros": 42.49,
     "Owl": 80.0,
     "Oxen of Fire": 120.0,
-    "Palette": 117.19,
+    "Palette": 117.17,
     "Pawn": 165.0,
     "Pear": 73.0,
     "Pearl": 79.0,
@@ -254,7 +254,7 @@
     "White Deer": 75.0,
     "Wolf Rage": 89.0,
     "Wreath": 85.0,
-    "Yogi Shaman": 120.0
+    "Yogi Shaman": 150.0
   },
   "models": {
     "Amazon": 112.2,
@@ -308,5 +308,5 @@
     "Xenowatch": 53.04,
     "Zenith": 102.0
   },
-  "last_updated": 1784686286
+  "last_updated": 1784688711
 }

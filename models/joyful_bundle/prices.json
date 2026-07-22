@@ -18,8 +18,8 @@
     "Persimmon": 2.66,
     "Tactical Pine": 2.69,
     "Azure Blue": 2.75,
-    "Cappuccino": 2.66,
-    "Platinum": 2.69,
+    "Cappuccino": 2.63,
+    "Platinum": 2.67,
     "French Violet": 2.7,
     "Mint Green": 2.69,
     "Old Gold": 2.65,
@@ -28,7 +28,7 @@
     "Neon Blue": 2.69,
     "Navy Blue": 2.7,
     "Lemongrass": 2.66,
-    "Roman Silver": 2.68,
+    "Roman Silver": 2.64,
     "Grape": 2.69,
     "Silver Blue": 2.68,
     "Marine Blue": 2.68,
@@ -37,7 +37,7 @@
     "Mexican Pink": 2.68,
     "Fire Engine": 2.8,
     "Satin Gold": 2.67,
-    "Purple": 2.67,
+    "Purple": 2.66,
     "Copper": 2.68,
     "Tomato": 2.68,
     "Malachite": 2.69,
@@ -77,7 +77,7 @@
     "Celtic Blue": 2.67,
     "Khaki Green": 2.68,
     "Rosewood": 2.69,
-    "Indigo Dye": 2.68,
+    "Indigo Dye": 2.64,
     "Black": 23.6436,
     "Onyx Black": 8.6598
   },
@@ -98,7 +98,7 @@
     "Aubergine": 6.4,
     "Avocado": 7.09,
     "Bamboo": 11.0,
-    "Banana": 6.5,
+    "Banana": 6.26,
     "Bandage": 8.0,
     "Bandana": 9.77,
     "Banner": 7.2,
@@ -178,7 +178,7 @@
     "Kudu Totem": 29.0,
     "Ladybug": 8.61,
     "Lavender": 21.0,
-    "Leprechaun": 18.01,
+    "Leprechaun": 18.02,
     "Light Bulb": 6.99,
     "Lightning": 6.97,
     "Lily": 12.0,
@@ -283,7 +283,7 @@
   "models": {
     "Antarctica": 6.6504,
     "Axolotl Sven": 7.1196,
-    "Biscuit": 10.2,
+    "Biscuit": 6.0282,
     "Bronze": 7.9968,
     "Bull Run": 12.138,
     "Candy Basket": 6.2322,
@@ -333,5 +333,5 @@
     "Watermelon": 7.548,
     "Steve’s Pet": 9.18
   },
-  "last_updated": 1784686286
+  "last_updated": 1784688711
 }
