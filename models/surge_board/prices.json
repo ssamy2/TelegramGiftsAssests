@@ -69,7 +69,7 @@
     "Pure Gold": 2.74,
     "Amber": 2.77,
     "Midnight Blue": 8.2314,
-    "Battleship Grey": 2.68,
+    "Battleship Grey": 2.7,
     "Cobalt Blue": 2.69,
     "French Blue": 2.68,
     "Burgundy": 2.69,
@@ -237,7 +237,7 @@
     "Neptune": 6.3,
     "Nigiri": 7.5,
     "Novus Ordo": 6.49,
-    "Octopus": 6.4,
+    "Octopus": 6.5,
     "Onigiri": 6.5,
     "Owl": 7.3,
     "Oxen of Fire": 6.55,
@@ -328,7 +328,7 @@
     "Warhorse": 6.39,
     "Watching Sun": 6.25,
     "Watermelon": 6.5,
-    "Wise Raven": 28.03,
+    "Wise Raven": 28.04,
     "Wizard Hat": 6.5,
     "Wolf Rage": 9.99,
     "Yin-Yang": 11.0
@@ -342,7 +342,7 @@
     "Blåhaj": 6.12,
     "Canine Cool": 6.936,
     "Carpe Diem": 28.56,
-    "Celestial": 6.0792,
+    "Celestial": 5.916,
     "Da Vinci": 6.069,
     "Divinity": 8.874,
     "Drakkar": 6.2832,
@@ -354,8 +354,8 @@
     "Gothic Glider": 6.579,
     "Graffiti": 5.9874,
     "Great Dragon": 16.5036,
-    "Hoverboard": 5.9874,
-    "Isotope": 5.9874,
+    "Hoverboard": 5.916,
+    "Isotope": 6.12,
     "Love Shard": 7.1196,
     "Made in Heaven": 6.5586,
     "Magic Carpet": 6.12,
@@ -370,7 +370,7 @@
     "Pixel Feet": 6.4566,
     "Planet Express": 6.324,
     "Polar Shard": 7.9866,
-    "Poseidon": 6.4158,
+    "Poseidon": 6.12,
     "Privateer": 6.528,
     "Quantum": 6.222,
     "Rune Nova": 5.9874,
@@ -385,5 +385,5 @@
     "TON Shard": 16.3812,
     "Wild Cat": 5.967
   },
-  "last_updated": 1784763233
+  "last_updated": 1784765725
 }

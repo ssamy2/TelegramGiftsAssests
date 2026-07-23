@@ -12,7 +12,7 @@
     "Steel Grey": 2.73,
     "Grape": 2.69,
     "Light Olive": 2.69,
-    "Battleship Grey": 2.68,
+    "Battleship Grey": 2.7,
     "Moonstone": 2.68,
     "Cobalt Blue": 2.69,
     "Jade Green": 2.69,
@@ -99,6 +99,8 @@
     "Light Bulb": 300.0,
     "Police Badge": 500.0,
     "Bishop": 116.39,
+    "Bone": 237.0,
+    "Turtle": 185.8,
     "Acorn": 480.0,
     "Alarm": 4444.0,
     "Alkonost": 116.29,
@@ -110,13 +112,12 @@
     "Bell Pepper": 300.0,
     "Birthday Cake": 200.0,
     "Blood Drop": 180.0,
-    "Bone": 237.0,
     "Bubble Tea": 150.0,
-    "Bull of Heaven": 134.45,
+    "Bull of Heaven": 134.43,
     "Bunny Ears": 370.0,
     "Calm Wolf": 190.0,
     "Cap": 124.0,
-    "Car": 373.0,
+    "Car": 3000.0,
     "Cash": 180.0,
     "Cat Mask": 175.0,
     "Celtic Cross": 141.9,
@@ -206,7 +207,6 @@
     "Top Hat": 125.0,
     "Totem Bear": 199.0,
     "Tribal Shield": 200.0,
-    "Turtle": 185.8,
     "Venetian Mask": 209.0,
     "Viking": 200.0,
     "Wasp": 125.0,
@@ -266,5 +266,5 @@
     "Warholite": 202.98,
     "White Opal": 234.6
   },
-  "last_updated": 1784763233
+  "last_updated": 1784765724
 }

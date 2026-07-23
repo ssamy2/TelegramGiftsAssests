@@ -16,7 +16,7 @@
     "Chestnut": 2.69,
     "Neon Blue": 2.69,
     "Steel Grey": 2.73,
-    "Battleship Grey": 2.68,
+    "Battleship Grey": 2.7,
     "English Violet": 2.69,
     "Cobalt Blue": 2.69,
     "Silver Blue": 2.68,
@@ -110,7 +110,7 @@
     "Aztec Totem": 449.0,
     "Banner": 150.0,
     "Battle Axe": 139.0,
-    "Beetle": 104.29,
+    "Beetle": 106.89,
     "Bishop": 149.0,
     "Black Cat": 200.0,
     "Blood Drop": 260.0,
@@ -193,7 +193,7 @@
     "Ink Pen": 280.0,
     "Iron Helmet": 520.0,
     "Jolly Roger": 130.0,
-    "Jörmungandr": 104.2,
+    "Jörmungandr": 199.0,
     "Kitsune": 199.0,
     "Knight": 264.0,
     "Legionary": 300.0,
@@ -241,7 +241,7 @@
     "Rhino Warrior": 247.0,
     "Ring": 150.0,
     "Rook": 133.0,
-    "Royal Crown": 104.19,
+    "Royal Crown": 360.0,
     "Sakura Flower": 167.0,
     "Sakura": 414.0,
     "Sauron": 300.0,
@@ -250,7 +250,7 @@
     "Seahorse": 159.0,
     "Serpent": 107.0,
     "Shield": 240.0,
-    "Shinto Shrine": 104.19,
+    "Shinto Shrine": 106.89,
     "Silver Ibis": 107.0,
     "Skull": 219.97,
     "Snail": 450.0,
@@ -383,5 +383,5 @@
     "Glacier": 612.0,
     "Vert d’Eau": 142.8
   },
-  "last_updated": 1784763233
+  "last_updated": 1784765724
 }

@@ -20,7 +20,7 @@
     "Lemongrass": 2.68,
     "Cappuccino": 2.67,
     "Aquamarine": 2.68,
-    "Battleship Grey": 2.68,
+    "Battleship Grey": 2.7,
     "Azure Blue": 2.7,
     "Indigo Dye": 2.69,
     "Grape": 2.69,
@@ -123,7 +123,7 @@
     "Chest": 30.0,
     "Chili Pepper": 9.75,
     "Chili": 30.0,
-    "Clover": 18.41,
+    "Clover": 18.4,
     "Clubs": 22.11,
     "Coat of Arms": 6.8,
     "Cocktail": 8.0,
@@ -159,7 +159,7 @@
     "Fish Skeleton": 39.99,
     "Fish": 9.63,
     "Flamingo": 8.45,
-    "Flashlight": 7.64,
+    "Flashlight": 7.62,
     "Fleur-de-lis": 6.72,
     "Flipper": 7.99,
     "Flower Cross": 6.17,
@@ -371,7 +371,7 @@
     "Mint Fudge": 6.936,
     "Mummy": 7.9458,
     "Mushroom": 6.732,
-    "Mutated": 6.426,
+    "Mutated": 6.22668996,
     "Ninjell": 9.129,
     "Noble": 8.0478,
     "Orchid": 11.8932,
@@ -397,7 +397,7 @@
     "Snowman": 6.732,
     "Soft Flavor": 20.3898,
     "Space Gel": 7.956,
-    "Spooky": 6.273,
+    "Spooky": 6.987,
     "Spreadable": 6.9972,
     "Spring Day": 7.6398,
     "Squishy": 10.098,
@@ -417,5 +417,5 @@
     "Winter": 7.14,
     "Zombie": 6.681
   },
-  "last_updated": 1784763233
+  "last_updated": 1784765724
 }

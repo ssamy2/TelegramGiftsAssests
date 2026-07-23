@@ -1,5 +1,6 @@
 {
   "backdrops": {
+    "Black": 24.48,
     "Electric Purple": 2.7,
     "Cyberpunk": 2.7,
     "Pacific Green": 2.68,
@@ -51,7 +52,7 @@
     "Satin Gold": 2.69,
     "Cappuccino": 2.67,
     "Jade Green": 2.69,
-    "Battleship Grey": 2.68,
+    "Battleship Grey": 2.7,
     "Cobalt Blue": 2.69,
     "Ranger Green": 2.69,
     "Aquamarine": 2.68,
@@ -78,7 +79,6 @@
     "Indigo Dye": 2.69,
     "Mystic Pearl": 2.69,
     "Azure Blue": 2.7,
-    "Black": 24.48,
     "Onyx Black": 6.936
   },
   "symbols": {},
@@ -107,10 +107,10 @@
     "Eggsclusive": 6.273,
     "Fire Fox": 15.708,
     "Gold Retriever": 7.8642,
-    "Hamster": 12.393,
+    "Hamster": 12.2298,
     "Kinder Hippo": 5.0898,
     "Knitty Kitty": 6.12,
-    "Litter Box": 10.2,
+    "Litter Box": 11.22,
     "Lovely Lamb": 5.355,
     "Magician": 5.61,
     "Marmot": 4.896,
@@ -122,7 +122,7 @@
     "Nocturne": 5.9466,
     "Penguin": 5.304,
     "Pudel Lux": 12.24,
-    "Rabbit Habit": 111.18,
+    "Rabbit Habit": 112.2,
     "Red Panda": 4.845,
     "Ritual Goat": 45.0024,
     "Strong Doge": 5.5488,
@@ -134,5 +134,5 @@
     "Usagi-Chan": 5.0796,
     "Wonderland": 7.1298
   },
-  "last_updated": 1784763233
+  "last_updated": 1784765724
 }

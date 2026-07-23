@@ -61,7 +61,7 @@
     "Moonstone": 2.68,
     "French Blue": 2.68,
     "Copper": 2.69,
-    "Battleship Grey": 2.68,
+    "Battleship Grey": 2.7,
     "Pacific Cyan": 2.69,
     "Feldgrau": 2.69,
     "Dark Lilac": 2.7,
@@ -141,6 +141,7 @@
     "Geisha Fan": 173.7,
     "Shooting Star": 450.0,
     "Cow Skull": 200.0,
+    "Champagne": 345.0,
     "Acorn": 300.0,
     "Anchor": 744.44,
     "Ancient Urn": 179.98,
@@ -168,7 +169,6 @@
     "Candle": 179.7,
     "Celtic Cross": 294.0,
     "Celtic Wolf": 999.0,
-    "Champagne": 345.0,
     "Cherry": 330.0,
     "Chest": 3499.0,
     "Chili": 4980.0,
@@ -223,7 +223,7 @@
     "Moon Face": 220.0,
     "Moose Head": 777.0,
     "Mountain Lion": 424.0,
-    "Nigiri": 298.99,
+    "Nigiri": 298.98,
     "Novus Ordo": 699.0,
     "Oak Leaf": 950.0,
     "Obon Lantern": 766.0,
@@ -344,5 +344,5 @@
     "Unicorn": 301.92,
     "Watermelon": 229.5
   },
-  "last_updated": 1784763233
+  "last_updated": 1784765724
 }

@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Fandango": 2.7,
-    "Battleship Grey": 2.68,
+    "Battleship Grey": 2.7,
     "Azure Blue": 2.7,
     "Cobalt Blue": 2.69,
     "Chocolate": 2.69,
@@ -74,7 +74,7 @@
     "Bandage": 7.9,
     "Baphomet": 4.9,
     "Bastet": 19.0,
-    "Birthday Cake": 7.0,
+    "Birthday Cake": 6.99,
     "Black Widow": 5.5,
     "Blood Drop": 6.0,
     "Bloody Axe": 4.89,
@@ -131,7 +131,7 @@
     "Happy Smile": 4.5,
     "Heart": 5.18,
     "Hedgehog": 8.0,
-    "Hippo": 9.98,
+    "Hippo": 9.99,
     "Human Scull": 5.0,
     "Ice Pop": 8.0,
     "Illuminati": 5.0,
@@ -191,7 +191,7 @@
     "Sun Mountain": 6.5,
     "Sun": 15.0,
     "Sunflower": 15.0,
-    "Toilet Paper": 8.4,
+    "Toilet Paper": 9.0,
     "Top Hat": 21.0,
     "Treats": 6.64,
     "Voodoo Doll": 4.7,
@@ -252,12 +252,12 @@
     "Jumpscare": 7.65,
     "Junk Mage": 4.3758,
     "Lemon Aid": 4.386,
-    "Little Wizard": 4.3758,
+    "Little Wizard": 4.1208,
     "Lorendale": 4.3758,
     "Luminous": 4.1412,
     "Mad Wizard": 5.0694,
     "Maleficar": 4.5798,
-    "Manacost": 4.59,
+    "Manacost": 4.182,
     "Martian Night": 5.0898,
     "Merlin": 6.6198,
     "Midnight": 4.3758,
@@ -282,7 +282,7 @@
     "Radagast": 4.59,
     "Rainbow": 4.7838,
     "Red Flag": 4.692,
-    "Sanctuary": 4.386,
+    "Sanctuary": 4.1208,
     "Sand Cloak": 4.2636,
     "Seaside": 4.3146,
     "Smoke Veil": 5.4978,
@@ -303,5 +303,5 @@
     "Young Witch": 5.0898,
     "Cat’s Grasp": 4.284
   },
-  "last_updated": 1784763233
+  "last_updated": 1784765725
 }
