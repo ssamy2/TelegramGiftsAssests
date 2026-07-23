@@ -6,8 +6,8 @@
     "English Violet": 2.69,
     "Roman Silver": 2.7,
     "Carrot Juice": 2.69,
-    "Jade Green": 2.69,
-    "Hunter Green": 2.7,
+    "Jade Green": 2.67,
+    "Hunter Green": 2.67,
     "Platinum": 2.7,
     "Malachite": 2.69,
     "Cobalt Blue": 2.69,
@@ -32,7 +32,7 @@
     "Cappuccino": 2.69,
     "Electric Purple": 2.7,
     "Amber": 2.77,
-    "Mystic Pearl": 2.69,
+    "Mystic Pearl": 2.7,
     "Orange": 2.73,
     "Neon Blue": 2.69,
     "Pacific Green": 2.68,
@@ -45,7 +45,7 @@
     "Shamrock Green": 2.69,
     "Silver Blue": 2.69,
     "Fandango": 2.7,
-    "Khaki Green": 2.7,
+    "Khaki Green": 2.67,
     "Mint Green": 2.68,
     "Sky Blue": 2.69,
     "Desert Sand": 2.7,
@@ -136,7 +136,7 @@
     "Bastet": 100.0,
     "Beetle": 102.99,
     "Birthday Cake": 200.0,
-    "Bishop": 75.0,
+    "Bishop": 70.0,
     "Blossom": 80.0,
     "Book": 255.0,
     "Bow Tie": 700.0,
@@ -172,7 +172,7 @@
     "Diamonds": 74.0,
     "Double Bed": 95.0,
     "Eggplant": 125.0,
-    "Eikthyrnir": 86.81,
+    "Eikthyrnir": 86.8,
     "Elephant": 130.0,
     "Fire": 500.0,
     "Firebird": 139.0,
@@ -327,5 +327,5 @@
     "Flame Kiss": 1000.0,
     "Prism Bubble": 234.6
   },
-  "last_updated": 1784783080
+  "last_updated": 1784785517
 }
