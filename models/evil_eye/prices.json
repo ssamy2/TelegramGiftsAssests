@@ -19,14 +19,14 @@
     "Raspberry": 2.74,
     "Pure Gold": 2.74,
     "Chestnut": 2.69,
-    "Khaki Green": 2.68,
+    "Khaki Green": 2.69,
     "Turquoise": 2.7,
     "Sapphire": 2.69,
     "Moonstone": 2.69,
     "Mint Green": 2.69,
-    "Persimmon": 2.69,
+    "Persimmon": 2.68,
     "Ivory White": 2.89,
-    "Azure Blue": 2.7,
+    "Azure Blue": 2.69,
     "Amber": 2.77,
     "Emerald": 2.69,
     "Pacific Cyan": 2.69,
@@ -41,7 +41,7 @@
     "English Violet": 2.7,
     "Carrot Juice": 2.7,
     "Chocolate": 2.69,
-    "Platinum": 2.7,
+    "Platinum": 2.79,
     "Cappuccino": 2.69,
     "Coral Red": 2.7,
     "Rosewood": 2.69,
@@ -51,7 +51,7 @@
     "Indigo Dye": 2.69,
     "Steel Grey": 2.73,
     "Electric Indigo": 2.7,
-    "French Blue": 2.68,
+    "French Blue": 2.69,
     "Light Olive": 2.69,
     "Dark Lilac": 2.7,
     "Electric Purple": 2.7,
@@ -94,7 +94,7 @@
     "Cherry": 14.0,
     "Clover": 10.0,
     "Coffin": 6.99,
-    "Coin Purse": 8.65,
+    "Coin Purse": 7.0,
     "Coin": 15.0,
     "Crab": 19.99,
     "Croissant": 102.05,
@@ -202,7 +202,7 @@
     "Yogi Shaman": 20.0
   },
   "models": {
-    "8 Ball": 7.9458,
+    "8 Ball": 7.8948,
     "Apex Predator": 10.1694,
     "Baltic Amber": 7.293,
     "Blink": 6.63,
@@ -253,5 +253,5 @@
     "True North": 7.6398,
     "Visible Spectrum": 6.8238
   },
-  "last_updated": 1784790475
+  "last_updated": 1784792931
 }
