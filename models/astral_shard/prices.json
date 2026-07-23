@@ -99,7 +99,6 @@
     "Light Bulb": 300.0,
     "Police Badge": 500.0,
     "Bishop": 116.39,
-    "Turtle": 185.8,
     "Acorn": 480.0,
     "Alarm": 4444.0,
     "Alkonost": 116.27,
@@ -113,7 +112,7 @@
     "Blood Drop": 180.0,
     "Bone": 236.5,
     "Bubble Tea": 150.0,
-    "Bull of Heaven": 134.38,
+    "Bull of Heaven": 134.37,
     "Bunny Ears": 370.0,
     "Calm Wolf": 190.0,
     "Cap": 124.0,
@@ -207,6 +206,7 @@
     "Top Hat": 125.0,
     "Totem Bear": 199.0,
     "Tribal Shield": 200.0,
+    "Turtle": 185.6,
     "Venetian Mask": 209.0,
     "Viking": 200.0,
     "Wasp": 125.0,
@@ -266,5 +266,5 @@
     "Warholite": 202.98,
     "White Opal": 234.6
   },
-  "last_updated": 1784773151
+  "last_updated": 1784775605
 }

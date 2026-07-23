@@ -18,7 +18,7 @@
     "Khaki Green": 2.67,
     "Pacific Green": 2.68,
     "Dark Green": 2.69,
-    "Burnt Sienna": 2.69,
+    "Burnt Sienna": 2.66,
     "Orange": 2.74,
     "Rosewood": 2.68,
     "Burgundy": 2.69,
@@ -45,7 +45,7 @@
     "Emerald": 2.69,
     "Roman Silver": 2.7,
     "Indigo Dye": 2.69,
-    "Tactical Pine": 2.67,
+    "Tactical Pine": 2.7,
     "Light Olive": 2.69,
     "Midnight Blue": 214.2,
     "Persimmon": 2.69,
@@ -75,7 +75,7 @@
     "Sky Blue": 2.69,
     "Deep Cyan": 2.69,
     "Hunter Green": 2.7,
-    "Mustard": 2.69,
+    "Mustard": 2.67,
     "Electric Indigo": 2.7,
     "Marine Blue": 2.7,
     "Black": 3499.0,
@@ -141,7 +141,6 @@
     "Geisha Fan": 173.7,
     "Shooting Star": 450.0,
     "Cow Skull": 200.0,
-    "Champagne": 345.0,
     "Acorn": 300.0,
     "Anchor": 744.44,
     "Ancient Urn": 179.98,
@@ -169,6 +168,7 @@
     "Candle": 179.7,
     "Celtic Cross": 294.0,
     "Celtic Wolf": 999.0,
+    "Champagne": 344.8,
     "Cherry": 330.0,
     "Chest": 3499.0,
     "Chili": 4980.0,
@@ -326,7 +326,7 @@
     "Maya Warrior": 255.0,
     "Mercurial": 219.3,
     "Milk Legend": 165.036,
-    "Mythic Green": 173.4,
+    "Mythic Green": 255.0,
     "Nekonidas": 213.1494,
     "Neon Legion": 918.0,
     "Old Leather": 336.6,
@@ -344,5 +344,5 @@
     "Unicorn": 301.92,
     "Watermelon": 229.5
   },
-  "last_updated": 1784773151
+  "last_updated": 1784775605
 }
