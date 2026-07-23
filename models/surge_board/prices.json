@@ -9,8 +9,8 @@
     "Persimmon": 2.69,
     "Coral Red": 2.68,
     "Carrot Juice": 2.69,
-    "Orange": 2.74,
-    "Burnt Sienna": 2.66,
+    "Orange": 2.73,
+    "Burnt Sienna": 2.69,
     "Gunship Green": 2.7,
     "Hunter Green": 2.7,
     "Marine Blue": 2.7,
@@ -49,7 +49,7 @@
     "Ranger Green": 2.69,
     "Strawberry": 2.69,
     "Chestnut": 2.69,
-    "Deep Cyan": 2.69,
+    "Deep Cyan": 2.7,
     "Rifle Green": 2.69,
     "French Violet": 2.7,
     "Mexican Pink": 2.82,
@@ -328,14 +328,14 @@
     "Warhorse": 6.39,
     "Watching Sun": 6.25,
     "Watermelon": 6.5,
-    "Wise Raven": 28.02,
+    "Wise Raven": 28.01,
     "Wizard Hat": 6.5,
     "Wolf Rage": 9.99,
     "Yin-Yang": 11.0
   },
   "models": {
     "Akoya Pearl": 10.7406,
-    "Aloha": 5.9568,
+    "Aloha": 5.967,
     "Ayanami": 97.92,
     "Balls of Steel": 178.5,
     "Bitcoin": 59.9658,
@@ -364,7 +364,7 @@
     "Obsidian": 11.424,
     "One Percenter": 5.967,
     "Onyx Gold": 11.2098,
-    "Oracle": 6.324,
+    "Oracle": 5.9568,
     "Ouija Board": 6.5178,
     "Pepe Surfer": 292.74,
     "Pixel Feet": 6.4566,
@@ -385,5 +385,5 @@
     "TON Shard": 16.3812,
     "Wild Cat": 5.967
   },
-  "last_updated": 1784775605
+  "last_updated": 1784778049
 }

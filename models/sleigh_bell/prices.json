@@ -17,7 +17,7 @@
     "Persimmon": 2.69,
     "Old Gold": 2.69,
     "Ivory White": 2.89,
-    "Deep Cyan": 2.69,
+    "Deep Cyan": 2.7,
     "Strawberry": 2.69,
     "Gunmetal": 2.88,
     "Electric Indigo": 2.7,
@@ -31,7 +31,7 @@
     "Mexican Pink": 2.82,
     "Steel Grey": 2.73,
     "Cyberpunk": 2.7,
-    "Orange": 2.74,
+    "Orange": 2.73,
     "Mustard": 2.67,
     "Lemongrass": 2.68,
     "Navy Blue": 2.68,
@@ -73,7 +73,7 @@
     "Caramel": 2.73,
     "Jade Green": 2.69,
     "Copper": 2.69,
-    "Burnt Sienna": 2.66,
+    "Burnt Sienna": 2.69,
     "Rifle Green": 2.69,
     "Cobalt Blue": 2.69,
     "Neon Blue": 2.69,
@@ -114,7 +114,7 @@
     "Blood Drop": 10.0,
     "Boat": 14.0,
     "Bobble Hat": 15.0,
-    "Bone": 6.25,
+    "Bone": 6.26,
     "Bottle": 6.23,
     "Bottlenose": 11.3,
     "Bow Tie": 7.5,
@@ -145,7 +145,7 @@
     "Coin": 8.0,
     "Conch": 7.3,
     "Cone": 6.22,
-    "Conical Hat": 6.89,
+    "Conical Hat": 6.9,
     "Coonskin Cap": 15.8,
     "Corn": 15.0,
     "Crab": 8.9,
@@ -338,7 +338,7 @@
   },
   "models": {
     "Arctic Igloo": 6.885,
-    "Argentum": 5.8532904,
+    "Argentum": 6.528,
     "Beehive": 15.1776,
     "Black Silver": 6.273,
     "Blizzard": 7.9968,
@@ -388,5 +388,5 @@
     "Tinker Bell": 10.149,
     "Truffle": 6.2526
   },
-  "last_updated": 1784775605
+  "last_updated": 1784778049
 }

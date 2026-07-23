@@ -1,14 +1,14 @@
 {
   "backdrops": {
     "Emerald": 2.69,
-    "Orange": 2.74,
+    "Orange": 2.73,
     "Pistachio": 2.7,
     "Silver Blue": 2.69,
     "Gunship Green": 2.7,
     "Pine Green": 2.69,
     "French Blue": 2.68,
     "Ranger Green": 2.69,
-    "Burnt Sienna": 2.66,
+    "Burnt Sienna": 2.69,
     "Carmine": 2.7,
     "Satin Gold": 2.69,
     "Fandango": 2.7,
@@ -16,7 +16,7 @@
     "Feldgrau": 2.69,
     "Pacific Cyan": 2.69,
     "Raspberry": 2.74,
-    "Deep Cyan": 2.69,
+    "Deep Cyan": 2.7,
     "Celtic Blue": 2.69,
     "Mexican Pink": 2.82,
     "Old Gold": 2.69,
@@ -141,7 +141,7 @@
     "Feather": 3.5,
     "Fenrir": 4.0,
     "Fireman Hat": 4.9,
-    "Fish Skeleton": 3.4,
+    "Fish Skeleton": 3.05,
     "Flat Cap": 3.92,
     "Fleur-de-lis": 3.55,
     "Fluffy Wolf": 3.0,
@@ -284,7 +284,7 @@
     "Hellspawn": 3.5598,
     "High Five": 3.06,
     "Honey Bee": 3.264,
-    "Jolly Roger": 3.1416,
+    "Jolly Roger": 3.1314,
     "Maneki Neko": 5.355,
     "March Eight": 3.06,
     "Minion": 9.7716,
@@ -310,5 +310,5 @@
     "Wasteland": 2.9988,
     "Zero Sugar": 2.8356
   },
-  "last_updated": 1784775605
+  "last_updated": 1784778049
 }

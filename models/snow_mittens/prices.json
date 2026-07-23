@@ -40,7 +40,7 @@
     "Jade Green": 2.69,
     "Roman Silver": 2.7,
     "Azure Blue": 2.7,
-    "Orange": 2.74,
+    "Orange": 2.73,
     "English Violet": 2.69,
     "Neon Blue": 2.69,
     "Satin Gold": 2.69,
@@ -64,13 +64,13 @@
   "symbols": {
     "Acorn": 5.0,
     "Alkonost": 4.28,
-    "Apple": 5.63,
+    "Apple": 5.62,
     "Avocado": 13.0,
     "Axe": 4.99,
     "Ball": 8.4,
     "Bandage": 4.95,
     "Bastet": 4.2,
-    "Beetle": 4.78,
+    "Beetle": 4.77,
     "Bell Pepper": 8.4,
     "Birthday Cake": 4.25,
     "Bishop": 4.8,
@@ -114,8 +114,8 @@
     "Flower": 9.2,
     "Gamepad": 8.0,
     "Gem": 9.9,
-    "Ghost": 7.08,
-    "Gift Box": 4.19,
+    "Ghost": 7.09,
+    "Gift Box": 4.2,
     "Gingerbread": 4.2,
     "Hammerhead": 5.3,
     "Hand of God": 12.0,
@@ -197,7 +197,7 @@
     "Unicorn": 12.99,
     "Viking": 6.8,
     "Vortex": 5.0,
-    "White Deer": 3.88,
+    "White Deer": 3.87,
     "Winter House": 3.96,
     "Yogi Shaman": 5.0
   },
@@ -303,5 +303,5 @@
     "White Pear": 5.1,
     "Woodman": 4.131
   },
-  "last_updated": 1784775605
+  "last_updated": 1784778049
 }
