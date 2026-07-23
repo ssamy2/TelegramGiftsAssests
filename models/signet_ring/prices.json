@@ -9,11 +9,11 @@
     "Pacific Cyan": 2.69,
     "Sapphire": 2.69,
     "French Blue": 2.68,
-    "Purple": 2.75,
+    "Purple": 2.7,
     "Amber": 2.77,
     "Grape": 2.69,
     "Lemongrass": 2.68,
-    "Rosewood": 2.68,
+    "Rosewood": 2.69,
     "Cyberpunk": 2.7,
     "Strawberry": 2.69,
     "Fandango": 2.7,
@@ -33,7 +33,7 @@
     "Lavender": 2.7,
     "Persimmon": 2.69,
     "Turquoise": 2.7,
-    "Chocolate": 2.69,
+    "Chocolate": 2.67,
     "Cobalt Blue": 2.69,
     "Cappuccino": 2.69,
     "Ivory White": 2.89,
@@ -46,7 +46,7 @@
     "Moonstone": 2.69,
     "Mint Green": 2.68,
     "Pacific Green": 2.68,
-    "Aquamarine": 2.68,
+    "Aquamarine": 2.69,
     "Hunter Green": 2.7,
     "Midnight Blue": 65.28,
     "Neon Blue": 2.69,
@@ -253,7 +253,7 @@
     "White Deer": 37.51,
     "Wolf Rage": 46.0,
     "Wreath": 43.95,
-    "Yogi Shaman": 37.8
+    "Yogi Shaman": 40.95
   },
   "models": {
     "Black Noir": 39.78,
@@ -297,7 +297,7 @@
     "Silverscreen": 33.4458,
     "Skibidi": 357.0,
     "Skull": 38.76,
-    "Spades": 32.997,
+    "Spades": 31.62,
     "Star Platinum": 35.7,
     "Symbolic": 33.66,
     "Titanium": 32.64,
@@ -307,5 +307,5 @@
     "White Gold": 31.926,
     "Yin-Yang": 31.62
   },
-  "last_updated": 1784780591
+  "last_updated": 1784783080
 }

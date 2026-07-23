@@ -26,8 +26,8 @@
     "Pistachio": 2.7,
     "Chestnut": 2.69,
     "Coral Red": 2.7,
-    "Aquamarine": 2.68,
-    "Rosewood": 2.68,
+    "Aquamarine": 2.69,
+    "Rosewood": 2.69,
     "Moonstone": 2.69,
     "French Blue": 2.68,
     "Lemongrass": 2.68,
@@ -76,6 +76,7 @@
     "Hamburger": 9.06,
     "Mafdet": 9.06,
     "Gear": 10.64,
+    "Phoenix": 9.51,
     "Autumn Leaves": 12.0,
     "Axe": 11.11,
     "Bandage": 26.5,
@@ -83,7 +84,7 @@
     "Bastet": 15.31,
     "Bee": 15.0,
     "Bell Pepper": 11.99,
-    "Black Widow": 12.98,
+    "Black Widow": 12.99,
     "Blood Drop": 13.9,
     "Bloody Axe": 14.99,
     "Boat": 40.0,
@@ -110,7 +111,7 @@
     "Dessert": 13.9,
     "Doberman": 13.5,
     "Dragonfly": 15.8,
-    "Evil Pumpkin": 12.03,
+    "Evil Pumpkin": 12.02,
     "Eyeball": 14.0,
     "Feather": 26.5,
     "Fire": 29.9,
@@ -158,7 +159,6 @@
     "Pear": 26.5,
     "Pegasus": 20.0,
     "Pencil": 13.0,
-    "Phoenix": 9.51,
     "Piggy Bank": 52.0,
     "Planet": 29.9,
     "Poison Drop": 14.38,
@@ -253,5 +253,5 @@
     "Wednesday": 30.345,
     "World Cup": 35.7
   },
-  "last_updated": 1784780591
+  "last_updated": 1784783080
 }

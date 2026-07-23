@@ -39,8 +39,8 @@
     "Battleship Grey": 2.7,
     "Emerald": 2.69,
     "Azure Blue": 2.7,
-    "Rosewood": 2.68,
-    "Purple": 2.75,
+    "Rosewood": 2.69,
+    "Purple": 2.7,
     "Electric Indigo": 2.7,
     "Shamrock Green": 2.69,
     "Silver Blue": 2.69,
@@ -51,13 +51,13 @@
     "Desert Sand": 2.7,
     "Light Olive": 2.69,
     "Navy Blue": 2.69,
-    "Aquamarine": 2.68,
+    "Aquamarine": 2.69,
     "Sapphire": 2.69,
     "Turquoise": 2.7,
     "Lemongrass": 2.68,
     "Indigo Dye": 2.69,
     "Pacific Cyan": 2.69,
-    "Chocolate": 2.69,
+    "Chocolate": 2.67,
     "Black": 816.0,
     "Onyx Black": 127.5
   },
@@ -172,7 +172,7 @@
     "Diamonds": 74.0,
     "Double Bed": 95.0,
     "Eggplant": 125.0,
-    "Eikthyrnir": 86.8,
+    "Eikthyrnir": 86.81,
     "Elephant": 130.0,
     "Fire": 500.0,
     "Firebird": 139.0,
@@ -327,5 +327,5 @@
     "Flame Kiss": 1000.0,
     "Prism Bubble": 234.6
   },
-  "last_updated": 1784780591
+  "last_updated": 1784783080
 }
