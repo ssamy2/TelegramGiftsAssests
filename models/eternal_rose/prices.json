@@ -38,7 +38,7 @@
     "Purple": 2.69,
     "Chocolate": 2.69,
     "Pure Gold": 2.74,
-    "Silver Blue": 2.68,
+    "Silver Blue": 2.69,
     "Raspberry": 2.74,
     "Amber": 2.77,
     "English Violet": 2.69,
@@ -230,7 +230,7 @@
     "Spades": 140.0,
     "Sprout": 30.0,
     "Star Crown": 23.3,
-    "Stilettos": 22.26,
+    "Stilettos": 21.78,
     "Strawberry": 25.98,
     "Sumerian Bird": 150.0,
     "Sun Mountain": 24.0,
@@ -269,10 +269,10 @@
     "Halftone": 21.0732,
     "Ice Artifact": 23.154,
     "Inferno": 24.276,
-    "Ink Blaze": 21.0732,
-    "Jade Bloom": 21.063,
+    "Ink Blaze": 21.063,
+    "Jade Bloom": 21.0528,
     "Lilac Relic": 21.0834,
-    "Lunar Charm": 21.42,
+    "Lunar Charm": 20.706,
     "Midnight Glow": 22.338,
     "Mirage": 24.48,
     "Moonstone": 22.236,
@@ -301,5 +301,5 @@
     "Vivid Prize": 36.72,
     "Winter": 23.001
   },
-  "last_updated": 1784765724
+  "last_updated": 1784768187
 }

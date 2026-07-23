@@ -7,7 +7,7 @@
     "Celtic Blue": 2.69,
     "Electric Indigo": 2.7,
     "Malachite": 2.69,
-    "Silver Blue": 2.68,
+    "Silver Blue": 2.69,
     "Jade Green": 2.69,
     "Satin Gold": 2.69,
     "Orange": 2.74,
@@ -59,7 +59,7 @@
     "Amber": 2.77,
     "Tactical Pine": 2.7,
     "Lavender": 2.7,
-    "Deep Cyan": 2.7,
+    "Deep Cyan": 2.69,
     "Indigo Dye": 2.69,
     "Coral Red": 2.68,
     "Hunter Green": 2.7,
@@ -77,7 +77,7 @@
     "Ranger Green": 2.69,
     "Copper": 2.69,
     "Chestnut": 2.69,
-    "Mustard": 2.7,
+    "Mustard": 2.69,
     "Black": 474.3,
     "Onyx Black": 131.58
   },
@@ -220,7 +220,7 @@
     "Sea Jelly": 94.0,
     "Sharp Sword": 200.0,
     "Shortsword": 120.0,
-    "Shuriken": 79.02,
+    "Shuriken": 77.42,
     "Snail": 105.0,
     "Snoop Collar": 150.0,
     "Sparks": 165.0,
@@ -238,7 +238,7 @@
     "Tree of Life": 160.0,
     "Tricorne": 175.0,
     "Ushanka": 130.0,
-    "Valkyrie": 117.76,
+    "Valkyrie": 117.74,
     "Viking Shield": 76.99,
     "Vinyl Record": 260.0,
     "Visor": 102.0,
@@ -301,5 +301,5 @@
     "Yap Yap": 89.76,
     "Yippie Yo": 96.849
   },
-  "last_updated": 1784765725
+  "last_updated": 1784768187
 }

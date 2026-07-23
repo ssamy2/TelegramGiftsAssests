@@ -2,7 +2,7 @@
   "backdrops": {
     "Cobalt Blue": 2.69,
     "Hunter Green": 2.7,
-    "Mustard": 2.7,
+    "Mustard": 2.69,
     "Old Gold": 2.69,
     "Mexican Pink": 2.82,
     "Moonstone": 2.68,
@@ -21,8 +21,8 @@
     "Ranger Green": 2.69,
     "Persimmon": 2.69,
     "Malachite": 2.69,
-    "Deep Cyan": 2.7,
-    "Silver Blue": 2.68,
+    "Deep Cyan": 2.69,
+    "Silver Blue": 2.69,
     "Shamrock Green": 2.69,
     "French Violet": 2.7,
     "Fire Engine": 2.8,
@@ -136,7 +136,7 @@
     "Alert Serpent": 210.0,
     "Anchor": 125.0,
     "Aztec Falcon": 235.0,
-    "Bamboo": 104.98,
+    "Bamboo": 104.99,
     "Banner": 250.0,
     "Baphomet": 260.0,
     "Bascinet": 290.0,
@@ -218,7 +218,7 @@
     "Jewel": 108.88,
     "Jolly Roger": 349.0,
     "Jörmungandr": 150.0,
-    "Kashket": 91.95,
+    "Kashket": 92.81,
     "Khinkali": 250.0,
     "Kitsune": 600.0,
     "Knight": 188.0,
@@ -251,7 +251,7 @@
     "Octopus": 666.0,
     "Okami Wolf": 94.8,
     "Old Candle": 130.0,
-    "Onigiri": 159.98,
+    "Onigiri": 159.99,
     "Owl": 300.0,
     "Oxen of Fire": 320.0,
     "Paw Print": 500.0,
@@ -272,7 +272,7 @@
     "Rhino Warrior": 399.0,
     "Rooster": 275.0,
     "Sauron": 107.0,
-    "Scarab": 91.94,
+    "Scarab": 92.8,
     "Scorpion": 340.0,
     "Sea Dragon": 220.0,
     "Shooting Star": 180.0,
@@ -360,5 +360,5 @@
     "Vague Dream": 106.08,
     "X-Ray": 132.6
   },
-  "last_updated": 1784765725
+  "last_updated": 1784768187
 }

@@ -10,12 +10,12 @@
     "Coral Red": 2.68,
     "Mystic Pearl": 2.69,
     "Platinum": 2.7,
-    "Deep Cyan": 2.7,
+    "Deep Cyan": 2.69,
     "Raspberry": 2.74,
     "Pistachio": 2.7,
     "Tactical Pine": 2.7,
     "Desert Sand": 2.7,
-    "Silver Blue": 2.68,
+    "Silver Blue": 2.69,
     "Feldgrau": 2.69,
     "Electric Purple": 2.7,
     "Navy Blue": 2.68,
@@ -31,7 +31,7 @@
     "Pure Gold": 2.74,
     "Persimmon": 2.69,
     "Tomato": 2.69,
-    "Mustard": 2.7,
+    "Mustard": 2.69,
     "Shamrock Green": 2.69,
     "Caramel": 2.73,
     "Dark Green": 2.68,
@@ -85,7 +85,7 @@
   "models": {
     "Adventure": 4.08,
     "Alcatraz": 3.672,
-    "Ambition": 3.4884,
+    "Ambition": 3.5598,
     "Ballerina": 3.4578,
     "Barry Allen": 3.5598,
     "Bartender": 3.7332,
@@ -112,7 +112,7 @@
     "Mad Scientist": 7.65,
     "Monsters": 4.0596,
     "Moon Prism": 3.978,
-    "Passion": 3.264,
+    "Passion": 3.3456,
     "Patriot": 3.8352,
     "Peg Leg": 3.468,
     "Pepe Socks": 12.1992,
@@ -134,5 +134,5 @@
     "Trader": 4.0698,
     "Twin Peaks": 3.3048
   },
-  "last_updated": 1784765724
+  "last_updated": 1784768187
 }

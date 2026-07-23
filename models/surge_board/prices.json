@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Silver Blue": 2.68,
+    "Silver Blue": 2.69,
     "Fandango": 2.7,
     "English Violet": 2.69,
     "Celtic Blue": 2.69,
@@ -49,12 +49,12 @@
     "Ranger Green": 2.69,
     "Strawberry": 2.69,
     "Chestnut": 2.69,
-    "Deep Cyan": 2.7,
+    "Deep Cyan": 2.69,
     "Rifle Green": 2.69,
     "French Violet": 2.7,
     "Mexican Pink": 2.82,
     "Gunmetal": 2.88,
-    "Mustard": 2.7,
+    "Mustard": 2.69,
     "Seal Brown": 2.68,
     "Cappuccino": 2.67,
     "Mint Green": 2.68,
@@ -223,7 +223,7 @@
     "Melon": 6.56,
     "Mining Helmet": 7.3,
     "Moai Head": 7.5,
-    "Money Bag": 18.0,
+    "Money Bag": 17.0,
     "Monstera": 6.26,
     "Moon Cross": 6.89,
     "Moon Eagle": 6.49,
@@ -328,7 +328,7 @@
     "Warhorse": 6.39,
     "Watching Sun": 6.25,
     "Watermelon": 6.5,
-    "Wise Raven": 28.04,
+    "Wise Raven": 28.05,
     "Wizard Hat": 6.5,
     "Wolf Rage": 9.99,
     "Yin-Yang": 11.0
@@ -342,7 +342,7 @@
     "Blåhaj": 6.12,
     "Canine Cool": 6.936,
     "Carpe Diem": 28.56,
-    "Celestial": 5.916,
+    "Celestial": 6.0792,
     "Da Vinci": 6.069,
     "Divinity": 8.874,
     "Drakkar": 6.2832,
@@ -354,7 +354,7 @@
     "Gothic Glider": 6.579,
     "Graffiti": 5.9874,
     "Great Dragon": 16.5036,
-    "Hoverboard": 5.916,
+    "Hoverboard": 5.814,
     "Isotope": 6.12,
     "Love Shard": 7.1196,
     "Made in Heaven": 6.5586,
@@ -370,7 +370,7 @@
     "Pixel Feet": 6.4566,
     "Planet Express": 6.324,
     "Polar Shard": 7.9866,
-    "Poseidon": 6.12,
+    "Poseidon": 5.814,
     "Privateer": 6.528,
     "Quantum": 6.222,
     "Rune Nova": 5.9874,
@@ -385,5 +385,5 @@
     "TON Shard": 16.3812,
     "Wild Cat": 5.967
   },
-  "last_updated": 1784765725
+  "last_updated": 1784768187
 }

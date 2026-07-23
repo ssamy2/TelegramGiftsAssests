@@ -56,7 +56,7 @@
     "Rosewood": 2.68,
     "Ivory White": 2.89,
     "Lemongrass": 2.68,
-    "Silver Blue": 2.68,
+    "Silver Blue": 2.69,
     "Indigo Dye": 2.69,
     "Black": 80.58,
     "Onyx Black": 22.44
@@ -78,9 +78,9 @@
     "Bell Pepper": 25.0,
     "Birthday Cake": 10.49,
     "Bishop": 18.95,
-    "Black Widow": 11.02,
+    "Black Widow": 11.0,
     "Blood Drop": 10.0,
-    "Bloody Axe": 9.93,
+    "Bloody Axe": 12.5,
     "Book": 31.0,
     "Bow Tie": 25.0,
     "Bubbles": 21.79,
@@ -182,14 +182,14 @@
     "Sprout": 20.0,
     "Star Crown": 16.0,
     "Sun": 30.0,
-    "Sunflower": 85.17,
-    "Tie": 11.0,
+    "Sunflower": 85.18,
+    "Tie": 10.5,
     "Tooth": 17.0,
     "Treats": 10.5,
     "Twin Peaks": 28.0,
     "Unicorn Head": 19.0,
     "Unicorn": 12.0,
-    "Venetian Mask": 9.93,
+    "Venetian Mask": 50.99,
     "Viking": 40.0,
     "Voodoo Doll": 11.0,
     "Watermelon": 20.0,
@@ -248,5 +248,5 @@
     "Watermelon": 14.28,
     "Joke-O’-Lantern": 9.18
   },
-  "last_updated": 1784765725
+  "last_updated": 1784768187
 }

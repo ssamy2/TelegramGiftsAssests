@@ -21,7 +21,7 @@
     "Indigo Dye": 2.69,
     "Pure Gold": 2.74,
     "Khaki Green": 2.7,
-    "Silver Blue": 2.68,
+    "Silver Blue": 2.69,
     "Desert Sand": 2.7,
     "Raspberry": 2.74,
     "Sky Blue": 2.68,
@@ -157,7 +157,7 @@
     "Grenade": 36.9,
     "Hammerhead": 43.95,
     "Hand of God": 37.0,
-    "Handset": 37.18,
+    "Handset": 36.84,
     "Hermit Shell": 510.21,
     "High Heels": 40.0,
     "Ice Pop": 120.0,
@@ -239,7 +239,7 @@
     "Totem Bear": 29.5,
     "Toy Bucket": 666.0,
     "Tree of Life": 59.0,
-    "Tribal Shield": 32.3,
+    "Tribal Shield": 32.31,
     "Trophy": 35.0,
     "Tulip": 50.9,
     "Turtle": 195.0,
@@ -257,7 +257,7 @@
   },
   "models": {
     "Black Noir": 39.78,
-    "Black Opal": 29.4066,
+    "Black Opal": 29.4168,
     "Blue Gold": 29.58,
     "Blued Steel": 40.8,
     "Candy Cane": 29.019,
@@ -265,7 +265,7 @@
     "Christmas": 31.9872,
     "Chrome": 47.94,
     "Citrine": 29.58,
-    "Clubs": 28.8456,
+    "Clubs": 30.5898,
     "Crypto Boom": 357.0,
     "Diamonds": 28.866,
     "Dirt Diamond": 39.984,
@@ -307,5 +307,5 @@
     "White Gold": 31.926,
     "Yin-Yang": 31.62
   },
-  "last_updated": 1784765725
+  "last_updated": 1784768187
 }

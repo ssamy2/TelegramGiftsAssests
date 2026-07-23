@@ -5,7 +5,7 @@
     "Electric Indigo": 2.7,
     "Raspberry": 2.74,
     "Strawberry": 2.69,
-    "Midnight Blue": 2.74,
+    "Midnight Blue": 2.77,
     "Pistachio": 2.7,
     "Pacific Green": 2.68,
     "Emerald": 2.69,
@@ -35,7 +35,7 @@
     "Battleship Grey": 2.7,
     "Lavender": 2.7,
     "Azure Blue": 2.7,
-    "Silver Blue": 2.68,
+    "Silver Blue": 2.69,
     "Cappuccino": 2.67,
     "Cobalt Blue": 2.69,
     "Copper": 2.69,
@@ -100,8 +100,8 @@
     "Chest": 400.0,
     "Cap": 390.0,
     "Sparks": 393.97,
-    "Acorn": 550.0,
     "Alkonost": 393.98,
+    "Acorn": 550.0,
     "Anchor": 850.0,
     "Apple": 750.0,
     "Arabian Horse": 650.0,
@@ -276,7 +276,7 @@
     "Seabreeze": 685.0,
     "Sepium": 392.0,
     "Shadeux": 445.0,
-    "Shadow": 393.98,
+    "Shadow": 393.99,
     "Sky High": 750.0,
     "Snowfall": 550.0,
     "Sunrise": 740.0,
@@ -285,5 +285,5 @@
     "Villager": 802.0,
     "Voltage": 900.0
   },
-  "last_updated": 1784765724
+  "last_updated": 1784768187
 }

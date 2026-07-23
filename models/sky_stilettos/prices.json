@@ -61,15 +61,15 @@
     "Ivory White": 2.89,
     "Carmine": 2.7,
     "Rosewood": 2.68,
-    "Deep Cyan": 2.7,
+    "Deep Cyan": 2.69,
     "English Violet": 2.69,
     "Grape": 2.69,
     "Aquamarine": 2.68,
     "Marine Blue": 2.7,
-    "Silver Blue": 2.68,
+    "Silver Blue": 2.69,
     "Midnight Blue": 19.38,
     "Ranger Green": 2.69,
-    "Mustard": 2.7,
+    "Mustard": 2.69,
     "Old Gold": 2.69,
     "Malachite": 2.69,
     "Mystic Pearl": 2.69,
@@ -83,7 +83,7 @@
   },
   "symbols": {},
   "models": {
-    "April": 15.7386,
+    "April": 16.0038,
     "Asmodea": 22.44,
     "Aurora": 17.34,
     "Cinderella": 40.698,
@@ -93,7 +93,7 @@
     "Crypto Queen": 55.08,
     "Diaethria": 16.932,
     "Diva": 30.6,
-    "Eooxy": 15.7488,
+    "Eooxy": 15.9936,
     "Fergie": 16.983,
     "Fluffy Cloud": 34.17,
     "Forget-Me-Not": 17.85,
@@ -120,7 +120,7 @@
     "Pixie Dust": 16.83,
     "Poison Ivy": 16.014,
     "Queen Bee": 15.759,
-    "Rebel": 15.7794,
+    "Rebel": 15.3,
     "Rendezvous": 16.83,
     "Rosaria": 15.759,
     "Rosy Moth": 18.36,
@@ -134,5 +134,5 @@
     "White Rose": 27.54,
     "Wild Cherry": 19.38
   },
-  "last_updated": 1784765725
+  "last_updated": 1784768187
 }

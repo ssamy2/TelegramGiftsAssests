@@ -19,7 +19,7 @@
     "Battleship Grey": 2.7,
     "English Violet": 2.69,
     "Cobalt Blue": 2.69,
-    "Silver Blue": 2.68,
+    "Silver Blue": 2.69,
     "Purple": 2.69,
     "Azure Blue": 2.7,
     "Chocolate": 2.69,
@@ -193,7 +193,7 @@
     "Ink Pen": 280.0,
     "Iron Helmet": 520.0,
     "Jolly Roger": 130.0,
-    "Jörmungandr": 199.0,
+    "Jörmungandr": 139.35,
     "Kitsune": 199.0,
     "Knight": 264.0,
     "Legionary": 300.0,
@@ -252,7 +252,7 @@
     "Shield": 240.0,
     "Shinto Shrine": 106.89,
     "Silver Ibis": 107.0,
-    "Skull": 219.97,
+    "Skull": 219.98,
     "Snail": 450.0,
     "Spades": 215.0,
     "Spellbook": 150.0,
@@ -315,7 +315,7 @@
     "Bleu Officier": 105.06,
     "Boulevard": 306.0,
     "Bouquet": 224.4,
-    "Burgun Bag": 105.06,
+    "Burgun Bag": 101.9694,
     "Cargo Citron": 102.102,
     "Cherry Croc": 102.0,
     "Cherry Red": 101.9592,
@@ -367,7 +367,7 @@
     "Soft Suede": 153.0,
     "Steel Agate": 153.0,
     "Studded Green": 147.9,
-    "Sunrise Bands": 107.1,
+    "Sunrise Bands": 104.04,
     "Sunset Stripes": 178.5,
     "Tangerine": 121.38,
     "Travel Bag": 306.0,
@@ -383,5 +383,5 @@
     "Glacier": 612.0,
     "Vert d’Eau": 142.8
   },
-  "last_updated": 1784765724
+  "last_updated": 1784768187
 }

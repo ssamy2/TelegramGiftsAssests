@@ -19,12 +19,12 @@
     "Lavender": 2.7,
     "French Blue": 2.68,
     "Malachite": 2.69,
-    "Silver Blue": 2.68,
+    "Silver Blue": 2.69,
     "Orange": 2.74,
     "Light Olive": 2.69,
     "Strawberry": 2.69,
     "Rifle Green": 2.69,
-    "Deep Cyan": 2.7,
+    "Deep Cyan": 2.69,
     "Ranger Green": 2.69,
     "Carmine": 2.7,
     "Gunmetal": 2.88,
@@ -76,7 +76,7 @@
     "Camo Green": 2.69,
     "Steel Grey": 2.73,
     "Lemongrass": 2.68,
-    "Mustard": 2.7,
+    "Mustard": 2.69,
     "English Violet": 2.69,
     "Black": 87.924,
     "Onyx Black": 35.7
@@ -99,7 +99,7 @@
     "Cash": 14.99,
     "Celtic Wolf": 16.85,
     "Champagne": 17.0,
-    "Chest": 25.0,
+    "Chest": 25.07,
     "Chimaev": 13.32,
     "Cicada": 15.0,
     "Coat of Arms": 34.0,
@@ -125,7 +125,7 @@
     "Flower Sun": 20.02,
     "Geisha Fan": 13.9,
     "Gem": 13.9,
-    "Genie Lamp": 14.28,
+    "Genie Lamp": 13.96,
     "Glasses": 19.33,
     "Gold": 20.0,
     "Golden Scarab": 18.0,
@@ -228,7 +228,7 @@
     "Watching Sun": 35.0,
     "Wepwawet": 14.98,
     "White Deer": 316.0,
-    "Winged Helm": 21.98,
+    "Winged Helm": 21.99,
     "Wolf Rage": 14.5,
     "Yin-Yang": 19.6,
     "Yogi Shaman": 19.0
@@ -240,7 +240,7 @@
     "Blue Glove Token": 14.28,
     "C. Oliveira": 20.3898,
     "Classic Blue": 15.9936,
-    "Classic Red": 13.2498,
+    "Classic Red": 13.566,
     "Combo Hit": 18.36,
     "Dumbbell": 13.0458,
     "Fist Bump": 13.26,
@@ -282,5 +282,5 @@
     "Gold O’Malley": 35.7,
     "S. O’Malley": 13.7598
   },
-  "last_updated": 1784765725
+  "last_updated": 1784768187
 }
