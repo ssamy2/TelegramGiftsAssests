@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Shamrock Green": 2.74,
-    "Cyberpunk": 2.79,
+    "Cyberpunk": 2.8,
     "Copper": 2.74,
     "Raspberry": 2.79,
     "Neon Blue": 2.8,
@@ -12,7 +12,7 @@
     "Khaki Green": 2.75,
     "Pacific Cyan": 2.75,
     "Light Olive": 2.75,
-    "Roman Silver": 2.8,
+    "Roman Silver": 2.74,
     "French Blue": 2.75,
     "Mystic Pearl": 2.74,
     "Azure Blue": 2.75,
@@ -43,12 +43,12 @@
     "Desert Sand": 2.73,
     "Electric Indigo": 2.77,
     "Orange": 2.74,
-    "Ivory White": 2.74,
+    "Ivory White": 2.73,
     "Mint Green": 2.76,
     "Grape": 2.81,
     "English Violet": 2.8,
     "Silver Blue": 2.8,
-    "Aquamarine": 2.75,
+    "Aquamarine": 2.73,
     "Dark Lilac": 2.74,
     "Persimmon": 2.73,
     "Jade Green": 2.75,
@@ -218,7 +218,7 @@
     "Plume": 48.0,
     "Poison Drop": 48.0,
     "Pomegranate": 55.55,
-    "Potion": 39.94,
+    "Potion": 37.67,
     "Rabbit": 80.0,
     "Ram of Amun": 39.99,
     "Rhino Warrior": 57.0,
@@ -308,5 +308,5 @@
     "Velvety": 36.516,
     "Zombie Bite": 204.0
   },
-  "last_updated": 1784848595
+  "last_updated": 1784851324
 }

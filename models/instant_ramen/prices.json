@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Cyberpunk": 2.79,
+    "Cyberpunk": 2.8,
     "Sky Blue": 2.75,
     "Dark Lilac": 2.74,
     "Desert Sand": 2.73,
@@ -8,7 +8,7 @@
     "Jade Green": 2.75,
     "Chestnut": 2.74,
     "Deep Cyan": 2.75,
-    "Tomato": 2.75,
+    "Tomato": 2.74,
     "Fire Engine": 2.79,
     "Burnt Sienna": 2.79,
     "Carmine": 2.79,
@@ -18,7 +18,7 @@
     "Mint Green": 2.76,
     "English Violet": 2.8,
     "Rosewood": 2.74,
-    "Roman Silver": 2.8,
+    "Roman Silver": 2.74,
     "French Blue": 2.75,
     "Turquoise": 2.75,
     "Gunmetal": 2.88,
@@ -59,14 +59,14 @@
     "Shamrock Green": 2.74,
     "Raspberry": 2.79,
     "Platinum": 2.79,
-    "Aquamarine": 2.75,
+    "Aquamarine": 2.73,
     "Hunter Green": 2.75,
     "Steel Grey": 2.8,
     "Orange": 2.74,
-    "Ivory White": 2.74,
+    "Ivory White": 2.73,
     "Midnight Blue": 2.856,
     "Cobalt Blue": 2.75,
-    "Marine Blue": 2.76,
+    "Marine Blue": 2.81,
     "Sapphire": 2.74,
     "Khaki Green": 2.75,
     "Silver Blue": 2.8,
@@ -110,7 +110,7 @@
     "Hotpot": 2.9682,
     "Jade Dragon": 3.6312,
     "Jelly Brain": 2.9988,
-    "Khinkali": 3.6924,
+    "Khinkali": 3.672,
     "Kraken": 3.111,
     "Mushroom": 2.8254,
     "Octopus": 2.958,
@@ -134,5 +134,5 @@
     "Topokki": 2.8458,
     "Turtle Soup": 3.3966
   },
-  "last_updated": 1784848595
+  "last_updated": 1784851324
 }

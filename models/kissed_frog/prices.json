@@ -1,8 +1,8 @@
 {
   "backdrops": {
     "Grape": 2.81,
-    "Roman Silver": 2.8,
-    "Ivory White": 2.74,
+    "Roman Silver": 2.74,
+    "Ivory White": 2.73,
     "Burgundy": 2.74,
     "Neon Blue": 2.8,
     "Moonstone": 2.74,
@@ -23,7 +23,7 @@
     "Cappuccino": 2.75,
     "Pistachio": 2.75,
     "Orange": 2.74,
-    "Aquamarine": 2.75,
+    "Aquamarine": 2.73,
     "Malachite": 2.75,
     "Chestnut": 2.74,
     "Mint Green": 2.76,
@@ -49,7 +49,7 @@
     "Electric Indigo": 2.77,
     "Pacific Cyan": 2.75,
     "Pacific Green": 2.79,
-    "Cyberpunk": 2.79,
+    "Cyberpunk": 2.8,
     "Platinum": 2.79,
     "Navy Blue": 2.74,
     "Sky Blue": 2.75,
@@ -137,7 +137,7 @@
     "Eikthyrnir": 68.0,
     "Evil Pumpkin": 777.0,
     "Eyeball": 42.0,
-    "Fenrir": 39.89,
+    "Fenrir": 39.9,
     "Fire": 40.0,
     "Fish Skeleton": 50.0,
     "Fish": 200.0,
@@ -235,9 +235,9 @@
     "Spooky Cat": 68.0,
     "Sprout": 52.5,
     "Star Crown": 66.66,
-    "Stilettos": 38.99,
+    "Stilettos": 39.89,
     "Strawberry": 45.0,
-    "Sunflower": 200.0,
+    "Sunflower": 39.9,
     "Sweets Box": 55.0,
     "Sword": 250.0,
     "Tie": 98.98,
@@ -260,7 +260,7 @@
     "Boingo": 53.3154,
     "Brewtoad": 224.4,
     "Bronze": 56.1,
-    "Brownie": 37.9746,
+    "Brownie": 61.2,
     "Count Croakula": 265.1898,
     "Cranberry": 39.8922,
     "Cupid": 86.7,
@@ -307,5 +307,5 @@
     "Void Hopper": 102.0,
     "Zodiak Croak": 173.4
   },
-  "last_updated": 1784848595
+  "last_updated": 1784851324
 }

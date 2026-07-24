@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Ivory White": 2.74,
+    "Ivory White": 2.73,
     "Mint Green": 2.76,
     "Pacific Green": 2.79,
     "French Blue": 2.75,
@@ -25,7 +25,7 @@
     "Chocolate": 2.75,
     "Strawberry": 2.75,
     "Electric Purple": 2.78,
-    "Aquamarine": 2.75,
+    "Aquamarine": 2.73,
     "Amber": 2.8,
     "Rosewood": 2.74,
     "Turquoise": 2.75,
@@ -34,7 +34,7 @@
     "Carrot Juice": 2.78,
     "Pacific Cyan": 2.75,
     "Shamrock Green": 2.74,
-    "Roman Silver": 2.8,
+    "Roman Silver": 2.74,
     "Midnight Blue": 132.6,
     "Indigo Dye": 2.79,
     "Pistachio": 2.75,
@@ -57,7 +57,7 @@
     "Fandango": 2.74,
     "Sapphire": 2.74,
     "Sky Blue": 2.75,
-    "Cyberpunk": 2.79,
+    "Cyberpunk": 2.8,
     "Black": 394.995,
     "Onyx Black": 234.6
   },
@@ -112,7 +112,7 @@
     "Aztec Totem": 449.0,
     "Banner": 150.0,
     "Battle Axe": 139.0,
-    "Beetle": 101.49,
+    "Beetle": 101.88,
     "Bishop": 149.0,
     "Black Cat": 200.0,
     "Blood Drop": 260.0,
@@ -185,7 +185,7 @@
     "Hedgehog": 298.0,
     "Heraldic Lily": 250.0,
     "Hermit Shell": 139.0,
-    "Hersir": 101.5,
+    "Hersir": 222.0,
     "High Heels": 600.0,
     "Holy Grail": 3333.0,
     "Horseshoe": 300.0,
@@ -341,7 +341,7 @@
     "Menthol": 106.794,
     "Metro Trench": 499.9938,
     "Miranda": 336.6,
-    "Money Bag": 540.6,
+    "Money Bag": 510.0,
     "Night City": 284.9982,
     "Nightmare": 234.6,
     "Ombre": 107.1,
@@ -383,5 +383,5 @@
     "Glacier": 612.0,
     "Vert d’Eau": 142.8
   },
-  "last_updated": 1784848595
+  "last_updated": 1784851324
 }

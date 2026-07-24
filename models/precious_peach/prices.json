@@ -7,7 +7,7 @@
     "Pacific Green": 2.79,
     "Copper": 2.74,
     "Sapphire": 2.74,
-    "Roman Silver": 2.8,
+    "Roman Silver": 2.74,
     "Neon Blue": 2.8,
     "Indigo Dye": 2.79,
     "Navy Blue": 2.74,
@@ -35,7 +35,7 @@
     "Azure Blue": 2.75,
     "Lemongrass": 2.75,
     "Khaki Green": 2.75,
-    "Cyberpunk": 2.79,
+    "Cyberpunk": 2.8,
     "Pine Green": 2.75,
     "Desert Sand": 2.73,
     "Light Olive": 2.75,
@@ -48,9 +48,9 @@
     "Caramel": 2.75,
     "Hunter Green": 2.75,
     "Jade Green": 2.75,
-    "Ivory White": 2.74,
+    "Ivory White": 2.73,
     "Pistachio": 2.75,
-    "Aquamarine": 2.75,
+    "Aquamarine": 2.73,
     "French Blue": 2.75,
     "Battleship Grey": 2.77,
     "Strawberry": 2.75,
@@ -262,7 +262,7 @@
     "Sharp Sword": 888.0,
     "Shield": 1100.0,
     "Shiny Heart": 1140.0,
-    "Shooting Star": 285.0,
+    "Shooting Star": 275.0,
     "Star Crown": 325.0,
     "Stilettos": 265.0,
     "Strawberry": 600.0,
@@ -281,7 +281,7 @@
     "Unicorn": 300.0,
     "Viking": 350.0,
     "Water Drops": 370.0,
-    "Watermelon": 259.86,
+    "Watermelon": 258.98,
     "White Deer": 445.0,
     "Wreath": 1270.0
   },
@@ -340,7 +340,7 @@
     "Polaris": 279.48,
     "Premium": 280.5,
     "Pure Peach": 268.2906,
-    "Pyrite": 247.86,
+    "Pyrite": 250.92,
     "Rich Green": 816.0,
     "Ripe Green": 247.35,
     "Ripe Pink": 247.299,
@@ -364,5 +364,5 @@
     "Smelting": 4100.0,
     "Blizzard": 994.9998
   },
-  "last_updated": 1784848595
+  "last_updated": 1784851324
 }
