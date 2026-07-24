@@ -1,9 +1,9 @@
 {
   "backdrops": {
-    "Ivory White": 2.76,
+    "Ivory White": 2.72,
     "Mint Green": 2.76,
     "Pacific Green": 2.8,
-    "French Blue": 2.74,
+    "French Blue": 2.78,
     "Pine Green": 2.8,
     "Desert Sand": 2.73,
     "Khaki Green": 2.76,
@@ -27,7 +27,7 @@
     "Electric Purple": 2.74,
     "Aquamarine": 2.75,
     "Amber": 2.8,
-    "Rosewood": 2.73,
+    "Rosewood": 2.72,
     "Turquoise": 2.75,
     "Electric Indigo": 2.74,
     "Cappuccino": 2.77,
@@ -50,7 +50,7 @@
     "Raspberry": 2.76,
     "Copper": 2.74,
     "Light Olive": 2.75,
-    "Persimmon": 2.7,
+    "Persimmon": 2.75,
     "Lemongrass": 2.75,
     "Pure Gold": 2.74,
     "Malachite": 2.76,
@@ -112,7 +112,7 @@
     "Aztec Totem": 449.0,
     "Banner": 150.0,
     "Battle Axe": 139.0,
-    "Beetle": 102.02,
+    "Beetle": 101.32,
     "Bishop": 149.0,
     "Black Cat": 200.0,
     "Blood Drop": 260.0,
@@ -242,7 +242,7 @@
     "Rhino Warrior": 247.0,
     "Ring": 150.0,
     "Rook": 133.0,
-    "Royal Crown": 102.03,
+    "Royal Crown": 101.33,
     "Sakura Flower": 167.0,
     "Sakura": 414.0,
     "Sauron": 300.0,
@@ -253,7 +253,7 @@
     "Shield": 240.0,
     "Shinto Shrine": 159.0,
     "Silver Ibis": 107.0,
-    "Skull": 219.97,
+    "Skull": 219.98,
     "Snail": 450.0,
     "Spades": 215.0,
     "Spellbook": 150.0,
@@ -383,5 +383,5 @@
     "Glacier": 612.0,
     "Vert d’Eau": 142.8
   },
-  "last_updated": 1784863666
+  "last_updated": 1784866127
 }

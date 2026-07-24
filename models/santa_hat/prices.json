@@ -31,7 +31,7 @@
     "Silver Blue": 2.77,
     "Copper": 2.74,
     "Raspberry": 2.76,
-    "Persimmon": 2.7,
+    "Persimmon": 2.75,
     "Electric Purple": 2.74,
     "Coral Red": 2.75,
     "Chestnut": 2.77,
@@ -52,9 +52,9 @@
     "Purple": 2.8,
     "Mint Green": 2.76,
     "Electric Indigo": 2.74,
-    "Ivory White": 2.76,
-    "Rosewood": 2.73,
-    "French Blue": 2.74,
+    "Ivory White": 2.72,
+    "Rosewood": 2.72,
+    "French Blue": 2.78,
     "Neon Blue": 2.76,
     "Satin Gold": 2.76,
     "Pure Gold": 2.74,
@@ -205,7 +205,7 @@
   "models": {
     "80s TV": 3.3456,
     "All-Star": 9.18,
-    "Aurora Borealis": 3.3048,
+    "Aurora Borealis": 3.57,
     "Below Zero": 4.6512,
     "Berry Frosty": 3.7128,
     "Black Drops": 3.978,
@@ -216,7 +216,7 @@
     "Cherry Ice": 3.7536,
     "Citrus Flakes": 3.876,
     "Cold Autumn": 3.468,
-    "Cold Limeade": 4.59,
+    "Cold Limeade": 3.57,
     "Cold Slushy": 5.1,
     "Cold Vapor": 4.9776,
     "Creamy": 20.4,
@@ -274,5 +274,5 @@
     "Yule Hat": 15.3,
     "Zesty": 5.304
   },
-  "last_updated": 1784863666
+  "last_updated": 1784866127
 }

@@ -8,7 +8,7 @@
     "Pure Gold": 2.74,
     "Deep Cyan": 2.75,
     "Cyberpunk": 2.8,
-    "Rosewood": 2.73,
+    "Rosewood": 2.72,
     "Raspberry": 2.76,
     "Platinum": 2.76,
     "Mint Green": 2.76,
@@ -24,7 +24,7 @@
     "Ranger Green": 2.73,
     "Dark Green": 2.8,
     "Hunter Green": 2.75,
-    "Persimmon": 2.7,
+    "Persimmon": 2.75,
     "Copper": 2.74,
     "Camo Green": 2.74,
     "Tomato": 2.74,
@@ -32,7 +32,7 @@
     "Neon Blue": 2.76,
     "Indigo Dye": 2.79,
     "Old Gold": 2.8,
-    "French Blue": 2.74,
+    "French Blue": 2.78,
     "Strawberry": 2.75,
     "Celtic Blue": 2.76,
     "Emerald": 2.76,
@@ -45,7 +45,7 @@
     "Battleship Grey": 2.75,
     "Caramel": 2.75,
     "Sapphire": 2.74,
-    "Seal Brown": 2.78,
+    "Seal Brown": 2.72,
     "Mustard": 2.73,
     "Purple": 2.8,
     "Fire Engine": 2.79,
@@ -58,7 +58,7 @@
     "Malachite": 2.76,
     "Coral Red": 2.75,
     "Carmine": 2.76,
-    "Ivory White": 2.76,
+    "Ivory White": 2.72,
     "Desert Sand": 2.73,
     "Dark Lilac": 2.74,
     "Sky Blue": 2.75,
@@ -340,7 +340,7 @@
     "Yogi Shaman": 3.49
   },
   "models": {
-    "3D Render": 12.24,
+    "3D Render": 11.22,
     "Baby Chick": 5.7732,
     "Baby Turtle": 4.4472,
     "Ball of Steel": 4.0086,
@@ -371,7 +371,7 @@
     "Foliage": 3.4272,
     "Free Flight": 3.3558,
     "Frosted": 3.162,
-    "Gzhel": 2.9682,
+    "Gzhel": 3.0294,
     "Ice Cream": 3.2538,
     "Jupiter": 3.7026,
     "Jurassic": 4.896,
@@ -403,5 +403,5 @@
     "Treasure Map": 3.2436,
     "Unicorn": 12.24
   },
-  "last_updated": 1784863666
+  "last_updated": 1784866127
 }

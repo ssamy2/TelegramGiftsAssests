@@ -2,13 +2,13 @@
   "backdrops": {
     "Grape": 2.75,
     "Roman Silver": 2.74,
-    "Ivory White": 2.76,
+    "Ivory White": 2.72,
     "Burgundy": 2.74,
     "Neon Blue": 2.76,
     "Moonstone": 2.74,
     "Midnight Blue": 102.0,
     "Strawberry": 2.75,
-    "Persimmon": 2.7,
+    "Persimmon": 2.75,
     "Copper": 2.74,
     "Amber": 2.8,
     "Hunter Green": 2.75,
@@ -18,7 +18,7 @@
     "Sapphire": 2.74,
     "Coral Red": 2.75,
     "Light Olive": 2.75,
-    "French Blue": 2.74,
+    "French Blue": 2.78,
     "Jade Green": 2.75,
     "Cappuccino": 2.77,
     "Pistachio": 2.73,
@@ -53,7 +53,7 @@
     "Platinum": 2.76,
     "Navy Blue": 2.79,
     "Sky Blue": 2.75,
-    "Rosewood": 2.73,
+    "Rosewood": 2.72,
     "Cobalt Blue": 2.76,
     "Silver Blue": 2.77,
     "Indigo Dye": 2.79,
@@ -192,7 +192,7 @@
     "Manta Ray": 89.0,
     "Melon": 70.0,
     "Monstera": 45.0,
-    "Moon Cross": 235.93,
+    "Moon Cross": 235.94,
     "Moon": 80.0,
     "Napkins": 50.0,
     "Nice Ghost": 400.0,
@@ -267,7 +267,7 @@
     "Desert Frog": 51.0,
     "Duskhopper": 67.32,
     "Ectobloom": 45.8898,
-    "Ectofrog": 54.9984,
+    "Ectofrog": 51.0,
     "Frogmaid": 511.02,
     "Frogtart": 39.78,
     "Frogwave": 61.2,
@@ -307,5 +307,5 @@
     "Void Hopper": 102.0,
     "Zodiak Croak": 173.4
   },
-  "last_updated": 1784863666
+  "last_updated": 1784866127
 }

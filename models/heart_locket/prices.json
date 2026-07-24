@@ -1,14 +1,14 @@
 {
   "backdrops": {
     "French Violet": 2.8,
-    "Persimmon": 2.7,
+    "Persimmon": 2.75,
     "Grape": 2.75,
     "Gunmetal": 2.88,
     "Electric Purple": 2.74,
     "Indigo Dye": 2.79,
-    "French Blue": 2.74,
+    "French Blue": 2.78,
     "Chocolate": 2.79,
-    "Ivory White": 2.76,
+    "Ivory White": 2.72,
     "Orange": 2.79,
     "Strawberry": 2.75,
     "Navy Blue": 2.79,
@@ -55,9 +55,9 @@
     "Shamrock Green": 2.73,
     "Desert Sand": 2.73,
     "Camo Green": 2.74,
-    "Rosewood": 2.73,
+    "Rosewood": 2.72,
     "Hunter Green": 2.75,
-    "Seal Brown": 2.78,
+    "Seal Brown": 2.72,
     "Jade Green": 2.75,
     "Copper": 2.74,
     "Pacific Cyan": 2.75,
@@ -230,7 +230,7 @@
     "Matryoshka": 2050.0,
     "Mecha Love": 1999.0,
     "Mercury": 2750.0,
-    "Nightclub": 950.6298,
+    "Nightclub": 940.542,
     "Ocean Star": 2266.44,
     "Pepperoni": 1122.0,
     "Queen Bee": 1269.9,
@@ -243,7 +243,7 @@
     "Shield of Sun": 3200.0,
     "Soulkeeper": 1530.0,
     "Synthwave": 1149.999,
-    "Toy Joy": 950.6298,
+    "Toy Joy": 940.542,
     "Trapped Heart": 2500.0,
     "Valentine": 5098.98,
     "Venus": 1100.0,
@@ -264,5 +264,5 @@
     "Stone Flower": 5098.98,
     "Emocore": 1989.0
   },
-  "last_updated": 1784863666
+  "last_updated": 1784866127
 }
