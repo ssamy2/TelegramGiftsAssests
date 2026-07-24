@@ -14,13 +14,13 @@
     "Steel Grey": 2.8,
     "Platinum": 2.79,
     "Moonstone": 2.74,
-    "Lavender": 2.79,
+    "Lavender": 2.8,
     "Shamrock Green": 2.74,
     "Persimmon": 2.73,
     "Carrot Juice": 2.78,
     "Dark Lilac": 2.74,
     "Amber": 2.8,
-    "Electric Purple": 2.78,
+    "Electric Purple": 2.8,
     "English Violet": 2.8,
     "Turquoise": 2.75,
     "Orange": 2.79,
@@ -39,7 +39,7 @@
     "Pine Green": 2.8,
     "Desert Sand": 2.73,
     "Light Olive": 2.75,
-    "Malachite": 2.7,
+    "Malachite": 2.78,
     "Pure Gold": 2.74,
     "Fandango": 2.74,
     "Mystic Pearl": 2.8,
@@ -51,8 +51,8 @@
     "Ivory White": 2.76,
     "Pistachio": 2.76,
     "Aquamarine": 2.75,
-    "French Blue": 2.78,
-    "Battleship Grey": 2.77,
+    "French Blue": 2.74,
+    "Battleship Grey": 2.8,
     "Strawberry": 2.75,
     "Mint Green": 2.76,
     "Burgundy": 2.74,
@@ -364,5 +364,5 @@
     "Smelting": 4100.0,
     "Blizzard": 994.9998
   },
-  "last_updated": 1784853797
+  "last_updated": 1784856268
 }

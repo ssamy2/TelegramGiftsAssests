@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Fandango": 2.74,
-    "Battleship Grey": 2.77,
+    "Battleship Grey": 2.8,
     "Azure Blue": 2.75,
     "Cobalt Blue": 2.8,
     "Chocolate": 2.79,
@@ -20,7 +20,7 @@
     "Pacific Cyan": 2.8,
     "Emerald": 2.76,
     "Lemongrass": 2.75,
-    "Desert Sand": 2.73,
+    "Desert Sand": 2.75,
     "Silver Blue": 2.8,
     "Electric Indigo": 2.79,
     "Ivory White": 2.76,
@@ -44,15 +44,15 @@
     "Orange": 2.79,
     "Pure Gold": 2.74,
     "Turquoise": 2.75,
-    "Electric Purple": 2.78,
-    "Malachite": 2.7,
+    "Electric Purple": 2.8,
+    "Malachite": 2.78,
     "Platinum": 2.79,
     "Navy Blue": 2.79,
-    "Lavender": 2.79,
+    "Lavender": 2.8,
     "Rosewood": 2.74,
     "Pistachio": 2.76,
     "Aquamarine": 2.75,
-    "French Blue": 2.78,
+    "French Blue": 2.74,
     "Satin Gold": 2.79,
     "Mystic Pearl": 2.8,
     "Dark Lilac": 2.74,
@@ -97,7 +97,7 @@
     "Conch": 9.0,
     "Cone": 9.0,
     "Corn": 5.5,
-    "Croissant": 7.99,
+    "Croissant": 7.95,
     "Crow": 4.5,
     "Crown": 5.3,
     "Crystal Ball": 4.99,
@@ -131,7 +131,7 @@
     "Happy Smile": 4.5,
     "Heart": 5.18,
     "Hedgehog": 8.0,
-    "Hippo": 9.99,
+    "Hippo": 9.98,
     "Human Scull": 5.0,
     "Ice Pop": 8.0,
     "Illuminati": 5.0,
@@ -303,5 +303,5 @@
     "Young Witch": 4.3962,
     "Cat’s Grasp": 4.3758
   },
-  "last_updated": 1784853797
+  "last_updated": 1784856268
 }

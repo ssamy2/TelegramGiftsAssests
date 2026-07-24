@@ -32,13 +32,13 @@
     "Chestnut": 2.77,
     "Fandango": 2.74,
     "Khaki Green": 2.8,
-    "Malachite": 2.7,
+    "Malachite": 2.78,
     "Pacific Green": 2.79,
-    "Battleship Grey": 2.77,
+    "Battleship Grey": 2.8,
     "Aquamarine": 2.75,
     "Light Olive": 2.75,
     "Azure Blue": 2.75,
-    "Electric Purple": 2.78,
+    "Electric Purple": 2.8,
     "Dark Lilac": 2.74,
     "Roman Silver": 2.74,
     "Emerald": 2.76,
@@ -53,11 +53,11 @@
     "Hunter Green": 2.75,
     "Coral Red": 2.75,
     "Sky Blue": 2.75,
-    "Lavender": 2.79,
+    "Lavender": 2.8,
     "English Violet": 2.8,
     "Shamrock Green": 2.74,
     "Pacific Cyan": 2.8,
-    "French Blue": 2.78,
+    "French Blue": 2.74,
     "Black": 43.35,
     "Onyx Black": 14.994
   },
@@ -176,7 +176,7 @@
     "Snowflake": 7.43,
     "Snowman": 7.95,
     "Sparks": 14.0,
-    "Spider Web": 350.0,
+    "Spider Web": 300.0,
     "Spirit Impala": 14.0,
     "Star": 10.0,
     "Stocking": 9.0,
@@ -300,5 +300,5 @@
     "Zero Gravity": 11.7606,
     "Сarambola": 9.6084
   },
-  "last_updated": 1784853797
+  "last_updated": 1784856268
 }

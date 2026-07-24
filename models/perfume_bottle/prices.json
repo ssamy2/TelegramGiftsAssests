@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Midnight Blue": 76.5,
-    "Lavender": 2.79,
+    "Lavender": 2.8,
     "Pistachio": 2.76,
     "English Violet": 2.8,
     "Roman Silver": 2.74,
@@ -9,7 +9,7 @@
     "Jade Green": 2.75,
     "Hunter Green": 2.75,
     "Platinum": 2.79,
-    "Malachite": 2.7,
+    "Malachite": 2.78,
     "Cobalt Blue": 2.8,
     "Cyberpunk": 2.8,
     "Dark Lilac": 2.74,
@@ -19,7 +19,7 @@
     "Moonstone": 2.74,
     "Copper": 2.74,
     "Grape": 2.81,
-    "French Blue": 2.78,
+    "French Blue": 2.74,
     "Pure Gold": 2.74,
     "Strawberry": 2.75,
     "Persimmon": 2.73,
@@ -30,13 +30,13 @@
     "Raspberry": 2.79,
     "Caramel": 2.75,
     "Cappuccino": 2.79,
-    "Electric Purple": 2.78,
+    "Electric Purple": 2.8,
     "Amber": 2.8,
     "Mystic Pearl": 2.8,
     "Orange": 2.79,
     "Neon Blue": 2.8,
     "Pacific Green": 2.79,
-    "Battleship Grey": 2.77,
+    "Battleship Grey": 2.8,
     "Emerald": 2.76,
     "Azure Blue": 2.75,
     "Rosewood": 2.74,
@@ -170,7 +170,7 @@
     "Diamonds": 74.0,
     "Double Bed": 95.0,
     "Eggplant": 125.0,
-    "Eikthyrnir": 80.0,
+    "Eikthyrnir": 79.99,
     "Elephant": 130.0,
     "Fire": 500.0,
     "Firebird": 139.0,
@@ -328,5 +328,5 @@
     "Flame Kiss": 1000.0,
     "Prism Bubble": 204.0
   },
-  "last_updated": 1784853797
+  "last_updated": 1784856268
 }

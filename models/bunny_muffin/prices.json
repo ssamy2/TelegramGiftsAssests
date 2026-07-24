@@ -2,8 +2,8 @@
   "backdrops": {
     "Chocolate": 2.79,
     "Pistachio": 2.76,
-    "Electric Purple": 2.78,
-    "Battleship Grey": 2.77,
+    "Electric Purple": 2.8,
+    "Battleship Grey": 2.8,
     "Emerald": 2.76,
     "Mystic Pearl": 2.8,
     "Pacific Cyan": 2.8,
@@ -22,7 +22,7 @@
     "Amber": 2.8,
     "Carrot Juice": 2.78,
     "Silver Blue": 2.8,
-    "French Blue": 2.78,
+    "French Blue": 2.74,
     "Electric Indigo": 2.79,
     "Sapphire": 2.74,
     "Sky Blue": 2.75,
@@ -54,9 +54,9 @@
     "Strawberry": 2.75,
     "Azure Blue": 2.75,
     "Cobalt Blue": 2.8,
-    "Malachite": 2.7,
+    "Malachite": 2.78,
     "Raspberry": 2.79,
-    "Lavender": 2.79,
+    "Lavender": 2.8,
     "Moonstone": 2.74,
     "Black": 23.2458,
     "Onyx Black": 8.976
@@ -325,7 +325,7 @@
     "Photonegative": 20.4,
     "Pink Bow": 8.874,
     "Red Alert": 9.18,
-    "Refreshing": 6.2016,
+    "Refreshing": 6.3036,
     "Sea Cruise": 6.63,
     "Shiba Inu": 18.36,
     "Silent Film": 11.3322,
@@ -355,5 +355,5 @@
     "Сhamomile": 6.6198,
     "Grandma’s Pie": 9.18
   },
-  "last_updated": 1784853797
+  "last_updated": 1784856268
 }

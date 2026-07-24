@@ -1,7 +1,7 @@
 {
   "backdrops": {
-    "Lavender": 2.79,
-    "Electric Purple": 2.78,
+    "Lavender": 2.8,
+    "Electric Purple": 2.8,
     "Light Olive": 2.75,
     "Mystic Pearl": 2.8,
     "English Violet": 2.8,
@@ -40,8 +40,8 @@
     "Fandango": 2.74,
     "Cobalt Blue": 2.8,
     "Chocolate": 2.79,
-    "French Blue": 2.78,
-    "Battleship Grey": 2.77,
+    "French Blue": 2.74,
+    "Battleship Grey": 2.8,
     "Dark Lilac": 2.74,
     "Chestnut": 2.77,
     "Aquamarine": 2.75,
@@ -50,7 +50,7 @@
     "Strawberry": 2.75,
     "Copper": 2.74,
     "Roman Silver": 2.74,
-    "Malachite": 2.7,
+    "Malachite": 2.78,
     "Persimmon": 2.73,
     "Amber": 2.8,
     "Khaki Green": 2.8,
@@ -150,7 +150,7 @@
     "Narcissus": 14.99,
     "Nice Ghost": 12.0,
     "Night Bats": 10.2,
-    "Oak Leaf": 17.05,
+    "Oak Leaf": 16.65,
     "Okami Wolf": 19.4,
     "Oxen of Fire": 20.0,
     "Palette": 12.0,
@@ -228,7 +228,7 @@
     "Red Rotation": 14.28,
     "RGB Branch": 12.24,
     "Rosy Rocket": 10.1694,
-    "Santa's Stick": 20.0,
+    "Santa's Stick": 14.0,
     "Scribbler": 9.18,
     "Sleep Sweeper": 12.9132,
     "Slime Time": 10.2,
@@ -246,5 +246,5 @@
     "Zippy Hearts": 19.38,
     "Santa’s Stick": 9.996
   },
-  "last_updated": 1784853797
+  "last_updated": 1784856268
 }

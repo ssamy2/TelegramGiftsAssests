@@ -2,7 +2,7 @@
   "backdrops": {
     "Lemongrass": 2.75,
     "Turquoise": 2.75,
-    "Malachite": 2.7,
+    "Malachite": 2.78,
     "Burgundy": 2.74,
     "Chestnut": 2.77,
     "Cyberpunk": 2.8,
@@ -11,7 +11,7 @@
     "Mystic Pearl": 2.8,
     "Grape": 2.81,
     "Cobalt Blue": 2.8,
-    "Lavender": 2.79,
+    "Lavender": 2.8,
     "Fandango": 2.74,
     "Azure Blue": 2.75,
     "Jade Green": 2.75,
@@ -22,7 +22,7 @@
     "Shamrock Green": 2.74,
     "Pacific Cyan": 2.8,
     "Platinum": 2.79,
-    "Battleship Grey": 2.77,
+    "Battleship Grey": 2.8,
     "Steel Grey": 2.8,
     "Pistachio": 2.76,
     "Satin Gold": 2.79,
@@ -30,7 +30,7 @@
     "Ivory White": 2.76,
     "Dark Lilac": 2.74,
     "Sapphire": 2.74,
-    "French Blue": 2.78,
+    "French Blue": 2.74,
     "Desert Sand": 2.73,
     "Pacific Green": 2.79,
     "Carrot Juice": 2.78,
@@ -43,7 +43,7 @@
     "Amber": 2.8,
     "English Violet": 2.8,
     "Mint Green": 2.76,
-    "Electric Purple": 2.78,
+    "Electric Purple": 2.8,
     "Hunter Green": 2.75,
     "Khaki Green": 2.8,
     "Sky Blue": 2.75,
@@ -83,7 +83,7 @@
     "Alkonost": 55.0,
     "Amour Scoops": 24.9,
     "Apple": 26.0,
-    "Aubergine": 24.44,
+    "Aubergine": 21.78,
     "Axe": 21.79,
     "Bandage": 23.9,
     "Bee": 28.9,
@@ -301,5 +301,5 @@
     "Vivid Prize": 36.72,
     "Winter": 23.001
   },
-  "last_updated": 1784853797
+  "last_updated": 1784856268
 }

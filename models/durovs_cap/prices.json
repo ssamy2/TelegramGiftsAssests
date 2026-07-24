@@ -11,7 +11,7 @@
     "Emerald": 2.76,
     "Roman Silver": 2.74,
     "Chestnut": 2.77,
-    "Malachite": 2.7,
+    "Malachite": 2.78,
     "Ivory White": 2.76,
     "Steel Grey": 2.8,
     "Light Olive": 2.75,
@@ -19,7 +19,7 @@
     "Shamrock Green": 2.74,
     "Dark Lilac": 2.74,
     "Purple": 2.8,
-    "French Blue": 2.78,
+    "French Blue": 2.74,
     "Fandango": 2.74,
     "Grape": 2.81,
     "Rosewood": 2.74,
@@ -32,8 +32,8 @@
     "Amber": 2.8,
     "Indigo Dye": 2.79,
     "Moonstone": 2.74,
-    "Battleship Grey": 2.77,
-    "Lavender": 2.79,
+    "Battleship Grey": 2.8,
+    "Lavender": 2.8,
     "Azure Blue": 2.75,
     "Silver Blue": 2.8,
     "Cappuccino": 2.79,
@@ -43,7 +43,7 @@
     "Mystic Pearl": 2.8,
     "Aquamarine": 2.75,
     "Orange": 2.79,
-    "Electric Purple": 2.78,
+    "Electric Purple": 2.8,
     "Satin Gold": 2.79,
     "English Violet": 2.8,
     "Hunter Green": 2.75,
@@ -285,5 +285,5 @@
     "Villager": 429.0,
     "Voltage": 900.0
   },
-  "last_updated": 1784853797
+  "last_updated": 1784856268
 }
