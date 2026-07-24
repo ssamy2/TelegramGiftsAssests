@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Chestnut": 2.73,
+    "Chestnut": 2.77,
     "Electric Indigo": 2.74,
     "Sky Blue": 2.75,
     "Cappuccino": 2.8,
@@ -8,10 +8,10 @@
     "Copper": 2.74,
     "Sapphire": 2.74,
     "Roman Silver": 2.74,
-    "Neon Blue": 2.79,
+    "Neon Blue": 2.78,
     "Indigo Dye": 2.73,
     "Navy Blue": 2.79,
-    "Steel Grey": 2.76,
+    "Steel Grey": 2.78,
     "Platinum": 2.73,
     "Moonstone": 2.74,
     "Lavender": 2.79,
@@ -40,8 +40,8 @@
     "Desert Sand": 2.73,
     "Light Olive": 2.75,
     "Malachite": 2.73,
-    "Pure Gold": 2.74,
-    "Fandango": 2.73,
+    "Pure Gold": 2.75,
+    "Fandango": 2.74,
     "Mystic Pearl": 2.8,
     "Raspberry": 2.76,
     "Silver Blue": 2.8,
@@ -227,7 +227,7 @@
     "Mannaz Rune": 1053.0,
     "Maple": 525.0,
     "Melon": 265.0,
-    "Monstera": 259.85,
+    "Monstera": 258.97,
     "Moon Eagle": 246.0,
     "Moon": 600.0,
     "Mountain Lion": 349.0,
@@ -353,7 +353,7 @@
     "Soap Bubble": 408.0,
     "Soft Sunset": 249.9,
     "Spoiled": 450.0,
-    "Stardust": 270.3,
+    "Stardust": 260.1,
     "Sunset": 249.9,
     "Terra Firma": 349.86,
     "Tonfruit": 306.0,
@@ -364,5 +364,5 @@
     "Smelting": 4100.0,
     "Blizzard": 994.9998
   },
-  "last_updated": 1784878593
+  "last_updated": 1784881067
 }

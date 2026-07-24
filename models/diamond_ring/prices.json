@@ -2,12 +2,12 @@
   "backdrops": {
     "Lemongrass": 2.75,
     "Mystic Pearl": 2.8,
-    "Steel Grey": 2.76,
+    "Steel Grey": 2.78,
     "Hunter Green": 2.75,
     "Moonstone": 2.74,
     "Orange": 2.81,
     "Roman Silver": 2.74,
-    "Chestnut": 2.73,
+    "Chestnut": 2.77,
     "Pacific Green": 2.8,
     "Pine Green": 2.8,
     "English Violet": 2.75,
@@ -29,7 +29,7 @@
     "Light Olive": 2.75,
     "Cappuccino": 2.8,
     "Persimmon": 2.75,
-    "Neon Blue": 2.79,
+    "Neon Blue": 2.78,
     "Pistachio": 2.76,
     "Khaki Green": 2.74,
     "Purple": 2.74,
@@ -43,7 +43,7 @@
     "Desert Sand": 2.73,
     "Strawberry": 2.75,
     "Electric Purple": 2.74,
-    "Fandango": 2.73,
+    "Fandango": 2.74,
     "Burgundy": 2.74,
     "Electric Indigo": 2.74,
     "Grape": 2.75,
@@ -56,7 +56,7 @@
     "Navy Blue": 2.79,
     "French Blue": 2.78,
     "Cobalt Blue": 2.73,
-    "Pure Gold": 2.74,
+    "Pure Gold": 2.75,
     "Satin Gold": 2.76,
     "Black": 105.06,
     "Onyx Black": 51.0
@@ -375,8 +375,8 @@
     "Bronze Heart": 28.56,
     "Bubble Burst": 39.78,
     "Canary": 27.336,
-    "Champagne": 25.9284,
-    "Citrus Shift": 28.968,
+    "Champagne": 27.54,
+    "Citrus Shift": 25.959,
     "Clam Shell": 27.336,
     "Cobalt Rose": 39.78,
     "Cold Desire": 29.4474,
@@ -458,5 +458,5 @@
     "Water Lily": 28.356,
     "Whirlpool": 30.6
   },
-  "last_updated": 1784878593
+  "last_updated": 1784881067
 }
