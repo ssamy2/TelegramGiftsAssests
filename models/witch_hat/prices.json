@@ -20,8 +20,8 @@
     "Pacific Cyan": 2.75,
     "Emerald": 2.76,
     "Lemongrass": 2.75,
-    "Desert Sand": 2.73,
-    "Silver Blue": 2.77,
+    "Desert Sand": 2.75,
+    "Silver Blue": 2.8,
     "Electric Indigo": 2.74,
     "Ivory White": 2.76,
     "Indigo Dye": 2.79,
@@ -49,14 +49,14 @@
     "Platinum": 2.76,
     "Navy Blue": 2.79,
     "Lavender": 2.8,
-    "Rosewood": 2.73,
+    "Rosewood": 2.7,
     "Pistachio": 2.73,
     "Aquamarine": 2.75,
-    "French Blue": 2.78,
+    "French Blue": 2.74,
     "Satin Gold": 2.76,
     "Mystic Pearl": 2.8,
     "Dark Lilac": 2.74,
-    "Shamrock Green": 2.73,
+    "Shamrock Green": 2.74,
     "Raspberry": 2.76,
     "Black": 33.66,
     "Onyx Black": 9.18
@@ -97,7 +97,7 @@
     "Conch": 9.0,
     "Cone": 9.0,
     "Corn": 5.5,
-    "Croissant": 7.81,
+    "Croissant": 7.82,
     "Crow": 4.5,
     "Crown": 5.3,
     "Crystal Ball": 4.99,
@@ -131,7 +131,7 @@
     "Happy Smile": 4.5,
     "Heart": 5.18,
     "Hedgehog": 8.0,
-    "Hippo": 9.98,
+    "Hippo": 9.99,
     "Human Scull": 5.0,
     "Ice Pop": 8.0,
     "Illuminati": 5.0,
@@ -303,5 +303,5 @@
     "Young Witch": 4.3962,
     "Cat’s Grasp": 4.3758
   },
-  "last_updated": 1784868580
+  "last_updated": 1784871040
 }
