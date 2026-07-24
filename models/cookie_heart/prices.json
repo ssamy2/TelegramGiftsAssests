@@ -1,11 +1,11 @@
 {
   "backdrops": {
-    "Caramel": 2.75,
+    "Caramel": 2.73,
     "Raspberry": 2.76,
     "Light Olive": 2.75,
     "Pacific Green": 2.8,
     "Orange": 2.79,
-    "Malachite": 2.76,
+    "Malachite": 2.78,
     "Indigo Dye": 2.79,
     "English Violet": 2.75,
     "Pistachio": 2.73,
@@ -14,7 +14,7 @@
     "Persimmon": 2.75,
     "Khaki Green": 2.76,
     "Platinum": 2.76,
-    "Cappuccino": 2.77,
+    "Cappuccino": 2.79,
     "French Blue": 2.78,
     "Lemongrass": 2.75,
     "Midnight Blue": 4.386,
@@ -31,7 +31,7 @@
     "Turquoise": 2.75,
     "Steel Grey": 2.76,
     "Burgundy": 2.74,
-    "Neon Blue": 2.76,
+    "Neon Blue": 2.8,
     "Desert Sand": 2.73,
     "Mint Green": 2.76,
     "Grape": 2.75,
@@ -48,7 +48,7 @@
     "Copper": 2.74,
     "Fandango": 2.73,
     "Coral Red": 2.75,
-    "Ivory White": 2.72,
+    "Ivory White": 2.76,
     "Pure Gold": 2.74,
     "Electric Indigo": 2.74,
     "Battleship Grey": 2.75,
@@ -57,7 +57,7 @@
     "Cyberpunk": 2.8,
     "Purple": 2.8,
     "Satin Gold": 2.76,
-    "Rosewood": 2.72,
+    "Rosewood": 2.73,
     "Black": 21.522,
     "Onyx Black": 6.2526
   },
@@ -384,7 +384,7 @@
     "The Triangle": 4.0698,
     "The Umbrella": 4.59,
     "Toasted": 4.386,
-    "Toffee": 4.08,
+    "Toffee": 4.386,
     "Ultra Pink": 4.386,
     "Valentine": 5.7936,
     "Vanilla": 4.59,
@@ -394,5 +394,5 @@
     "Yamete Kudasai": 35.7,
     "Cupid’s Arrow": 4.4778
   },
-  "last_updated": 1784866127
+  "last_updated": 1784868580
 }
