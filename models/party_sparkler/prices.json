@@ -70,7 +70,7 @@
     "Bishop": 6.4,
     "Bottle": 3.75,
     "Bow Tie": 3.44,
-    "Bowtie": 3.5,
+    "Bowtie": 3.26,
     "Brain": 3.4,
     "Bread": 8.0,
     "Bubble Tea": 4.0,
@@ -93,11 +93,11 @@
     "Coin": 5.5,
     "Conch": 5.09,
     "Cookie": 3.4,
-    "Crusader": 4.4,
+    "Crusader": 3.26,
     "Cupcake": 3.4,
     "Dessert": 3.3,
     "Diamonds": 3.75,
-    "Drug": 4.9,
+    "Drug": 3.26,
     "Eagle": 3.69,
     "Eggplant": 3.3,
     "Eikthyrnir": 3.66,
@@ -155,7 +155,7 @@
     "Ornament": 3.9,
     "Paw": 3.48,
     "Phoenix": 3.45,
-    "Piggy Bank": 3.79,
+    "Piggy Bank": 3.24,
     "Pizza Slice": 3.3,
     "Plum": 6.99,
     "Plume": 3.5,
@@ -185,7 +185,7 @@
     "Stocking": 3.8,
     "Strawberry": 3.99,
     "Sumerian Bird": 3.69,
-    "Sun Lion": 4.3,
+    "Sun Lion": 3.26,
     "Sunflower": 4.5,
     "Toilet": 4.0,
     "Toy Bucket": 7.0,
@@ -196,7 +196,7 @@
     "Vortex": 7.0,
     "Watermelon": 3.5,
     "White Deer": 3.99,
-    "Winter House": 3.58,
+    "Winter House": 3.26,
     "Wolf Rage": 7.0
   },
   "models": {
@@ -270,7 +270,7 @@
     "Phosphor": 4.386,
     "Pika Pika": 5.3958,
     "Pink Pocky": 4.541346,
-    "Polychrome": 6.936,
+    "Polychrome": 6.12,
     "Power Line": 7.1298,
     "Premium": 9.18,
     "Privacy": 6.1098,
@@ -301,5 +301,5 @@
     "Windy Day": 5.1,
     "Yoshi Green": 3.927
   },
-  "last_updated": 1784858748
+  "last_updated": 1784861206
 }
