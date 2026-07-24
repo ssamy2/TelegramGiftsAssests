@@ -2,7 +2,7 @@
   "backdrops": {
     "Burgundy": 2.74,
     "Chestnut": 2.77,
-    "English Violet": 2.8,
+    "English Violet": 2.75,
     "Sapphire": 2.74,
     "Grape": 2.75,
     "Platinum": 2.76,
@@ -11,7 +11,7 @@
     "Shamrock Green": 2.73,
     "Purple": 2.8,
     "Navy Blue": 2.79,
-    "Cappuccino": 2.79,
+    "Cappuccino": 2.77,
     "Azure Blue": 2.75,
     "Jade Green": 2.75,
     "Raspberry": 2.76,
@@ -19,7 +19,7 @@
     "Copper": 2.74,
     "Moonstone": 2.74,
     "Dark Lilac": 2.74,
-    "Silver Blue": 2.8,
+    "Silver Blue": 2.77,
     "Pacific Cyan": 2.75,
     "Desert Sand": 2.73,
     "Electric Purple": 2.74,
@@ -53,7 +53,7 @@
     "Pacific Green": 2.8,
     "Mint Green": 2.76,
     "Pure Gold": 2.74,
-    "Persimmon": 2.79,
+    "Persimmon": 2.7,
     "Turquoise": 2.75,
     "Amber": 2.8,
     "Mystic Pearl": 2.8,
@@ -130,7 +130,7 @@
     "Cupid": 16.25,
     "Cupid’s Arrow": 13.0,
     "Cursor": 17.5,
-    "Cute Bear": 17.34,
+    "Cute Bear": 17.33,
     "Dessert": 15.09,
     "Diamond": 10.0,
     "Diamonds": 20.0,
@@ -163,7 +163,7 @@
     "Grim Reaper": 17.5,
     "Half Moon": 13.0,
     "Hamburger": 49.0,
-    "Happy Smile": 10.39,
+    "Happy Smile": 10.38,
     "Heart Balloon": 18.0,
     "Heart Shades": 10.0,
     "Heart": 13.99,
@@ -338,5 +338,5 @@
     "White Rose": 8.8842,
     "Wreath": 8.7516
   },
-  "last_updated": 1784861206
+  "last_updated": 1784863666
 }

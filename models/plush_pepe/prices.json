@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Black": 81700.0,
-    "English Violet": 2.8,
+    "English Violet": 2.75,
     "Pacific Green": 2.8,
     "Chestnut": 2.77,
     "Electric Indigo": 2.74,
@@ -44,17 +44,17 @@
     "Emerald": 2.76,
     "Malachite": 2.76,
     "Turquoise": 2.75,
-    "Silver Blue": 2.8,
+    "Silver Blue": 2.77,
     "Roman Silver": 2.74,
     "Moonstone": 2.74,
     "Light Olive": 2.75,
     "Navy Blue": 2.79,
     "Mystic Pearl": 2.8,
     "Carrot Juice": 2.75,
-    "Cappuccino": 2.79,
+    "Cappuccino": 2.77,
     "Dark Lilac": 2.74,
     "Azure Blue": 2.75,
-    "Persimmon": 2.79,
+    "Persimmon": 2.7,
     "Chocolate": 2.79,
     "Pistachio": 2.73,
     "Ivory White": 2.76,
@@ -218,5 +218,5 @@
     "Yellow Purp": 7700.0,
     "Hothead": 10200.0
   },
-  "last_updated": 1784861206
+  "last_updated": 1784863666
 }

@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Roman Silver": 2.74,
-    "Cappuccino": 2.79,
+    "Cappuccino": 2.77,
     "Desert Sand": 2.73,
     "Battleship Grey": 2.75,
     "Aquamarine": 2.75,
@@ -20,7 +20,7 @@
     "Strawberry": 2.75,
     "Indigo Dye": 2.79,
     "Mystic Pearl": 2.8,
-    "Persimmon": 2.79,
+    "Persimmon": 2.7,
     "Steel Grey": 2.76,
     "Shamrock Green": 2.73,
     "Malachite": 2.76,
@@ -29,7 +29,7 @@
     "Purple": 2.8,
     "Navy Blue": 2.79,
     "Azure Blue": 2.75,
-    "English Violet": 2.8,
+    "English Violet": 2.75,
     "Pacific Green": 2.8,
     "Caramel": 2.75,
     "Light Olive": 2.75,
@@ -50,7 +50,7 @@
     "Copper": 2.74,
     "Burgundy": 2.74,
     "Sapphire": 2.74,
-    "Silver Blue": 2.8,
+    "Silver Blue": 2.77,
     "Hunter Green": 2.75,
     "Grape": 2.75,
     "Amber": 2.8,
@@ -143,7 +143,7 @@
     "Moon": 4.74,
     "Moose Head": 20.0,
     "Mountain Goat": 6.03,
-    "Mountain Lion": 7.98,
+    "Mountain Lion": 4.32,
     "Mushroom": 6.0,
     "Nice Ghost": 4.96,
     "Night Bats": 5.0,
@@ -156,7 +156,7 @@
     "Pencil": 5.2,
     "Piggy Bank": 4.8,
     "Planet": 8.4,
-    "Plum": 10.0,
+    "Plum": 4.3,
     "Poison Drop": 5.36,
     "Polar Bear": 7.29,
     "Pomegranate": 5.9,
@@ -165,7 +165,7 @@
     "Ring": 5.58,
     "Sakura": 7.0,
     "Sauron": 5.0,
-    "Scarecrow": 4.32,
+    "Scarecrow": 4.38,
     "Scissors": 4.79,
     "Seahorse": 8.97,
     "Severed Hand": 5.0,
@@ -209,7 +209,7 @@
     "Bliss": 5.0898,
     "Blooming Cap": 16.2894,
     "Camo": 4.4676,
-    "Cheeto": 4.488,
+    "Cheeto": 4.151196,
     "Cherry Drop": 4.998,
     "Cloudy Night": 8.16,
     "Cloudy": 4.6716,
@@ -285,5 +285,5 @@
     "Wizard Cap": 4.743,
     "Zebra Cap": 4.5798
   },
-  "last_updated": 1784861206
+  "last_updated": 1784863666
 }

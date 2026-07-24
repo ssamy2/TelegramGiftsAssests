@@ -1,12 +1,12 @@
 {
   "backdrops": {
-    "Silver Blue": 2.8,
+    "Silver Blue": 2.77,
     "Fandango": 2.73,
-    "English Violet": 2.8,
+    "English Violet": 2.75,
     "Celtic Blue": 2.76,
     "Satin Gold": 2.76,
     "Feldgrau": 2.76,
-    "Persimmon": 2.79,
+    "Persimmon": 2.7,
     "Coral Red": 2.75,
     "Carrot Juice": 2.75,
     "Orange": 2.79,
@@ -55,8 +55,8 @@
     "Mexican Pink": 2.81,
     "Gunmetal": 2.88,
     "Mustard": 2.73,
-    "Seal Brown": 2.8,
-    "Cappuccino": 2.79,
+    "Seal Brown": 2.78,
+    "Cappuccino": 2.77,
     "Mint Green": 2.76,
     "Shamrock Green": 2.73,
     "Lemongrass": 2.75,
@@ -278,14 +278,14 @@
     "Sea Dragon": 6.6,
     "Sea Horse": 6.4,
     "Seahorse": 11.3,
-    "Serpent": 6.23,
+    "Serpent": 6.2,
     "Shako": 7.0,
     "Sharp Sword": 6.5,
     "Shell": 7.0,
     "Shinto Shrine": 6.29,
     "Shooting Star": 6.4,
     "Shortsword": 9.0,
-    "Sleepy Unicorn": 7.7,
+    "Sleepy Unicorn": 6.97,
     "Snail": 6.2,
     "Sombrero": 9.0,
     "Spades": 9.0,
@@ -328,7 +328,7 @@
     "Warhorse": 6.39,
     "Watching Sun": 8.0,
     "Watermelon": 6.5,
-    "Wise Raven": 28.02,
+    "Wise Raven": 28.01,
     "Wizard Hat": 6.5,
     "Wolf Rage": 9.99,
     "Yin-Yang": 7.35
@@ -385,5 +385,5 @@
     "TON Shard": 16.2792,
     "Wild Cat": 6.1098
   },
-  "last_updated": 1784861206
+  "last_updated": 1784863666
 }

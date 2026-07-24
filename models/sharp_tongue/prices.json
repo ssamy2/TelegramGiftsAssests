@@ -5,7 +5,7 @@
     "Copper": 2.74,
     "Raspberry": 2.76,
     "Neon Blue": 2.76,
-    "Cappuccino": 2.79,
+    "Cappuccino": 2.77,
     "Indigo Dye": 2.79,
     "Battleship Grey": 2.75,
     "Platinum": 2.76,
@@ -46,11 +46,11 @@
     "Ivory White": 2.76,
     "Mint Green": 2.76,
     "Grape": 2.75,
-    "English Violet": 2.8,
-    "Silver Blue": 2.8,
+    "English Violet": 2.75,
+    "Silver Blue": 2.77,
     "Aquamarine": 2.75,
     "Dark Lilac": 2.74,
-    "Persimmon": 2.79,
+    "Persimmon": 2.7,
     "Jade Green": 2.75,
     "Sapphire": 2.74,
     "Midnight Blue": 81.6,
@@ -168,7 +168,7 @@
     "Heart": 90.0,
     "Heartbeat": 44.0,
     "High Heels": 85.0,
-    "Hippo": 42.87,
+    "Hippo": 42.86,
     "Human Scull": 150.0,
     "Ice Pop": 58.0,
     "Illuminati": 10000.0,
@@ -308,5 +308,5 @@
     "Velvety": 36.516,
     "Zombie Bite": 204.0
   },
-  "last_updated": 1784861206
+  "last_updated": 1784863666
 }
