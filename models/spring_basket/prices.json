@@ -1,7 +1,7 @@
 {
   "backdrops": {
-    "Electric Purple": 2.74,
-    "Cyberpunk": 2.76,
+    "Electric Purple": 2.8,
+    "Cyberpunk": 2.78,
     "Pacific Green": 2.8,
     "Emerald": 2.79,
     "Amber": 2.8,
@@ -12,7 +12,7 @@
     "Desert Sand": 2.75,
     "Platinum": 2.76,
     "Seal Brown": 2.8,
-    "Carrot Juice": 2.75,
+    "Carrot Juice": 2.74,
     "Pine Green": 2.8,
     "Hunter Green": 2.75,
     "Ivory White": 2.76,
@@ -28,7 +28,7 @@
     "Deep Cyan": 2.75,
     "Mexican Pink": 2.82,
     "Celtic Blue": 2.78,
-    "Mint Green": 2.78,
+    "Mint Green": 2.79,
     "English Violet": 2.75,
     "Silver Blue": 2.8,
     "Turquoise": 2.75,
@@ -36,7 +36,7 @@
     "Shamrock Green": 2.79,
     "Khaki Green": 2.8,
     "Steel Grey": 2.76,
-    "Grape": 2.75,
+    "Grape": 2.81,
     "Chocolate": 2.79,
     "Old Gold": 2.8,
     "Navy Blue": 2.79,
@@ -46,9 +46,9 @@
     "Roman Silver": 2.8,
     "Tomato": 2.75,
     "Marine Blue": 2.79,
-    "Feldgrau": 2.76,
+    "Feldgrau": 2.79,
     "Gunmetal": 2.89,
-    "Satin Gold": 2.79,
+    "Satin Gold": 2.78,
     "Cappuccino": 2.78,
     "Jade Green": 2.75,
     "Battleship Grey": 2.75,
@@ -103,7 +103,7 @@
     "Daisy Skunk": 4.896,
     "Dalmatian Pup": 5.1,
     "Dom Pingouin": 5.916,
-    "Dragon Hoard": 5.61,
+    "Dragon Hoard": 7.14,
     "Eggsclusive": 6.2628,
     "Fire Fox": 16.0038,
     "Gold Retriever": 8.67,
@@ -116,7 +116,7 @@
     "Marmot": 6.63,
     "Meme God": 714.0,
     "Meme Snake": 4.8858,
-    "Midas Bunny": 7.2012,
+    "Midas Bunny": 6.681,
     "Monkey Boss": 4.743,
     "Moon Frog": 6.3036,
     "Nocturne": 6.12,
@@ -134,5 +134,5 @@
     "Usagi-Chan": 6.5076,
     "Wonderland": 7.1298
   },
-  "last_updated": 1784891063
+  "last_updated": 1784893552
 }

@@ -1,15 +1,15 @@
 {
   "backdrops": {
     "Raspberry": 2.76,
-    "Satin Gold": 2.79,
+    "Satin Gold": 2.78,
     "Khaki Green": 2.8,
-    "Carrot Juice": 2.75,
+    "Carrot Juice": 2.74,
     "Pacific Green": 2.8,
     "Roman Silver": 2.8,
     "Silver Blue": 2.8,
     "Midnight Blue": 2.79,
     "Fandango": 2.74,
-    "Electric Purple": 2.74,
+    "Electric Purple": 2.8,
     "Ivory White": 2.76,
     "Desert Sand": 2.75,
     "Jade Green": 2.75,
@@ -31,7 +31,7 @@
     "Mystic Pearl": 2.79,
     "Burgundy": 2.74,
     "Light Olive": 2.75,
-    "Mint Green": 2.78,
+    "Mint Green": 2.79,
     "Cobalt Blue": 2.8,
     "Emerald": 2.79,
     "Persimmon": 2.75,
@@ -44,8 +44,8 @@
     "Hunter Green": 2.75,
     "Indigo Dye": 2.79,
     "Aquamarine": 2.79,
-    "Cyberpunk": 2.76,
-    "Grape": 2.75,
+    "Cyberpunk": 2.78,
+    "Grape": 2.81,
     "Lavender": 2.8,
     "Amber": 2.8,
     "Malachite": 2.78,
@@ -215,7 +215,7 @@
     "Pawn": 61.3,
     "PC Mouse": 109.0,
     "Pear": 200.0,
-    "Pearl": 72.2,
+    "Pearl": 72.21,
     "Pegasus": 1111.0,
     "Pickaxe": 300.0,
     "Piggy Bank": 58.0,
@@ -315,7 +315,7 @@
     "Obsidian": 61.5264,
     "Orchestra": 69.9924,
     "Paper Plane": 66.3,
-    "Pink Sapphire": 57.273,
+    "Pink Sapphire": 86.7,
     "Princess Cut": 65.535,
     "Prismatic": 94.86,
     "Redwood": 59.0376,
@@ -336,5 +336,5 @@
     "Solid Waste": 100.0,
     "Jamaica": 459.0
   },
-  "last_updated": 1784891063
+  "last_updated": 1784893552
 }

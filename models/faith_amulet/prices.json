@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Electric Purple": 2.74,
+    "Electric Purple": 2.8,
     "Sky Blue": 2.75,
     "Pacific Cyan": 2.75,
     "Shamrock Green": 2.79,
@@ -8,7 +8,7 @@
     "Coral Red": 2.75,
     "Strawberry": 2.75,
     "Midnight Blue": 4.794,
-    "Grape": 2.75,
+    "Grape": 2.81,
     "Camo Green": 2.74,
     "Mustard": 2.77,
     "Malachite": 2.78,
@@ -22,7 +22,7 @@
     "Pacific Green": 2.8,
     "Emerald": 2.79,
     "Pure Gold": 2.75,
-    "Carrot Juice": 2.75,
+    "Carrot Juice": 2.74,
     "Hunter Green": 2.75,
     "Battleship Grey": 2.75,
     "Copper": 2.74,
@@ -36,7 +36,7 @@
     "Ivory White": 2.76,
     "Steel Grey": 2.76,
     "Seal Brown": 2.8,
-    "Feldgrau": 2.76,
+    "Feldgrau": 2.79,
     "Mexican Pink": 2.82,
     "Lavender": 2.8,
     "Cappuccino": 2.78,
@@ -55,7 +55,7 @@
     "Chocolate": 2.79,
     "Tactical Pine": 2.78,
     "Fire Engine": 2.9,
-    "Satin Gold": 2.79,
+    "Satin Gold": 2.78,
     "Caramel": 2.75,
     "Rosewood": 2.74,
     "Silver Blue": 2.8,
@@ -64,7 +64,7 @@
     "Indigo Dye": 2.79,
     "Gunmetal": 2.89,
     "Roman Silver": 2.8,
-    "Mint Green": 2.78,
+    "Mint Green": 2.79,
     "Marine Blue": 2.79,
     "French Violet": 2.8,
     "Jade Green": 2.75,
@@ -73,7 +73,7 @@
     "Neon Blue": 2.8,
     "French Blue": 2.76,
     "Cobalt Blue": 2.8,
-    "Cyberpunk": 2.76,
+    "Cyberpunk": 2.78,
     "Khaki Green": 2.8,
     "Burgundy": 2.74,
     "Ranger Green": 2.75,
@@ -83,7 +83,7 @@
   },
   "symbols": {},
   "models": {
-    "Aurora": 5.2938,
+    "Aurora": 5.8242,
     "Azure Glow": 4.9878,
     "Bronze Tower": 4.59,
     "Celestial Gem": 4.896,
@@ -121,8 +121,8 @@
     "Secret Bloom": 4.692,
     "Serenity": 4.4778,
     "Shiny Silk": 5.1,
-    "Silver Charm": 4.59,
-    "Silver Gold": 4.9878,
+    "Silver Charm": 4.6818,
+    "Silver Gold": 4.896,
     "Soft Whisper": 4.59,
     "Stained Glass": 4.998,
     "Starlace": 4.845,
@@ -134,5 +134,5 @@
     "Velvet Dusk": 4.488,
     "Winter": 5.916
   },
-  "last_updated": 1784891063
+  "last_updated": 1784893552
 }
