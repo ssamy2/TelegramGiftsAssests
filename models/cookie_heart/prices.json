@@ -1,9 +1,9 @@
 {
   "backdrops": {
     "Caramel": 2.75,
-    "Raspberry": 2.79,
+    "Raspberry": 2.8,
     "Light Olive": 2.75,
-    "Pacific Green": 2.79,
+    "Pacific Green": 2.8,
     "Orange": 2.79,
     "Malachite": 2.78,
     "Indigo Dye": 2.79,
@@ -11,10 +11,10 @@
     "Pistachio": 2.76,
     "Navy Blue": 2.79,
     "Moonstone": 2.74,
-    "Persimmon": 2.73,
+    "Persimmon": 2.79,
     "Khaki Green": 2.8,
     "Platinum": 2.79,
-    "Cappuccino": 2.79,
+    "Cappuccino": 2.8,
     "French Blue": 2.74,
     "Lemongrass": 2.75,
     "Midnight Blue": 4.386,
@@ -32,7 +32,7 @@
     "Steel Grey": 2.8,
     "Burgundy": 2.74,
     "Neon Blue": 2.8,
-    "Desert Sand": 2.73,
+    "Desert Sand": 2.75,
     "Mint Green": 2.76,
     "Grape": 2.81,
     "Dark Lilac": 2.74,
@@ -50,10 +50,10 @@
     "Coral Red": 2.75,
     "Ivory White": 2.76,
     "Pure Gold": 2.74,
-    "Electric Indigo": 2.79,
+    "Electric Indigo": 2.74,
     "Battleship Grey": 2.8,
-    "Electric Purple": 2.8,
-    "Shamrock Green": 2.74,
+    "Electric Purple": 2.74,
+    "Shamrock Green": 2.73,
     "Cyberpunk": 2.8,
     "Purple": 2.8,
     "Satin Gold": 2.79,
@@ -394,5 +394,5 @@
     "Yamete Kudasai": 35.7,
     "Cupid’s Arrow": 4.4778
   },
-  "last_updated": 1784856268
+  "last_updated": 1784858748
 }

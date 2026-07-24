@@ -8,9 +8,9 @@
     "Lavender": 2.8,
     "Platinum": 2.79,
     "Malachite": 2.78,
-    "Desert Sand": 2.73,
+    "Desert Sand": 2.75,
     "Emerald": 2.76,
-    "Electric Purple": 2.8,
+    "Electric Purple": 2.74,
     "Carrot Juice": 2.78,
     "Coral Red": 2.75,
     "Steel Grey": 2.8,
@@ -27,7 +27,7 @@
     "Dark Lilac": 2.74,
     "Chocolate": 2.79,
     "Neon Blue": 2.8,
-    "Electric Indigo": 2.79,
+    "Electric Indigo": 2.77,
     "Jade Green": 2.75,
     "Mystic Pearl": 2.8,
     "Pacific Green": 2.79,
@@ -57,7 +57,7 @@
     "Raspberry": 2.79,
     "Pistachio": 2.76,
     "Lemongrass": 2.75,
-    "Persimmon": 2.73,
+    "Persimmon": 2.79,
     "Black": 42.0036,
     "Onyx Black": 13.9434
   },
@@ -77,10 +77,10 @@
     "Bow Tie": 14.0,
     "Bowtie": 6.7,
     "Brain": 20.0,
-    "Bubble Tea": 9.19,
+    "Bubble Tea": 9.18,
     "Bunny": 15.0,
     "Burger": 8.15,
-    "Calm Wolf": 8.56,
+    "Calm Wolf": 8.55,
     "Candle": 8.0,
     "Candy": 7.5,
     "Car": 11.16,
@@ -188,7 +188,7 @@
     "Sumerian Bird": 6.23,
     "Sun Mountain": 7.5,
     "Toilet": 8.0,
-    "Totem Bear": 9.0,
+    "Totem Bear": 8.5,
     "Trophy": 26.6,
     "Tulip": 27.86,
     "Turkey": 10.3,
@@ -353,5 +353,5 @@
     "Woodland": 7.14,
     "Yule Bells": 14.2494
   },
-  "last_updated": 1784856268
+  "last_updated": 1784858748
 }
