@@ -44,9 +44,9 @@
     "Pure Gold": 2.82,
     "Orange": 2.83,
     "Roman Silver": 2.82,
-    "Tomato": 2.8,
+    "Tomato": 2.84,
     "Marine Blue": 2.9,
-    "Feldgrau": 2.81,
+    "Feldgrau": 2.84,
     "Gunmetal": 2.89,
     "Satin Gold": 2.79,
     "Cappuccino": 2.81,
@@ -57,7 +57,7 @@
     "Aquamarine": 2.84,
     "Strawberry": 2.82,
     "Rosewood": 2.8,
-    "Tactical Pine": 2.8,
+    "Tactical Pine": 2.81,
     "Camo Green": 2.82,
     "Mustard": 2.85,
     "Sky Blue": 2.83,
@@ -65,11 +65,11 @@
     "Neon Blue": 2.9,
     "Pistachio": 2.83,
     "Dark Green": 2.85,
-    "Lavender": 2.84,
+    "Lavender": 2.9,
     "Raspberry": 2.85,
     "French Blue": 2.86,
     "Electric Indigo": 2.84,
-    "Burgundy": 2.89,
+    "Burgundy": 2.88,
     "Chestnut": 2.82,
     "Burnt Sienna": 2.84,
     "French Violet": 2.87,
@@ -84,7 +84,7 @@
   "symbols": {},
   "models": {
     "Baby Dragon": 5.1,
-    "Balloon Dog": 4.72299984,
+    "Balloon Dog": 4.845,
     "Bastet": 15.3,
     "Bear Market": 5.4978,
     "Beer Festival": 4.845,
@@ -134,5 +134,5 @@
     "Usagi-Chan": 6.5076,
     "Wonderland": 7.1298
   },
-  "last_updated": 1784946287
+  "last_updated": 1784948812
 }
