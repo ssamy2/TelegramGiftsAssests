@@ -17,15 +17,15 @@
     "Pacific Cyan": 2.83,
     "Raspberry": 2.85,
     "Deep Cyan": 2.82,
-    "Celtic Blue": 2.8,
+    "Celtic Blue": 2.88,
     "Mexican Pink": 2.86,
-    "Old Gold": 2.86,
+    "Old Gold": 2.83,
     "Electric Indigo": 2.83,
     "Aquamarine": 2.83,
     "Carrot Juice": 2.83,
     "Chocolate": 2.81,
     "Caramel": 2.84,
-    "Seal Brown": 2.9,
+    "Seal Brown": 2.92,
     "Sky Blue": 2.83,
     "Pacific Green": 2.83,
     "Dark Lilac": 2.85,
@@ -59,7 +59,7 @@
     "Khaki Green": 2.83,
     "Desert Sand": 2.83,
     "Light Olive": 2.83,
-    "Hunter Green": 2.84,
+    "Hunter Green": 2.88,
     "Steel Grey": 2.82,
     "Lavender": 2.9,
     "Navy Blue": 2.82,
@@ -260,7 +260,7 @@
   },
   "models": {
     "Alien Slime": 3.06,
-    "Arizona": 2.958,
+    "Arizona": 2.89636956,
     "Bag End": 3.0396,
     "Biohazard": 3.162,
     "Bitcoin": 7.701,
@@ -268,7 +268,7 @@
     "Blueberry Hill": 3.06,
     "Cherry Top": 3.06,
     "Christmas": 2.9274,
-    "Circus": 3.8454,
+    "Circus": 3.7638,
     "Cloud Nine": 3.009,
     "Cream Scream": 6.1506,
     "Deep State": 3.6006,
@@ -310,5 +310,5 @@
     "Wasteland": 2.9784,
     "Zero Sugar": 3.0498
   },
-  "last_updated": 1784956348
+  "last_updated": 1784958860
 }

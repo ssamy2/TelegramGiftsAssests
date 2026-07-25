@@ -54,7 +54,7 @@
     "Pure Gold": 2.82,
     "Pacific Green": 2.83,
     "Rosewood": 2.83,
-    "Hunter Green": 2.84,
+    "Hunter Green": 2.88,
     "Aquamarine": 2.83,
     "Roman Silver": 2.82,
     "Cyberpunk": 2.83,
@@ -113,7 +113,7 @@
     "Bishop": 70.0,
     "Black Cat": 225.0,
     "Boat": 188.0,
-    "Bone": 82.66,
+    "Bone": 82.65,
     "Book": 200.0,
     "Bottlenose": 164.0,
     "Bread": 150.0,
@@ -123,7 +123,7 @@
     "Calm Wolf": 222.0,
     "Cap": 110.0,
     "Car": 87.0,
-    "Cash": 77.1,
+    "Cash": 77.09,
     "Cat Mask": 200.0,
     "Celtic Cross": 74.5,
     "Champagne": 165.0,
@@ -142,7 +142,7 @@
     "Cupcake": 315.0,
     "Diamond": 150.0,
     "Eikthyrnir": 200.0,
-    "Elephant": 92.98,
+    "Elephant": 92.97,
     "Evil Dragon": 75.0,
     "Eye of Horus": 127.0,
     "Feather": 65.0,
@@ -159,7 +159,7 @@
     "Gem": 230.0,
     "Genie Lamp": 91.0,
     "Glasses": 62.99,
-    "Gold": 77.03,
+    "Gold": 77.02,
     "Greek Helmet": 120.0,
     "Grenade": 250.0,
     "Hamburger": 120.0,
@@ -370,5 +370,5 @@
     "Molten Gold": 1020.0,
     "Obsidian": 153.0
   },
-  "last_updated": 1784956348
+  "last_updated": 1784958860
 }
