@@ -11,7 +11,7 @@
     "Cappuccino": 2.81,
     "Silver Blue": 2.85,
     "Chestnut": 2.82,
-    "Tomato": 2.84,
+    "Tomato": 2.8,
     "Azure Blue": 2.83,
     "Satin Gold": 2.79,
     "Orange": 2.83,
@@ -22,7 +22,7 @@
     "Rifle Green": 2.83,
     "Deep Cyan": 2.81,
     "Fire Engine": 2.9,
-    "Sapphire": 2.82,
+    "Sapphire": 2.85,
     "Hunter Green": 2.79,
     "Battleship Grey": 2.82,
     "Dark Green": 2.85,
@@ -48,7 +48,7 @@
     "Carrot Juice": 2.85,
     "Turquoise": 2.84,
     "Burgundy": 2.89,
-    "Gunship Green": 2.83,
+    "Gunship Green": 2.85,
     "Electric Indigo": 2.84,
     "Pacific Green": 2.85,
     "Marine Blue": 2.9,
@@ -67,7 +67,7 @@
     "Shamrock Green": 2.82,
     "Grape": 2.85,
     "Jade Green": 2.85,
-    "Navy Blue": 2.82,
+    "Navy Blue": 2.86,
     "Celtic Blue": 2.88,
     "Feldgrau": 2.81,
     "Desert Sand": 2.84,
@@ -75,7 +75,7 @@
     "Carmine": 2.89,
     "Lemongrass": 2.86,
     "Caramel": 2.84,
-    "Cobalt Blue": 2.82,
+    "Cobalt Blue": 2.84,
     "Pure Gold": 2.82,
     "Light Olive": 2.87,
     "Onyx Black": 5.5896,
@@ -83,7 +83,7 @@
   },
   "symbols": {
     "Alert Serpent": 3.0,
-    "Aztec Falcon": 2.94,
+    "Aztec Falcon": 3.5,
     "Bandage": 3.0,
     "Carambola": 2.98,
     "Crab": 3.0,
@@ -99,7 +99,7 @@
     "Rain Drop": 3.0,
     "Ring": 3.38,
     "Rose": 4.0,
-    "Shell": 2.99,
+    "Shell": 2.92,
     "Shield": 3.3,
     "Tribal Shield": 2.93,
     "Wizard Hat": 2.99
@@ -156,5 +156,5 @@
     "Watermelon": 2.9886,
     "Whisker": 3.162
   },
-  "last_updated": 1784943811
+  "last_updated": 1784946287
 }

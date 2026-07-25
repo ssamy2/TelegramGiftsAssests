@@ -1,13 +1,13 @@
 {
   "backdrops": {
     "Grape": 2.85,
-    "Cobalt Blue": 2.82,
+    "Cobalt Blue": 2.84,
     "Jade Green": 2.85,
     "Strawberry": 2.82,
     "Platinum": 2.85,
     "Marine Blue": 2.9,
     "Aquamarine": 2.84,
-    "Tomato": 2.84,
+    "Tomato": 2.8,
     "Pacific Green": 2.85,
     "Shamrock Green": 2.82,
     "Ivory White": 2.85,
@@ -25,7 +25,7 @@
     "Battleship Grey": 2.82,
     "Lavender": 2.84,
     "Chestnut": 2.82,
-    "Navy Blue": 2.82,
+    "Navy Blue": 2.86,
     "Coral Red": 2.81,
     "Roman Silver": 2.82,
     "Emerald": 2.84,
@@ -49,9 +49,9 @@
     "Mint Green": 2.83,
     "Mystic Pearl": 2.82,
     "Celtic Blue": 2.88,
-    "Gunship Green": 2.83,
+    "Gunship Green": 2.85,
     "Light Olive": 2.87,
-    "Sapphire": 2.82,
+    "Sapphire": 2.85,
     "Feldgrau": 2.81,
     "Fire Engine": 2.9,
     "Copper": 2.81,
@@ -324,7 +324,7 @@
     "Fading Crown": 65.994,
     "Feral Rage": 714.0,
     "Fleur de Mer": 54.06,
-    "Green Beryl": 55.1208,
+    "Green Beryl": 55.0596,
     "Helios": 66.3,
     "Hot Cherry": 714.0,
     "Jet Black": 64.26,
@@ -355,5 +355,5 @@
     "Spinny Boi": 6000.560000626,
     "Ogre’s Kiss": 54.06
   },
-  "last_updated": 1784943811
+  "last_updated": 1784946287
 }

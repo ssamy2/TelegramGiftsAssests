@@ -16,10 +16,10 @@
     "Pure Gold": 2.82,
     "Orange": 2.83,
     "Carrot Juice": 2.85,
-    "Gunship Green": 2.83,
-    "Sapphire": 2.82,
+    "Gunship Green": 2.85,
+    "Sapphire": 2.85,
     "Silver Blue": 2.85,
-    "Cobalt Blue": 2.82,
+    "Cobalt Blue": 2.84,
     "Rifle Green": 2.83,
     "Hunter Green": 2.79,
     "Desert Sand": 2.84,
@@ -30,7 +30,7 @@
     "Burgundy": 2.89,
     "Purple": 2.84,
     "Chocolate": 2.81,
-    "Navy Blue": 2.82,
+    "Navy Blue": 2.86,
     "Amber": 2.86,
     "Khaki Green": 2.85,
     "French Violet": 2.87,
@@ -40,7 +40,7 @@
     "Feldgrau": 2.81,
     "Roman Silver": 2.82,
     "Midnight Blue": 179.9892,
-    "Tomato": 2.84,
+    "Tomato": 2.8,
     "Celtic Blue": 2.88,
     "Copper": 2.81,
     "Marine Blue": 2.9,
@@ -162,7 +162,7 @@
     "Firebird": 320.0,
     "Fireman Hat": 175.0,
     "Fish": 300.0,
-    "Flower Cross": 145.4,
+    "Flower Cross": 145.41,
     "Flying Dragon": 350.0,
     "Fried Egg": 175.0,
     "Gem": 990.0,
@@ -300,5 +300,5 @@
     "Colossus": 2000.0,
     "Icebreaker": 2040.0
   },
-  "last_updated": 1784943811
+  "last_updated": 1784946287
 }

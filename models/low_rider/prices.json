@@ -17,8 +17,8 @@
     "Emerald": 2.84,
     "Malachite": 2.84,
     "Roman Silver": 2.82,
-    "Tomato": 2.84,
-    "Sapphire": 2.82,
+    "Tomato": 2.8,
+    "Sapphire": 2.85,
     "Strawberry": 2.82,
     "Fandango": 2.79,
     "Celtic Blue": 2.88,
@@ -54,17 +54,17 @@
     "Pistachio": 2.83,
     "Grape": 2.85,
     "Ranger Green": 2.8,
-    "Navy Blue": 2.82,
+    "Navy Blue": 2.86,
     "Satin Gold": 2.79,
     "Steel Grey": 2.82,
-    "Gunship Green": 2.83,
+    "Gunship Green": 2.85,
     "Gunmetal": 2.89,
     "Rifle Green": 2.83,
     "Raspberry": 2.85,
     "Deep Cyan": 2.81,
     "Pacific Cyan": 2.84,
     "Midnight Blue": 48.96,
-    "Cobalt Blue": 2.82,
+    "Cobalt Blue": 2.84,
     "Aquamarine": 2.84,
     "Seal Brown": 2.9,
     "Jade Green": 2.85,
@@ -192,7 +192,7 @@
     "Moon": 74.0,
     "Music Skull": 54.9,
     "Mustache": 100.0,
-    "Narcissus": 73.88,
+    "Narcissus": 73.89,
     "Nemes": 55.0,
     "Neptune": 52.0,
     "Nordic Wolf": 70.0,
@@ -254,7 +254,7 @@
     "Watermelon": 60.0,
     "Wepwawet": 68.0,
     "Westside Hand": 6666.0,
-    "Wolf Rage": 149.89,
+    "Wolf Rage": 149.88,
     "Yo Sign": 65.0
   },
   "models": {
@@ -309,5 +309,5 @@
     "Vape Wave": 46.92,
     "War Rig": 49.98
   },
-  "last_updated": 1784943811
+  "last_updated": 1784946287
 }

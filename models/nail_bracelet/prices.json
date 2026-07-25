@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Cobalt Blue": 2.82,
+    "Cobalt Blue": 2.84,
     "Hunter Green": 2.79,
     "Mustard": 2.85,
     "Old Gold": 2.86,
@@ -47,11 +47,11 @@
     "English Violet": 2.85,
     "Dark Green": 2.85,
     "Lavender": 2.84,
-    "Navy Blue": 2.82,
+    "Navy Blue": 2.86,
     "Strawberry": 2.82,
     "Carmine": 2.89,
     "Azure Blue": 2.83,
-    "Sapphire": 2.82,
+    "Sapphire": 2.85,
     "Neon Blue": 2.9,
     "Mystic Pearl": 2.82,
     "Electric Purple": 2.89,
@@ -71,9 +71,9 @@
     "Camo Green": 2.82,
     "Feldgrau": 2.81,
     "Satin Gold": 2.79,
-    "Gunship Green": 2.83,
+    "Gunship Green": 2.85,
     "Grape": 2.85,
-    "Tomato": 2.84,
+    "Tomato": 2.8,
     "Aquamarine": 2.84,
     "French Blue": 2.86,
     "Pacific Cyan": 2.84,
@@ -222,7 +222,7 @@
     "Jewel": 119.99,
     "Jolly Roger": 349.0,
     "Jörmungandr": 150.0,
-    "Kashket": 98.0,
+    "Kashket": 98.89,
     "Kitsune": 600.0,
     "Knight": 188.0,
     "Kudu Totem": 250.0,
@@ -342,7 +342,7 @@
     "Ocelot": 408.0,
     "Ouroboros": 219.3,
     "Pearl Glam": 168.3,
-    "Pencil": 99.7662,
+    "Pencil": 100.8066,
     "Pepe Band": 321.3,
     "Pug Royale": 181.3254,
     "Pure Amber": 188.088,
@@ -361,5 +361,5 @@
     "Vague Dream": 106.08,
     "X-Ray": 137.7
   },
-  "last_updated": 1784943811
+  "last_updated": 1784946287
 }

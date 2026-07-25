@@ -20,10 +20,10 @@
     "Caramel": 2.84,
     "Hunter Green": 2.79,
     "Platinum": 2.85,
-    "Sapphire": 2.82,
+    "Sapphire": 2.85,
     "Jade Green": 2.85,
     "Lavender": 2.84,
-    "Cobalt Blue": 2.82,
+    "Cobalt Blue": 2.84,
     "Purple": 2.84,
     "Mystic Pearl": 2.82,
     "Fandango": 2.79,
@@ -48,7 +48,7 @@
     "Satin Gold": 2.79,
     "Battleship Grey": 2.82,
     "Electric Indigo": 2.84,
-    "Navy Blue": 2.82,
+    "Navy Blue": 2.86,
     "French Blue": 2.86,
     "Steel Grey": 2.82,
     "Neon Blue": 2.9,
@@ -124,7 +124,7 @@
     "Drug": 285.0,
     "Eggplant": 210.0,
     "Elephant": 210.0,
-    "Evil Pumpkin": 255.0,
+    "Evil Pumpkin": 250.0,
     "Eyeball": 220.0,
     "Feather": 378.0,
     "Fish Skeleton": 205.0,
@@ -199,7 +199,7 @@
     "Cathulhu": 185.64,
     "Caustic": 173.4,
     "Celestia": 260.1,
-    "Chili Whisk": 434.9994,
+    "Chili Whisk": 399.993,
     "Cookie": 221.34,
     "Copperclaw": 173.4,
     "Creeper": 177.48,
@@ -236,5 +236,5 @@
     "Weedcat": 175.44,
     "Yolkster": 306.0
   },
-  "last_updated": 1784943811
+  "last_updated": 1784946287
 }
