@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Neon Blue": 2.9,
+    "Neon Blue": 2.89,
     "Light Olive": 2.83,
     "Persimmon": 2.83,
     "English Violet": 2.85,
@@ -49,17 +49,17 @@
     "Silver Blue": 2.83,
     "Dark Lilac": 2.85,
     "Hunter Green": 2.88,
-    "Dark Green": 2.81,
-    "Feldgrau": 2.84,
+    "Dark Green": 2.85,
+    "Feldgrau": 2.83,
     "Pistachio": 2.83,
     "Grape": 2.85,
     "Ranger Green": 2.81,
     "Navy Blue": 2.82,
-    "Satin Gold": 2.82,
+    "Satin Gold": 2.88,
     "Steel Grey": 2.82,
     "Gunship Green": 2.85,
     "Gunmetal": 2.89,
-    "Rifle Green": 2.83,
+    "Rifle Green": 2.85,
     "Raspberry": 2.85,
     "Deep Cyan": 2.82,
     "Pacific Cyan": 2.83,
@@ -192,14 +192,14 @@
     "Moon": 74.0,
     "Music Skull": 54.9,
     "Mustache": 100.0,
-    "Narcissus": 73.89,
+    "Narcissus": 73.88,
     "Nemes": 55.0,
     "Neptune": 52.0,
     "Nordic Wolf": 70.0,
     "Oak Leaf": 51.0,
     "Obon Lantern": 61.23,
     "Octopus": 68.0,
-    "Omusubi": 149.99,
+    "Omusubi": 149.98,
     "Onigiri": 65.0,
     "Owl": 51.0,
     "Paisley": 105.0,
@@ -254,7 +254,7 @@
     "Watermelon": 60.0,
     "Wepwawet": 68.0,
     "Westside Hand": 6666.0,
-    "Wolf Rage": 149.88,
+    "Wolf Rage": 149.89,
     "Yo Sign": 65.0
   },
   "models": {
@@ -309,5 +309,5 @@
     "Vape Wave": 46.92,
     "War Rig": 49.98
   },
-  "last_updated": 1784958860
+  "last_updated": 1784961424
 }

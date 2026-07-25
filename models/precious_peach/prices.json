@@ -8,7 +8,7 @@
     "Copper": 2.81,
     "Sapphire": 2.83,
     "Roman Silver": 2.82,
-    "Neon Blue": 2.9,
+    "Neon Blue": 2.89,
     "Indigo Dye": 2.83,
     "Navy Blue": 2.82,
     "Steel Grey": 2.82,
@@ -26,7 +26,7 @@
     "Orange": 2.83,
     "Grape": 2.85,
     "Purple": 2.83,
-    "Satin Gold": 2.82,
+    "Satin Gold": 2.88,
     "Cobalt Blue": 2.82,
     "Rosewood": 2.83,
     "Coral Red": 2.83,
@@ -176,7 +176,7 @@
     "Cash": 650.0,
     "Celtic Cross": 355.0,
     "Celtic Wolf": 400.0,
-    "Chili": 251.16,
+    "Chili": 250.04,
     "Cicada": 365.0,
     "Coconut": 599.99,
     "Coin Purse": 1250.0,
@@ -245,7 +245,7 @@
     "Pear": 1000.0,
     "Pickaxe": 350.0,
     "Pizza Slice": 1200.0,
-    "Piñata": 251.17,
+    "Piñata": 250.05,
     "Plum": 350.0,
     "Pomegranate": 499.0,
     "Pyramid": 300.0,
@@ -364,5 +364,5 @@
     "Smelting": 4100.0,
     "Blizzard": 994.9998
   },
-  "last_updated": 1784958860
+  "last_updated": 1784961424
 }

@@ -10,7 +10,7 @@
     "Fandango": 2.81,
     "Steel Grey": 2.82,
     "Persimmon": 2.83,
-    "Satin Gold": 2.82,
+    "Satin Gold": 2.88,
     "Cappuccino": 2.82,
     "Lavender": 2.9,
     "Lemongrass": 2.81,
@@ -39,7 +39,7 @@
     "Cobalt Blue": 2.82,
     "Platinum": 2.85,
     "Copper": 2.81,
-    "Neon Blue": 2.9,
+    "Neon Blue": 2.89,
     "Rosewood": 2.83,
     "Mint Green": 2.83,
     "Aquamarine": 2.83,
@@ -104,7 +104,7 @@
     "Chest": 3.11,
     "Chili Pepper": 3.15,
     "Coat of Arms": 2.95,
-    "Cobra": 2.96,
+    "Cobra": 2.98,
     "Cocktail": 3.0,
     "Coconut": 3.99,
     "Coin Purse": 2.95,
@@ -123,7 +123,7 @@
     "Cursor": 3.3,
     "Dagger": 3.99,
     "Diamonds": 2.95,
-    "Dice": 2.95,
+    "Dice": 3.48,
     "Doberman": 3.34,
     "Doghouse": 3.7,
     "Double Axe": 3.0,
@@ -262,7 +262,7 @@
     "Sparks": 3.89,
     "Spider Web": 3.0,
     "Spider": 3.99,
-    "Sprout": 2.95,
+    "Sprout": 3.5,
     "Star Crown": 3.1,
     "Sun Lion": 3.8,
     "Sun Mountain": 3.4,
@@ -406,5 +406,5 @@
     "Wild Mango": 3.06,
     "Wonka Berry": 3.06
   },
-  "last_updated": 1784958860
+  "last_updated": 1784961424
 }

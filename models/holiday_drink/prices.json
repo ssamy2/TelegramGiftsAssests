@@ -42,7 +42,7 @@
     "Fandango": 2.81,
     "Burgundy": 2.89,
     "Shamrock Green": 2.82,
-    "Rifle Green": 2.83,
+    "Rifle Green": 2.85,
     "Emerald": 2.84,
     "Seal Brown": 2.92,
     "Tomato": 2.82,
@@ -55,14 +55,14 @@
     "Grape": 2.85,
     "Pacific Cyan": 2.83,
     "Khaki Green": 2.83,
-    "Dark Green": 2.81,
+    "Dark Green": 2.85,
     "Fire Engine": 2.9,
     "Cobalt Blue": 2.82,
     "Copper": 2.81,
-    "Neon Blue": 2.9,
-    "Satin Gold": 2.82,
+    "Neon Blue": 2.89,
+    "Satin Gold": 2.88,
     "Tactical Pine": 2.82,
-    "Feldgrau": 2.84,
+    "Feldgrau": 2.83,
     "Burnt Sienna": 2.83,
     "Turquoise": 2.82,
     "Indigo Dye": 2.83,
@@ -88,7 +88,7 @@
     "Aztec Falcon": 5.1,
     "Bamboo": 2.98,
     "Bandage": 3.01,
-    "Bascinet": 4.24,
+    "Bascinet": 4.23,
     "Baseball Cap": 3.8,
     "Basketball": 3.71,
     "Bastet": 3.9,
@@ -286,7 +286,7 @@
     "Yin-Yang": 4.98
   },
   "models": {
-    "Apple Mousse": 2.8662,
+    "Apple Mousse": 2.856,
     "Area 51": 3.06,
     "Banana Split": 2.958,
     "Berry Pixel": 3.06,
@@ -337,5 +337,5 @@
     "Stickers": 3.57,
     "Toxic Waste": 3.0498
   },
-  "last_updated": 1784958860
+  "last_updated": 1784961424
 }

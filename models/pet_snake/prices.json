@@ -2,7 +2,7 @@
   "backdrops": {
     "Fandango": 2.81,
     "Grape": 2.85,
-    "Rifle Green": 2.83,
+    "Rifle Green": 2.85,
     "Seal Brown": 2.92,
     "Chocolate": 2.81,
     "Copper": 2.81,
@@ -12,11 +12,11 @@
     "Roman Silver": 2.82,
     "Mexican Pink": 2.86,
     "Light Olive": 2.83,
-    "Feldgrau": 2.84,
+    "Feldgrau": 2.83,
     "Carrot Juice": 2.83,
     "Mustard": 2.85,
     "Celtic Blue": 2.88,
-    "Dark Green": 2.81,
+    "Dark Green": 2.85,
     "Burnt Sienna": 2.83,
     "Indigo Dye": 2.83,
     "Old Gold": 2.83,
@@ -32,7 +32,7 @@
     "Navy Blue": 2.82,
     "Burgundy": 2.89,
     "Strawberry": 2.82,
-    "Neon Blue": 2.9,
+    "Neon Blue": 2.89,
     "Purple": 2.83,
     "Deep Cyan": 2.82,
     "Rosewood": 2.83,
@@ -43,7 +43,7 @@
     "Coral Red": 2.83,
     "Orange": 2.83,
     "Pacific Cyan": 2.83,
-    "Satin Gold": 2.82,
+    "Satin Gold": 2.88,
     "French Violet": 2.87,
     "Pacific Green": 2.83,
     "Silver Blue": 2.83,
@@ -221,7 +221,7 @@
   },
   "models": {
     "Albino": 3.162,
-    "Autumn": 3.315,
+    "Autumn": 3.366,
     "Banana": 10.098,
     "Beer Mamba": 6.63,
     "Black Mamba": 5.1,
@@ -283,5 +283,5 @@
     "Durov’s Cap": 4.08,
     "Santa’s Helper": 3.1518
   },
-  "last_updated": 1784958860
+  "last_updated": 1784961424
 }
