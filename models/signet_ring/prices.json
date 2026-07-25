@@ -28,7 +28,7 @@
     "Satin Gold": 2.88,
     "Carrot Juice": 2.83,
     "English Violet": 2.85,
-    "Roman Silver": 2.82,
+    "Roman Silver": 2.85,
     "Electric Indigo": 2.83,
     "Lavender": 2.9,
     "Persimmon": 2.79,
@@ -37,7 +37,7 @@
     "Cobalt Blue": 2.82,
     "Cappuccino": 2.82,
     "Ivory White": 2.85,
-    "Caramel": 2.77,
+    "Caramel": 2.84,
     "Emerald": 2.84,
     "Dark Lilac": 2.85,
     "Chestnut": 2.82,
@@ -51,11 +51,11 @@
     "Midnight Blue": 61.2,
     "Neon Blue": 2.9,
     "Light Olive": 2.83,
-    "Orange": 2.83,
-    "Platinum": 2.85,
+    "Orange": 2.85,
+    "Platinum": 2.8,
     "Navy Blue": 2.82,
     "Mystic Pearl": 2.82,
-    "Pistachio": 2.83,
+    "Pistachio": 2.85,
     "Battleship Grey": 2.83,
     "Azure Blue": 2.83,
     "Black": 229.5,
@@ -217,7 +217,7 @@
     "Rook": 32.0,
     "Royal Crown": 42.0,
     "Sakura": 140.0,
-    "Sauron": 35.0,
+    "Sauron": 55.0,
     "Scarab": 40.0,
     "Scorpion": 35.0,
     "Sea Horse": 5000.0,
@@ -310,5 +310,5 @@
     "White Gold": 31.926,
     "Yin-Yang": 33.558
   },
-  "last_updated": 1784963968
+  "last_updated": 1784966520
 }

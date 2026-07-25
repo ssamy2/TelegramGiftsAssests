@@ -1,10 +1,10 @@
 {
   "backdrops": {
     "Strawberry": 2.8,
-    "Orange": 2.83,
+    "Orange": 2.85,
     "Khaki Green": 2.83,
     "Battleship Grey": 2.83,
-    "Pistachio": 2.83,
+    "Pistachio": 2.85,
     "Lavender": 2.9,
     "Pacific Cyan": 2.83,
     "Silver Blue": 2.83,
@@ -25,7 +25,7 @@
     "Sky Blue": 2.83,
     "English Violet": 2.85,
     "Azure Blue": 2.83,
-    "Roman Silver": 2.82,
+    "Roman Silver": 2.85,
     "Indigo Dye": 2.83,
     "Desert Sand": 2.84,
     "Chestnut": 2.82,
@@ -42,7 +42,7 @@
     "Burgundy": 2.89,
     "Cyberpunk": 2.83,
     "Emerald": 2.84,
-    "Caramel": 2.77,
+    "Caramel": 2.84,
     "Sapphire": 2.83,
     "Malachite": 2.82,
     "Pure Gold": 2.82,
@@ -51,7 +51,7 @@
     "Satin Gold": 2.88,
     "Cappuccino": 2.82,
     "Amber": 2.82,
-    "Platinum": 2.85,
+    "Platinum": 2.8,
     "Light Olive": 2.83,
     "Steel Grey": 2.77,
     "Navy Blue": 2.82,
@@ -211,10 +211,10 @@
     "Citrus Burst": 4.437,
     "Coastal Cove": 4.2942,
     "Cool Metal": 4.3656,
-    "Cranberry": 4.2432,
+    "Cranberry": 4.3656,
     "Cult Candle": 5.5488,
     "Dark Desire": 5.712,
-    "Deep Sea": 4.896,
+    "Deep Sea": 6.12,
     "Dreamscape": 4.488,
     "Ephemeral": 6.12,
     "Evening Star": 4.692,
@@ -280,5 +280,5 @@
     "Wolfsbane": 4.488,
     "Yellow Gold": 4.4166
   },
-  "last_updated": 1784963968
+  "last_updated": 1784966520
 }
