@@ -2,12 +2,12 @@
   "backdrops": {
     "Roman Silver": 2.82,
     "Silver Blue": 2.83,
-    "Pine Green": 2.83,
+    "Pine Green": 2.82,
     "Neon Blue": 2.9,
     "Cyberpunk": 2.83,
     "Cobalt Blue": 2.82,
     "Midnight Blue": 8.9862,
-    "Burgundy": 2.81,
+    "Burgundy": 2.89,
     "Shamrock Green": 2.82,
     "Caramel": 2.82,
     "Grape": 2.85,
@@ -17,7 +17,7 @@
     "Copper": 2.81,
     "Lavender": 2.9,
     "Raspberry": 2.85,
-    "Pure Gold": 2.81,
+    "Pure Gold": 2.82,
     "Chestnut": 2.82,
     "Khaki Green": 2.83,
     "Turquoise": 2.82,
@@ -31,7 +31,7 @@
     "Emerald": 2.84,
     "Pacific Cyan": 2.83,
     "Pacific Green": 2.83,
-    "Satin Gold": 2.81,
+    "Satin Gold": 2.82,
     "Aquamarine": 2.8,
     "Strawberry": 2.82,
     "Orange": 2.83,
@@ -55,8 +55,8 @@
     "Light Olive": 2.83,
     "Dark Lilac": 2.85,
     "Electric Purple": 2.89,
-    "Malachite": 2.81,
-    "Jade Green": 2.79,
+    "Malachite": 2.82,
+    "Jade Green": 2.85,
     "Desert Sand": 2.83,
     "Black": 47.9298,
     "Onyx Black": 14.1576
@@ -226,7 +226,7 @@
     "Green Lantern": 6.5688,
     "Grinch Gaze": 6.222,
     "HAL 9000": 6.7524,
-    "Hypnosis": 6.324,
+    "Hypnosis": 6.4158,
     "Ice Sight": 8.568,
     "Inverted": 8.9964,
     "Jarvis": 7.6806,
@@ -253,5 +253,5 @@
     "True North": 7.6398,
     "Visible Spectrum": 6.885
   },
-  "last_updated": 1784951269
+  "last_updated": 1784953813
 }
