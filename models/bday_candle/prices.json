@@ -2,7 +2,7 @@
   "backdrops": {
     "Black": 19.89,
     "Chocolate": 2.82,
-    "Strawberry": 2.82,
+    "Strawberry": 2.85,
     "Dark Lilac": 2.85,
     "Emerald": 2.79,
     "Cappuccino": 2.79,
@@ -15,13 +15,13 @@
     "Pine Green": 2.83,
     "Roman Silver": 2.85,
     "Navy Blue": 2.9,
-    "Platinum": 2.89,
+    "Platinum": 2.9,
     "Rosewood": 2.86,
     "Cobalt Blue": 2.83,
     "Shamrock Green": 2.84,
     "Moonstone": 2.8,
-    "Cyberpunk": 2.82,
-    "Light Olive": 2.82,
+    "Cyberpunk": 2.85,
+    "Light Olive": 2.76,
     "Pistachio": 2.8,
     "Aquamarine": 2.84,
     "Purple": 2.83,
@@ -29,7 +29,7 @@
     "Coral Red": 2.83,
     "Pure Gold": 2.85,
     "Amber": 2.83,
-    "Indigo Dye": 2.78,
+    "Indigo Dye": 2.9,
     "Midnight Blue": 4.6512,
     "Electric Purple": 2.85,
     "Pacific Cyan": 2.84,
@@ -46,7 +46,7 @@
     "Desert Sand": 2.89,
     "Hunter Green": 2.88,
     "Silver Blue": 2.92,
-    "Malachite": 2.85,
+    "Malachite": 2.88,
     "English Violet": 2.82,
     "Mystic Pearl": 2.85,
     "Raspberry": 2.84,
@@ -57,7 +57,7 @@
     "Sapphire": 2.85,
     "Fandango": 2.83,
     "Lavender": 2.9,
-    "Jade Green": 2.81,
+    "Jade Green": 2.89,
     "Mint Green": 2.84,
     "Onyx Black": 5.61
   },
@@ -235,7 +235,7 @@
     "Paw": 6.0,
     "Pawn": 6.0,
     "PC Mouse": 4.97,
-    "Pear": 5.71,
+    "Pear": 5.7,
     "Pearl": 4.59,
     "Pegasus": 5.2,
     "Pencil": 4.99,
@@ -321,7 +321,7 @@
   },
   "models": {
     "Anniversary": 4.5492,
-    "Backyard": 5.1,
+    "Backyard": 6.018,
     "Be Awesome!": 4.488,
     "Best Wishes": 4.7328,
     "Black Ink": 5.406,
@@ -421,5 +421,5 @@
     "Winter Noon": 4.5492,
     "You Rock!": 4.7124
   },
-  "last_updated": 1785015937
+  "last_updated": 1785018453
 }

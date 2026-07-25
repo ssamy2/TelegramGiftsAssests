@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Indigo Dye": 2.78,
+    "Indigo Dye": 2.9,
     "Mystic Pearl": 2.85,
     "Hunter Green": 2.88,
     "Pistachio": 2.8,
@@ -21,7 +21,7 @@
     "Emerald": 2.79,
     "English Violet": 2.82,
     "Cobalt Blue": 2.83,
-    "Strawberry": 2.82,
+    "Strawberry": 2.84,
     "Carrot Juice": 2.83,
     "Ivory White": 2.85,
     "Pine Green": 2.83,
@@ -34,12 +34,12 @@
     "Lavender": 2.9,
     "Turquoise": 2.84,
     "Persimmon": 2.85,
-    "Cyberpunk": 2.82,
-    "Malachite": 2.85,
+    "Cyberpunk": 2.85,
+    "Malachite": 2.88,
     "Orange": 2.82,
     "Grape": 2.85,
-    "Platinum": 2.89,
-    "Burgundy": 2.86,
+    "Platinum": 2.9,
+    "Burgundy": 2.79,
     "Sky Blue": 2.85,
     "Shamrock Green": 2.84,
     "Battleship Grey": 2.89,
@@ -48,16 +48,16 @@
     "Electric Indigo": 2.84,
     "Moonstone": 2.8,
     "Purple": 2.83,
-    "Sapphire": 2.85,
-    "French Blue": 2.9,
+    "Sapphire": 2.78,
+    "French Blue": 2.82,
     "Chocolate": 2.82,
-    "Jade Green": 2.81,
-    "Azure Blue": 2.84,
+    "Jade Green": 2.82,
+    "Azure Blue": 2.89,
     "Lemongrass": 2.89,
     "Pacific Cyan": 2.84,
     "Chestnut": 2.84,
-    "Light Olive": 2.82,
-    "Raspberry": 2.84,
+    "Light Olive": 2.84,
+    "Raspberry": 2.83,
     "Black": 232.56,
     "Onyx Black": 49.98
   },
@@ -236,7 +236,7 @@
     "Toxicity": 38.76,
     "Twilight": 54.978,
     "Vendetta": 31.4976,
-    "Vengeance": 43.86
+    "Vengeance": 31.314
   },
-  "last_updated": 1785015937
+  "last_updated": 1785018454
 }
