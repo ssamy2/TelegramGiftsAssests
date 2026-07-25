@@ -1,11 +1,11 @@
 {
   "backdrops": {
     "Chestnut": 2.82,
-    "Electric Indigo": 2.8,
+    "Electric Indigo": 2.83,
     "Sky Blue": 2.8,
     "Cappuccino": 2.8,
     "Pacific Green": 2.79,
-    "Copper": 2.79,
+    "Copper": 2.81,
     "Sapphire": 2.81,
     "Roman Silver": 2.85,
     "Neon Blue": 2.83,
@@ -16,7 +16,7 @@
     "Moonstone": 2.85,
     "Lavender": 2.8,
     "Shamrock Green": 2.8,
-    "Persimmon": 2.8,
+    "Persimmon": 2.79,
     "Carrot Juice": 2.8,
     "Dark Lilac": 2.85,
     "Amber": 2.82,
@@ -25,8 +25,8 @@
     "Turquoise": 2.82,
     "Orange": 2.8,
     "Grape": 2.8,
-    "Purple": 2.78,
-    "Satin Gold": 2.79,
+    "Purple": 2.84,
+    "Satin Gold": 2.8,
     "Cobalt Blue": 2.82,
     "Rosewood": 2.8,
     "Coral Red": 2.83,
@@ -53,9 +53,9 @@
     "Aquamarine": 2.83,
     "French Blue": 2.81,
     "Battleship Grey": 2.83,
-    "Strawberry": 2.79,
+    "Strawberry": 2.8,
     "Mint Green": 2.84,
-    "Burgundy": 2.78,
+    "Burgundy": 2.9,
     "Midnight Blue": 408.0,
     "Pacific Cyan": 2.83,
     "Black": 1938.0,
@@ -303,7 +303,7 @@
     "Cherry Season": 289.986,
     "Christmas": 259.998,
     "Clear Sky": 612.0,
-    "Cold Iron": 251.94,
+    "Cold Iron": 266.7912,
     "Cozy Warmth": 408.0,
     "Crypto Orange": 600.78,
     "Cutout": 324.9924,
@@ -364,5 +364,5 @@
     "Smelting": 4100.0,
     "Blizzard": 994.9998
   },
-  "last_updated": 1784982953
+  "last_updated": 1784985505
 }
