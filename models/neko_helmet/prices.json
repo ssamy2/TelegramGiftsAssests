@@ -61,7 +61,7 @@
     "Indigo Dye": 2.82,
     "Camo Green": 2.81,
     "Cobalt Blue": 2.83,
-    "Caramel": 2.8,
+    "Caramel": 2.83,
     "Navy Blue": 2.8,
     "Coral Red": 2.8,
     "Lemongrass": 2.89,
@@ -70,8 +70,8 @@
     "Chocolate": 2.82,
     "Emerald": 2.82,
     "Pistachio": 2.8,
-    "Aquamarine": 2.82,
-    "Steel Grey": 2.82,
+    "Aquamarine": 2.8,
+    "Steel Grey": 2.8,
     "Silver Blue": 2.82,
     "Pacific Green": 2.86,
     "Rosewood": 2.86,
@@ -325,7 +325,7 @@
     "Wise Raven": 60.0
   },
   "models": {
-    "Acid Punch": 33.0684,
+    "Acid Punch": 33.048,
     "Astronaut": 90.78,
     "Biker Girl": 40.8,
     "Blackout": 43.8498,
@@ -366,7 +366,7 @@
     "Red Shift": 48.96,
     "Retro-Future": 43.86,
     "Road Queen": 49.98,
-    "Savage": 34.68,
+    "Savage": 33.966,
     "Shockwave": 32.4258,
     "Silver Surfer": 45.9,
     "Sky Diver": 81.6,
@@ -386,5 +386,5 @@
     "Wild Cat": 79.9884,
     "Wild Daisy": 37.9848
   },
-  "last_updated": 1785026037
+  "last_updated": 1785028516
 }

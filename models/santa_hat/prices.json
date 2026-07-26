@@ -8,14 +8,14 @@
     "Burgundy": 2.86,
     "Cappuccino": 2.82,
     "Amber": 2.83,
-    "Caramel": 2.8,
+    "Caramel": 2.83,
     "Emerald": 2.82,
     "Moonstone": 2.8,
     "Fandango": 2.8,
     "Roman Silver": 2.82,
     "Dark Lilac": 2.85,
     "Chocolate": 2.82,
-    "Aquamarine": 2.82,
+    "Aquamarine": 2.8,
     "Pacific Cyan": 2.84,
     "Azure Blue": 2.82,
     "Sapphire": 2.85,
@@ -42,7 +42,7 @@
     "English Violet": 2.85,
     "Indigo Dye": 2.82,
     "Jade Green": 2.82,
-    "Steel Grey": 2.82,
+    "Steel Grey": 2.8,
     "Shamrock Green": 2.84,
     "Grape": 2.82,
     "Lavender": 2.9,
@@ -155,7 +155,7 @@
     "PC Mouse": 3.9,
     "Pegasus": 8.0,
     "Phoenix": 6.0,
-    "Piggy Bank": 4.0,
+    "Piggy Bank": 4.01,
     "Piñata": 9.0,
     "Planet": 6.0,
     "Rain Drop": 4.44,
@@ -274,5 +274,5 @@
     "Yule Hat": 15.3,
     "Zesty": 5.304
   },
-  "last_updated": 1785026037
+  "last_updated": 1785028516
 }

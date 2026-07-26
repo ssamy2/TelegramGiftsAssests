@@ -2,7 +2,7 @@
   "backdrops": {
     "Pine Green": 2.82,
     "Roman Silver": 2.82,
-    "Steel Grey": 2.82,
+    "Steel Grey": 2.8,
     "Copper": 2.81,
     "Battleship Grey": 2.82,
     "Electric Indigo": 2.82,
@@ -12,11 +12,11 @@
     "Lemongrass": 2.89,
     "Cobalt Blue": 2.83,
     "Amber": 2.83,
-    "Aquamarine": 2.82,
+    "Aquamarine": 2.8,
     "Pacific Green": 2.86,
     "Chestnut": 2.84,
     "Emerald": 2.82,
-    "Caramel": 2.8,
+    "Caramel": 2.83,
     "Platinum": 2.82,
     "Burgundy": 2.86,
     "Rosewood": 2.86,
@@ -227,7 +227,7 @@
     "Mayan Moth": 39.5,
     "Moon Cross": 38.0,
     "Moon Eagle": 48.5,
-    "Moon": 38.93,
+    "Moon": 38.13,
     "Muffin": 110.0,
     "Mustache": 179.0,
     "Mustang": 333.0,
@@ -299,10 +299,10 @@
     "Telescope": 40.0,
     "Teru Bōzu": 50.0,
     "Tic-Tac-Toe": 111.0,
-    "Tie": 39.03,
+    "Tie": 38.23,
     "Tiki Mask": 44.0,
     "Toilet": 48.0,
-    "Tongue": 35.37,
+    "Tongue": 34.65,
     "Tooth": 38.0,
     "Top Hat": 40.82,
     "Tree of Life": 60.0,
@@ -396,5 +396,5 @@
     "Wizard": 44.8698,
     "Zebra": 33.4458
   },
-  "last_updated": 1785026037
+  "last_updated": 1785028516
 }

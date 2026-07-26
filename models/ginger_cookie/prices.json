@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Light Olive": 2.84,
-    "Aquamarine": 2.82,
+    "Aquamarine": 2.8,
     "Malachite": 2.81,
     "Raspberry": 2.82,
     "Chestnut": 2.84,
@@ -35,7 +35,7 @@
     "Amber": 2.83,
     "Lavender": 2.9,
     "Carrot Juice": 2.83,
-    "Caramel": 2.8,
+    "Caramel": 2.83,
     "Fandango": 2.8,
     "Lemongrass": 2.89,
     "Pine Green": 2.82,
@@ -53,7 +53,7 @@
     "Jade Green": 2.82,
     "Strawberry": 2.8,
     "Turquoise": 2.84,
-    "Steel Grey": 2.82,
+    "Steel Grey": 2.8,
     "Purple": 2.82,
     "Mint Green": 2.84,
     "Hunter Green": 2.82,
@@ -197,7 +197,7 @@
     "Adam": 4.5288,
     "Amaretto": 3.7332,
     "Banana Bread": 3.3966,
-    "Bavarian": 3.3252,
+    "Bavarian": 3.1518,
     "Beach Party": 4.08,
     "Berry Button": 3.9358332,
     "Bio Glow": 4.896,
@@ -279,7 +279,7 @@
     "Silver": 4.0698,
     "Snowman": 3.4986,
     "Sprinkles": 4.59,
-    "Strawberry": 4.488,
+    "Strawberry": 4.08,
     "Sugar Star": 20.2776,
     "Sunspot": 3.35050416,
     "Sweetheart": 5.1,
@@ -295,5 +295,5 @@
     "Waffle": 7.956,
     "White Gold": 6.6198
   },
-  "last_updated": 1785026037
+  "last_updated": 1785028516
 }

@@ -35,7 +35,7 @@
     "Emerald": 2.82,
     "Mexican Pink": 2.82,
     "Mystic Pearl": 2.85,
-    "Steel Grey": 2.82,
+    "Steel Grey": 2.8,
     "Celtic Blue": 2.82,
     "Old Gold": 2.83,
     "Cappuccino": 2.82,
@@ -65,9 +65,9 @@
     "Azure Blue": 2.82,
     "Seal Brown": 2.92,
     "Chestnut": 2.84,
-    "Aquamarine": 2.82,
+    "Aquamarine": 2.8,
     "Mustard": 2.84,
-    "Caramel": 2.8,
+    "Caramel": 2.83,
     "Orange": 2.85,
     "Ivory White": 2.85,
     "Feldgrau": 2.86,
@@ -295,7 +295,7 @@
     "Candy Shop": 2.9478,
     "Caramel Fest": 2.8152,
     "Cash Balance": 3.8352,
-    "Cherry": 2.958,
+    "Cherry": 2.755834075,
     "Circus": 2.8458,
     "Cold Feet": 2.8254,
     "Cowboy": 3.264,
@@ -316,7 +316,7 @@
     "Kindergarten": 2.8458,
     "Lavender": 2.8458,
     "Light Show": 2.8458,
-    "Lime Treats": 2.8152,
+    "Lime Treats": 2.78535888,
     "Little Mouse": 2.8866,
     "Malevich": 3.57,
     "Midnight": 2.8968,
@@ -352,5 +352,5 @@
     "Vintage": 2.8458,
     "Wonderland": 2.8152
   },
-  "last_updated": 1785026037
+  "last_updated": 1785028516
 }

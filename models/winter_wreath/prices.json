@@ -39,7 +39,7 @@
     "Satin Gold": 2.88,
     "Chocolate": 2.82,
     "Deep Cyan": 2.85,
-    "Steel Grey": 2.82,
+    "Steel Grey": 2.8,
     "Carmine": 2.82,
     "Light Olive": 2.84,
     "Rosewood": 2.86,
@@ -55,8 +55,8 @@
     "Cobalt Blue": 2.83,
     "Tomato": 2.83,
     "Khaki Green": 2.83,
-    "Aquamarine": 2.82,
-    "Caramel": 2.8,
+    "Aquamarine": 2.8,
+    "Caramel": 2.83,
     "Cyberpunk": 2.85,
     "Burnt Sienna": 2.83,
     "Battleship Grey": 2.82,
@@ -99,7 +99,7 @@
     "Bug": 10.2,
     "Bunny": 3.44,
     "Candle": 3.98,
-    "Candy": 3.99,
+    "Candy": 3.0,
     "Cavalier Hat": 6.5,
     "Champagne": 2.98,
     "Chef Hat": 8.0,
@@ -147,7 +147,7 @@
     "Ice Skates": 3.75,
     "Jingle Bell": 3.19,
     "Jörmungandr": 5.0,
-    "Leaf": 3.24,
+    "Leaf": 3.09,
     "Lily": 7.77,
     "Lion King": 3.88,
     "Lotus Flower": 3.99,
@@ -293,5 +293,5 @@
     "Winter Tea": 3.264,
     "Wonderland": 7.14
   },
-  "last_updated": 1785026037
+  "last_updated": 1785028516
 }

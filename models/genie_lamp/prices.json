@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Aquamarine": 2.82,
+    "Aquamarine": 2.8,
     "English Violet": 2.85,
     "Desert Sand": 2.82,
     "Sapphire": 2.85,
@@ -32,7 +32,7 @@
     "Coral Red": 2.8,
     "Midnight Blue": 51.0,
     "Pure Gold": 2.82,
-    "Caramel": 2.8,
+    "Caramel": 2.83,
     "Lemongrass": 2.89,
     "Chestnut": 2.84,
     "Mystic Pearl": 2.85,
@@ -45,7 +45,7 @@
     "Copper": 2.81,
     "Carrot Juice": 2.83,
     "Battleship Grey": 2.82,
-    "Steel Grey": 2.82,
+    "Steel Grey": 2.8,
     "Malachite": 2.81,
     "Grape": 2.82,
     "Cobalt Blue": 2.83,
@@ -213,7 +213,7 @@
     "Sprout": 50.0,
     "Star Crown": 40.0,
     "Sumerian Bird": 150.0,
-    "Sun Lion": 35.71,
+    "Sun Lion": 35.72,
     "Sun Mountain": 45.0,
     "Sword": 76.0,
     "The Eye": 60.0,
@@ -269,8 +269,8 @@
     "Persian Dawn": 35.7,
     "Piggy Bank": 98.94,
     "Red Devil": 32.385,
-    "Red Sketch": 30.1512,
-    "Sahara": 29.58,
+    "Red Sketch": 30.6306,
+    "Sahara": 31.722,
     "Snow Globe": 163.2,
     "Space Travel": 510.0,
     "Star Dust": 99.9906,
@@ -287,5 +287,5 @@
     "Witch’s Secret": 44.982,
     "Night’s Wish": 99.96
   },
-  "last_updated": 1785026037
+  "last_updated": 1785028516
 }

@@ -5,7 +5,7 @@
     "Burgundy": 2.86,
     "French Violet": 2.82,
     "Azure Blue": 2.82,
-    "Aquamarine": 2.82,
+    "Aquamarine": 2.8,
     "Pacific Green": 2.86,
     "Grape": 2.82,
     "French Blue": 2.82,
@@ -44,7 +44,7 @@
     "Indigo Dye": 2.82,
     "Cobalt Blue": 2.83,
     "Mexican Pink": 2.82,
-    "Steel Grey": 2.82,
+    "Steel Grey": 2.8,
     "Mustard": 2.84,
     "Ranger Green": 2.82,
     "Strawberry": 2.8,
@@ -61,7 +61,7 @@
     "Camo Green": 2.81,
     "Mystic Pearl": 2.85,
     "Gunmetal": 2.96,
-    "Caramel": 2.8,
+    "Caramel": 2.83,
     "Rifle Green": 2.82,
     "Orange": 2.85,
     "Platinum": 2.82,
@@ -85,7 +85,7 @@
     "Alarm": 6.9,
     "Alert Serpent": 5.89,
     "Amour Scoops": 5.65,
-    "Ancient Urn": 5.88,
+    "Ancient Urn": 5.72,
     "Anubis": 6.66,
     "Axe": 5.2,
     "Aztec Falcon": 8.0,
@@ -368,7 +368,7 @@
     "Money Printer": 12.2298,
     "Ninja": 8.3844,
     "Nom-Nom": 4.9878,
-    "Parking Lot": 4.9266,
+    "Parking Lot": 5.0286,
     "Phosphorus": 10.2,
     "Play Button": 5.0286,
     "Press F": 5.9466,
@@ -395,5 +395,5 @@
     "X-Ray": 10.302,
     "Zombie": 5.1
   },
-  "last_updated": 1785026037
+  "last_updated": 1785028516
 }

@@ -8,7 +8,7 @@
     "Roman Silver": 2.82,
     "Lavender": 2.9,
     "Mystic Pearl": 2.85,
-    "Caramel": 2.8,
+    "Caramel": 2.83,
     "Azure Blue": 2.82,
     "Chocolate": 2.82,
     "Pistachio": 2.8,
@@ -42,13 +42,13 @@
     "Copper": 2.81,
     "Midnight Blue": 12.495,
     "Pacific Cyan": 2.84,
-    "Aquamarine": 2.82,
+    "Aquamarine": 2.8,
     "Neon Blue": 2.9,
     "Emerald": 2.82,
     "English Violet": 2.85,
     "Mint Green": 2.84,
     "Satin Gold": 2.88,
-    "Steel Grey": 2.82,
+    "Steel Grey": 2.8,
     "French Blue": 2.82,
     "Purple": 2.82,
     "Electric Indigo": 2.82,
@@ -200,7 +200,7 @@
   "models": {
     "Bee Movie": 12.24,
     "Cheshire Cat": 25.296,
-    "Chuckle-ate": 9.588,
+    "Chuckle-ate": 9.3738,
     "Copperfield": 9.384,
     "Creepy Po": 23.46,
     "Cucurbita": 9.435,
@@ -214,7 +214,7 @@
     "Flat Joke": 9.4962,
     "Frostbite": 15.1776,
     "Golden Boy": 9.2718,
-    "Green Grins": 9.384,
+    "Green Grins": 9.3738,
     "Ha-Harvest": 9.2616,
     "Heat Stroke": 10.812,
     "Hollow Gold": 9.7308,
@@ -240,7 +240,7 @@
     "Shamrock": 9.6798,
     "Silver Surfer": 9.996,
     "Solaris": 17.34,
-    "Spotlight": 9.2412,
+    "Spotlight": 9.69,
     "Squashbuckler": 13.5966,
     "The Joker": 10.2,
     "The Mask": 11.628,
@@ -250,5 +250,5 @@
     "Watermelon": 9.282,
     "Joke-O’-Lantern": 9.894
   },
-  "last_updated": 1785026037
+  "last_updated": 1785028516
 }

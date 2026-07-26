@@ -27,7 +27,7 @@
     "Fire Engine": 2.82,
     "Pure Gold": 2.82,
     "Amber": 2.83,
-    "Caramel": 2.8,
+    "Caramel": 2.83,
     "Orange": 2.85,
     "Camo Green": 2.81,
     "Coral Red": 2.8,
@@ -56,7 +56,7 @@
     "Ranger Green": 2.82,
     "Navy Blue": 2.8,
     "Satin Gold": 2.88,
-    "Steel Grey": 2.82,
+    "Steel Grey": 2.8,
     "Gunship Green": 2.81,
     "Gunmetal": 2.96,
     "Rifle Green": 2.82,
@@ -65,7 +65,7 @@
     "Pacific Cyan": 2.84,
     "Midnight Blue": 48.96,
     "Cobalt Blue": 2.83,
-    "Aquamarine": 2.82,
+    "Aquamarine": 2.8,
     "Seal Brown": 2.92,
     "Jade Green": 2.82,
     "Lavender": 2.9,
@@ -137,8 +137,8 @@
     "Donut": 70.0,
     "Duck Face": 53.0,
     "Earflap Hat": 55.0,
-    "Egg": 3500.0,
-    "Eggplant": 50.0,
+    "Egg": 90.0,
+    "Eggplant": 155.0,
     "Fehu Rune": 70.0,
     "Fireman Hat": 78.0,
     "Fleur-de-lis": 96.0,
@@ -199,7 +199,7 @@
     "Oak Leaf": 51.0,
     "Obon Lantern": 60.0,
     "Octopus": 68.0,
-    "Omusubi": 149.98,
+    "Omusubi": 149.99,
     "Onigiri": 65.0,
     "Owl": 51.0,
     "Paisley": 105.0,
@@ -254,7 +254,7 @@
     "Watermelon": 60.0,
     "Wepwawet": 65.0,
     "Westside Hand": 6666.0,
-    "Wolf Rage": 149.89,
+    "Wolf Rage": 149.88,
     "Yo Sign": 65.0
   },
   "models": {
@@ -309,5 +309,5 @@
     "Vape Wave": 45.9,
     "War Rig": 49.98
   },
-  "last_updated": 1785026037
+  "last_updated": 1785028516
 }

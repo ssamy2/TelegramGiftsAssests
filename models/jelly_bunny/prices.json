@@ -2,7 +2,7 @@
   "backdrops": {
     "Persimmon": 2.85,
     "Cobalt Blue": 2.83,
-    "Caramel": 2.8,
+    "Caramel": 2.83,
     "Purple": 2.82,
     "Fandango": 2.8,
     "Midnight Blue": 8.16,
@@ -19,7 +19,7 @@
     "Raspberry": 2.82,
     "Lemongrass": 2.89,
     "Cappuccino": 2.82,
-    "Aquamarine": 2.82,
+    "Aquamarine": 2.8,
     "Battleship Grey": 2.82,
     "Azure Blue": 2.82,
     "Indigo Dye": 2.82,
@@ -37,7 +37,7 @@
     "Sky Blue": 2.85,
     "Pacific Green": 2.86,
     "Mint Green": 2.84,
-    "Steel Grey": 2.82,
+    "Steel Grey": 2.8,
     "Rosewood": 2.86,
     "Hunter Green": 2.82,
     "French Blue": 2.82,
@@ -188,7 +188,7 @@
     "Inca Sun": 7.0,
     "Inguz Rune": 9.79,
     "Ink Pen": 9.0,
-    "Jellyfish": 6.34,
+    "Jellyfish": 6.32,
     "Jumbo Pencil": 7.12,
     "Key": 9.9,
     "Kite": 7.5,
@@ -282,7 +282,7 @@
     "Spirit Impala": 7.0,
     "Sprout": 14.0,
     "Star Crown": 20.0,
-    "Star": 11.31,
+    "Star": 11.28,
     "Strawberry": 9.65,
     "Sumerian Bird": 6.45,
     "Sun Lion": 7.0,
@@ -417,5 +417,5 @@
     "Winter": 9.588,
     "Zombie": 6.681
   },
-  "last_updated": 1785026037
+  "last_updated": 1785028516
 }
