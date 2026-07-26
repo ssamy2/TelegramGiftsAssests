@@ -1267,6 +1267,12 @@
       "portal_price_ton": 3.36,
       "tgmrkt_price_ton": 3.264,
       "getgems_price_ton": 3.8
+    },
+    {
+      "full_name": "Thug Life",
+      "short_name": "thug_life",
+      "regular_id": "5834651202612102354",
+      "models": "models/thug_life/prices.json"
     }
   ],
   "unupgraded": [
@@ -1325,13 +1331,6 @@
       "id": "5776227780391864916",
       "price_ton": 18.27,
       "custom_emoji_id": "5891098991415794702"
-    },
-    {
-      "full_name": "Durov Glasses",
-      "short_name": "durov_glasses",
-      "id": "5834651202612102354",
-      "price_ton": 309.5,
-      "custom_emoji_id": "5890913328569523960"
     },
     {
       "full_name": "Durov's Figurine",
