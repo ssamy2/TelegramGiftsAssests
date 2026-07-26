@@ -4,7 +4,7 @@
     "Cyberpunk": 2.88,
     "Copper": 2.84,
     "Raspberry": 2.9,
-    "Neon Blue": 2.9,
+    "Neon Blue": 2.84,
     "Cappuccino": 2.85,
     "Indigo Dye": 2.85,
     "Battleship Grey": 2.84,
@@ -30,7 +30,7 @@
     "Fandango": 2.88,
     "Lavender": 2.84,
     "Pistachio": 2.83,
-    "Steel Grey": 2.83,
+    "Steel Grey": 2.84,
     "Navy Blue": 2.9,
     "Amber": 2.84,
     "Malachite": 2.85,
@@ -44,7 +44,7 @@
     "Electric Indigo": 2.84,
     "Orange": 2.84,
     "Ivory White": 2.87,
-    "Mint Green": 2.84,
+    "Mint Green": 2.83,
     "Grape": 2.86,
     "English Violet": 2.85,
     "Silver Blue": 2.92,
@@ -169,7 +169,7 @@
     "Heart": 90.0,
     "Heartbeat": 44.0,
     "High Heels": 85.0,
-    "Hippo": 42.87,
+    "Hippo": 42.86,
     "Human Scull": 150.0,
     "Ice Pop": 58.0,
     "Illuminati": 10000.0,
@@ -219,7 +219,7 @@
     "Plume": 48.0,
     "Poison Drop": 49.0,
     "Pomegranate": 55.55,
-    "Potion": 39.99,
+    "Potion": 39.58,
     "Rabbit": 80.0,
     "Rhino Warrior": 57.0,
     "Ring": 52.22,
@@ -308,5 +308,5 @@
     "Velvety": 36.2712,
     "Zombie Bite": 204.0
   },
-  "last_updated": 1785069506
+  "last_updated": 1785070654
 }

@@ -17,7 +17,7 @@
     "Azure Blue": 2.89,
     "Pure Gold": 2.84,
     "Caramel": 2.84,
-    "Neon Blue": 2.9,
+    "Neon Blue": 2.84,
     "Copper": 2.84,
     "Moonstone": 2.85,
     "Lemongrass": 2.89,
@@ -32,8 +32,8 @@
     "Mystic Pearl": 2.87,
     "Cappuccino": 2.85,
     "Battleship Grey": 2.84,
-    "Mint Green": 2.84,
-    "Steel Grey": 2.83,
+    "Mint Green": 2.83,
+    "Steel Grey": 2.84,
     "Purple": 2.84,
     "English Violet": 2.85,
     "Amber": 2.84,
@@ -97,7 +97,7 @@
     "Book": 8.0,
     "Bottlenose": 5.49,
     "Bow Tie": 8.32,
-    "Bread": 6.71,
+    "Bread": 6.72,
     "Breeze": 5.0,
     "Bubble Tea": 4.3,
     "Bubbles": 4.2,
@@ -316,7 +316,7 @@
     "Winged Helm": 7.25,
     "Wontons": 7.5,
     "Wreath": 6.0,
-    "Yin-Yang": 7.33
+    "Yin-Yang": 7.34
   },
   "models": {
     "Alien Script": 35.7,
@@ -324,7 +324,7 @@
     "Blue Jeans": 4.9776,
     "Brainstorm": 9.792,
     "Candy Pink": 5.61,
-    "Central Park": 3.7261926,
+    "Central Park": 8.16,
     "Cheerleader": 4.0698,
     "Chronicles": 4.08,
     "Clown": 12.7398,
@@ -422,5 +422,5 @@
     "Côte d’Azur": 5.1,
     "Joker’s Notes": 5.1
   },
-  "last_updated": 1785069506
+  "last_updated": 1785070654
 }

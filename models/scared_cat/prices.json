@@ -2,7 +2,7 @@
   "backdrops": {
     "Chocolate": 2.85,
     "Dark Lilac": 2.84,
-    "Mint Green": 2.84,
+    "Mint Green": 2.83,
     "Silver Blue": 2.92,
     "Moonstone": 2.85,
     "Electric Purple": 2.84,
@@ -50,8 +50,8 @@
     "Electric Indigo": 2.84,
     "Navy Blue": 2.9,
     "French Blue": 2.9,
-    "Steel Grey": 2.83,
-    "Neon Blue": 2.9,
+    "Steel Grey": 2.84,
+    "Neon Blue": 2.84,
     "English Violet": 2.85,
     "Indigo Dye": 2.85,
     "Copper": 2.84,
@@ -125,7 +125,7 @@
     "Drug": 285.0,
     "Eggplant": 210.0,
     "Elephant": 210.0,
-    "Evil Pumpkin": 250.0,
+    "Evil Pumpkin": 255.0,
     "Eyeball": 220.0,
     "Feather": 377.56,
     "Fish Skeleton": 205.0,
@@ -144,7 +144,7 @@
     "Illuminati": 188.0,
     "Inguz Rune": 240.0,
     "Jaws": 189.0,
-    "Kite": 299.2,
+    "Kite": 333.0,
     "Kitsune": 333.0,
     "Lemon Slice": 199.0,
     "Lollipop": 199.0,
@@ -217,7 +217,7 @@
     "Misty Ash": 344.76,
     "Nebula": 198.2982,
     "Niko": 185.589,
-    "Nyan Cat": 170.5746,
+    "Nyan Cat": 187.68,
     "Oreo": 714.0,
     "Pepe Paws": 214.2,
     "Phantom": 280.5,
@@ -236,5 +236,5 @@
     "Weedcat": 183.6,
     "Yolkster": 306.0
   },
-  "last_updated": 1785069506
+  "last_updated": 1785070654
 }

@@ -2,13 +2,13 @@
   "backdrops": {
     "Pine Green": 2.84,
     "Roman Silver": 2.85,
-    "Steel Grey": 2.83,
+    "Steel Grey": 2.84,
     "Copper": 2.84,
     "Battleship Grey": 2.84,
     "Electric Indigo": 2.84,
     "Pistachio": 2.83,
     "Desert Sand": 2.89,
-    "Mint Green": 2.84,
+    "Mint Green": 2.83,
     "Lemongrass": 2.89,
     "Cobalt Blue": 2.85,
     "Amber": 2.84,
@@ -50,7 +50,7 @@
     "Malachite": 2.85,
     "Pacific Cyan": 2.84,
     "Cappuccino": 2.85,
-    "Neon Blue": 2.9,
+    "Neon Blue": 2.84,
     "Raspberry": 2.9,
     "Shamrock Green": 2.84,
     "Sapphire": 2.85,
@@ -254,7 +254,7 @@
     "Pearl": 35.0,
     "Pierced Heart": 39.9,
     "Pigeon": 40.0,
-    "Pineapple": 45.0,
+    "Pineapple": 40.0,
     "Pirate Scull": 37.5,
     "Pixel Heart": 40.0,
     "Plum": 160.0,
@@ -271,7 +271,7 @@
     "Romantic Cake": 60.0,
     "Rose Blossom": 55.0,
     "Rose": 46.0,
-    "Sakura Flower": 49.89,
+    "Sakura Flower": 49.88,
     "Sakura": 34.8,
     "Sauron": 48.0,
     "Sea Horse": 56.0,
@@ -295,7 +295,7 @@
     "Sweets Box": 42.0,
     "Sword": 48.0,
     "Takoyaki": 40.0,
-    "Teddy Bear": 55.0,
+    "Teddy Bear": 50.0,
     "Telescope": 40.0,
     "Teru Bōzu": 50.0,
     "Tic-Tac-Toe": 111.0,
@@ -394,7 +394,7 @@
     "Watermelon": 33.4254,
     "Winnie": 44.8698,
     "Wizard": 44.8698,
-    "Zebra": 33.66
+    "Zebra": 33.4254
   },
-  "last_updated": 1785069506
+  "last_updated": 1785070654
 }

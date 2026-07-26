@@ -33,7 +33,7 @@
     "Indigo Dye": 2.85,
     "Midnight Blue": 3.366,
     "French Blue": 2.9,
-    "Ranger Green": 2.85,
+    "Ranger Green": 2.82,
     "Gunmetal": 2.96,
     "Mustard": 2.84,
     "French Violet": 2.9,
@@ -60,10 +60,10 @@
     "Khaki Green": 2.86,
     "Purple": 2.84,
     "Sky Blue": 2.85,
-    "Mint Green": 2.84,
-    "Steel Grey": 2.83,
+    "Mint Green": 2.83,
+    "Steel Grey": 2.84,
     "Copper": 2.84,
-    "Neon Blue": 2.9,
+    "Neon Blue": 2.84,
     "Shamrock Green": 2.84,
     "Grape": 2.86,
     "Jade Green": 2.89,
@@ -107,9 +107,9 @@
   "models": {
     "Apple Dip": 2.9478,
     "Banana": 2.8662,
-    "Beehive": 2.8662,
+    "Beehive": 2.856,
     "Berry Split": 3.0396,
-    "Bite-Size": 2.805,
+    "Bite-Size": 2.856,
     "BiteCoin": 4.08,
     "Brain Freeze": 2.8662,
     "Bubbles": 3.0192,
@@ -130,7 +130,7 @@
     "Fried Chicken": 2.856,
     "Funky Disco": 2.9886,
     "Ghost Biters": 5.406,
-    "Gold Ingot": 3.876,
+    "Gold Ingot": 3.57,
     "Golden Drake": 9.69,
     "Granite": 2.9274,
     "Ice Craft": 3.0906,
@@ -156,5 +156,5 @@
     "Watermelon": 2.9274,
     "Whisker": 3.1824
   },
-  "last_updated": 1785069506
+  "last_updated": 1785070654
 }

@@ -3,7 +3,7 @@
     "Black": 21.8994,
     "Emerald": 2.84,
     "Roman Silver": 2.85,
-    "Steel Grey": 2.83,
+    "Steel Grey": 2.84,
     "Jade Green": 2.89,
     "Seal Brown": 2.92,
     "Sky Blue": 2.85,
@@ -26,7 +26,7 @@
     "Celtic Blue": 2.84,
     "Orange": 2.84,
     "Copper": 2.84,
-    "Ranger Green": 2.85,
+    "Ranger Green": 2.82,
     "French Violet": 2.9,
     "Pure Gold": 2.84,
     "Persimmon": 2.85,
@@ -35,7 +35,7 @@
     "Shamrock Green": 2.84,
     "Caramel": 2.84,
     "Dark Green": 2.85,
-    "Mint Green": 2.84,
+    "Mint Green": 2.83,
     "Midnight Blue": 3.57,
     "Lavender": 2.84,
     "Lemongrass": 2.89,
@@ -52,7 +52,7 @@
     "Aquamarine": 2.84,
     "Dark Lilac": 2.84,
     "Ivory White": 2.87,
-    "Neon Blue": 2.9,
+    "Neon Blue": 2.84,
     "Light Olive": 2.84,
     "Pine Green": 2.84,
     "Cyberpunk": 2.88,
@@ -84,7 +84,7 @@
   "symbols": {},
   "models": {
     "Adventure": 4.6512,
-    "Alcatraz": 3.4578,
+    "Alcatraz": 3.672,
     "Ambition": 3.57,
     "Ballerina": 3.672,
     "Barry Allen": 3.57,
@@ -134,5 +134,5 @@
     "Trader": 4.2432,
     "Twin Peaks": 3.519
   },
-  "last_updated": 1785069506
+  "last_updated": 1785070654
 }
