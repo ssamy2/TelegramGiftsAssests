@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Fandango": 2.8,
+    "Fandango": 2.82,
     "Grape": 2.82,
     "Rifle Green": 2.82,
     "Seal Brown": 2.92,
@@ -16,7 +16,7 @@
     "Carrot Juice": 2.83,
     "Mustard": 2.84,
     "Celtic Blue": 2.82,
-    "Dark Green": 2.85,
+    "Dark Green": 2.84,
     "Burnt Sienna": 2.83,
     "Indigo Dye": 2.82,
     "Old Gold": 2.83,
@@ -67,7 +67,7 @@
     "Dark Lilac": 2.85,
     "Malachite": 2.81,
     "Persimmon": 2.85,
-    "Desert Sand": 2.82,
+    "Desert Sand": 2.89,
     "Amber": 2.83,
     "Raspberry": 2.82,
     "French Blue": 2.82,
@@ -77,7 +77,7 @@
     "Camo Green": 2.81,
     "Jade Green": 2.82,
     "Chestnut": 2.84,
-    "Cyberpunk": 2.85,
+    "Cyberpunk": 2.82,
     "Black": 22.44,
     "Onyx Black": 5.814
   },
@@ -174,7 +174,7 @@
     "Ornament": 3.17,
     "Palette": 3.99,
     "Party Hat": 3.38,
-    "Peace Dove": 3.97,
+    "Peace Dove": 4.0,
     "Peaked Cap": 3.2,
     "Pear": 3.34,
     "Pencil": 4.0,
@@ -275,7 +275,7 @@
     "Sweet Dreams": 4.59,
     "Tempest": 3.2294016,
     "The Deceiver": 6.426,
-    "Venomous": 3.57,
+    "Venomous": 3.213,
     "Water Snake": 3.4068,
     "Wiggly": 3.468,
     "Yaaaaaay!": 5.814,
@@ -283,5 +283,5 @@
     "Durov’s Cap": 3.8658,
     "Santa’s Helper": 3.2946
   },
-  "last_updated": 1785028516
+  "last_updated": 1785031002
 }

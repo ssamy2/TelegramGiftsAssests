@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Fandango": 2.8,
+    "Fandango": 2.82,
     "Battleship Grey": 2.82,
     "Azure Blue": 2.82,
     "Cobalt Blue": 2.83,
@@ -16,11 +16,11 @@
     "Amber": 2.83,
     "Cappuccino": 2.82,
     "Sky Blue": 2.85,
-    "Cyberpunk": 2.85,
+    "Cyberpunk": 2.82,
     "Pacific Cyan": 2.84,
     "Emerald": 2.82,
     "Lemongrass": 2.89,
-    "Desert Sand": 2.82,
+    "Desert Sand": 2.89,
     "Silver Blue": 2.82,
     "Electric Indigo": 2.82,
     "Ivory White": 2.85,
@@ -74,7 +74,7 @@
     "Bandage": 7.9,
     "Baphomet": 4.9,
     "Bastet": 19.0,
-    "Birthday Cake": 7.0,
+    "Birthday Cake": 6.99,
     "Black Widow": 4.45,
     "Blood Drop": 6.0,
     "Bloody Axe": 4.89,
@@ -227,7 +227,7 @@
     "Cthulhu": 4.692,
     "Daphnaie": 4.692,
     "Dark Side": 14.433,
-    "DJ Witch": 5.916,
+    "DJ Witch": 6.1098,
     "Downtown": 5.1,
     "Dragonfruit": 4.59,
     "Ectoplasm": 6.5076,
@@ -303,5 +303,5 @@
     "Young Witch": 4.2942,
     "Cat’s Grasp": 4.386
   },
-  "last_updated": 1785028516
+  "last_updated": 1785031002
 }

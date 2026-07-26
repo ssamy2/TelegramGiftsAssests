@@ -1,8 +1,8 @@
 {
   "backdrops": {
-    "Fandango": 2.8,
+    "Fandango": 2.82,
     "Silver Blue": 2.82,
-    "Desert Sand": 2.82,
+    "Desert Sand": 2.89,
     "Coral Red": 2.8,
     "Mystic Pearl": 2.85,
     "Moonstone": 2.8,
@@ -16,7 +16,7 @@
     "Malachite": 2.81,
     "Strawberry": 2.8,
     "Copper": 2.81,
-    "Cyberpunk": 2.85,
+    "Cyberpunk": 2.82,
     "Grape": 2.82,
     "Rosewood": 2.86,
     "French Blue": 2.82,
@@ -64,7 +64,7 @@
   "symbols": {
     "Acorn": 5.0,
     "Alkonost": 4.28,
-    "Apple": 5.62,
+    "Apple": 5.63,
     "Avocado": 13.0,
     "Axe": 4.99,
     "Ball": 8.4,
@@ -77,14 +77,14 @@
     "Book": 4.6,
     "Bow Tie": 8.9,
     "Bowtie": 5.0,
-    "Bubble Tea": 4.77,
+    "Bubble Tea": 4.76,
     "Bunny Ears": 15.0,
     "Candle": 3.9,
     "Candy": 5.0,
     "Champagne": 3.89,
     "Cheese": 6.0,
     "Cherry": 10.25,
-    "Chest": 3.8,
+    "Chest": 3.79,
     "Chili Pepper": 10.2,
     "Chili": 6.0,
     "Christmas Tree": 4.1,
@@ -164,7 +164,7 @@
     "Rain Drop": 5.9,
     "Rocket": 9.7,
     "Rook": 5.0,
-    "Rudolph": 4.13,
+    "Rudolph": 4.09,
     "Sakura": 5.0,
     "Santa Hat": 4.5,
     "Scarab": 12.0,
@@ -172,7 +172,7 @@
     "Seahorse": 14.0,
     "Shark Knife": 4.2,
     "Shield": 12.0,
-    "Shooting Star": 3.78,
+    "Shooting Star": 3.97,
     "Skull": 9.0,
     "Smartphone": 10.0,
     "Snow Angel": 4.1,
@@ -204,7 +204,7 @@
   "models": {
     "Alpine Fern": 3.8658,
     "Amanita": 4.386,
-    "Amethyst": 3.927,
+    "Amethyst": 3.8964,
     "Anemone": 3.927,
     "Arborist": 4.5492,
     "Astronaut": 9.1698,
@@ -303,5 +303,5 @@
     "White Pear": 5.61,
     "Woodman": 4.233
   },
-  "last_updated": 1785028516
+  "last_updated": 1785031002
 }

@@ -6,7 +6,7 @@
     "Roman Silver": 2.82,
     "Tactical Pine": 2.83,
     "Azure Blue": 2.82,
-    "Fandango": 2.8,
+    "Fandango": 2.82,
     "Midnight Blue": 5.8446,
     "Marine Blue": 2.9,
     "Fire Engine": 2.82,
@@ -32,8 +32,8 @@
     "Hunter Green": 2.82,
     "Grape": 2.82,
     "Old Gold": 2.83,
-    "Cyberpunk": 2.85,
-    "Desert Sand": 2.82,
+    "Cyberpunk": 2.82,
+    "Desert Sand": 2.89,
     "Deep Cyan": 2.85,
     "Celtic Blue": 2.82,
     "Electric Indigo": 2.82,
@@ -69,7 +69,7 @@
     "Jade Green": 2.82,
     "Moonstone": 2.8,
     "Purple": 2.82,
-    "Dark Green": 2.85,
+    "Dark Green": 2.84,
     "Lemongrass": 2.89,
     "Turquoise": 2.84,
     "English Violet": 2.85,
@@ -136,7 +136,7 @@
     "Fire": 6.2,
     "Fish": 6.5,
     "Flamingo": 5.85,
-    "Flashlight": 10.05,
+    "Flashlight": 10.09,
     "Flipper": 6.66,
     "Flower Tulip": 5.55,
     "Flower": 7.99,
@@ -224,7 +224,7 @@
     "Star": 5.52,
     "Strawberry": 5.8,
     "Sun": 5.78,
-    "Sunflower": 10.01,
+    "Sunflower": 10.0,
     "Tetsubin": 15.0,
     "Tie": 5.9,
     "Top Hat": 5.7,
@@ -296,5 +296,5 @@
     "Titanium": 5.3856,
     "Twilight Wish": 5.661
   },
-  "last_updated": 1785028516
+  "last_updated": 1785031002
 }

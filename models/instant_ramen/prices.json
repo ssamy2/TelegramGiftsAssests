@@ -1,9 +1,9 @@
 {
   "backdrops": {
-    "Cyberpunk": 2.85,
+    "Cyberpunk": 2.82,
     "Sky Blue": 2.85,
     "Dark Lilac": 2.85,
-    "Desert Sand": 2.82,
+    "Desert Sand": 2.89,
     "Purple": 2.82,
     "Jade Green": 2.82,
     "Chestnut": 2.84,
@@ -41,11 +41,11 @@
     "Cappuccino": 2.82,
     "Burgundy": 2.86,
     "Grape": 2.82,
-    "Dark Green": 2.85,
+    "Dark Green": 2.84,
     "Amber": 2.83,
     "Carrot Juice": 2.83,
     "Persimmon": 2.85,
-    "Fandango": 2.8,
+    "Fandango": 2.82,
     "Copper": 2.81,
     "Chocolate": 2.82,
     "Tactical Pine": 2.83,
@@ -110,7 +110,7 @@
     "Hotpot": 2.9682,
     "Jade Dragon": 3.4986,
     "Jelly Brain": 3.06,
-    "Khinkali": 3.1722,
+    "Khinkali": 3.468,
     "Kraken": 3.3558,
     "Mushroom": 2.8968,
     "Octopus": 2.958,
@@ -134,5 +134,5 @@
     "Topokki": 2.9478,
     "Turtle Soup": 3.3966
   },
-  "last_updated": 1785028516
+  "last_updated": 1785031002
 }

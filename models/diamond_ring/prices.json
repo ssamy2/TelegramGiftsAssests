@@ -40,10 +40,10 @@
     "Azure Blue": 2.82,
     "Silver Blue": 2.82,
     "Aquamarine": 2.8,
-    "Desert Sand": 2.82,
+    "Desert Sand": 2.89,
     "Strawberry": 2.8,
     "Electric Purple": 2.92,
-    "Fandango": 2.8,
+    "Fandango": 2.82,
     "Burgundy": 2.86,
     "Electric Indigo": 2.82,
     "Grape": 2.82,
@@ -51,7 +51,7 @@
     "Mint Green": 2.84,
     "Lavender": 2.9,
     "Carrot Juice": 2.83,
-    "Cyberpunk": 2.85,
+    "Cyberpunk": 2.82,
     "Pacific Cyan": 2.84,
     "Navy Blue": 2.8,
     "French Blue": 2.82,
@@ -195,7 +195,7 @@
     "High Heels": 35.0,
     "Hippo": 40.0,
     "Holy Grail": 29.79,
-    "Horseshoe": 26.86,
+    "Horseshoe": 26.78,
     "Hot Matcha": 33.33,
     "Ice Cream": 129.0,
     "Ice Pop": 99.99,
@@ -293,7 +293,7 @@
     "Rooster": 30.0,
     "Rose": 29.7,
     "Royal Crown": 29.8,
-    "Sakura Flower": 26.85,
+    "Sakura Flower": 26.77,
     "Sakura": 49.0,
     "Scissors": 34.99,
     "Scorpion": 33.0,
@@ -458,5 +458,5 @@
     "Water Lily": 28.356,
     "Whirlpool": 30.09
   },
-  "last_updated": 1785028516
+  "last_updated": 1785031002
 }

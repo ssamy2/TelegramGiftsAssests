@@ -11,7 +11,7 @@
     "Burnt Sienna": 2.83,
     "Carmine": 2.82,
     "Satin Gold": 2.88,
-    "Fandango": 2.8,
+    "Fandango": 2.82,
     "Cappuccino": 2.82,
     "Feldgrau": 2.86,
     "Pacific Cyan": 2.84,
@@ -55,15 +55,15 @@
     "Copper": 2.81,
     "Chestnut": 2.84,
     "Coral Red": 2.8,
-    "Cyberpunk": 2.85,
+    "Cyberpunk": 2.82,
     "Khaki Green": 2.83,
-    "Desert Sand": 2.82,
+    "Desert Sand": 2.89,
     "Light Olive": 2.84,
     "Hunter Green": 2.82,
     "Steel Grey": 2.8,
     "Lavender": 2.9,
     "Navy Blue": 2.8,
-    "Dark Green": 2.85,
+    "Dark Green": 2.84,
     "Persimmon": 2.85,
     "Ivory White": 2.85,
     "Fire Engine": 2.82,
@@ -103,7 +103,7 @@
     "Blossom": 3.03,
     "Boat": 3.33,
     "Bobby Helmet": 3.53,
-    "Bone": 4.55,
+    "Bone": 4.56,
     "Breeze": 3.49,
     "Bubble Tea": 3.05,
     "Bubbles": 3.0,
@@ -260,7 +260,7 @@
   },
   "models": {
     "Alien Slime": 3.06,
-    "Arizona": 3.06,
+    "Arizona": 2.9478,
     "Bag End": 3.0396,
     "Biohazard": 3.162,
     "Bitcoin": 7.497,
@@ -310,5 +310,5 @@
     "Wasteland": 3.162,
     "Zero Sugar": 3.06
   },
-  "last_updated": 1785028516
+  "last_updated": 1785031002
 }

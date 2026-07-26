@@ -18,7 +18,7 @@
     "Turquoise": 2.84,
     "Sky Blue": 2.85,
     "Satin Gold": 2.88,
-    "Desert Sand": 2.82,
+    "Desert Sand": 2.89,
     "Malachite": 2.81,
     "Steel Grey": 2.8,
     "Sapphire": 2.85,
@@ -37,7 +37,7 @@
     "Pacific Green": 2.86,
     "Mint Green": 2.84,
     "Mystic Pearl": 2.85,
-    "Fandango": 2.8,
+    "Fandango": 2.82,
     "Cobalt Blue": 2.83,
     "Emerald": 2.82,
     "Pacific Cyan": 2.84,
@@ -47,7 +47,7 @@
     "Raspberry": 2.82,
     "Silver Blue": 2.82,
     "Pure Gold": 2.82,
-    "Cyberpunk": 2.85,
+    "Cyberpunk": 2.82,
     "Persimmon": 2.85,
     "Indigo Dye": 2.82,
     "Grape": 2.82,
@@ -116,7 +116,7 @@
     "Feather": 26.5,
     "Fire": 29.9,
     "Fish Skeleton": 10.56,
-    "Fish": 15.82,
+    "Fish": 15.81,
     "Fleur-de-lis": 12.2,
     "Flower Tulip": 29.99,
     "Flower": 19.0,
@@ -161,7 +161,7 @@
     "Pencil": 13.0,
     "Piggy Bank": 52.0,
     "Planet": 29.9,
-    "Poison Drop": 11.34,
+    "Poison Drop": 11.1,
     "Police Badge": 52.0,
     "Potion": 12.0,
     "Ram of Amun": 12.2,
@@ -194,7 +194,7 @@
     "Venetian Mask": 53.0,
     "Voodoo Doll": 12.0,
     "Vortex": 12.0,
-    "Witch’s Hat": 11.15
+    "Witch’s Hat": 10.91
   },
   "models": {
     "Amanita": 10.914,
@@ -253,5 +253,5 @@
     "Wednesday": 30.345,
     "World Cup": 35.7
   },
-  "last_updated": 1785028516
+  "last_updated": 1785031002
 }

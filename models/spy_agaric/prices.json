@@ -2,12 +2,12 @@
   "backdrops": {
     "Roman Silver": 2.82,
     "Cappuccino": 2.82,
-    "Desert Sand": 2.82,
+    "Desert Sand": 2.89,
     "Battleship Grey": 2.82,
     "Aquamarine": 2.8,
     "Neon Blue": 2.9,
     "Pure Gold": 2.82,
-    "Cyberpunk": 2.85,
+    "Cyberpunk": 2.82,
     "Moonstone": 2.8,
     "Lemongrass": 2.89,
     "Dark Lilac": 2.85,
@@ -42,7 +42,7 @@
     "Sky Blue": 2.85,
     "Chocolate": 2.82,
     "Khaki Green": 2.83,
-    "Fandango": 2.8,
+    "Fandango": 2.82,
     "Orange": 2.85,
     "Mint Green": 2.84,
     "Pine Green": 2.82,
@@ -66,7 +66,7 @@
     "Alarm": 6.85,
     "Anchor": 5.5,
     "Arabian Horse": 4.6,
-    "Autumn Leaves": 4.13,
+    "Autumn Leaves": 4.2,
     "Axe": 7.14,
     "Ball": 6.0,
     "Baphomet": 4.4,
@@ -83,7 +83,7 @@
     "Bubbles": 4.9,
     "Bug": 5.5,
     "Burger": 4.75,
-    "Candle": 4.09,
+    "Candle": 3.99,
     "Candy": 4.5,
     "Cap": 5.39,
     "Cash": 5.0,
@@ -175,7 +175,7 @@
     "Spades": 4.64,
     "Spanner": 5.36,
     "Sparks": 8.0,
-    "Spider Web": 4.0,
+    "Spider Web": 4.2,
     "Spooky Cat": 5.2,
     "Sprout": 8.0,
     "Star Crown": 11.0,
@@ -285,5 +285,5 @@
     "Wizard Cap": 4.743,
     "Zebra Cap": 4.5798
   },
-  "last_updated": 1785028516
+  "last_updated": 1785031002
 }

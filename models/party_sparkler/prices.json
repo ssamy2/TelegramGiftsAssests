@@ -3,7 +3,7 @@
     "Chestnut": 2.84,
     "Sky Blue": 2.85,
     "Indigo Dye": 2.82,
-    "Desert Sand": 2.82,
+    "Desert Sand": 2.89,
     "Pistachio": 2.8,
     "Azure Blue": 2.82,
     "Hunter Green": 2.82,
@@ -21,7 +21,7 @@
     "Raspberry": 2.82,
     "Lemongrass": 2.89,
     "Turquoise": 2.84,
-    "Cyberpunk": 2.85,
+    "Cyberpunk": 2.82,
     "Chocolate": 2.82,
     "Electric Purple": 2.92,
     "Burgundy": 2.86,
@@ -31,7 +31,7 @@
     "Pacific Green": 2.86,
     "Pure Gold": 2.82,
     "Midnight Blue": 4.08,
-    "Fandango": 2.8,
+    "Fandango": 2.82,
     "Jade Green": 2.82,
     "Coral Red": 2.8,
     "Platinum": 2.82,
@@ -100,7 +100,7 @@
     "Drug": 3.5,
     "Eagle": 7.0,
     "Eggplant": 4.0,
-    "Eikthyrnir": 3.5,
+    "Eikthyrnir": 4.0,
     "Fehu Rune": 3.68,
     "Festive Wreath": 3.84,
     "Firebird": 5.88,
@@ -122,7 +122,7 @@
     "Hammerhead": 3.5,
     "Hand of God": 3.99,
     "Hedgehog": 7.6,
-    "Hot Drink": 3.26,
+    "Hot Drink": 3.54,
     "Ice Pop": 3.5,
     "Ice Skates": 3.99,
     "Jellyfish": 3.5,
@@ -301,5 +301,5 @@
     "Windy Day": 71.4,
     "Yoshi Green": 3.7332
   },
-  "last_updated": 1785028516
+  "last_updated": 1785031002
 }

@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Feldgrau": 2.86,
-    "Cyberpunk": 2.85,
+    "Cyberpunk": 2.82,
     "Pistachio": 2.8,
     "Carrot Juice": 2.83,
     "Pacific Green": 2.86,
@@ -16,7 +16,7 @@
     "Battleship Grey": 2.82,
     "Tactical Pine": 2.83,
     "Chestnut": 2.84,
-    "Dark Green": 2.85,
+    "Dark Green": 2.84,
     "Pacific Cyan": 2.84,
     "Dark Lilac": 2.85,
     "Indigo Dye": 2.82,
@@ -51,7 +51,7 @@
     "Chocolate": 2.82,
     "Lavender": 2.9,
     "Ivory White": 2.85,
-    "Fandango": 2.8,
+    "Fandango": 2.82,
     "English Violet": 2.85,
     "Celtic Blue": 2.82,
     "Silver Blue": 2.82,
@@ -60,7 +60,7 @@
     "Grape": 2.82,
     "Coral Red": 2.8,
     "Moonstone": 2.8,
-    "Desert Sand": 2.82,
+    "Desert Sand": 2.89,
     "Raspberry": 2.82,
     "Azure Blue": 2.82,
     "Mustard": 2.84,
@@ -370,8 +370,8 @@
     "Money Safe": 15.7998,
     "Music Box": 6.936,
     "New Sneakers": 4.59,
-    "Night Terror": 4.182,
-    "Oktoberfest": 3.9372,
+    "Night Terror": 3.8964,
+    "Oktoberfest": 3.8556,
     "Peace Bro": 4.5288,
     "Pennywise": 6.324,
     "Pink Bunny": 4.08,
@@ -401,5 +401,5 @@
     "Let’s Rock": 3.978,
     "Rubik’s Cube": 6.7116
   },
-  "last_updated": 1785028516
+  "last_updated": 1785031002
 }
