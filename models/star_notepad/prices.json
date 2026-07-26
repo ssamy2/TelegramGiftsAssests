@@ -2,8 +2,8 @@
   "backdrops": {
     "Platinum": 2.77,
     "Strawberry": 2.8,
-    "Rosewood": 2.81,
-    "Indigo Dye": 2.8,
+    "Rosewood": 2.86,
+    "Indigo Dye": 2.82,
     "Fandango": 2.83,
     "Coral Red": 2.8,
     "Persimmon": 2.85,
@@ -11,7 +11,7 @@
     "Midnight Blue": 3.9984,
     "Burgundy": 2.8,
     "Sapphire": 2.85,
-    "Aquamarine": 2.78,
+    "Aquamarine": 2.8,
     "Pine Green": 2.82,
     "Navy Blue": 2.8,
     "Azure Blue": 2.8,
@@ -29,7 +29,7 @@
     "Pacific Green": 2.8,
     "Carrot Juice": 2.8,
     "Electric Indigo": 2.82,
-    "Mystic Pearl": 2.85,
+    "Mystic Pearl": 2.87,
     "Cappuccino": 2.82,
     "Battleship Grey": 2.82,
     "Mint Green": 2.84,
@@ -54,7 +54,7 @@
     "Silver Blue": 2.82,
     "Emerald": 2.8,
     "Grape": 2.82,
-    "Chocolate": 2.8,
+    "Chocolate": 2.82,
     "Sky Blue": 2.8,
     "Jade Green": 2.8,
     "Shamrock Green": 2.84,
@@ -135,7 +135,7 @@
     "Doghouse": 4.8,
     "Donut": 37.77,
     "Drug": 4.3,
-    "Duck Face": 6.41,
+    "Duck Face": 6.4,
     "Egg": 5.0,
     "Eikthyrnir": 5.5,
     "Elephant": 9.99,
@@ -414,7 +414,7 @@
     "Tropical": 4.0698,
     "True Love": 9.2718,
     "Tutti Frutti": 3.9984,
-    "Twin Stars": 3.927,
+    "Twin Stars": 3.8349144,
     "Vice City": 7.14,
     "Vineyard": 3.876,
     "Walnut": 8.16,
@@ -422,5 +422,5 @@
     "Côte d’Azur": 5.1,
     "Joker’s Notes": 5.1
   },
-  "last_updated": 1785041013
+  "last_updated": 1785043528
 }
