@@ -7,18 +7,18 @@
     "Purple": 2.8,
     "Jade Green": 2.8,
     "Chestnut": 2.8,
-    "Deep Cyan": 2.8,
+    "Deep Cyan": 2.88,
     "Tomato": 2.8,
-    "Fire Engine": 2.82,
-    "Burnt Sienna": 2.8,
+    "Fire Engine": 2.9,
+    "Burnt Sienna": 2.83,
     "Carmine": 2.82,
     "Lavender": 2.9,
     "Electric Indigo": 2.82,
-    "Neon Blue": 2.9,
+    "Neon Blue": 2.88,
     "Mint Green": 2.84,
     "English Violet": 2.85,
     "Rosewood": 2.86,
-    "Roman Silver": 2.79,
+    "Roman Silver": 2.82,
     "French Blue": 2.8,
     "Turquoise": 2.84,
     "Gunmetal": 2.86,
@@ -62,7 +62,7 @@
     "Aquamarine": 2.8,
     "Hunter Green": 2.82,
     "Steel Grey": 2.8,
-    "Orange": 2.79,
+    "Orange": 2.85,
     "Ivory White": 2.85,
     "Midnight Blue": 2.9988,
     "Cobalt Blue": 2.8,
@@ -83,7 +83,7 @@
   },
   "symbols": {},
   "models": {
-    "Abduction": 2.8662,
+    "Abduction": 2.8356,
     "Anti-Gravity": 3.009,
     "Arcane Bowl": 2.9784,
     "Bacon": 2.9682,
@@ -134,5 +134,5 @@
     "Topokki": 2.9376,
     "Turtle Soup": 3.3966
   },
-  "last_updated": 1785038552
+  "last_updated": 1785041013
 }

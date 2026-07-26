@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Neon Blue": 2.9,
+    "Neon Blue": 2.88,
     "Light Olive": 2.8,
     "Persimmon": 2.85,
     "English Violet": 2.85,
@@ -9,14 +9,14 @@
     "Cappuccino": 2.82,
     "Chestnut": 2.8,
     "Mexican Pink": 2.82,
-    "Burnt Sienna": 2.8,
+    "Burnt Sienna": 2.83,
     "Electric Indigo": 2.82,
     "Platinum": 2.8,
     "Old Gold": 2.83,
     "Carmine": 2.82,
     "Emerald": 2.8,
     "Malachite": 2.81,
-    "Roman Silver": 2.79,
+    "Roman Silver": 2.82,
     "Tomato": 2.8,
     "Sapphire": 2.85,
     "Strawberry": 2.8,
@@ -24,11 +24,11 @@
     "Celtic Blue": 2.82,
     "Shamrock Green": 2.84,
     "Copper": 2.81,
-    "Fire Engine": 2.82,
+    "Fire Engine": 2.9,
     "Pure Gold": 2.8,
     "Amber": 2.83,
     "Caramel": 2.83,
-    "Orange": 2.79,
+    "Orange": 2.85,
     "Camo Green": 2.81,
     "Coral Red": 2.8,
     "Moonstone": 2.82,
@@ -61,7 +61,7 @@
     "Gunmetal": 2.86,
     "Rifle Green": 2.82,
     "Raspberry": 2.82,
-    "Deep Cyan": 2.8,
+    "Deep Cyan": 2.88,
     "Pacific Cyan": 2.84,
     "Midnight Blue": 48.96,
     "Cobalt Blue": 2.8,
@@ -192,7 +192,7 @@
     "Moon": 74.0,
     "Music Skull": 93.45,
     "Mustache": 100.0,
-    "Narcissus": 73.88,
+    "Narcissus": 73.89,
     "Nemes": 55.0,
     "Neptune": 52.0,
     "Nordic Wolf": 70.0,
@@ -254,7 +254,7 @@
     "Watermelon": 60.0,
     "Wepwawet": 65.0,
     "Westside Hand": 6666.0,
-    "Wolf Rage": 149.89,
+    "Wolf Rage": 149.88,
     "Yo Sign": 65.0
   },
   "models": {
@@ -309,5 +309,5 @@
     "Vape Wave": 45.9,
     "War Rig": 49.98
   },
-  "last_updated": 1785038552
+  "last_updated": 1785041013
 }

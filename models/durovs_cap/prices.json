@@ -8,7 +8,7 @@
     "Pistachio": 2.8,
     "Pacific Green": 2.8,
     "Emerald": 2.8,
-    "Roman Silver": 2.79,
+    "Roman Silver": 2.82,
     "Chestnut": 2.8,
     "Malachite": 2.81,
     "Ivory White": 2.85,
@@ -22,7 +22,7 @@
     "Fandango": 2.83,
     "Grape": 2.82,
     "Rosewood": 2.86,
-    "Neon Blue": 2.9,
+    "Neon Blue": 2.88,
     "Pacific Cyan": 2.84,
     "Pine Green": 2.82,
     "Sky Blue": 2.8,
@@ -41,7 +41,7 @@
     "Desert Sand": 2.89,
     "Mystic Pearl": 2.85,
     "Aquamarine": 2.8,
-    "Orange": 2.79,
+    "Orange": 2.85,
     "Electric Purple": 2.92,
     "Satin Gold": 2.88,
     "English Violet": 2.85,
@@ -106,7 +106,7 @@
     "Bubbles": 445.0,
     "Maple": 525.0,
     "Acorn": 550.0,
-    "Anchor": 750.0,
+    "Anchor": 1500.0,
     "Apple": 750.0,
     "Arabian Horse": 650.0,
     "Baphomet": 900.0,
@@ -287,5 +287,5 @@
     "Villager": 802.0,
     "Voltage": 900.0
   },
-  "last_updated": 1785038552
+  "last_updated": 1785041013
 }

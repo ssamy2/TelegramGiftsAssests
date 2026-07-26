@@ -7,8 +7,8 @@
     "Pacific Green": 2.8,
     "Copper": 2.81,
     "Sapphire": 2.85,
-    "Roman Silver": 2.79,
-    "Neon Blue": 2.9,
+    "Roman Silver": 2.82,
+    "Neon Blue": 2.88,
     "Indigo Dye": 2.8,
     "Navy Blue": 2.8,
     "Steel Grey": 2.8,
@@ -23,7 +23,7 @@
     "Electric Purple": 2.92,
     "English Violet": 2.85,
     "Turquoise": 2.84,
-    "Orange": 2.79,
+    "Orange": 2.85,
     "Grape": 2.82,
     "Purple": 2.8,
     "Satin Gold": 2.88,
@@ -161,6 +161,7 @@
     "Lovely Rose": 5000.0,
     "Monstera": 253.05,
     "Ladybug": 258.0,
+    "Padlock": 525.2,
     "Alkonost": 1111.0,
     "Anchor": 332.0,
     "Apple": 720.0,
@@ -193,7 +194,7 @@
     "Cute Bear": 800.0,
     "Dessert": 900.0,
     "Dragonfly": 5000.0,
-    "Drug": 344.0,
+    "Drug": 322.0,
     "Eagle": 490.0,
     "Eikthyrnir": 428.0,
     "Elephant": 750.0,
@@ -239,7 +240,6 @@
     "Ouroboros": 270.0,
     "Owl": 279.49,
     "Oxen of Fire": 1700.0,
-    "Padlock": 525.2,
     "Paw": 600.0,
     "PC Mouse": 550.0,
     "Pear": 1000.0,
@@ -364,5 +364,5 @@
     "Smelting": 4100.0,
     "Blizzard": 994.9998
   },
-  "last_updated": 1785038552
+  "last_updated": 1785041013
 }

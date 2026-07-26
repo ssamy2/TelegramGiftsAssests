@@ -27,11 +27,11 @@
     "Sapphire": 2.85,
     "Lemongrass": 2.8,
     "Purple": 2.8,
-    "Neon Blue": 2.9,
+    "Neon Blue": 2.88,
     "Turquoise": 2.84,
     "Ivory White": 2.85,
     "Azure Blue": 2.8,
-    "Roman Silver": 2.79,
+    "Roman Silver": 2.82,
     "Satin Gold": 2.88,
     "Platinum": 2.8,
     "Silver Blue": 2.82,
@@ -43,7 +43,7 @@
     "Rosewood": 2.86,
     "Cyberpunk": 2.81,
     "Sky Blue": 2.8,
-    "Orange": 2.79,
+    "Orange": 2.85,
     "Pistachio": 2.8,
     "Midnight Blue": 142.8,
     "Pacific Cyan": 2.84,
@@ -106,7 +106,7 @@
     "Cobra": 170.0,
     "Acorn": 480.0,
     "Alarm": 4444.0,
-    "Alkonost": 126.36,
+    "Alkonost": 125.48,
     "Anchor": 208.87,
     "Apple": 150.0,
     "Arabian Horse": 205.0,
@@ -114,11 +114,11 @@
     "Bastet": 139.0,
     "Bell Pepper": 300.0,
     "Birthday Cake": 200.0,
-    "Bishop": 126.35,
+    "Bishop": 125.49,
     "Blood Drop": 180.0,
     "Bone": 236.5,
     "Bubble Tea": 200.0,
-    "Bull of Heaven": 132.8,
+    "Bull of Heaven": 132.78,
     "Bunny Ears": 370.0,
     "Calm Wolf": 190.0,
     "Cap": 139.0,
@@ -215,7 +215,7 @@
     "Venetian Mask": 309.0,
     "White Deer": 300.0,
     "Wolf Rage": 189.88,
-    "Wreath": 126.36
+    "Wreath": 125.48
   },
   "models": {
     "Aquamarine": 173.4,
@@ -269,5 +269,5 @@
     "Warholite": 153.0,
     "White Opal": 123.4098
   },
-  "last_updated": 1785038552
+  "last_updated": 1785041013
 }

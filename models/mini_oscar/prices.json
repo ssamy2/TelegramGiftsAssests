@@ -36,7 +36,7 @@
     "Mint Green": 2.84,
     "Platinum": 2.8,
     "Strawberry": 2.8,
-    "Orange": 2.79,
+    "Orange": 2.85,
     "Azure Blue": 2.8,
     "Electric Purple": 2.92,
     "Mystic Pearl": 2.85,
@@ -44,7 +44,7 @@
     "Dark Lilac": 2.85,
     "Pistachio": 2.8,
     "Fandango": 2.83,
-    "Neon Blue": 2.9,
+    "Neon Blue": 2.88,
     "Navy Blue": 2.8,
     "Pine Green": 2.82,
     "Satin Gold": 2.88,
@@ -56,7 +56,7 @@
     "Rosewood": 2.86,
     "Hunter Green": 2.82,
     "Aquamarine": 2.8,
-    "Roman Silver": 2.79,
+    "Roman Silver": 2.82,
     "Cyberpunk": 2.81,
     "Black": 663.0,
     "Onyx Black": 193.8
@@ -69,7 +69,6 @@
     "Crusader Cross": 200.0,
     "Greek Sun": 10000.0,
     "Bug": 60.99,
-    "Cobra": 100.0,
     "Royal Crown": 80.0,
     "High Heels": 59.94,
     "Hersir": 130.0,
@@ -116,7 +115,7 @@
     "Bishop": 70.0,
     "Black Cat": 225.0,
     "Boat": 188.0,
-    "Bone": 83.35,
+    "Bone": 83.34,
     "Book": 200.0,
     "Bottlenose": 164.0,
     "Bread": 150.0,
@@ -134,6 +133,7 @@
     "Cicada": 169.0,
     "Clover": 85.0,
     "Clubs": 75.0,
+    "Cobra": 66.0,
     "Cocktail": 86.0,
     "Coconut": 350.0,
     "Coin Purse": 250.0,
@@ -242,7 +242,7 @@
     "Star Crown": 109.0,
     "Sumerian Bird": 135.0,
     "Sun Mountain": 100.0,
-    "Sword": 76.53,
+    "Sword": 76.54,
     "Thor Hammer": 200.0,
     "Thunderbird": 666.0,
     "Tie": 101.0,
@@ -370,5 +370,5 @@
     "Molten Gold": 1020.0,
     "Obsidian": 153.0
   },
-  "last_updated": 1785038552
+  "last_updated": 1785041013
 }

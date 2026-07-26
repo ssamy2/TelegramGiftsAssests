@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Sky Blue": 2.8,
-    "Roman Silver": 2.79,
+    "Roman Silver": 2.82,
     "Pure Gold": 2.8,
     "Fandango": 2.83,
     "Chestnut": 2.8,
@@ -12,7 +12,7 @@
     "Battleship Grey": 2.82,
     "French Violet": 2.82,
     "Moonstone": 2.82,
-    "Deep Cyan": 2.8,
+    "Deep Cyan": 2.88,
     "French Blue": 2.8,
     "Strawberry": 2.8,
     "Malachite": 2.81,
@@ -30,7 +30,7 @@
     "Persimmon": 2.85,
     "Electric Indigo": 2.82,
     "Tactical Pine": 2.83,
-    "Neon Blue": 2.9,
+    "Neon Blue": 2.88,
     "Sapphire": 2.85,
     "Mystic Pearl": 2.85,
     "Purple": 2.8,
@@ -43,15 +43,15 @@
     "Feldgrau": 2.86,
     "Turquoise": 2.84,
     "Seal Brown": 2.8,
-    "Orange": 2.79,
-    "Fire Engine": 2.82,
+    "Orange": 2.85,
+    "Fire Engine": 2.9,
     "Dark Lilac": 2.85,
     "Raspberry": 2.82,
     "Rifle Green": 2.82,
     "Carrot Juice": 2.8,
     "Amber": 2.83,
     "Platinum": 2.8,
-    "Burnt Sienna": 2.8,
+    "Burnt Sienna": 2.83,
     "Electric Purple": 2.92,
     "Old Gold": 2.83,
     "Mint Green": 2.84,
@@ -228,7 +228,7 @@
     "Love Mug": 88.0,
     "Love Potion": 50.0,
     "Love Puzzle": 50.0,
-    "Love Scene": 35.72,
+    "Love Scene": 35.73,
     "Mafdet": 49.99,
     "Magic Vial": 110.0,
     "Magic Wand": 69.99,
@@ -386,5 +386,5 @@
     "Wild Cat": 79.9884,
     "Wild Daisy": 37.9848
   },
-  "last_updated": 1785038552
+  "last_updated": 1785041013
 }
