@@ -2,11 +2,11 @@
   "backdrops": {
     "Black": 792.54,
     "Emerald": 2.8,
-    "Roman Silver": 2.82,
+    "Roman Silver": 2.79,
     "French Blue": 2.8,
     "Sapphire": 2.85,
     "Persimmon": 2.85,
-    "Platinum": 2.82,
+    "Platinum": 2.8,
     "Silver Blue": 2.82,
     "Coral Red": 2.8,
     "Sky Blue": 2.8,
@@ -19,7 +19,7 @@
     "Cappuccino": 2.82,
     "Neon Blue": 2.9,
     "Chocolate": 2.8,
-    "Orange": 2.85,
+    "Orange": 2.79,
     "Malachite": 2.81,
     "Pacific Cyan": 2.84,
     "Moonstone": 2.82,
@@ -58,7 +58,7 @@
     "Grape": 2.82,
     "Lavender": 2.9,
     "Azure Blue": 2.8,
-    "Copper": 2.8,
+    "Copper": 2.81,
     "Onyx Black": 153.0
   },
   "symbols": {
@@ -120,7 +120,7 @@
     "Happy Smile": 180.0,
     "Heart": 980.0,
     "Hedgehog": 111.0,
-    "Hermit Shell": 66.85,
+    "Hermit Shell": 66.86,
     "Human Scull": 100.0,
     "Illuminati": 58.0,
     "Inca Sun": 152.0,
@@ -152,7 +152,7 @@
     "Severed Hand": 51.0,
     "Shooting Star": 49.99,
     "Skull": 111.0,
-    "Spider Web": 51.1,
+    "Spider Web": 51.11,
     "Spooky Cat": 60.0,
     "Sun Mountain": 205.0,
     "Treats": 100.0,
@@ -218,5 +218,5 @@
     "Wicked Melon": 46.5018,
     "Goth Sweat": 100.0
   },
-  "last_updated": 1785036040
+  "last_updated": 1785038551
 }

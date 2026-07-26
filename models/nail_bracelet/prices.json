@@ -29,10 +29,10 @@
     "Celtic Blue": 2.82,
     "Pacific Green": 2.8,
     "Chocolate": 2.8,
-    "Copper": 2.8,
+    "Copper": 2.81,
     "Emerald": 2.8,
     "Pistachio": 2.8,
-    "Roman Silver": 2.82,
+    "Roman Silver": 2.79,
     "Rifle Green": 2.82,
     "Light Olive": 2.8,
     "Sky Blue": 2.8,
@@ -59,8 +59,8 @@
     "Gunmetal": 2.86,
     "Desert Sand": 2.89,
     "Coral Red": 2.8,
-    "Platinum": 2.82,
-    "Orange": 2.85,
+    "Platinum": 2.8,
+    "Orange": 2.79,
     "Burnt Sienna": 2.8,
     "Seal Brown": 2.8,
     "Marine Blue": 2.9,
@@ -255,7 +255,7 @@
     "Obon Lantern": 290.0,
     "Octopus": 666.0,
     "Old Candle": 280.0,
-    "Onigiri": 159.98,
+    "Onigiri": 159.99,
     "Owl": 300.0,
     "Oxen of Fire": 320.0,
     "Paw Print": 500.0,
@@ -324,7 +324,7 @@
     "Diamond": 849.0,
     "Duck Amulet": 143.31,
     "Explosive": 106.794,
-    "Firebronze": 112.2,
+    "Firebronze": 132.6,
     "Gold Rush": 255.0,
     "Hachikō": 183.6,
     "Heavy Metal": 192.9942,
@@ -363,5 +363,5 @@
     "Vague Dream": 106.08,
     "X-Ray": 132.6
   },
-  "last_updated": 1785036040
+  "last_updated": 1785038552
 }

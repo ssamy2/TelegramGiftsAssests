@@ -31,9 +31,9 @@
     "Turquoise": 2.84,
     "Ivory White": 2.85,
     "Azure Blue": 2.8,
-    "Roman Silver": 2.82,
+    "Roman Silver": 2.79,
     "Satin Gold": 2.88,
-    "Platinum": 2.82,
+    "Platinum": 2.8,
     "Silver Blue": 2.82,
     "Hunter Green": 2.82,
     "Strawberry": 2.8,
@@ -43,7 +43,7 @@
     "Rosewood": 2.86,
     "Cyberpunk": 2.81,
     "Sky Blue": 2.8,
-    "Orange": 2.85,
+    "Orange": 2.79,
     "Pistachio": 2.8,
     "Midnight Blue": 142.8,
     "Pacific Cyan": 2.84,
@@ -56,7 +56,7 @@
     "English Violet": 2.85,
     "Pure Gold": 2.8,
     "Chestnut": 2.8,
-    "Copper": 2.8,
+    "Copper": 2.81,
     "Desert Sand": 2.89,
     "Black": 1224.0,
     "Onyx Black": 316.2
@@ -106,7 +106,7 @@
     "Cobra": 170.0,
     "Acorn": 480.0,
     "Alarm": 4444.0,
-    "Alkonost": 126.66,
+    "Alkonost": 126.36,
     "Anchor": 208.87,
     "Apple": 150.0,
     "Arabian Horse": 205.0,
@@ -114,11 +114,11 @@
     "Bastet": 139.0,
     "Bell Pepper": 300.0,
     "Birthday Cake": 200.0,
-    "Bishop": 126.65,
+    "Bishop": 126.35,
     "Blood Drop": 180.0,
     "Bone": 236.5,
     "Bubble Tea": 200.0,
-    "Bull of Heaven": 132.81,
+    "Bull of Heaven": 132.8,
     "Bunny Ears": 370.0,
     "Calm Wolf": 190.0,
     "Cap": 139.0,
@@ -215,7 +215,7 @@
     "Venetian Mask": 309.0,
     "White Deer": 300.0,
     "Wolf Rage": 189.88,
-    "Wreath": 126.66
+    "Wreath": 126.36
   },
   "models": {
     "Aquamarine": 173.4,
@@ -228,7 +228,7 @@
     "Blender": 132.6,
     "Bogartite": 127.5,
     "Bouquet": 137.7,
-    "Candy Flossite": 198.9,
+    "Candy Flossite": 224.4,
     "Citrine": 142.8,
     "Crystal Punk": 144.8298,
     "Dark Soul": 306.0,
@@ -269,5 +269,5 @@
     "Warholite": 153.0,
     "White Opal": 123.4098
   },
-  "last_updated": 1785036040
+  "last_updated": 1785038552
 }

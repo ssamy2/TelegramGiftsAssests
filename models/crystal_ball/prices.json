@@ -3,7 +3,7 @@
     "Neon Blue": 2.9,
     "Carrot Juice": 2.8,
     "Lavender": 2.9,
-    "Roman Silver": 2.82,
+    "Roman Silver": 2.79,
     "Jade Green": 2.8,
     "Pine Green": 2.82,
     "Battleship Grey": 2.82,
@@ -41,8 +41,8 @@
     "Cobalt Blue": 2.8,
     "Emerald": 2.8,
     "Pacific Cyan": 2.84,
-    "Orange": 2.85,
-    "Platinum": 2.82,
+    "Orange": 2.79,
+    "Platinum": 2.8,
     "Caramel": 2.83,
     "Raspberry": 2.82,
     "Silver Blue": 2.82,
@@ -55,7 +55,7 @@
     "Shamrock Green": 2.84,
     "Dark Lilac": 2.85,
     "Azure Blue": 2.8,
-    "Copper": 2.8,
+    "Copper": 2.81,
     "Burgundy": 2.8,
     "Cappuccino": 2.82,
     "Black": 74.46,
@@ -87,7 +87,7 @@
     "Bell Pepper": 11.99,
     "Black Widow": 10.42,
     "Blood Drop": 13.9,
-    "Bloody Axe": 10.55,
+    "Bloody Axe": 10.42,
     "Boat": 40.0,
     "Bottlenose": 15.9,
     "Bow Tie": 13.0,
@@ -161,7 +161,7 @@
     "Pencil": 13.0,
     "Piggy Bank": 52.0,
     "Planet": 29.9,
-    "Poison Drop": 10.62,
+    "Poison Drop": 10.42,
     "Police Badge": 52.0,
     "Potion": 12.0,
     "Ram of Amun": 12.2,
@@ -194,7 +194,7 @@
     "Venetian Mask": 53.0,
     "Voodoo Doll": 12.0,
     "Vortex": 12.0,
-    "Witch’s Hat": 10.43
+    "Witch’s Hat": 10.42
   },
   "models": {
     "Amanita": 10.914,
@@ -240,7 +240,7 @@
     "Samhain": 12.342,
     "Sanguine": 26.622,
     "Seeing Red": 11.22,
-    "Silver": 10.4142,
+    "Silver": 10.812,
     "Skullberry": 14.484,
     "Spice Storm": 11.73,
     "Teddy Bear": 10.71,
@@ -253,5 +253,5 @@
     "Wednesday": 30.345,
     "World Cup": 35.7
   },
-  "last_updated": 1785036040
+  "last_updated": 1785038552
 }

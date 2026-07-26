@@ -1,8 +1,8 @@
 {
   "backdrops": {
-    "Platinum": 2.82,
-    "Orange": 2.85,
-    "Roman Silver": 2.82,
+    "Platinum": 2.8,
+    "Orange": 2.79,
+    "Roman Silver": 2.79,
     "Ranger Green": 2.82,
     "Lemongrass": 2.8,
     "Fire Engine": 2.82,
@@ -77,7 +77,7 @@
     "Rosewood": 2.86,
     "Steel Grey": 2.8,
     "Silver Blue": 2.82,
-    "Copper": 2.8,
+    "Copper": 2.81,
     "Onyx Black": 5.2836,
     "Black": 20.4
   },
@@ -289,7 +289,7 @@
     "Potion": 2.9,
     "Press Hat": 3.0,
     "Propeller Cap": 2.9,
-    "Puzzle": 2.82,
+    "Puzzle": 2.8,
     "Pyramid": 2.98,
     "Radar": 2.94,
     "Rain Drop": 2.86,
@@ -386,12 +386,12 @@
   "models": {
     "Baba Yaga": 3.5598,
     "Balinese": 2.8356,
-    "Bear Market": 2.8254,
+    "Bear Market": 2.856,
     "Birthday Cake": 2.8356,
     "Bowl of Hygeia": 2.907,
     "Bubble Prism": 2.8458,
     "Bull Run": 2.856,
-    "Camelot": 2.8356,
+    "Camelot": 2.8458,
     "Candelabra": 2.8254,
     "Carousel": 2.8356,
     "Dark Relic": 2.9784,
@@ -418,7 +418,7 @@
     "Olympia": 2.8356,
     "Oracle": 2.8356,
     "Paper Lantern": 2.8356,
-    "Pixel Art": 3.8658,
+    "Pixel Art": 3.8454,
     "Prometheus": 2.8356,
     "Revolt": 2.856,
     "Royal Goblet": 2.8458,
@@ -437,5 +437,5 @@
     "Triumph": 2.9478,
     "Victory": 2.907
   },
-  "last_updated": 1785036040
+  "last_updated": 1785038552
 }

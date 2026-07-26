@@ -11,7 +11,7 @@
     "Neon Blue": 2.9,
     "Pacific Green": 2.8,
     "Navy Blue": 2.8,
-    "Platinum": 2.82,
+    "Platinum": 2.8,
     "Burgundy": 2.8,
     "Lemongrass": 2.8,
     "Indigo Dye": 2.8,
@@ -26,7 +26,7 @@
     "Sapphire": 2.85,
     "Turquoise": 2.84,
     "Cyberpunk": 2.81,
-    "Orange": 2.85,
+    "Orange": 2.79,
     "Moonstone": 2.82,
     "Hunter Green": 2.82,
     "Satin Gold": 2.88,
@@ -48,8 +48,8 @@
     "Emerald": 2.8,
     "Caramel": 2.83,
     "Strawberry": 2.8,
-    "Copper": 2.8,
-    "Roman Silver": 2.82,
+    "Copper": 2.81,
+    "Roman Silver": 2.79,
     "Malachite": 2.81,
     "Persimmon": 2.85,
     "Amber": 2.83,
@@ -188,7 +188,7 @@
     "Tooth": 19.9,
     "Treats": 11.0,
     "Turtle": 12.0,
-    "Voodoo Doll": 11.53,
+    "Voodoo Doll": 11.54,
     "Vortex": 20.0,
     "Witch's Hat": 14.0,
     "Wolf Rage": 15.0
@@ -227,7 +227,7 @@
     "Ravenclaw": 9.2616,
     "Red Rotation": 14.28,
     "RGB Branch": 12.24,
-    "Rosy Rocket": 9.69,
+    "Rosy Rocket": 9.282,
     "Santa's Stick": 20.0,
     "Scribbler": 9.894,
     "Sleep Sweeper": 12.9132,
@@ -246,5 +246,5 @@
     "Zippy Hearts": 19.38,
     "Santa’s Stick": 9.7002
   },
-  "last_updated": 1785036040
+  "last_updated": 1785038552
 }

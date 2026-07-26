@@ -12,8 +12,8 @@
     "Old Gold": 2.83,
     "Mystic Pearl": 2.85,
     "Pistachio": 2.8,
-    "Platinum": 2.82,
-    "Roman Silver": 2.82,
+    "Platinum": 2.8,
+    "Roman Silver": 2.79,
     "Mexican Pink": 2.82,
     "Moonstone": 2.82,
     "Chocolate": 2.8,
@@ -34,7 +34,7 @@
     "Persimmon": 2.85,
     "Feldgrau": 2.86,
     "Jade Green": 2.8,
-    "Copper": 2.8,
+    "Copper": 2.81,
     "Fire Engine": 2.82,
     "Celtic Blue": 2.82,
     "Sapphire": 2.85,
@@ -66,7 +66,7 @@
     "Ranger Green": 2.82,
     "French Violet": 2.82,
     "Emerald": 2.8,
-    "Orange": 2.85,
+    "Orange": 2.79,
     "Gunmetal": 2.86,
     "Mint Green": 2.84,
     "Fandango": 2.83,
@@ -96,7 +96,7 @@
     "Bamboo": 150.0,
     "Baphomet": 127.0,
     "Baseball Cap": 100.0,
-    "Bastet": 63.38,
+    "Bastet": 63.37,
     "Bearskin": 131.1,
     "Beer": 75.0,
     "Bicorne": 85.0,
@@ -118,7 +118,7 @@
     "Cash": 95.0,
     "Cherry": 74.0,
     "Chest": 144.79,
-    "Chili Pepper": 220.08,
+    "Chili Pepper": 220.01,
     "Chili": 52.5,
     "Clover": 150.0,
     "Clubs": 160.0,
@@ -327,5 +327,5 @@
     "Watermelon": 54.9984,
     "Escher’s Cube": 59.16
   },
-  "last_updated": 1785036040
+  "last_updated": 1785038552
 }

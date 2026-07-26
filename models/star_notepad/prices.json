@@ -1,13 +1,13 @@
 {
   "backdrops": {
-    "Platinum": 2.82,
+    "Platinum": 2.8,
     "Strawberry": 2.8,
     "Rosewood": 2.86,
     "Indigo Dye": 2.8,
     "Fandango": 2.83,
     "Coral Red": 2.8,
     "Persimmon": 2.85,
-    "Roman Silver": 2.82,
+    "Roman Silver": 2.79,
     "Midnight Blue": 3.9984,
     "Burgundy": 2.8,
     "Sapphire": 2.85,
@@ -18,7 +18,7 @@
     "Pure Gold": 2.8,
     "Caramel": 2.83,
     "Neon Blue": 2.9,
-    "Copper": 2.8,
+    "Copper": 2.81,
     "Moonstone": 2.82,
     "Lemongrass": 2.8,
     "Cobalt Blue": 2.8,
@@ -39,7 +39,7 @@
     "Amber": 2.83,
     "Lavender": 2.9,
     "Pistachio": 2.8,
-    "Orange": 2.85,
+    "Orange": 2.79,
     "Turquoise": 2.84,
     "Hunter Green": 2.82,
     "Khaki Green": 2.83,
@@ -98,7 +98,7 @@
     "Book": 7.21,
     "Bottlenose": 5.49,
     "Bow Tie": 8.32,
-    "Bread": 7.16,
+    "Bread": 6.71,
     "Breeze": 5.0,
     "Bubble Tea": 4.3,
     "Bubbles": 4.2,
@@ -141,7 +141,7 @@
     "Elephant": 9.99,
     "Evil Dragon": 4.25,
     "Eye of Horus": 4.25,
-    "Fehu Rune": 6.78,
+    "Fehu Rune": 6.79,
     "Fire": 4.2,
     "Firebird": 4.9,
     "Fish Skeleton": 6.93,
@@ -316,7 +316,7 @@
     "Winged Helm": 7.25,
     "Wontons": 7.5,
     "Wreath": 6.0,
-    "Yin-Yang": 7.33
+    "Yin-Yang": 7.34
   },
   "models": {
     "Alien Script": 35.7,
@@ -422,5 +422,5 @@
     "Côte d’Azur": 5.1,
     "Joker’s Notes": 5.1
   },
-  "last_updated": 1785036040
+  "last_updated": 1785038552
 }

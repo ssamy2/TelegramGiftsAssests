@@ -66,12 +66,12 @@
     "Strawberry": 2.8,
     "Pure Gold": 2.8,
     "Light Olive": 2.8,
-    "Orange": 2.85,
-    "Platinum": 2.82,
-    "Roman Silver": 2.82,
+    "Orange": 2.79,
+    "Platinum": 2.8,
+    "Roman Silver": 2.79,
     "Sky Blue": 2.8,
     "Jade Green": 2.8,
-    "Copper": 2.8,
+    "Copper": 2.81,
     "Satin Gold": 2.88,
     "Aquamarine": 2.8,
     "Silver Blue": 2.82,
@@ -305,7 +305,7 @@
   },
   "models": {
     "Academic": 3.723,
-    "Alphabet": 3.4578,
+    "Alphabet": 3.468,
     "Anatomy": 3.8556,
     "Animal Friends": 3.468,
     "Animator": 3.5496,
@@ -315,7 +315,7 @@
     "Burn Book": 4.998,
     "Chemistry": 3.4986,
     "Clay Tablets": 3.4986,
-    "Cookbook": 3.3966,
+    "Cookbook": 3.4578,
     "Crazy Book": 3.4986,
     "Crystal Tome": 3.9882,
     "Death Note": 433.5,
@@ -359,5 +359,5 @@
     "Tom’s Diary": 21.42,
     "Rocket Science": 7.14
   },
-  "last_updated": 1785036040
+  "last_updated": 1785038552
 }

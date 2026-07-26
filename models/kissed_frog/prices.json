@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Grape": 2.82,
-    "Roman Silver": 2.82,
+    "Roman Silver": 2.79,
     "Ivory White": 2.85,
     "Burgundy": 2.8,
     "Neon Blue": 2.9,
@@ -9,7 +9,7 @@
     "Midnight Blue": 102.0,
     "Strawberry": 2.8,
     "Persimmon": 2.85,
-    "Copper": 2.8,
+    "Copper": 2.81,
     "Amber": 2.83,
     "Hunter Green": 2.82,
     "Caramel": 2.83,
@@ -22,7 +22,7 @@
     "Jade Green": 2.8,
     "Cappuccino": 2.82,
     "Pistachio": 2.8,
-    "Orange": 2.85,
+    "Orange": 2.79,
     "Aquamarine": 2.8,
     "Malachite": 2.81,
     "Chestnut": 2.8,
@@ -50,7 +50,7 @@
     "Pacific Cyan": 2.84,
     "Pacific Green": 2.8,
     "Cyberpunk": 2.81,
-    "Platinum": 2.82,
+    "Platinum": 2.8,
     "Navy Blue": 2.8,
     "Sky Blue": 2.8,
     "Rosewood": 2.86,
@@ -119,7 +119,7 @@
     "Chocolate": 68.0,
     "Cicada": 51.11,
     "Clover": 88.2,
-    "Cobra": 47.51,
+    "Cobra": 47.52,
     "Cocktail": 100.0,
     "Coconut": 107.6,
     "Coffin": 230.0,
@@ -283,9 +283,9 @@
     "Lilie Pond": 153.0,
     "Lily Pond": 39.678,
     "Lucifrog": 305.9898,
-    "Melon": 38.7498,
+    "Melon": 42.84,
     "Melty Butter": 255.0,
-    "Minty Bloom": 39.4638,
+    "Minty Bloom": 39.4536,
     "Ms. Toad": 63.9948,
     "Peach": 66.3,
     "Poison": 60.5982,
@@ -309,5 +309,5 @@
     "Void Hopper": 102.0,
     "Zodiak Croak": 173.4
   },
-  "last_updated": 1785036040
+  "last_updated": 1785038552
 }

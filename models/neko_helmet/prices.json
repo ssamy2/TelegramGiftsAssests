@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Sky Blue": 2.8,
-    "Roman Silver": 2.82,
+    "Roman Silver": 2.79,
     "Pure Gold": 2.8,
     "Fandango": 2.83,
     "Chestnut": 2.8,
@@ -36,21 +36,21 @@
     "Purple": 2.8,
     "Tomato": 2.8,
     "Desert Sand": 2.89,
-    "Copper": 2.8,
+    "Copper": 2.81,
     "Grape": 2.82,
     "Shamrock Green": 2.84,
     "Satin Gold": 2.88,
     "Feldgrau": 2.86,
     "Turquoise": 2.84,
     "Seal Brown": 2.8,
-    "Orange": 2.85,
+    "Orange": 2.79,
     "Fire Engine": 2.82,
     "Dark Lilac": 2.85,
     "Raspberry": 2.82,
     "Rifle Green": 2.82,
     "Carrot Juice": 2.8,
     "Amber": 2.83,
-    "Platinum": 2.82,
+    "Platinum": 2.8,
     "Burnt Sienna": 2.8,
     "Electric Purple": 2.92,
     "Old Gold": 2.83,
@@ -325,7 +325,7 @@
     "Wise Raven": 60.0
   },
   "models": {
-    "Acid Punch": 33.048,
+    "Acid Punch": 33.0276,
     "Astronaut": 90.78,
     "Biker Girl": 40.8,
     "Blackout": 43.8498,
@@ -370,7 +370,7 @@
     "Shockwave": 32.4258,
     "Silver Surfer": 45.9,
     "Sky Diver": 81.6,
-    "Solar Glare": 32.4258,
+    "Solar Glare": 32.3544,
     "Sonic Rave": 51.0,
     "Starry Sky": 33.456,
     "Steampunk": 34.68,
@@ -386,5 +386,5 @@
     "Wild Cat": 79.9884,
     "Wild Daisy": 37.9848
   },
-  "last_updated": 1785036040
+  "last_updated": 1785038552
 }

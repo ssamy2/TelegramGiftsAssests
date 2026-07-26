@@ -16,7 +16,7 @@
     "Celtic Blue": 2.82,
     "Pure Gold": 2.8,
     "Amber": 2.83,
-    "Roman Silver": 2.82,
+    "Roman Silver": 2.79,
     "Mustard": 2.84,
     "Pacific Green": 2.8,
     "Malachite": 2.81,
@@ -36,8 +36,8 @@
     "Sapphire": 2.85,
     "Emerald": 2.8,
     "Light Olive": 2.8,
-    "Orange": 2.85,
-    "Copper": 2.8,
+    "Orange": 2.79,
+    "Copper": 2.81,
     "Navy Blue": 2.8,
     "Satin Gold": 2.88,
     "Coral Red": 2.8,
@@ -55,7 +55,7 @@
     "Tactical Pine": 2.83,
     "Shamrock Green": 2.84,
     "Caramel": 2.83,
-    "Platinum": 2.82,
+    "Platinum": 2.8,
     "Pistachio": 2.8,
     "Lemongrass": 2.8,
     "Electric Purple": 2.92,
@@ -267,7 +267,7 @@
     "Polar Bear": 20.99,
     "Pumpkin Coach": 29.69,
     "Radar": 90.0,
-    "Rain Drop": 28.0,
+    "Rain Drop": 13.85,
     "Rhino Warrior": 16.0,
     "Ribeye Steak": 25.0,
     "Ring": 27.0,
@@ -314,7 +314,7 @@
     "Warhorse": 55.0,
     "Wasp": 22.55,
     "Watermelon": 29.9,
-    "Wepwawet": 23.4,
+    "Wepwawet": 23.38,
     "Wizard Hat": 25.0,
     "Wontons": 24.49,
     "Worker Ant": 15.0,
@@ -372,5 +372,5 @@
     "Wet Styling": 20.298,
     "Zephyrus": 14.28
   },
-  "last_updated": 1785036040
+  "last_updated": 1785038552
 }

@@ -3,7 +3,7 @@
     "Neon Blue": 2.9,
     "Raspberry": 2.82,
     "Dark Lilac": 2.85,
-    "Platinum": 2.82,
+    "Platinum": 2.8,
     "Mexican Pink": 2.82,
     "Pacific Cyan": 2.84,
     "Aquamarine": 2.8,
@@ -14,7 +14,7 @@
     "Mystic Pearl": 2.85,
     "Burnt Sienna": 2.8,
     "Pure Gold": 2.8,
-    "Orange": 2.85,
+    "Orange": 2.79,
     "Carrot Juice": 2.8,
     "Gunship Green": 2.81,
     "Sapphire": 2.85,
@@ -38,11 +38,11 @@
     "Cappuccino": 2.82,
     "Indigo Dye": 2.8,
     "Feldgrau": 2.86,
-    "Roman Silver": 2.82,
+    "Roman Silver": 2.79,
     "Midnight Blue": 179.9892,
     "Tomato": 2.8,
     "Celtic Blue": 2.82,
-    "Copper": 2.8,
+    "Copper": 2.81,
     "Marine Blue": 2.9,
     "Malachite": 2.81,
     "Persimmon": 2.85,
@@ -166,7 +166,7 @@
     "Firebird": 320.0,
     "Fireman Hat": 175.0,
     "Fish": 300.0,
-    "Flower Cross": 142.89,
+    "Flower Cross": 142.9,
     "Flying Dragon": 350.0,
     "Fried Egg": 175.0,
     "Gem": 240.0,
@@ -300,5 +300,5 @@
     "Colossus": 2000.0,
     "Icebreaker": 2040.0
   },
-  "last_updated": 1785036040
+  "last_updated": 1785038552
 }
