@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Silver Blue": 2.82,
-    "Fandango": 2.82,
+    "Fandango": 2.83,
     "English Violet": 2.85,
     "Celtic Blue": 2.82,
     "Satin Gold": 2.88,
@@ -21,7 +21,7 @@
     "Tactical Pine": 2.83,
     "Pacific Cyan": 2.84,
     "Carmine": 2.82,
-    "Sky Blue": 2.85,
+    "Sky Blue": 2.8,
     "Platinum": 2.82,
     "Rosewood": 2.86,
     "Ivory White": 2.85,
@@ -38,7 +38,7 @@
     "Old Gold": 2.83,
     "Malachite": 2.81,
     "Fire Engine": 2.82,
-    "Aquamarine": 2.8,
+    "Aquamarine": 2.84,
     "Sapphire": 2.85,
     "Lavender": 2.9,
     "Electric Indigo": 2.82,
@@ -244,7 +244,7 @@
     "Paper Crane": 6.5,
     "Paper Lantern": 6.25,
     "Paschal Lamb": 7.4,
-    "Paw Print": 7.25,
+    "Paw Print": 7.0,
     "Paw": 8.0,
     "Pawn": 9.99,
     "PC Mouse": 6.59,
@@ -368,7 +368,7 @@
     "Ouija Board": 6.8544,
     "Pepe Surfer": 285.6,
     "Pixel Feet": 6.018,
-    "Planet Express": 6.834,
+    "Planet Express": 5.865,
     "Polar Shard": 7.8438,
     "Poseidon": 6.3954,
     "Privateer": 6.3954,
@@ -385,5 +385,5 @@
     "TON Shard": 16.8198,
     "Wild Cat": 6.0078
   },
-  "last_updated": 1785031002
+  "last_updated": 1785033527
 }

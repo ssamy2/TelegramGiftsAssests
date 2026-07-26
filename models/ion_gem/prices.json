@@ -7,8 +7,8 @@
     "Pacific Green": 2.86,
     "Roman Silver": 2.82,
     "Silver Blue": 2.82,
-    "Midnight Blue": 2.88,
-    "Fandango": 2.82,
+    "Midnight Blue": 2.9,
+    "Fandango": 2.83,
     "Electric Purple": 2.92,
     "Ivory White": 2.85,
     "Desert Sand": 2.89,
@@ -39,11 +39,11 @@
     "Rosewood": 2.86,
     "Lemongrass": 2.89,
     "Chocolate": 2.82,
-    "Sky Blue": 2.85,
+    "Sky Blue": 2.8,
     "Moonstone": 2.8,
     "Hunter Green": 2.82,
     "Indigo Dye": 2.82,
-    "Aquamarine": 2.8,
+    "Aquamarine": 2.84,
     "Cyberpunk": 2.82,
     "Grape": 2.82,
     "Lavender": 2.9,
@@ -193,7 +193,7 @@
     "Mafdet": 141.0,
     "Magic Vial": 180.0,
     "Mannaz Rune": 178.88,
-    "Mask": 85.0,
+    "Mask": 80.0,
     "Meat Leg": 136.0,
     "Melon": 73.0,
     "Money Bag": 350.0,
@@ -337,5 +337,5 @@
     "Solid Waste": 100.0,
     "Jamaica": 459.0
   },
-  "last_updated": 1785031002
+  "last_updated": 1785033527
 }

@@ -39,7 +39,7 @@
     "Gunship Green": 2.81,
     "Platinum": 2.82,
     "Sapphire": 2.85,
-    "Fandango": 2.82,
+    "Fandango": 2.83,
     "Burgundy": 2.86,
     "Shamrock Green": 2.84,
     "Rifle Green": 2.82,
@@ -51,7 +51,7 @@
     "Lemongrass": 2.89,
     "Silver Blue": 2.82,
     "Azure Blue": 2.82,
-    "Sky Blue": 2.85,
+    "Sky Blue": 2.8,
     "Grape": 2.82,
     "Pacific Cyan": 2.84,
     "Khaki Green": 2.83,
@@ -77,7 +77,7 @@
     "Coral Red": 2.8,
     "Electric Purple": 2.92,
     "Cappuccino": 2.82,
-    "Aquamarine": 2.8,
+    "Aquamarine": 2.84,
     "Black": 20.808,
     "Onyx Black": 5.9976
   },
@@ -88,7 +88,7 @@
     "Aztec Falcon": 5.1,
     "Bamboo": 2.98,
     "Bandage": 3.01,
-    "Bascinet": 4.23,
+    "Bascinet": 4.24,
     "Baseball Cap": 3.8,
     "Basketball": 3.63,
     "Bastet": 3.9,
@@ -178,7 +178,7 @@
     "Ice Pop": 4.99,
     "Ice Skates": 3.3,
     "Inguz Rune": 3.5,
-    "Ink Pen": 3.1,
+    "Ink Pen": 3.02,
     "Jewel": 10.0,
     "Jingle Bell": 3.01,
     "Keffiyeh": 3.47,
@@ -286,7 +286,7 @@
     "Yin-Yang": 4.98
   },
   "models": {
-    "Apple Mousse": 3.009,
+    "Apple Mousse": 2.9988,
     "Area 51": 3.06,
     "Banana Split": 3.0498,
     "Berry Pixel": 3.06,
@@ -299,7 +299,7 @@
     "Checkmate": 3.366,
     "Choco Mint": 3.0498,
     "Citrus": 3.57,
-    "Cotton Candy": 3.06,
+    "Cotton Candy": 2.9274,
     "Crystal Shot": 3.0498,
     "Cubism": 3.06,
     "Cyber Mix": 9.69,
@@ -312,7 +312,7 @@
     "Ginger Joker": 2.958,
     "Gold Dust": 50.8878,
     "Hibiscus Tea": 3.0498,
-    "Honeyfire": 3.06,
+    "Honeyfire": 2.9478,
     "Honolulu": 7.9968,
     "Hot Fuchsia": 3.3966,
     "Kiwi Box": 3.0294,
@@ -337,5 +337,5 @@
     "Stickers": 3.57,
     "Toxic Waste": 3.0498
   },
-  "last_updated": 1785031002
+  "last_updated": 1785033527
 }

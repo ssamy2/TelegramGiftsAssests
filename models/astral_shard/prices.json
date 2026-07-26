@@ -17,7 +17,7 @@
     "Cobalt Blue": 2.83,
     "Jade Green": 2.82,
     "Coral Red": 2.8,
-    "Fandango": 2.82,
+    "Fandango": 2.83,
     "Navy Blue": 2.8,
     "Pacific Green": 2.86,
     "Persimmon": 2.85,
@@ -42,7 +42,7 @@
     "Shamrock Green": 2.84,
     "Rosewood": 2.86,
     "Cyberpunk": 2.82,
-    "Sky Blue": 2.85,
+    "Sky Blue": 2.8,
     "Orange": 2.85,
     "Pistachio": 2.8,
     "Midnight Blue": 142.8,
@@ -51,7 +51,7 @@
     "Burgundy": 2.86,
     "French Blue": 2.82,
     "Dark Lilac": 2.85,
-    "Aquamarine": 2.8,
+    "Aquamarine": 2.84,
     "Malachite": 2.81,
     "English Violet": 2.85,
     "Pure Gold": 2.82,
@@ -106,7 +106,7 @@
     "Cobra": 170.0,
     "Acorn": 480.0,
     "Alarm": 4444.0,
-    "Alkonost": 126.08,
+    "Alkonost": 127.98,
     "Anchor": 208.87,
     "Apple": 150.0,
     "Arabian Horse": 205.0,
@@ -114,11 +114,11 @@
     "Bastet": 139.0,
     "Bell Pepper": 300.0,
     "Birthday Cake": 200.0,
-    "Bishop": 126.09,
+    "Bishop": 127.99,
     "Blood Drop": 180.0,
     "Bone": 236.5,
     "Bubble Tea": 200.0,
-    "Bull of Heaven": 132.84,
+    "Bull of Heaven": 132.83,
     "Bunny Ears": 370.0,
     "Calm Wolf": 190.0,
     "Cap": 139.0,
@@ -189,7 +189,7 @@
     "Pyramid": 210.0,
     "Rain Drop": 260.0,
     "Ram of Amun": 149.0,
-    "Rhino Warrior": 195.0,
+    "Rhino Warrior": 200.0,
     "Ring": 200.0,
     "Rook": 300.0,
     "Royal Crown": 350.0,
@@ -215,7 +215,7 @@
     "Venetian Mask": 309.0,
     "White Deer": 300.0,
     "Wolf Rage": 189.88,
-    "Wreath": 126.08
+    "Wreath": 127.98
   },
   "models": {
     "Aquamarine": 173.4,
@@ -244,7 +244,7 @@
     "Gold 999": 187.6698,
     "Gramite": 132.6,
     "Ivy Vine": 135.6498,
-    "Jurassic": 124.44,
+    "Jurassic": 137.7,
     "Labradorite": 153.0,
     "Lovestone": 214.2,
     "Moonlit": 124.44,
@@ -269,5 +269,5 @@
     "Warholite": 202.98,
     "White Opal": 123.4098
   },
-  "last_updated": 1785031002
+  "last_updated": 1785033527
 }

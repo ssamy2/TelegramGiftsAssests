@@ -6,8 +6,8 @@
     "Platinum": 2.82,
     "Mexican Pink": 2.82,
     "Pacific Cyan": 2.84,
-    "Aquamarine": 2.8,
-    "Fandango": 2.82,
+    "Aquamarine": 2.84,
+    "Fandango": 2.83,
     "Pistachio": 2.8,
     "Shamrock Green": 2.84,
     "Strawberry": 2.8,
@@ -70,7 +70,7 @@
     "Pacific Green": 2.86,
     "Tactical Pine": 2.83,
     "Light Olive": 2.84,
-    "Sky Blue": 2.85,
+    "Sky Blue": 2.8,
     "Carmine": 2.82,
     "Ivory White": 2.85,
     "Cyberpunk": 2.82,
@@ -166,7 +166,7 @@
     "Firebird": 320.0,
     "Fireman Hat": 175.0,
     "Fish": 300.0,
-    "Flower Cross": 142.89,
+    "Flower Cross": 142.9,
     "Flying Dragon": 350.0,
     "Fried Egg": 175.0,
     "Gem": 240.0,
@@ -300,5 +300,5 @@
     "Colossus": 2000.0,
     "Icebreaker": 2040.0
   },
-  "last_updated": 1785031002
+  "last_updated": 1785033527
 }

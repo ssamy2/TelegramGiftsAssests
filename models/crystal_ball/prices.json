@@ -16,7 +16,7 @@
     "Chocolate": 2.82,
     "Strawberry": 2.8,
     "Turquoise": 2.84,
-    "Sky Blue": 2.85,
+    "Sky Blue": 2.8,
     "Satin Gold": 2.88,
     "Desert Sand": 2.89,
     "Malachite": 2.81,
@@ -26,7 +26,7 @@
     "Pistachio": 2.8,
     "Chestnut": 2.84,
     "Coral Red": 2.8,
-    "Aquamarine": 2.8,
+    "Aquamarine": 2.84,
     "Rosewood": 2.86,
     "Moonstone": 2.8,
     "French Blue": 2.82,
@@ -37,7 +37,7 @@
     "Pacific Green": 2.86,
     "Mint Green": 2.84,
     "Mystic Pearl": 2.85,
-    "Fandango": 2.82,
+    "Fandango": 2.83,
     "Cobalt Blue": 2.83,
     "Emerald": 2.82,
     "Pacific Cyan": 2.84,
@@ -87,7 +87,7 @@
     "Bell Pepper": 11.99,
     "Black Widow": 10.42,
     "Blood Drop": 13.9,
-    "Bloody Axe": 10.99,
+    "Bloody Axe": 10.82,
     "Boat": 40.0,
     "Bottlenose": 15.9,
     "Bow Tie": 13.0,
@@ -161,7 +161,7 @@
     "Pencil": 13.0,
     "Piggy Bank": 52.0,
     "Planet": 29.9,
-    "Poison Drop": 11.1,
+    "Poison Drop": 10.89,
     "Police Badge": 52.0,
     "Potion": 12.0,
     "Ram of Amun": 12.2,
@@ -194,7 +194,7 @@
     "Venetian Mask": 53.0,
     "Voodoo Doll": 12.0,
     "Vortex": 12.0,
-    "Witch’s Hat": 10.91
+    "Witch’s Hat": 10.7
   },
   "models": {
     "Amanita": 10.914,
@@ -234,13 +234,13 @@
     "Pink Panther": 28.56,
     "Poor Kitty": 124.44,
     "Prophet": 13.77,
-    "Rainbow": 14.6676,
+    "Rainbow": 10.404,
     "Red Skull": 14.28,
     "Refreshing": 14.28,
     "Samhain": 12.342,
     "Sanguine": 26.622,
     "Seeing Red": 11.22,
-    "Silver": 10.4346,
+    "Silver": 10.4142,
     "Skullberry": 14.484,
     "Spice Storm": 11.73,
     "Teddy Bear": 10.71,
@@ -253,5 +253,5 @@
     "Wednesday": 30.345,
     "World Cup": 35.7
   },
-  "last_updated": 1785031002
+  "last_updated": 1785033527
 }

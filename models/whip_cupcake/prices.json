@@ -11,7 +11,7 @@
     "Burnt Sienna": 2.83,
     "Carmine": 2.82,
     "Satin Gold": 2.88,
-    "Fandango": 2.82,
+    "Fandango": 2.83,
     "Cappuccino": 2.82,
     "Feldgrau": 2.86,
     "Pacific Cyan": 2.84,
@@ -21,12 +21,12 @@
     "Mexican Pink": 2.82,
     "Old Gold": 2.83,
     "Electric Indigo": 2.82,
-    "Aquamarine": 2.8,
+    "Aquamarine": 2.84,
     "Carrot Juice": 2.83,
     "Chocolate": 2.82,
     "Caramel": 2.83,
     "Seal Brown": 2.92,
-    "Sky Blue": 2.85,
+    "Sky Blue": 2.8,
     "Pacific Green": 2.86,
     "Dark Lilac": 2.85,
     "Moonstone": 2.8,
@@ -130,7 +130,7 @@
     "Crystal": 3.42,
     "Cunning Fox": 3.94,
     "Cupid's Arrow": 4.8,
-    "Cupid": 3.55,
+    "Cupid": 3.54,
     "Cute Bear": 3.0,
     "Cyclamen": 3.7,
     "Daisy": 3.0,
@@ -260,7 +260,7 @@
   },
   "models": {
     "Alien Slime": 3.06,
-    "Arizona": 2.9478,
+    "Arizona": 3.06,
     "Bag End": 3.0396,
     "Biohazard": 3.162,
     "Bitcoin": 7.497,
@@ -278,7 +278,7 @@
     "Fast Charge": 3.213,
     "First Bite": 3.0192,
     "Gummy Bears": 4.08,
-    "Half-Life": 3.162,
+    "Half-Life": 2.9478,
     "Hawaii": 2.9988,
     "Heaven Seven": 3.468,
     "Hellspawn": 3.162,
@@ -310,5 +310,5 @@
     "Wasteland": 3.162,
     "Zero Sugar": 3.06
   },
-  "last_updated": 1785031002
+  "last_updated": 1785033527
 }

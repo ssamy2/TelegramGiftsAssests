@@ -8,7 +8,7 @@
     "Lavender": 2.9,
     "Pacific Cyan": 2.84,
     "Silver Blue": 2.82,
-    "Aquamarine": 2.8,
+    "Aquamarine": 2.84,
     "Coral Red": 2.8,
     "Purple": 2.82,
     "Moonstone": 2.8,
@@ -22,7 +22,7 @@
     "Mint Green": 2.84,
     "Electric Indigo": 2.82,
     "Turquoise": 2.84,
-    "Sky Blue": 2.85,
+    "Sky Blue": 2.8,
     "English Violet": 2.85,
     "Azure Blue": 2.82,
     "Roman Silver": 2.82,
@@ -56,7 +56,7 @@
     "Steel Grey": 2.8,
     "Navy Blue": 2.8,
     "Carrot Juice": 2.83,
-    "Fandango": 2.82,
+    "Fandango": 2.83,
     "Mystic Pearl": 2.85,
     "Black": 40.7694,
     "Onyx Black": 11.934
@@ -226,12 +226,12 @@
     "Gruyere": 5.1,
     "Half Moon": 4.2636,
     "Healing Mist": 5.1,
-    "Honeycomb": 4.3146,
+    "Honeycomb": 4.2942,
     "Horoscope": 5.4366,
     "Hot Cocoa": 10.9752,
     "Hot Emerald": 4.2636,
     "Hot Kiss": 5.61,
-    "Hydrangea": 4.6716,
+    "Hydrangea": 4.2228,
     "Iceberg": 5.1,
     "Indiglow": 4.896,
     "Jasmine": 4.5288,
@@ -246,7 +246,7 @@
     "Pearl Clam": 7.956,
     "Pinstripe": 4.59,
     "Poison Ivy": 4.896,
-    "Pop Art": 4.3452,
+    "Pop Art": 4.3044,
     "Proposal": 6.63,
     "Purple Wave": 4.488,
     "Rainbow": 5.0184,
@@ -280,5 +280,5 @@
     "Wolfsbane": 4.488,
     "Yellow Gold": 4.3962
   },
-  "last_updated": 1785031002
+  "last_updated": 1785033527
 }

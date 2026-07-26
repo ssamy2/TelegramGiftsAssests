@@ -2,7 +2,7 @@
   "backdrops": {
     "Chestnut": 2.84,
     "Electric Indigo": 2.82,
-    "Sky Blue": 2.85,
+    "Sky Blue": 2.8,
     "Cappuccino": 2.82,
     "Pacific Green": 2.86,
     "Copper": 2.81,
@@ -41,7 +41,7 @@
     "Light Olive": 2.84,
     "Malachite": 2.81,
     "Pure Gold": 2.82,
-    "Fandango": 2.82,
+    "Fandango": 2.83,
     "Mystic Pearl": 2.85,
     "Raspberry": 2.82,
     "Silver Blue": 2.82,
@@ -50,7 +50,7 @@
     "Jade Green": 2.82,
     "Ivory White": 2.85,
     "Pistachio": 2.8,
-    "Aquamarine": 2.8,
+    "Aquamarine": 2.84,
     "French Blue": 2.82,
     "Battleship Grey": 2.82,
     "Strawberry": 2.8,
@@ -364,5 +364,5 @@
     "Smelting": 4100.0,
     "Blizzard": 994.9998
   },
-  "last_updated": 1785031002
+  "last_updated": 1785033527
 }
