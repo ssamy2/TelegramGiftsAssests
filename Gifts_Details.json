@@ -1272,7 +1272,8 @@
       "full_name": "Thug Life",
       "short_name": "thug_life",
       "regular_id": "5834651202612102354",
-      "models": "models/thug_life/prices.json"
+      "models": "models/thug_life/prices.json",
+      "custom_emoji_id": "5890913328569523960"
     }
   ],
   "unupgraded": [
