@@ -1269,10 +1269,10 @@
       "getgems_price_ton": 3.8
     },
     {
-      "full_name": "Thug Life",
-      "short_name": "thug_life",
+      "full_name": "Durov’s Glasses",
+      "short_name": "durovs_glasses",
       "regular_id": "5834651202612102354",
-      "models": "models/thug_life/prices.json",
+      "models": "models/durovs_glasses/prices.json",
       "custom_emoji_id": "5890913328569523960"
     }
   ],
