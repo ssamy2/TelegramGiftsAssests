@@ -82,10 +82,6 @@
     "Phoenix": 550.0,
     "Piggy Bank": 550.0,
     "Plum": 750.0,
-    "Red Deer": 999.0,
-    "Rhino Warrior": 750.0,
-    "Ring": 741.0,
-    "Rook": 678.0,
     "Royal Crown": 1966.0,
     "Sakura": 800.0,
     "Scarab": 2015.0,
@@ -116,6 +112,10 @@
     "Wolf Rage": 550.0,
     "Wreath": 800.0,
     "Yogi Shaman": 900.0,
+    "Red Deer": 999.0,
+    "Rhino Warrior": 750.0,
+    "Ring": 741.0,
+    "Rook": 678.0,
     "Baphomet": 900.0,
     "Coin Purse": 1899.0,
     "Golden Scarab": 2500.0,
@@ -180,5 +180,5 @@
     "Jetspin": 795.0,
     "Sunrise": 750.0
   },
-  "last_updated": 1785186956
+  "last_updated": 1785191249
 }

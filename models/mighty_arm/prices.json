@@ -70,8 +70,6 @@
     "Jolly Roger": 700.0,
     "Jörmungandr": 3000.0,
     "Kitsune Mask": 250.0,
-    "La Corona": 180.0,
-    "Legionary": 250.0,
     "Lion Head": 150.0,
     "Lotus Flower": 194.0,
     "Mafdet": 114.0,
@@ -80,7 +78,7 @@
     "Melon": 122.0,
     "Moai Head": 180.0,
     "Money Bag": 2001.0,
-    "Moon Cross": 500.0,
+    "Moon Cross": 400.0,
     "Moon Eagle": 200.0,
     "Mountain Goat": 146.9,
     "Mountain Lion": 198.0,
@@ -127,12 +125,14 @@
     "Winged Helm": 117.99,
     "Wreath": 900.0,
     "Yogi Shaman": 129.99,
-    "Crusader Cross": 107.79,
-    "Crystal": 107.5,
+    "La Corona": 180.0,
+    "Legionary": 250.0,
     "Griffon": 590.0,
     "Lion King": 1430.0,
     "Pomegranate": 650.0,
     "Sushi Rolls": 225.0,
+    "Crusader Cross": 107.79,
+    "Crystal": 107.5,
     "Bucket Hat": 295.0,
     "Kitsune": 239.0,
     "Kudu Totem": 109.0
@@ -149,7 +149,7 @@
     "Dragonborn": 306.0,
     "Ex Machina": 119.9826,
     "Fatality": 124.9908,
-    "Frankenstein": 106.0392,
+    "Frankenstein": 108.1098,
     "Frostbite": 117.198,
     "Gem Brawler": 377.4,
     "Genie": 165.0,
@@ -188,5 +188,5 @@
     "Icebreaker": 2040.0,
     "Infinity": 510.0
   },
-  "last_updated": 1785186956
+  "last_updated": 1785191249
 }

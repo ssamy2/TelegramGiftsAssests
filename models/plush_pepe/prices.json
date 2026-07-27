@@ -37,27 +37,27 @@
     "Love Dove": 6123.0,
     "Loveberry": 5300.0,
     "Lovebirds": 13333.0,
-    "Melon": 7500.0,
-    "Moon Eagle": 10000.0,
     "Moon": 19490.0,
     "Nordic Wolf": 27777.0,
     "Passion Latte": 12000.0,
     "Pearl": 16666.0,
     "Pencil": 10000.0,
     "Piggy Bank": 6500.0,
-    "Rabbit": 11999.0,
-    "Ram of Amun": 7500.0,
-    "Red Deer": 6990.0,
-    "Scarab": 18999.0,
-    "Shell": 5250.0,
     "Sun Lion": 6998.0,
     "Sunflower": 7800.0,
     "Totem Bear": 5500.0,
     "Turkey": 6999.0,
     "Wasp": 6333.0,
+    "Melon": 7500.0,
+    "Moon Eagle": 10000.0,
     "Dolphin": 21111.0,
     "Mayan Moth": 12999.0,
-    "Spanner": 6123.0
+    "Spanner": 6123.0,
+    "Rabbit": 11999.0,
+    "Ram of Amun": 7500.0,
+    "Red Deer": 6990.0,
+    "Scarab": 18999.0,
+    "Shell": 5250.0
   },
   "models": {
     "Amalgam": 8568.0,
@@ -95,5 +95,5 @@
     "Pepe La Rana": 10200.0,
     "Hothead": 10200.0
   },
-  "last_updated": 1785186956
+  "last_updated": 1785191249
 }

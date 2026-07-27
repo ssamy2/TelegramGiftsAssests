@@ -11,7 +11,7 @@
     "Avocado": 41.2,
     "Baphomet": 35.0,
     "Bell Pepper": 64.0,
-    "Black Widow": 32.0,
+    "Black Widow": 32.37,
     "Blood Drop": 37.5,
     "Bloody Axe": 40.0,
     "Bottle": 49.4,
@@ -44,7 +44,7 @@
     "Ghost": 39.5,
     "Grape": 34.6,
     "Gravestone": 35.99,
-    "Grim Reaper": 34.0,
+    "Grim Reaper": 32.37,
     "Guitar": 37.7,
     "Half Moon": 33.0,
     "Handset": 69.0,
@@ -79,10 +79,9 @@
     "Potion": 40.0,
     "Red Deer": 32.38,
     "Rocket": 45.0,
-    "Rook": 32.99,
     "Scarecrow": 40.0,
     "Sea Jelly": 35.5,
-    "Severed Hand": 32.2,
+    "Severed Hand": 37.0,
     "Shark Knife": 53.0,
     "Shell": 75.0,
     "Skull": 42.0,
@@ -101,11 +100,12 @@
     "Voodoo Doll": 39.0,
     "Wasp": 56.0,
     "Witch’s Hat": 50.0,
+    "Rook": 32.99,
     "Autumn Leaves": 45.0,
     "Cursor": 59.0,
     "Human Scull": 44.0,
     "Phoenix": 66.2,
-    "Sauron": 33.5,
+    "Sauron": 40.0,
     "Watermelon": 100.0
   },
   "models": {
@@ -160,5 +160,5 @@
     "Concept Art": 65.0,
     "Pink Needle": 67.32
   },
-  "last_updated": 1785186956
+  "last_updated": 1785191249
 }
