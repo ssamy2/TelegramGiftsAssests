@@ -1,8 +1,8 @@
 {
   "backdrops": {
     "Black": 81700.0,
-    "English Violet": 2.86,
-    "Pacific Green": 2.77,
+    "English Violet": 2.85,
+    "Pacific Green": 2.8,
     "Chestnut": 2.88,
     "Electric Indigo": 2.89,
     "Pine Green": 2.87,
@@ -11,7 +11,7 @@
     "Indigo Dye": 2.85,
     "Electric Purple": 2.87,
     "Pure Gold": 2.88,
-    "Neon Blue": 2.77,
+    "Neon Blue": 2.8,
     "Rosewood": 2.87,
     "Battleship Grey": 2.88,
     "Pacific Cyan": 2.88,
@@ -19,13 +19,13 @@
     "Fandango": 2.9,
     "Lavender": 2.88,
     "Aquamarine": 2.92,
-    "Shamrock Green": 2.88,
+    "Shamrock Green": 2.85,
     "Midnight Blue": 10200.0,
     "Mint Green": 2.8,
     "Desert Sand": 2.9,
     "Strawberry": 2.86,
     "Cobalt Blue": 2.9,
-    "French Blue": 2.86,
+    "French Blue": 2.78,
     "Platinum": 2.94,
     "Steel Grey": 2.91,
     "Amber": 2.87,
@@ -57,7 +57,7 @@
     "Persimmon": 2.88,
     "Chocolate": 2.82,
     "Pistachio": 2.81,
-    "Ivory White": 2.9,
+    "Ivory White": 2.89,
     "Copper": 2.83,
     "Onyx Black": 9996.0
   },
@@ -218,5 +218,5 @@
     "Yellow Purp": 7700.0,
     "Hothead": 10200.0
   },
-  "last_updated": 1785123950
+  "last_updated": 1785126653
 }
