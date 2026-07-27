@@ -1,9 +1,9 @@
 {
   "backdrops": {
     "Chocolate": 2.84,
-    "Pistachio": 2.86,
+    "Pistachio": 2.83,
     "Electric Purple": 2.87,
-    "Battleship Grey": 2.76,
+    "Battleship Grey": 2.86,
     "Emerald": 2.87,
     "Mystic Pearl": 2.89,
     "Pacific Cyan": 2.84,
@@ -19,7 +19,7 @@
     "Aquamarine": 2.92,
     "Pine Green": 2.87,
     "Satin Gold": 2.86,
-    "Amber": 2.86,
+    "Amber": 2.84,
     "Carrot Juice": 2.89,
     "Silver Blue": 2.84,
     "French Blue": 2.89,
@@ -149,7 +149,7 @@
     "Hamburger": 11.19,
     "Hammerhead": 8.3,
     "Heart Balloon": 9.5,
-    "Heart": 7.5,
+    "Heart": 7.34,
     "Heartbeat": 12.45,
     "Hedgehog": 12.3,
     "High Heels": 9.0,
@@ -211,7 +211,7 @@
     "Pyramid": 8.0,
     "Rabbit": 8.5,
     "Red Deer": 14.9,
-    "Ring": 7.92,
+    "Ring": 7.93,
     "Rocket": 16.0,
     "Romantic Cake": 6.5,
     "Rook": 13.8,
@@ -322,7 +322,7 @@
     "Orchid": 7.65,
     "Party Clown": 9.18,
     "Party Time": 12.24,
-    "Photonegative": 20.4,
+    "Photonegative": 17.34,
     "Pink Bow": 8.874,
     "Red Alert": 8.16,
     "Refreshing": 7.65,
@@ -332,7 +332,7 @@
     "Silver": 10.2,
     "Slime": 6.12,
     "Snowman": 8.568,
-    "Softness": 6.426,
+    "Softness": 6.3852,
     "Sour Apple": 6.324,
     "Sour Drop": 6.426,
     "Space Drive": 7.65,
@@ -355,5 +355,5 @@
     "Сhamomile": 6.63,
     "Grandma’s Pie": 9.18
   },
-  "last_updated": 1785116448
+  "last_updated": 1785118950
 }

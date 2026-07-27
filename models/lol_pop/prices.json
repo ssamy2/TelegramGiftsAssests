@@ -4,7 +4,7 @@
     "Mystic Pearl": 2.89,
     "Moonstone": 2.76,
     "Purple": 2.76,
-    "Pistachio": 2.86,
+    "Pistachio": 2.83,
     "Silver Blue": 2.84,
     "Pure Gold": 2.88,
     "Fandango": 2.9,
@@ -30,7 +30,7 @@
     "Electric Purple": 2.87,
     "Navy Blue": 2.86,
     "Burgundy": 2.87,
-    "Battleship Grey": 2.76,
+    "Battleship Grey": 2.86,
     "Khaki Green": 2.83,
     "Dark Lilac": 2.9,
     "Desert Sand": 2.9,
@@ -53,7 +53,7 @@
     "Sky Blue": 2.84,
     "Ivory White": 2.9,
     "Carrot Juice": 2.89,
-    "Amber": 2.86,
+    "Amber": 2.84,
     "Sapphire": 2.87,
     "French Blue": 2.89,
     "Grape": 2.8,
@@ -92,7 +92,7 @@
     "Breeze": 3.7,
     "Bunny": 3.1,
     "Burger": 4.4,
-    "Cactus": 3.1,
+    "Cactus": 3.5,
     "Calm Wolf": 3.2,
     "Candy": 3.2,
     "Carambola": 3.14,
@@ -170,7 +170,7 @@
     "Hedgehog": 3.05,
     "Hermit Shell": 3.14,
     "Hippo": 3.99,
-    "Holy Grail": 3.1,
+    "Holy Grail": 3.23,
     "Horn": 3.32,
     "Horseshoe": 3.07,
     "Hourglass": 3.11,
@@ -182,7 +182,7 @@
     "Iron Helmet": 3.7,
     "Jellyfish": 4.0,
     "Jewel": 3.5,
-    "Jolly Roger": 3.61,
+    "Jolly Roger": 3.59,
     "Jörmungandr": 3.15,
     "Khinkali": 3.28,
     "Kite": 3.78,
@@ -190,7 +190,7 @@
     "Koala": 3.1,
     "Kudu Totem": 3.1,
     "Leaf": 3.99,
-    "Legionary": 3.1,
+    "Legionary": 3.29,
     "Lemon Slice": 3.01,
     "Light Bulb": 3.99,
     "Lightning": 5.1,
@@ -305,7 +305,7 @@
     "Yogi Shaman": 3.99
   },
   "models": {
-    "Andromeda": 3.927,
+    "Andromeda": 3.9168,
     "Angelina": 8.67,
     "Bitter Lemon": 2.9886,
     "Blender": 2.9784,
@@ -406,5 +406,5 @@
     "Wild Mango": 3.06,
     "Wonka Berry": 3.06
   },
-  "last_updated": 1785116448
+  "last_updated": 1785118950
 }

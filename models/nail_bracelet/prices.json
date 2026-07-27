@@ -31,7 +31,7 @@
     "Chocolate": 2.84,
     "Copper": 2.83,
     "Emerald": 2.87,
-    "Pistachio": 2.86,
+    "Pistachio": 2.83,
     "Roman Silver": 2.89,
     "Rifle Green": 2.86,
     "Light Olive": 2.88,
@@ -40,10 +40,10 @@
     "Purple": 2.76,
     "Fandango": 2.9,
     "Mint Green": 2.8,
-    "Battleship Grey": 2.76,
+    "Battleship Grey": 2.86,
     "Burgundy": 2.87,
     "Rosewood": 2.87,
-    "Amber": 2.86,
+    "Amber": 2.84,
     "English Violet": 2.86,
     "Dark Green": 2.82,
     "Lavender": 2.88,
@@ -208,7 +208,7 @@
     "Gold": 2000.0,
     "Greek Sun": 500.0,
     "Griffon": 300.0,
-    "Gua Pi Mao": 155.0,
+    "Gua Pi Mao": 195.0,
     "Hand of God": 118.17,
     "Handset": 154.0,
     "Hazelnut": 188.0,
@@ -256,7 +256,7 @@
     "Obon Lantern": 290.0,
     "Octopus": 666.0,
     "Old Candle": 280.0,
-    "Onigiri": 159.98,
+    "Onigiri": 159.99,
     "Owl": 300.0,
     "Oxen of Fire": 320.0,
     "Paw Print": 500.0,
@@ -364,5 +364,5 @@
     "Vague Dream": 106.08,
     "X-Ray": 137.7
   },
-  "last_updated": 1785116448
+  "last_updated": 1785118950
 }

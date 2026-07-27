@@ -25,7 +25,7 @@
     "Marine Blue": 2.8,
     "Gunship Green": 2.83,
     "Ranger Green": 2.9,
-    "Pistachio": 2.86,
+    "Pistachio": 2.83,
     "Sky Blue": 2.84,
     "Lemongrass": 2.76,
     "Caramel": 2.85,
@@ -62,7 +62,7 @@
     "Jade Green": 2.87,
     "Copper": 2.83,
     "Pacific Cyan": 2.84,
-    "Amber": 2.86,
+    "Amber": 2.84,
     "Pine Green": 2.87,
     "Cobalt Blue": 2.9,
     "Purple": 2.76,
@@ -78,7 +78,7 @@
     "Mustard": 2.82,
     "Feldgrau": 2.8,
     "Malachite": 2.79,
-    "Battleship Grey": 2.76,
+    "Battleship Grey": 2.86,
     "Black": 23000.0
   },
   "symbols": {
@@ -162,7 +162,7 @@
     "Bunny": 1515.0,
     "Carnation": 1250.0,
     "Carrot": 1900.0,
-    "Celtic Wolf": 1000.0,
+    "Celtic Wolf": 999.99,
     "Croissant": 1500.0,
     "Date Pin": 2860.0,
     "Diamonds": 1500.0,
@@ -192,7 +192,7 @@
     "Piggy Bank": 2222.0,
     "Pineapple": 7000.0,
     "Piranha": 1239.0,
-    "Pizza Slice": 1000.0,
+    "Pizza Slice": 999.99,
     "Porrige": 5000.0,
     "Ribeye Steak": 2500.0,
     "Sea Dragon": 4500.0,
@@ -205,7 +205,7 @@
     "Tricorne": 11111.0,
     "Turban": 1500.0,
     "Two Katanas": 2599.0,
-    "Vortex": 1000.0
+    "Vortex": 999.99
   },
   "models": {
     "Love Ring": 4000.0,
@@ -267,5 +267,5 @@
     "Stone Flower": 5098.98,
     "Emocore": 1989.0
   },
-  "last_updated": 1785116448
+  "last_updated": 1785118950
 }

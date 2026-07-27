@@ -32,7 +32,7 @@
     "Grape": 2.8,
     "Silver Blue": 2.84,
     "Marine Blue": 2.8,
-    "Amber": 2.86,
+    "Amber": 2.84,
     "French Blue": 2.89,
     "Mexican Pink": 2.83,
     "Fire Engine": 2.87,
@@ -55,7 +55,7 @@
     "Camo Green": 2.83,
     "Sapphire": 2.87,
     "Light Olive": 2.88,
-    "Battleship Grey": 2.76,
+    "Battleship Grey": 2.86,
     "Shamrock Green": 2.88,
     "Pine Green": 2.87,
     "Cyberpunk": 2.9,
@@ -73,7 +73,7 @@
     "Caramel": 2.85,
     "Deep Cyan": 2.76,
     "Turquoise": 2.87,
-    "Pistachio": 2.86,
+    "Pistachio": 2.83,
     "Celtic Blue": 2.83,
     "Khaki Green": 2.83,
     "Rosewood": 2.87,
@@ -127,7 +127,7 @@
     "Chest": 10.0,
     "Chocolate": 7.91,
     "Cobra": 9.5,
-    "Conch": 6.16,
+    "Conch": 9.0,
     "Cone": 6.37,
     "Corn": 16.0,
     "Cow Skull": 19.99,
@@ -160,7 +160,7 @@
     "French Fries": 8.0,
     "Gentian": 11.9,
     "Ghost": 7.5,
-    "Grape": 6.5,
+    "Grape": 6.19,
     "Hamburger": 6.46,
     "Hand of God": 14.0,
     "Heart Balloon": 9.5,
@@ -334,5 +334,5 @@
     "Watermelon": 7.446,
     "Steve’s Pet": 9.8838
   },
-  "last_updated": 1785116448
+  "last_updated": 1785118950
 }

@@ -7,7 +7,7 @@
     "Pacific Green": 2.77,
     "Burgundy": 2.87,
     "Cappuccino": 2.9,
-    "Amber": 2.86,
+    "Amber": 2.84,
     "Caramel": 2.85,
     "Emerald": 2.87,
     "Moonstone": 2.76,
@@ -19,13 +19,13 @@
     "Pacific Cyan": 2.84,
     "Azure Blue": 2.82,
     "Sapphire": 2.87,
-    "Pistachio": 2.86,
+    "Pistachio": 2.83,
     "Sky Blue": 2.84,
     "Cobalt Blue": 2.9,
     "Midnight Blue": 4.1412,
     "Lemongrass": 2.76,
     "Malachite": 2.79,
-    "Battleship Grey": 2.76,
+    "Battleship Grey": 2.86,
     "Light Olive": 2.88,
     "Mystic Pearl": 2.89,
     "Silver Blue": 2.84,
@@ -174,7 +174,7 @@
     "Shooting Star": 3.8,
     "Skull": 3.92,
     "Snow Angel": 3.96,
-    "Snowflake": 4.0,
+    "Snowflake": 3.66,
     "Snowman": 5.0,
     "Spades": 10.0,
     "Sparks": 3.88,
@@ -274,5 +274,5 @@
     "Yule Hat": 15.3,
     "Zesty": 5.304
   },
-  "last_updated": 1785116448
+  "last_updated": 1785118950
 }

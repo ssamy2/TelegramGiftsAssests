@@ -26,7 +26,7 @@
     "Gunship Green": 2.83,
     "Neon Blue": 2.77,
     "Cappuccino": 2.9,
-    "Battleship Grey": 2.76,
+    "Battleship Grey": 2.86,
     "Chestnut": 2.88,
     "Camo Green": 2.83,
     "Hunter Green": 2.85,
@@ -55,10 +55,10 @@
     "French Blue": 2.89,
     "Navy Blue": 2.86,
     "Persimmon": 2.88,
-    "Amber": 2.86,
+    "Amber": 2.84,
     "Burnt Sienna": 2.93,
     "Tomato": 2.84,
-    "Pistachio": 2.86,
+    "Pistachio": 2.83,
     "Pacific Green": 2.77,
     "Rifle Green": 2.86,
     "Mustard": 2.82,
@@ -165,7 +165,7 @@
     "Leaf": 6.66,
     "Lemon Slice": 5.98,
     "Lemon": 6.66,
-    "Light Bulb": 5.7,
+    "Light Bulb": 5.46,
     "Lightning": 5.9,
     "Lily": 6.0,
     "Lion Head": 6.99,
@@ -224,7 +224,7 @@
     "Star": 5.46,
     "Strawberry": 6.5,
     "Sun": 5.78,
-    "Sunflower": 10.01,
+    "Sunflower": 10.0,
     "Tetsubin": 15.0,
     "Tie": 5.9,
     "Top Hat": 5.7,
@@ -296,5 +296,5 @@
     "Titanium": 5.3346,
     "Twilight Wish": 5.661
   },
-  "last_updated": 1785116448
+  "last_updated": 1785118950
 }

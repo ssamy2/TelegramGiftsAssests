@@ -3,7 +3,7 @@
     "Silver Blue": 2.84,
     "Electric Indigo": 2.89,
     "Burgundy": 2.87,
-    "Pistachio": 2.86,
+    "Pistachio": 2.83,
     "English Violet": 2.86,
     "Pure Gold": 2.88,
     "Deep Cyan": 2.76,
@@ -28,7 +28,7 @@
     "Copper": 2.83,
     "Camo Green": 2.83,
     "Tomato": 2.84,
-    "Amber": 2.86,
+    "Amber": 2.84,
     "Neon Blue": 2.77,
     "Indigo Dye": 2.76,
     "Old Gold": 2.79,
@@ -42,7 +42,7 @@
     "Burnt Sienna": 2.93,
     "Light Olive": 2.88,
     "Navy Blue": 2.86,
-    "Battleship Grey": 2.76,
+    "Battleship Grey": 2.86,
     "Caramel": 2.85,
     "Sapphire": 2.87,
     "Seal Brown": 2.85,
@@ -367,7 +367,7 @@
     "Fine Silver": 3.5598,
     "Fish Pod": 3.5598,
     "Flower Bed": 3.1824,
-    "Flowers": 3.162,
+    "Flowers": 3.06,
     "Foliage": 3.978,
     "Free Flight": 3.264,
     "Frosted": 3.366,
@@ -386,8 +386,8 @@
     "Meowling": 10.1898,
     "Moon Watch": 3.315,
     "Mr. Benedict": 3.468,
-    "Omeletron": 3.366,
-    "OS Shell": 3.366,
+    "Omeletron": 3.264,
+    "OS Shell": 3.264,
     "Pastel Candy": 3.264,
     "Pearl": 4.4982,
     "Porcelain": 3.2538,
@@ -403,5 +403,5 @@
     "Treasure Map": 3.2436,
     "Unicorn": 12.24
   },
-  "last_updated": 1785116448
+  "last_updated": 1785118950
 }

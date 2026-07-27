@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Fandango": 2.9,
-    "Battleship Grey": 2.76,
+    "Battleship Grey": 2.86,
     "Azure Blue": 2.82,
     "Cobalt Blue": 2.9,
     "Chocolate": 2.84,
@@ -13,7 +13,7 @@
     "Purple": 2.76,
     "Steel Grey": 2.91,
     "Sapphire": 2.87,
-    "Amber": 2.86,
+    "Amber": 2.84,
     "Cappuccino": 2.9,
     "Sky Blue": 2.84,
     "Cyberpunk": 2.9,
@@ -50,7 +50,7 @@
     "Navy Blue": 2.86,
     "Lavender": 2.88,
     "Rosewood": 2.87,
-    "Pistachio": 2.86,
+    "Pistachio": 2.83,
     "Aquamarine": 2.92,
     "French Blue": 2.89,
     "Satin Gold": 2.86,
@@ -131,7 +131,7 @@
     "Happy Smile": 4.5,
     "Heart": 5.18,
     "Hedgehog": 8.0,
-    "Hippo": 9.99,
+    "Hippo": 9.98,
     "Human Scull": 5.0,
     "Ice Pop": 8.0,
     "Illuminati": 5.0,
@@ -288,7 +288,7 @@
     "Smoke Veil": 5.4978,
     "Sneak Attack": 5.8548,
     "Sorcière": 5.5998,
-    "Sorting Cat": 19.38,
+    "Sorting Cat": 18.972,
     "Spellcaster": 5.1,
     "Spyglass": 5.1,
     "Striped": 4.2024,
@@ -303,5 +303,5 @@
     "Young Witch": 4.1514,
     "Cat’s Grasp": 4.386
   },
-  "last_updated": 1785116448
+  "last_updated": 1785118950
 }

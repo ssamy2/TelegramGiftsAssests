@@ -26,7 +26,7 @@
     "Copper": 2.83,
     "Fire Engine": 2.87,
     "Pure Gold": 2.88,
-    "Amber": 2.86,
+    "Amber": 2.84,
     "Caramel": 2.85,
     "Orange": 2.86,
     "Camo Green": 2.83,
@@ -40,7 +40,7 @@
     "French Blue": 2.89,
     "Mystic Pearl": 2.89,
     "Khaki Green": 2.83,
-    "Battleship Grey": 2.76,
+    "Battleship Grey": 2.86,
     "Purple": 2.76,
     "Sky Blue": 2.84,
     "Rosewood": 2.87,
@@ -51,7 +51,7 @@
     "Hunter Green": 2.85,
     "Dark Green": 2.82,
     "Feldgrau": 2.8,
-    "Pistachio": 2.86,
+    "Pistachio": 2.83,
     "Grape": 2.8,
     "Ranger Green": 2.9,
     "Navy Blue": 2.86,
@@ -190,7 +190,7 @@
     "Money Bag": 54.0,
     "Monstera": 63.0,
     "Moon": 74.0,
-    "Music Skull": 57.48,
+    "Music Skull": 56.28,
     "Mustache": 100.0,
     "Narcissus": 49.99,
     "Nemes": 55.0,
@@ -254,7 +254,7 @@
     "Watermelon": 60.0,
     "Wepwawet": 65.0,
     "Westside Hand": 6666.0,
-    "Wolf Rage": 149.89,
+    "Wolf Rage": 149.88,
     "Yo Sign": 65.0
   },
   "models": {
@@ -309,5 +309,5 @@
     "Vape Wave": 46.92,
     "War Rig": 54.06
   },
-  "last_updated": 1785116448
+  "last_updated": 1785118950
 }
