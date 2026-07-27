@@ -1,10 +1,10 @@
 {
   "backdrops": {
     "Caramel": 2.85,
-    "Hunter Green": 2.8,
+    "Hunter Green": 2.85,
     "Strawberry": 2.86,
     "Fandango": 2.9,
-    "Amber": 2.87,
+    "Amber": 2.86,
     "Dark Lilac": 2.9,
     "French Blue": 2.89,
     "Electric Indigo": 2.89,
@@ -17,7 +17,7 @@
     "Chocolate": 2.84,
     "Raspberry": 2.88,
     "Carrot Juice": 2.89,
-    "English Violet": 2.84,
+    "English Violet": 2.86,
     "Pacific Cyan": 2.84,
     "Pistachio": 2.86,
     "Roman Silver": 2.89,
@@ -26,11 +26,11 @@
     "Pine Green": 2.87,
     "Cappuccino": 2.9,
     "Cyberpunk": 2.9,
-    "Burgundy": 2.84,
+    "Burgundy": 2.87,
     "Azure Blue": 2.82,
-    "Navy Blue": 2.82,
+    "Navy Blue": 2.86,
     "Shamrock Green": 2.88,
-    "Purple": 2.74,
+    "Purple": 2.76,
     "Copper": 2.83,
     "Sapphire": 2.87,
     "Light Olive": 2.88,
@@ -44,7 +44,7 @@
     "Electric Purple": 2.87,
     "Khaki Green": 2.83,
     "Silver Blue": 2.84,
-    "Orange": 2.87,
+    "Orange": 2.86,
     "Midnight Blue": 4.0698,
     "Indigo Dye": 2.76,
     "Jade Green": 2.87,
@@ -53,13 +53,13 @@
     "Turquoise": 2.87,
     "Sky Blue": 2.84,
     "Emerald": 2.87,
-    "Pure Gold": 2.8,
+    "Pure Gold": 2.88,
     "Neon Blue": 2.77,
-    "Moonstone": 2.84,
-    "Battleship Grey": 2.74,
-    "Mystic Pearl": 2.76,
-    "Black": 21.42,
-    "Onyx Black": 7.395
+    "Moonstone": 2.76,
+    "Battleship Grey": 2.76,
+    "Mystic Pearl": 2.89,
+    "Black": 25.398,
+    "Onyx Black": 7.701
   },
   "symbols": {
     "Fish Skeleton": 5.45,
@@ -421,5 +421,5 @@
     "Xmas Prank": 3.366,
     "Сourt Jester": 3.672
   },
-  "last_updated": 1785113898
+  "last_updated": 1785116448
 }
