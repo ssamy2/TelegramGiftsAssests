@@ -8,13 +8,13 @@
   "symbols": {},
   "models": {
     "Adventure": 4.692,
-    "Alcatraz": 3.672,
+    "Alcatraz": 3.4476,
     "Ambition": 3.5496,
     "Ballerina": 3.672,
-    "Barry Allen": 3.4884,
+    "Barry Allen": 3.57,
     "Bartender": 3.672,
     "Billie Jean": 7.14,
-    "Biohazard": 3.8046,
+    "Biohazard": 3.468,
     "Black Panther": 3.4986,
     "Brothers": 3.621,
     "Courage": 3.5904,
@@ -33,7 +33,7 @@
     "Intellect": 3.4986,
     "Leopard": 3.4986,
     "Loyalty": 3.4782,
-    "Mad Scientist": 9.69,
+    "Mad Scientist": 7.65,
     "Monsters": 3.876,
     "Moon Prism": 3.621,
     "Passion": 4.0698,
@@ -58,5 +58,5 @@
     "Trader": 4.1718,
     "Twin Peaks": 3.57
   },
-  "last_updated": 1785192209
+  "last_updated": 1785194784
 }

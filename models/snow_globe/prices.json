@@ -40,7 +40,7 @@
     "Dessert": 4.0,
     "Doberman": 3.89,
     "Eikthyrnir": 4.0,
-    "Festive Wreath": 3.9,
+    "Festive Wreath": 4.2,
     "Fez": 11.0,
     "Firebird": 6.1,
     "Fireworks": 4.5,
@@ -64,7 +64,6 @@
     "Kite": 3.99,
     "Kitsune Mask": 9.9,
     "Lily": 6.5,
-    "Maple": 7.5,
     "Mistletoe": 4.2,
     "Mittens": 4.9,
     "Moon Cross": 4.0,
@@ -133,14 +132,15 @@
     "Magic Wand": 4.0,
     "Manta Ray": 4.0,
     "Maple Leaf": 8.0,
-    "Cow Skull": 4.0,
+    "Maple": 7.5,
     "Hot Matcha": 3.93,
     "Lovely Kiss": 9.0,
     "Monstera": 4.0,
     "Paper Lantern": 4.8,
     "Snowman": 4.0,
     "Winter House": 3.99,
-    "Candle": 4.0
+    "Candle": 4.0,
+    "Cow Skull": 4.0
   },
   "models": {
     "Amethyst": 3.876,
@@ -186,13 +186,13 @@
     "Silver Frost": 4.3758,
     "Sky Terrace": 3.8658,
     "Smurf Cabin": 4.998,
-    "Winter": 4.386,
     "Summer": 3.7541795,
     "White Day": 4.386,
     "Wild West": 3.8862,
+    "Winter": 4.386,
     "Crimson Cabin": 4.08,
     "Ocean Oasis": 3.876,
     "Spring": 4.59
   },
-  "last_updated": 1785192209
+  "last_updated": 1785194785
 }
