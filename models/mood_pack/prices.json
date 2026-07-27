@@ -30,7 +30,6 @@
     "Bubble Tea": 3.39,
     "Bubbles": 3.38,
     "Bucket Hat": 3.44,
-    "Cap": 3.5,
     "Car": 3.5,
     "Carrot": 3.99,
     "Cat Mask": 3.6,
@@ -123,9 +122,9 @@
     "Oculus": 3.48,
     "Ouroboros": 3.64,
     "Owl": 3.7,
-    "Calm Wolf": 6.66,
+    "Calm Wolf": 6.67,
     "Candle": 3.33,
-    "Paw": 5.5,
+    "Cap": 3.5,
     "PC Mouse": 3.39,
     "Peace Dove": 3.44,
     "Pear": 4.9,
@@ -193,6 +192,7 @@
     "Yin-Yang": 3.6,
     "Party Hat": 3.6,
     "Paschal Lamb": 3.5,
+    "Paw": 5.5,
     "Bastet": 3.5,
     "Bunny Ears": 3.35,
     "Cash": 3.42,
@@ -213,7 +213,6 @@
     "Bank Vault": 8.1498,
     "Battle Royale": 18.5028,
     "Bloom Pack": 3.417,
-    "Davy Jones": 3.4374,
     "Emo Phase": 3.9576,
     "Fallout": 3.3354,
     "Fashionista": 3.3354,
@@ -254,10 +253,11 @@
     "Wanderer": 3.672,
     "Croc Sack": 3.2844,
     "Crystal Scarab": 3.57,
+    "Davy Jones": 3.4374,
     "Burger Bag": 3.3048,
     "Fast Courier": 3.2844,
     "Proton Pack": 5.61,
     "Cat Pack": 3.468
   },
-  "last_updated": 1785191383
+  "last_updated": 1785192209
 }

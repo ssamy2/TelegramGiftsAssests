@@ -23,7 +23,6 @@
     "Bloody Axe": 5.9,
     "Book": 8.5,
     "Brain": 9.0,
-    "Cap": 4.26,
     "Cash": 5.0,
     "Cauldron": 4.2,
     "Celtic Wolf": 9.9,
@@ -101,7 +100,7 @@
     "Sakura": 7.0,
     "Sauron": 5.0,
     "Scissors": 4.79,
-    "Seahorse": 8.97,
+    "Seahorse": 8.96,
     "Severed Hand": 5.0,
     "Sharp Sword": 4.9,
     "Shell": 5.51,
@@ -117,7 +116,7 @@
     "Sun Lion": 5.0,
     "Burger": 4.7,
     "Candle": 4.42,
-    "Sword": 5.9,
+    "Cap": 4.26,
     "The Eye": 6.0,
     "Tie": 8.2,
     "Top Hat": 5.3,
@@ -133,6 +132,7 @@
     "Wreath": 4.03,
     "Sun": 5.0,
     "Sunflower": 4.8,
+    "Sword": 5.9,
     "Bug": 5.5,
     "Candy": 4.47,
     "Evil Pumpkin": 4.75,
@@ -223,10 +223,10 @@
     "Wet Fungus": 4.4472,
     "Wizard Cap": 4.743,
     "Bag Pipe": 4.488,
-    "Savannah": 4.7838,
     "Zebra Cap": 4.845,
+    "Savannah": 4.7838,
     "Herbalist": 4.182,
     "Night Light": 4.182
   },
-  "last_updated": 1785191383
+  "last_updated": 1785192209
 }

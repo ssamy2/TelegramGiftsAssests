@@ -80,7 +80,6 @@
     "Hand of God": 211.0,
     "Heart": 210.0,
     "Heater Shield": 800.0,
-    "High Heels": 600.0,
     "Holy Grail": 185.0,
     "Horseshoe": 300.0,
     "Ice Pop": 220.0,
@@ -176,7 +175,7 @@
     "Unicorn": 105.11,
     "Hedgehog": 196.0,
     "Hersir": 222.0,
-    "Vortex": 150.0,
+    "High Heels": 600.0,
     "War Tiger": 105.1,
     "Warhorse": 159.0,
     "Watching Sun": 270.0,
@@ -188,6 +187,7 @@
     "Yogi Shaman": 220.0,
     "Viking": 200.0,
     "Viper": 199.0,
+    "Vortex": 150.0,
     "Bull of Heaven": 180.0,
     "Crusader Cross": 444.0,
     "Flamingo": 197.0,
@@ -204,7 +204,6 @@
   },
   "models": {
     "Academic": 132.6,
-    "Argylle": 104.04,
     "Biscuit": 108.63,
     "Black Purrse": 612.0,
     "Bleu Officier": 105.06,
@@ -273,6 +272,7 @@
     "Zip Pocket": 189.9852,
     "Aqua Atoll": 142.8,
     "Ardente": 244.8,
+    "Argylle": 104.04,
     "Aero Swift": 105.06,
     "Black Ascot": 357.0,
     "Jade Serpent": 142.8,
@@ -283,5 +283,5 @@
     "Panthera": 679.32,
     "Vert d’Eau": 147.9
   },
-  "last_updated": 1785191383
+  "last_updated": 1785192209
 }

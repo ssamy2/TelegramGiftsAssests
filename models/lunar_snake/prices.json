@@ -30,7 +30,7 @@
     "Cicada": 2.98,
     "Clover": 2.86,
     "Coat of Arms": 3.1,
-    "Cobra": 2.79,
+    "Cobra": 3.9,
     "Cocktail": 3.22,
     "Coconut": 3.0,
     "Coffee Bean": 8.4,
@@ -57,7 +57,7 @@
     "Fire": 2.9,
     "Fireworks": 2.99,
     "Fish Skeleton": 3.66,
-    "Fleur-de-lis": 2.9,
+    "Fleur-de-lis": 2.79,
     "Flower": 5.0,
     "Gift Box": 3.49,
     "Gingerbread": 3.1,
@@ -86,7 +86,6 @@
     "Mittens": 3.0,
     "Monstera": 3.0,
     "Moon Cross": 3.07,
-    "Nordic Wolf": 3.0,
     "Okami Wolf": 3.3,
     "Ornament": 3.1,
     "Ouroboros": 3.0,
@@ -133,6 +132,7 @@
     "Wolf Rage": 2.99,
     "Moose Head": 4.0,
     "Musical Note": 4.4,
+    "Nordic Wolf": 3.0,
     "Anchor": 3.34,
     "Christmas Tree": 2.83,
     "Eikthyrnir": 2.86,
@@ -191,7 +191,6 @@
     "Hydra": 3.2232,
     "Iron Mine": 2.805,
     "Jade Serpent": 2.8254,
-    "Limescale": 2.8254,
     "Lunar Year": 3.06,
     "Mandarin": 2.8152,
     "Neurotoxin": 2.9478,
@@ -237,6 +236,7 @@
     "Yellow Cobra": 2.8152,
     "Lancehead": 2.805,
     "Lapis": 2.8764,
+    "Limescale": 2.8254,
     "Amethyssst": 2.8254,
     "Ender Snake": 3.8148,
     "Hong Kong": 3.06,
@@ -245,5 +245,5 @@
     "Sun Serpent": 2.8254,
     "Kinder Garter": 2.805
   },
-  "last_updated": 1785191383
+  "last_updated": 1785192209
 }

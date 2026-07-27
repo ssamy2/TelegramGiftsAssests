@@ -39,7 +39,6 @@
     "Chick": 4.89,
     "Chili Pepper": 5.05,
     "Chili": 4.97,
-    "Cowboy Hat": 5.6,
     "Crescent": 5.0,
     "Crown": 4.9,
     "Crusader Cross": 6.0,
@@ -54,7 +53,7 @@
     "Evil Dragon": 5.0,
     "Fenrir": 6.0,
     "Fire": 4.7,
-    "Fish Skeleton": 10.07,
+    "Fish Skeleton": 10.06,
     "Flamingo": 4.7,
     "Fleur-de-lis": 5.0,
     "Flipper": 6.0,
@@ -126,7 +125,7 @@
     "Plume": 4.74,
     "Police Hat": 6.5,
     "Propeller Cap": 5.5,
-    "Pumpkin Coach": 5.2,
+    "Pumpkin Coach": 5.15,
     "Puzzle": 4.99,
     "Pyramid": 4.79,
     "Ram of Amun": 4.7,
@@ -137,7 +136,7 @@
     "Rose": 10.0,
     "Coconut": 4.98,
     "Corn": 5.7,
-    "Sakura": 4.85,
+    "Cowboy Hat": 5.6,
     "Sauron": 4.89,
     "Scarab": 5.5,
     "Sea Jelly": 5.55,
@@ -170,6 +169,7 @@
     "Yo Sign": 4.92,
     "Royal Turban": 4.95,
     "Sailor Hat": 5.48,
+    "Sakura": 4.85,
     "Arcane Mirror": 5.0,
     "Cash Cap": 5.62,
     "Cocktail": 5.0,
@@ -234,5 +234,5 @@
     "Lemon Pepper": 4.611989,
     "Dogg’s Loot": 8.16
   },
-  "last_updated": 1785191383
+  "last_updated": 1785192209
 }

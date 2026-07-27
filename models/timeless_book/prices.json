@@ -6,11 +6,8 @@
   },
   "symbols": {
     "Academic Cap": 4.44,
-    "Anubis": 5.0,
-    "Axe": 3.6,
+    "Apple": 3.5,
     "Aztec Falcon": 3.6,
-    "Aztec Totem": 3.6,
-    "Bandage": 3.69,
     "Bandana": 6.0,
     "Baseball Cap": 6.64,
     "Bearskin": 3.47,
@@ -81,9 +78,11 @@
     "Hourglass": 3.64,
     "Anchor": 9.0,
     "Ancient Urn": 4.25,
-    "Apple": 3.5,
+    "Anubis": 5.0,
     "Arabian Horse": 5.0,
-    "Inca Sun": 4.0,
+    "Axe": 3.6,
+    "Aztec Totem": 3.6,
+    "Bandage": 3.69,
     "Inguz Rune": 9.6,
     "Ink Pen": 3.86,
     "Iron Helmet": 3.47,
@@ -95,7 +94,7 @@
     "Kudu Totem": 4.98,
     "La Corona": 3.89,
     "Ladybug": 3.95,
-    "Lemon": 8.08,
+    "Lemon": 8.07,
     "Light Bulb": 4.0,
     "Like": 3.8,
     "Lily": 3.63,
@@ -170,7 +169,7 @@
     "Strawberry": 5.0,
     "Ice Pop": 3.84,
     "Illuminati": 4.0,
-    "Takoyaki": 3.75,
+    "Inca Sun": 4.0,
     "Tamagotchi": 4.7,
     "Telescope": 3.87,
     "Thief": 35.0,
@@ -202,8 +201,7 @@
     "Yogi Shaman": 3.65,
     "Sunflower": 10.0,
     "Sword Fight": 4.0,
-    "Alert Serpent": 4.09,
-    "Arcane Mirror": 3.6,
+    "Takoyaki": 3.75,
     "Carrot": 3.6,
     "Divine Falcon": 5.0,
     "Fishing Hook": 3.49,
@@ -213,6 +211,7 @@
     "Sleepy Unicorn": 3.46,
     "Sun Mountain": 3.44,
     "Twin Koi": 5.0,
+    "Alert Serpent": 4.09,
     "Doghouse": 3.58,
     "Dolphin": 5.0,
     "Donut": 3.9,
@@ -224,7 +223,8 @@
     "Flag": 8.0,
     "Flashlight": 6.5,
     "Flower": 3.49,
-    "Ice Cream": 3.98
+    "Ice Cream": 3.98,
+    "Arcane Mirror": 3.6
   },
   "models": {
     "Academic": 3.723,
@@ -282,5 +282,5 @@
     "Tom’s Diary": 21.42,
     "Rocket Science": 7.14
   },
-  "last_updated": 1785191383
+  "last_updated": 1785192209
 }

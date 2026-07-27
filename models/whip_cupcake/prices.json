@@ -20,11 +20,10 @@
     "Basketball": 3.5,
     "Bee": 3.33,
     "Beer": 3.5,
-    "Bishop": 2.93,
+    "Bishop": 3.74,
     "Blooms": 4.0,
     "Blossom": 4.0,
     "Boat": 3.3,
-    "Breeze": 3.49,
     "Bubble Tea": 3.05,
     "Burger": 2.93,
     "Cactus Bloom": 3.36,
@@ -55,7 +54,7 @@
     "Dessert": 3.2,
     "Doghouse": 2.93,
     "Earth": 3.13,
-    "Eye of Horus": 2.93,
+    "Eye of Horus": 3.13,
     "Feather": 3.5,
     "Fenrir": 2.95,
     "Fireman Hat": 4.9,
@@ -113,7 +112,7 @@
     "Maple": 3.3,
     "Money Bag": 3.5,
     "Bone": 3.11,
-    "Nigiri": 3.5,
+    "Breeze": 3.49,
     "Obon Lantern": 3.83,
     "Oculus": 3.18,
     "Onigiri": 3.03,
@@ -169,6 +168,7 @@
     "Wine Toast": 3.28,
     "Yin-Yang": 2.93,
     "Nemean Lion": 3.06,
+    "Nigiri": 3.5,
     "Banana": 3.71,
     "Bobby Helmet": 2.94,
     "Bubbles": 3.08,
@@ -233,5 +233,5 @@
     "Cream Scream": 5.1612,
     "Rising Dead": 3.009
   },
-  "last_updated": 1785191383
+  "last_updated": 1785192209
 }

@@ -8,7 +8,6 @@
   "symbols": {
     "Acorn": 3.36,
     "Alarm": 6.0,
-    "Arabian Horse": 3.3,
     "Avocado": 5.5,
     "Axe": 5.0,
     "Ball": 8.0,
@@ -104,7 +103,7 @@
     "Glasses": 3.64,
     "Anchor": 3.25,
     "Apple": 5.0,
-    "Guitar": 3.99,
+    "Arabian Horse": 3.3,
     "Hammerhead": 10.0,
     "Hand of God": 3.5,
     "Heart": 3.05,
@@ -197,7 +196,7 @@
     "Seahorse": 4.99,
     "Grape": 3.99,
     "Grenade": 3.9,
-    "Shield": 5.46,
+    "Guitar": 3.99,
     "Shooting Star": 3.2,
     "Skull": 4.0,
     "Smartphone": 3.3,
@@ -244,6 +243,7 @@
     "Yogi Shaman": 3.99,
     "Sharp Sword": 3.5,
     "Shell": 6.98,
+    "Shield": 5.46,
     "Alkonost": 4.0,
     "Bottlenose": 3.99,
     "Cat Mask": 3.25,
@@ -300,7 +300,6 @@
     "Heartwarming": 3.978,
     "Hellfire": 4.08,
     "Hellscape": 19.3902,
-    "Jester Box": 7.14,
     "Jolly Orange": 3.4986,
     "Joy Dance": 3.213,
     "Jungle Bells": 3.366,
@@ -355,6 +354,7 @@
     "Сourt Jester": 3.672,
     "Hot Midday": 3.213,
     "Inverse": 7.9866,
+    "Jester Box": 7.14,
     "Beholder": 3.57,
     "Forest Stream": 4.0188,
     "Holidays": 3.4578,
@@ -362,5 +362,5 @@
     "Sketchy": 5.4264,
     "Honk!": 3.468
   },
-  "last_updated": 1785191383
+  "last_updated": 1785192209
 }

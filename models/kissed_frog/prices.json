@@ -17,7 +17,6 @@
     "Bone": 67.0,
     "Bow Tie": 59.0,
     "Broken Heart": 169.0,
-    "Butterfly": 55.0,
     "Calm Wolf": 210.0,
     "Candle": 65.0,
     "Candy": 88.0,
@@ -42,7 +41,7 @@
     "Crow": 39.9,
     "Crystal Ball": 68.0,
     "Cunning Fox": 77.0,
-    "Cupcake": 41.9,
+    "Cupcake": 39.79,
     "Cupid's Arrow": 100.0,
     "Cupid’s Arrow": 100.0,
     "Cute Bear": 110.0,
@@ -83,7 +82,7 @@
     "Illuminati": 60.0,
     "Ink Pen": 41.67,
     "Jaws": 64.0,
-    "Jumbo Pencil": 39.81,
+    "Jumbo Pencil": 39.78,
     "Key": 55.0,
     "Kitsune": 250.0,
     "Kitty Cat": 120.0,
@@ -108,7 +107,7 @@
     "Moon": 80.0,
     "Bunny Ears": 89.0,
     "Bunny": 250.0,
-    "Nordic Wolf": 45.0,
+    "Butterfly": 55.0,
     "Oxen of Fire": 150.0,
     "Padlock": 55.0,
     "Passion Latte": 45.0,
@@ -163,6 +162,7 @@
     "Witch’s Hat": 52.0,
     "Nice Ghost": 400.0,
     "Night Bats": 49.0,
+    "Nordic Wolf": 45.0,
     "Bubbles": 70.0,
     "Chocolate": 68.0,
     "Evil Pumpkin": 777.0,
@@ -227,5 +227,5 @@
     "Frogwave": 60.18,
     "Rocky Hopper": 357.0
   },
-  "last_updated": 1785191383
+  "last_updated": 1785192209
 }

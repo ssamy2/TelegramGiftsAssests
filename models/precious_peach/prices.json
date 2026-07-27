@@ -31,7 +31,6 @@
     "Croissant": 600.0,
     "Crusader": 2555.0,
     "Cunning Fox": 350.0,
-    "Dragonfly": 10000.0,
     "Drug": 1999.0,
     "Eagle": 400.0,
     "Elephant": 750.0,
@@ -100,7 +99,7 @@
     "Shield": 1100.0,
     "Shiny Heart": 1140.0,
     "Shooting Star": 275.0,
-    "Stilettos": 251.9,
+    "Stilettos": 266.0,
     "Strawberry": 600.0,
     "Sun Lion": 413.0,
     "Sun Mountain": 1400.0,
@@ -117,6 +116,7 @@
     "Water Drops": 370.0,
     "Cute Bear": 800.0,
     "Dessert": 900.0,
+    "Dragonfly": 10000.0,
     "Wreath": 1270.0,
     "Carambola": 320.0,
     "Cupid": 450.0,
@@ -202,5 +202,5 @@
     "Twilight": 289.9962,
     "Glossy Finish": 387.6
   },
-  "last_updated": 1785191383
+  "last_updated": 1785192209
 }

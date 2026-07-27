@@ -81,7 +81,6 @@
     "Horned Helm": 439.0,
     "Ice Pop": 188.0,
     "Inca Sun": 155.0,
-    "Jörmungandr": 150.0,
     "Kashket": 188.0,
     "Khinkali": 150.0,
     "Kitsune": 600.0,
@@ -113,7 +112,7 @@
     "Obon Lantern": 290.0,
     "Octopus": 666.0,
     "Old Candle": 280.0,
-    "Onigiri": 159.99,
+    "Onigiri": 159.98,
     "Owl": 300.0,
     "Oxen of Fire": 320.0,
     "Paw Print": 500.0,
@@ -167,6 +166,7 @@
     "Wizard Hat": 320.0,
     "Jewel": 107.57,
     "Jolly Roger": 104.6,
+    "Jörmungandr": 150.0,
     "Bunny Ears": 125.0,
     "Divine Falcon": 399.0,
     "Greek Sun": 500.0,
@@ -191,7 +191,6 @@
     "Cat Person": 168.3,
     "Crypto Gem": 216.24,
     "Diamond": 599.0,
-    "Hachikō": 255.0,
     "Heavy Metal": 184.9974,
     "Hologram": 132.6,
     "Hypno Kaa": 345.78,
@@ -227,10 +226,11 @@
     "X-Ray": 137.7,
     "Explosive": 101.898,
     "Gold Rush": 255.0,
+    "Hachikō": 255.0,
     "Duck Amulet": 143.31,
     "Jade Serpent": 117.3,
     "Skyline": 714.0,
     "Firebronze": 122.4
   },
-  "last_updated": 1785191383
+  "last_updated": 1785192209
 }
