@@ -7,9 +7,6 @@
   },
   "symbols": {},
   "models": {
-    "Anti-Gravity": 3.0498,
-    "Arcane Bowl": 2.9784,
-    "Bacon": 2.9682,
     "Bento": 2.9988,
     "Broth Pack": 2.9266453,
     "Cable Mess": 3.111,
@@ -38,6 +35,9 @@
     "Sunny Loops": 3.009,
     "Topokki": 2.958,
     "Turtle Soup": 3.9882,
+    "Anti-Gravity": 3.0498,
+    "Arcane Bowl": 2.9784,
+    "Bacon": 2.9682,
     "Abduction": 3.009,
     "Golden Vault": 3.519,
     "Spicy Wiener": 2.9784,
@@ -58,5 +58,5 @@
     "Ratatouille": 3.0498,
     "Red Lobster": 3.06
   },
-  "last_updated": 1785252157
+  "last_updated": 1785254817
 }

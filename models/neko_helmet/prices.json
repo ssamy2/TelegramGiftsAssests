@@ -6,7 +6,6 @@
     "Onyx Black": 72.42
   },
   "symbols": {
-    "Chili": 65.0,
     "Chrysanthe": 45.0,
     "Cicada": 50.0,
     "Coat of Arms": 33.76,
@@ -97,7 +96,7 @@
     "Celtic Wolf": 50.0,
     "Champagne": 71.0,
     "Chili Pepper": 70.0,
-    "May Bells": 444.0,
+    "Chili": 65.0,
     "Meat Leg": 56.0,
     "Melon": 144.0,
     "Moai Head": 40.0,
@@ -188,6 +187,7 @@
     "Maple": 120.0,
     "Mars & Venus": 65.0,
     "Mask": 68.0,
+    "May Bells": 444.0,
     "Tulip Bloom": 54.54,
     "UFO": 72.0,
     "Valentine": 45.0,
@@ -196,7 +196,7 @@
     "Winter Hat": 80.0,
     "Wise Raven": 60.0,
     "Belladonna": 50.0,
-    "Glasses": 45.0,
+    "Cherry": 33.75,
     "Jörmungandr": 44.0,
     "Ladybug": 34.2,
     "Lotus Flower": 54.0,
@@ -205,8 +205,8 @@
     "Rose Blossom": 45.0,
     "Tongue": 150.0,
     "Tsunami": 36.0,
-    "Cherry": 33.75,
     "Divine Falcon": 34.5,
+    "Glasses": 45.0,
     "Angel": 33.75,
     "Anthurium": 35.9,
     "Twin Koi": 49.93,
@@ -282,5 +282,5 @@
     "Ultravolt": 32.64,
     "Unicorn": 35.7
   },
-  "last_updated": 1785252157
+  "last_updated": 1785254817
 }

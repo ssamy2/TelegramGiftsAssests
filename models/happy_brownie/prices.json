@@ -6,30 +6,30 @@
     "Black": 19.992
   },
   "symbols": {
+    "Crown": 3.65,
+    "Flower Cross": 5.0,
+    "Love Letter": 3.96,
     "Oak Leaf": 3.8,
     "Rhino Warrior": 4.0,
     "Spirit Impala": 3.9,
     "Toilet": 5.0,
-    "Crown": 3.65,
-    "Flower Cross": 5.0,
-    "Love Letter": 3.96,
     "Mountain Lion": 11.0
   },
   "models": {
     "Alien": 3.8556,
-    "Art Supplies": 3.5394,
+    "Balloon": 3.927,
     "Blobfish": 3.4986,
     "Brownwood": 3.468,
-    "Bubble Tea": 3.6618,
+    "Cactus": 3.774,
     "Captain Flush": 3.978,
     "Cat Scat": 13.26,
-    "Censored": 3.4884,
+    "Cherry Cake": 3.57,
     "Cookie Monster": 3.774,
     "Deadpoo": 3.7128,
+    "Art Supplies": 3.5394,
+    "Bubble Tea": 3.6618,
+    "Censored": 3.4884,
     "Dirty Bomb": 3.4476,
-    "Balloon": 3.927,
-    "Cactus": 3.774,
-    "Cherry Cake": 3.57,
     "Golgothan": 7.1196,
     "Homer": 4.0698,
     "Hot Shit": 3.9678,
@@ -61,11 +61,11 @@
     "Gold Nugget": 4.794,
     "Solid Waste": 3.774,
     "Frankenstein": 3.5088,
-    "Holy Shit": 5.61,
+    "Huge Mess": 3.774,
     "Ice Cream": 3.417,
-    "Kawaii": 6.63,
     "Kinky Stinky": 28.56,
-    "Huge Mess": 3.774
+    "Holy Shit": 5.61,
+    "Kawaii": 6.63
   },
-  "last_updated": 1785252157
+  "last_updated": 1785254817
 }

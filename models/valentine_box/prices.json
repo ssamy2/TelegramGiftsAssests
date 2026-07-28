@@ -12,7 +12,7 @@
     "Anchor": 10.49,
     "Angel": 19.55,
     "Anthurium": 16.0,
-    "Apple": 18.42,
+    "Apple": 18.41,
     "Arcane Mirror": 12.0,
     "Astronaut": 10.0,
     "Balloon": 9.37,
@@ -41,7 +41,6 @@
     "Cupcake": 14.9,
     "Cupid Archer": 13.9,
     "Cupid's Arrow": 12.0,
-    "Headband": 20.99,
     "Heart Box": 24.0,
     "Heart Ring": 39.8,
     "Hearts": 25.0,
@@ -100,10 +99,10 @@
     "Daisy": 31.1,
     "Dandelion": 22.0,
     "Diamond": 12.1,
-    "Doghouse": 9.99,
+    "Doghouse": 9.75,
     "Double Axe": 15.0,
-    "Donut": 9.0,
     "Dragonfly": 18.88,
+    "Donut": 9.0,
     "Earflap Hat": 10.5,
     "Easter Bunny": 11.9,
     "February 14": 11.0,
@@ -122,7 +121,7 @@
     "Gua Pi Mao": 13.0,
     "Hammerhead": 20.0,
     "Hazelnut": 10.0,
-    "Totem Bear": 15.0,
+    "Headband": 20.99,
     "Tree of Life": 13.0,
     "Tricorne": 11.48,
     "Trinity Knot": 12.0,
@@ -160,6 +159,7 @@
     "Tie": 10.99,
     "Toilet Paper": 14.7,
     "Tongue": 9.5,
+    "Totem Bear": 15.0,
     "Ace Of Hearts": 9.7,
     "Broken Heart": 20.99,
     "Cupid": 9.88,
@@ -229,5 +229,5 @@
     "Gold Dust": 9.18,
     "Resistance": 17.34
   },
-  "last_updated": 1785252157
+  "last_updated": 1785254817
 }

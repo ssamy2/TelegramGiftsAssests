@@ -5,7 +5,6 @@
     "Onyx Black": 21.726
   },
   "symbols": {
-    "Bunny Ears": 26.0,
     "Bunny": 46.0,
     "Candle": 16.8,
     "Candy": 18.2,
@@ -44,19 +43,19 @@
     "Dragonfly": 15.0,
     "Eagle": 28.0,
     "Eggplant": 16.41,
-    "Dolphin": 12.3,
     "Eikthyrnir": 20.0,
+    "Dolphin": 12.3,
     "Evil Pumpkin": 88.0,
     "Eyeball": 16.9,
     "Fehu Rune": 44.99,
     "Fire": 16.0,
-    "Fish Skeleton": 21.72,
+    "Fish Skeleton": 21.73,
     "Flamingo": 13.0,
     "Flirty Message": 40.0,
     "Flower Tulip": 16.74,
     "Fluffy Wolf": 40.0,
     "Flying Heart": 16.85,
-    "Flying Witch": 49.98,
+    "Flying Witch": 49.99,
     "Garden Pot": 155.0,
     "Genie Lamp": 40.8,
     "Ghost": 16.0,
@@ -86,7 +85,7 @@
     "Brain": 24.98,
     "Bubble Tea": 16.0,
     "Bubbles": 32.0,
-    "Lovely Key": 15.62,
+    "Bunny Ears": 26.0,
     "Lovely Rain": 20.02,
     "Loving Heart": 30.0,
     "Magic Wand": 16.5,
@@ -174,6 +173,7 @@
     "Love Lock": 150.0,
     "Lovebirds": 16.24,
     "Lovely Bra": 125.0,
+    "Lovely Key": 15.62,
     "Unicorn": 28.0,
     "Viking": 18.0,
     "Watermelon": 15.0,
@@ -244,5 +244,5 @@
     "Sandy Red": 14.4942,
     "Abyss Heart": 13.26
   },
-  "last_updated": 1785252157
+  "last_updated": 1785254817
 }
