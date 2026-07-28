@@ -7,21 +7,20 @@
   },
   "symbols": {},
   "models": {
-    "Foundation": 3.519,
     "Free Elf": 5.0898,
     "Friend In Me": 3.774,
     "Garfield": 3.4884,
-    "Brothers": 3.621,
     "Gingerbread": 3.4986,
+    "Courage": 3.5904,
     "Goldfinger": 4.284,
     "Grandma": 3.4986,
     "Gunk Fight": 3.672,
     "Heavy Rain": 3.4884,
-    "Hermes": 4.2126,
-    "Intellect": 3.4986,
-    "Leopard": 3.4986,
+    "Hermes": 4.029,
+    "Intellect": 3.468,
+    "Leopard": 3.468,
     "Loyalty": 3.5598,
-    "Mad Scientist": 7.65,
+    "Mad Scientist": 9.69,
     "Monsters": 3.7128,
     "Moon Prism": 3.621,
     "Passion": 4.0698,
@@ -52,11 +51,12 @@
     "Barry Allen": 3.57,
     "Bartender": 3.672,
     "Billie Jean": 7.14,
-    "Courage": 3.5904,
     "Biohazard": 3.927,
-    "Black Panther": 3.4986,
     "Dark Power": 3.6414,
-    "Drumsticks": 3.4986
+    "Black Panther": 3.4986,
+    "Brothers": 3.621,
+    "Drumsticks": 3.4986,
+    "Foundation": 3.519
   },
-  "last_updated": 1785231335
+  "last_updated": 1785233917
 }
