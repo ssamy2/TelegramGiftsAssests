@@ -5,7 +5,6 @@
     "Onyx Black": 29.58
   },
   "symbols": {
-    "Chimaev": 13.54,
     "Cicada": 15.0,
     "Coat of Arms": 34.0,
     "Cobra": 18.0,
@@ -93,7 +92,7 @@
     "Celtic Wolf": 16.4,
     "Champagne": 17.0,
     "Chest": 25.0,
-    "Sumerian Bird": 32.2,
+    "Chimaev": 13.54,
     "Sun Lion": 20.0,
     "Sun Mountain": 21.0,
     "The Eye": 18.9,
@@ -117,7 +116,7 @@
     "Viper": 24.9,
     "Volkanovski": 15.0,
     "War Tiger": 17.0,
-    "Warhorse": 18.88,
+    "Warhorse": 18.52,
     "Watching Sun": 35.0,
     "Wepwawet": 14.98,
     "White Deer": 13.9,
@@ -129,7 +128,7 @@
     "Rhino Warrior": 19.5,
     "Ring": 13.55,
     "Rook": 35.0,
-    "Round Five": 14.0,
+    "Round Five": 13.54,
     "Round Four": 17.0,
     "Round One": 15.0,
     "Round Three": 13.54,
@@ -147,6 +146,7 @@
     "Squeeze Bottle": 18.0,
     "Star": 20.94,
     "Strong Arm": 18.76,
+    "Sumerian Bird": 32.2,
     "Cocktail": 17.0,
     "Genie Lamp": 18.9,
     "Kitsune Mask": 21.7,
@@ -165,7 +165,6 @@
     "Classic Red": 13.2702,
     "Combo Hit": 14.28,
     "Dumbbell": 13.3416,
-    "UFC 30 Red": 13.362,
     "UFC BMF": 23.358,
     "UFC Classic": 37.74,
     "UFC Keychain": 16.116,
@@ -197,6 +196,7 @@
     "S. O'Malley": 16.5,
     "Train Time": 15.3,
     "UFC 25 Blue": 13.158,
+    "UFC 30 Red": 13.362,
     "Fist Bump": 13.26,
     "Gold Pantoja": 28.56,
     "UFC Glove Token": 17.289,
@@ -204,5 +204,5 @@
     "Gold O’Malley": 37.74,
     "S. O’Malley": 16.932
   },
-  "last_updated": 1785244280
+  "last_updated": 1785246901
 }

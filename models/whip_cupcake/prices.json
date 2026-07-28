@@ -24,7 +24,6 @@
     "Blooms": 4.0,
     "Blossom": 4.0,
     "Boat": 3.3,
-    "Crystal": 3.42,
     "Cunning Fox": 3.49,
     "Cupid's Arrow": 4.8,
     "Cupid": 2.93,
@@ -72,7 +71,7 @@
     "Key": 3.42,
     "Kite": 3.0,
     "Kitsune": 3.4,
-    "Knight": 3.88,
+    "Knight": 3.0,
     "Lavender": 2.98,
     "Lemon Slice": 3.94,
     "Light Bulb": 3.5,
@@ -113,7 +112,7 @@
     "Cobra": 2.93,
     "Coffee Bean": 4.11,
     "Crescent": 3.07,
-    "Rose Blossom": 2.95,
+    "Crystal": 3.42,
     "Rose": 3.4,
     "Royal Crown": 3.07,
     "Sakura Flower": 3.16,
@@ -162,13 +161,14 @@
     "Pigeon": 4.0,
     "Pixel Heart": 3.5,
     "Piñata": 3.09,
-    "Plume": 2.91,
+    "Plume": 3.35,
     "Pomegranate": 3.99,
     "Porrige": 3.75,
     "Press Hat": 3.88,
     "Pyramid": 3.03,
     "Rook": 3.33,
     "Rooster": 2.96,
+    "Rose Blossom": 2.95,
     "Banana": 3.69,
     "Bobby Helmet": 3.53,
     "Bubbles": 3.08,
@@ -182,8 +182,6 @@
     "Winged Helmet": 4.8
   },
   "models": {
-    "Stardust": 3.366,
-    "Starfish": 3.366,
     "Sugar Daddy": 3.3048,
     "Sweetheart": 6.1302,
     "Tarot Cards": 3.468,
@@ -230,8 +228,10 @@
     "Six Senses": 3.264,
     "Spiritwood": 3.06,
     "Sponge Duck": 3.5292,
+    "Stardust": 3.366,
+    "Starfish": 3.366,
     "Cream Scream": 6.1506,
     "Rising Dead": 3.06
   },
-  "last_updated": 1785244280
+  "last_updated": 1785246901
 }
