@@ -34,7 +34,6 @@
     "Cocktail": 80.0,
     "Coconut": 80.0,
     "Coin Purse": 170.0,
-    "Dessert": 80.0,
     "Diamond": 80.0,
     "Diamonds": 74.0,
     "Double Bed": 95.0,
@@ -66,7 +65,7 @@
     "Leaf": 78.0,
     "Lemon": 280.0,
     "Like": 135.0,
-    "Loveberry": 90.0,
+    "Lily": 200.0,
     "Lovebirds": 59.9,
     "Lovely Key": 80.0,
     "Lovely Kiss": 79.0,
@@ -113,8 +112,8 @@
     "Cupid's Arrow": 87.0,
     "Cupid’s Arrow": 87.0,
     "Cute Bear": 110.0,
-    "Lily": 200.0,
-    "Stilettos": 63.0,
+    "Dessert": 80.0,
+    "Loveberry": 90.0,
     "Strawberry": 390.0,
     "Sumerian Bird": 160.99,
     "Sun Lion": 85.0,
@@ -140,6 +139,7 @@
     "Spades": 300.0,
     "Sparks": 99.0,
     "Spirit Impala": 149.0,
+    "Stilettos": 63.0,
     "Alkonost": 1000.0,
     "Chocolate": 99.0,
     "Coin": 250.0,
@@ -205,5 +205,5 @@
     "Prism Bubble": 234.6,
     "Twilight Bliss": 59.16
   },
-  "last_updated": 1785194785
+  "last_updated": 1785197446
 }

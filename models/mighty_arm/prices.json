@@ -25,7 +25,6 @@
     "Carrot": 269.0,
     "Chest": 299.0,
     "Cicada": 266.0,
-    "Clubs": 4343.0,
     "Cobra": 1500.0,
     "Cocktail": 715.0,
     "Coin Purse": 250.0,
@@ -42,7 +41,7 @@
     "Heater Shield": 499.0,
     "Hersir": 220.0,
     "High Heels": 300.0,
-    "Holy Grail": 109.99,
+    "Holy Grail": 277.0,
     "Imperial Lion": 275.0,
     "Inguz Rune": 350.0,
     "Ink Pen": 165.0,
@@ -51,7 +50,7 @@
     "Jörmungandr": 3000.0,
     "Kitsune Mask": 250.0,
     "Bastet": 1555.0,
-    "Mafdet": 114.0,
+    "Clubs": 4343.0,
     "Mannaz Rune": 120.0,
     "Mayan Moth": 150.0,
     "Melon": 122.0,
@@ -108,11 +107,12 @@
     "Legionary": 250.0,
     "Lion Head": 150.0,
     "Lotus Flower": 194.0,
-    "Pomegranate": 650.0,
+    "Mafdet": 114.0,
     "Sushi Rolls": 225.0,
     "Crusader Cross": 107.79,
     "Crystal": 107.5,
     "Lion King": 1430.0,
+    "Pomegranate": 650.0,
     "Bucket Hat": 295.0,
     "Kitsune": 239.0,
     "Kudu Totem": 109.0,
@@ -138,7 +138,6 @@
     "Calm Wolf": 119.9
   },
   "models": {
-    "Bone Warrior": 129.54,
     "Cat Power": 108.12,
     "Champion": 2200.0,
     "Crab Crusher": 183.6,
@@ -182,11 +181,12 @@
     "Xeno Grip": 137.7,
     "Bicep Curls": 204.0,
     "Body Builder": 122.4,
-    "Heavy Metal": 108.12,
+    "Bone Warrior": 129.54,
     "Snake Charmer": 116.28,
+    "Heavy Metal": 108.12,
     "Best Muscles": 918.0,
     "Icebreaker": 2040.0,
     "Infinity": 510.0
   },
-  "last_updated": 1785194785
+  "last_updated": 1785197446
 }

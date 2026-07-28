@@ -43,7 +43,7 @@
     "Calm Wolf": 4.14,
     "Candle": 4.4,
     "Candy": 7.5,
-    "Cap": 7.25,
+    "Cap": 7.26,
     "Carambola": 4.25,
     "Cat Mask": 8.8,
     "Celtic Wolf": 7.83,
@@ -74,7 +74,6 @@
     "Eagle": 3.99,
     "Earflap Hat": 5.99,
     "Earth": 7.5,
-    "Fedora": 8.12,
     "Fehu Rune": 5.0,
     "Fireman Hat": 4.49,
     "Fish Skeleton": 5.35,
@@ -93,7 +92,7 @@
     "Gem": 8.22,
     "Genie Lamp": 4.08,
     "Ghost": 5.24,
-    "Gingerbread": 11.0,
+    "Gingerbread": 8.5,
     "Glasses": 10.0,
     "Gold": 4.08,
     "Grape": 8.0,
@@ -175,7 +174,7 @@
     "Evil Dragon": 5.0,
     "Eye of Horus": 4.14,
     "Feather": 8.0,
-    "Rocket": 4.97,
+    "Fedora": 8.12,
     "Royal Crown": 7.0,
     "Sakura": 4.08,
     "Sauron": 6.0,
@@ -238,11 +237,12 @@
     "Wontons": 4.4,
     "Wreath": 4.27,
     "Radar": 5.98,
-    "Ramen": 4.08,
-    "Ribeye Steak": 4.7,
     "Rain Drop": 6.0,
+    "Ribeye Steak": 4.7,
     "Ring": 14.0,
+    "Ramen": 4.08,
     "Robin Hood": 7.2,
+    "Rocket": 4.97,
     "Baseball Cap": 4.04,
     "Bunny Ears": 4.75,
     "Easter Bunny": 4.06,
@@ -256,8 +256,8 @@
     "Tetsubin": 4.25,
     "Unicorn": 11.0,
     "Yin-Yang": 6.8,
-    "Pumpkin Coach": 5.0,
-    "Coonskin Cap": 5.65
+    "Coonskin Cap": 5.65,
+    "Pumpkin Coach": 5.0
   },
   "models": {
     "Baby Yoda": 17.34,
@@ -304,7 +304,7 @@
     "Tie Fighter": 9.69,
     "Tortuga": 11.3118,
     "Union Jack": 7.242,
-    "Utyan": 5.508,
+    "Utyan": 5.304,
     "Velvet Gold": 38.76,
     "Volleyball": 4.0064764,
     "Chebu": 5.916,
@@ -313,5 +313,5 @@
     "Durov’s Dog": 12.75,
     "Cupid’s Bow": 5.406
   },
-  "last_updated": 1785194784
+  "last_updated": 1785197446
 }

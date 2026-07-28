@@ -79,7 +79,6 @@
     "Potion": 40.0,
     "Red Deer": 32.38,
     "Rocket": 45.0,
-    "Severed Hand": 37.0,
     "Shark Knife": 53.0,
     "Shell": 75.0,
     "Skull": 42.0,
@@ -101,6 +100,7 @@
     "Rook": 32.99,
     "Scarecrow": 40.0,
     "Sea Jelly": 35.5,
+    "Severed Hand": 37.0,
     "Autumn Leaves": 45.0,
     "Cursor": 59.0,
     "Human Scull": 44.0,
@@ -109,7 +109,6 @@
     "Watermelon": 100.0
   },
   "models": {
-    "Birthday Cake": 56.1,
     "Bitten Lip": 36.516,
     "Blue Abyss": 31.5384,
     "Broken Hope": 200.0,
@@ -136,8 +135,8 @@
     "Malachite": 32.385,
     "Medium Rare": 35.7,
     "Mocha Man": 31.4874,
-    "Pain Train": 31.5996,
-    "Painful Love": 31.5996,
+    "Pain Train": 32.6298,
+    "Painful Love": 34.476,
     "Pumpkin": 40.8,
     "Pure Hatred": 31.62,
     "Rebel Spirit": 31.4772,
@@ -147,7 +146,7 @@
     "Royal Gold": 33.66,
     "Salad Spell": 33.9966,
     "Scribble Stab": 114.9846,
-    "Shrek": 35.7,
+    "Shrek": 33.66,
     "Starry Night": 51.0,
     "Tan Gent": 31.5486,
     "Terminator": 34.476,
@@ -157,8 +156,9 @@
     "Vendetta": 32.6298,
     "Vengeance": 43.86,
     "Aqua Gem": 31.5996,
+    "Birthday Cake": 56.1,
     "Concept Art": 65.0,
     "Pink Needle": 67.32
   },
-  "last_updated": 1785194785
+  "last_updated": 1785197446
 }

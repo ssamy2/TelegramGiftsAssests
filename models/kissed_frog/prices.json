@@ -17,7 +17,6 @@
     "Bone": 67.0,
     "Bow Tie": 59.0,
     "Broken Heart": 169.0,
-    "Candle": 65.0,
     "Candy": 88.0,
     "Cap": 90.0,
     "Car": 39.9,
@@ -108,7 +107,7 @@
     "Bunny": 250.0,
     "Butterfly": 55.0,
     "Calm Wolf": 210.0,
-    "Padlock": 55.0,
+    "Candle": 65.0,
     "Passion Latte": 45.0,
     "Paw": 90.0,
     "Pear": 98.0,
@@ -163,6 +162,7 @@
     "Night Bats": 49.0,
     "Nordic Wolf": 45.0,
     "Oxen of Fire": 150.0,
+    "Padlock": 55.0,
     "Bubbles": 70.0,
     "Chocolate": 68.0,
     "Evil Pumpkin": 777.0,
@@ -196,7 +196,7 @@
     "Icefrog": 69.9924,
     "Lava Leap": 73.11,
     "Lemon Drop": 43.86,
-    "Lemon Juice": 37.128,
+    "Lemon Juice": 40.8,
     "Lilie Pond": 153.0,
     "Lily Pond": 38.76,
     "Lucifrog": 305.9898,
@@ -227,5 +227,5 @@
     "Frogwave": 60.18,
     "Rocky Hopper": 357.0
   },
-  "last_updated": 1785194785
+  "last_updated": 1785197446
 }
