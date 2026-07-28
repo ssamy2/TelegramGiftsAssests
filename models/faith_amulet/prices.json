@@ -7,7 +7,6 @@
   },
   "symbols": {},
   "models": {
-    "Bronze Tower": 4.4472,
     "Celestial Gem": 5.1,
     "Constellation": 4.3962,
     "Cool Breeze": 4.692,
@@ -55,8 +54,9 @@
     "Winter": 5.406,
     "Aurora": 5.8242,
     "Azure Glow": 4.998,
+    "Bronze Tower": 4.4472,
     "Eternal Light": 4.59,
     "Royal Green": 5.916
   },
-  "last_updated": 1785205261
+  "last_updated": 1785207896
 }

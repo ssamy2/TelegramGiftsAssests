@@ -31,7 +31,6 @@
     "Cowboy Hat": 2.9,
     "Crystal Ball": 2.99,
     "Crystal": 3.0,
-    "Flower Cross": 4.0,
     "Flower Sun": 2.9,
     "Fried Egg": 3.11,
     "Galaxy": 3.0,
@@ -126,6 +125,7 @@
     "Festive Wreath": 3.9,
     "Fireworks": 3.0,
     "Flashlight": 3.3,
+    "Flower Cross": 4.0,
     "Winter Hat": 3.0,
     "Winter House": 3.3,
     "Wontons": 3.0,
@@ -147,10 +147,7 @@
     "Best Hisses!": 2.9274,
     "Birthday": 3.2028,
     "Black Box": 2.9478,
-    "Prison Cell": 3.57,
     "Red Ribbon": 2.9886,
-    "Santa Cobrus": 2.9784,
-    "Scarlet Gold": 2.907,
     "Seashore": 3.009,
     "Secret Santa": 2.9886,
     "Shamrock": 3.06,
@@ -181,8 +178,11 @@
     "Poison Ivy": 3.06,
     "Polka Dot": 2.958,
     "Popcorn": 2.9274,
+    "Prison Cell": 3.57,
     "Purple": 3.0396,
     "Red Dash": 2.907,
+    "Santa Cobrus": 2.9784,
+    "Scarlet Gold": 2.907,
     "Berry Box": 3.57,
     "Double Joy": 2.9988,
     "Holly Jolly": 2.907,
@@ -195,7 +195,6 @@
     "Buttercup": 2.9478,
     "Candy Bubble": 3.9576,
     "Cheese": 3.6516,
-    "Elegance": 2.958,
     "Emerald": 2.8968,
     "Fantasy": 2.958,
     "Fluorescent": 2.907,
@@ -212,7 +211,8 @@
     "Cobra Noir": 3.06,
     "Copper": 2.907,
     "Cotton Candy": 2.9886,
-    "Donut Box": 2.9886
+    "Donut Box": 2.9886,
+    "Elegance": 2.958
   },
-  "last_updated": 1785205261
+  "last_updated": 1785207897
 }

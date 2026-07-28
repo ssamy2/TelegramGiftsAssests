@@ -24,7 +24,6 @@
     "Blooms": 4.0,
     "Blossom": 4.0,
     "Boat": 3.3,
-    "Calla Lily": 3.5,
     "Carambola": 3.33,
     "Carrot": 3.15,
     "Cheese": 3.0,
@@ -113,7 +112,7 @@
     "Cactus Bloom": 3.36,
     "Cactus": 2.94,
     "Cake": 4.0,
-    "Ouroboros": 5.0,
+    "Calla Lily": 3.5,
     "Owl": 4.5,
     "Padlock": 3.13,
     "Panty": 3.18,
@@ -156,7 +155,7 @@
     "Twin Koi": 4.0,
     "Two Hearts": 3.3,
     "Venetian Mask": 5.11,
-    "Wagasa": 2.82,
+    "Wagasa": 2.87,
     "Water Drops": 2.98,
     "Watermelon": 3.52,
     "Wepwawet": 3.46,
@@ -169,6 +168,7 @@
     "Onigiri": 3.03,
     "Orchid": 2.93,
     "Origami": 3.63,
+    "Ouroboros": 5.0,
     "Banana": 3.69,
     "Bobby Helmet": 2.94,
     "Bubbles": 3.08,
@@ -182,8 +182,6 @@
     "Winged Helmet": 4.8
   },
   "models": {
-    "Bitter Sweet": 3.978,
-    "Blueberry Hill": 3.06,
     "Cherry Top": 4.0698,
     "Christmas": 3.264,
     "Circus": 3.6822,
@@ -230,8 +228,10 @@
     "Bag End": 3.06,
     "Biohazard": 3.162,
     "Bitcoin": 7.7928,
+    "Bitter Sweet": 3.978,
+    "Blueberry Hill": 3.06,
     "Cream Scream": 6.1506,
     "Rising Dead": 2.9274
   },
-  "last_updated": 1785205261
+  "last_updated": 1785207897
 }

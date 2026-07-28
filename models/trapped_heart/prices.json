@@ -5,7 +5,6 @@
     "Onyx Black": 21.726
   },
   "symbols": {
-    "Apple": 18.19,
     "Arabian Horse": 36.97,
     "Aubergine": 15.0,
     "Autumn Leaves": 12.27,
@@ -84,11 +83,11 @@
     "Gravestone": 18.0,
     "Grim Reaper": 16.0,
     "Half Moon": 19.6,
-    "Hamburger": 20.6,
+    "Hamburger": 20.59,
     "Hammerhead": 29.0,
-    "Illuminati": 12.28,
+    "Apple": 18.19,
     "Ink Pen": 50.0,
-    "Jaws": 13.08,
+    "Jaws": 12.76,
     "Key": 39.0,
     "Kitty Cat": 90.0,
     "Koala": 45.0,
@@ -98,7 +97,7 @@
     "Lily": 19.6,
     "Lingerie": 16.0,
     "Lips": 39.0,
-    "Lollipop": 12.27,
+    "Lollipop": 12.33,
     "Love Dove": 65.0,
     "Love Letter": 77.0,
     "Love Lock": 150.0,
@@ -136,7 +135,7 @@
     "Poison Drop": 17.99,
     "Potion": 19.5,
     "Pyramid": 39.5,
-    "Rabbit": 25.12,
+    "Rabbit": 25.11,
     "Rhino Warrior": 30.0,
     "Ring": 14.0,
     "Rocket": 21.0,
@@ -154,7 +153,7 @@
     "Sparks": 20.0,
     "Spider Web": 38.0,
     "Spooky Cat": 25.0,
-    "Star Crown": 16.45,
+    "Star Crown": 16.39,
     "Star": 15.0,
     "Stilettos": 55.0,
     "Strawberry": 18.0,
@@ -174,6 +173,7 @@
     "Hermit Shell": 50.0,
     "Human Scull": 15.9,
     "Ice Pop": 18.0,
+    "Illuminati": 12.28,
     "Unicorn": 28.0,
     "Viking": 18.0,
     "Watermelon": 14.0,
@@ -183,7 +183,7 @@
     "Butterfly": 110.0,
     "Crystal Ball": 13.36,
     "Fleur-de-lis": 20.0,
-    "Happy Smile": 12.35,
+    "Happy Smile": 12.33,
     "High Heels": 150.0,
     "Lovely Rose": 16.0,
     "Phoenix": 18.98,
@@ -243,5 +243,5 @@
     "Sandy Red": 14.4942,
     "Abyss Heart": 16.32
   },
-  "last_updated": 1785205261
+  "last_updated": 1785207897
 }

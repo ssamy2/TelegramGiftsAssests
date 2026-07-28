@@ -80,7 +80,6 @@
     "Dragonfly": 5.62,
     "Drug": 5.0,
     "Eagle": 7.0,
-    "Flamingo": 5.0,
     "Flashlight": 3.46,
     "Fleur-de-lis": 8.0,
     "Flipper": 5.8,
@@ -104,7 +103,7 @@
     "Hamburger": 4.9,
     "Hand of God": 5.5,
     "Handset": 3.7,
-    "Heart": 4.86,
+    "Heart": 4.85,
     "Hedgehog": 5.99,
     "Hermit Shell": 7.0,
     "High Heels": 7.89,
@@ -172,7 +171,7 @@
     "Fire": 4.3,
     "Firebird": 8.0,
     "Fish": 8.0,
-    "Polar Bear": 3.99,
+    "Flamingo": 5.0,
     "Police Badge": 4.6,
     "Potion": 8.0,
     "Pyramid": 8.0,
@@ -207,7 +206,7 @@
     "Star Crown": 3.96,
     "Star": 6.99,
     "Strawberry": 4.7,
-    "Sumerian Bird": 7.68,
+    "Sumerian Bird": 7.67,
     "Sun Lion": 3.69,
     "Sun Mountain": 3.8,
     "Sun": 14.0,
@@ -246,6 +245,7 @@
     "Planet": 10.0,
     "Plum": 4.99,
     "Plume": 8.0,
+    "Polar Bear": 3.99,
     "Anchor": 4.5,
     "Brain": 5.4,
     "Champagne": 7.0,
@@ -263,7 +263,6 @@
     "Watermelon": 5.0
   },
   "models": {
-    "Aqua Vita": 3.468,
     "Aquarium": 3.876,
     "Aries Rum": 4.08,
     "Birthday Parfait": 3.7128,
@@ -344,7 +343,7 @@
     "Shark Attack": 3.978,
     "South Pacific": 4.59,
     "Swamp Gas": 5.1,
-    "Vin Virgo": 3.3558,
+    "Aqua Vita": 3.468,
     "Vitamin C": 3.6822,
     "Water Spout": 3.4374,
     "Whiskey Wine": 6.2934,
@@ -358,11 +357,12 @@
     "Tiny Trifle": 3.468,
     "Turquoise": 3.672,
     "Vague Berry": 3.3807797,
+    "Vin Virgo": 3.3558,
     "Absinthe": 4.182,
     "Cool Water": 4.08,
     "Green Glitter": 3.57,
     "Minty Fresh": 3.315,
     "Tarkhuna": 3.5496
   },
-  "last_updated": 1785205261
+  "last_updated": 1785207897
 }

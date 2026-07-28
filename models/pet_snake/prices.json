@@ -64,7 +64,6 @@
     "Lemon Slice": 3.16,
     "Lemon": 5.56,
     "Leprechaun": 5.34,
-    "Mistletoe": 4.12,
     "Mittens": 5.53,
     "Monarch": 4.0,
     "Monstera": 3.45,
@@ -126,6 +125,7 @@
     "Maple Leaf": 3.61,
     "Mask": 3.8,
     "Meat Leg": 3.28,
+    "Mistletoe": 4.12,
     "Cat Mask": 7.0,
     "Doctor Hat": 4.0,
     "Horned Helm": 3.14,
@@ -133,7 +133,6 @@
     "Party Hat": 3.38,
     "Snow Angel": 5.77,
     "Winged Helmet": 4.0,
-    "Bobble Hat": 3.11,
     "Bow Tie": 7.0,
     "Bowtie": 3.99,
     "Breeze": 3.11,
@@ -141,7 +140,8 @@
     "Bunny Ears": 3.14,
     "Candle": 4.0,
     "Candy": 3.93,
-    "Cap": 3.94
+    "Cap": 3.94,
+    "Bobble Hat": 3.11
   },
   "models": {
     "Albino": 3.264,
@@ -166,7 +166,6 @@
     "Neko-San": 6.12,
     "Rainy Day": 3.1416,
     "Autumn": 3.366,
-    "Champagne": 4.08,
     "Cherry Bomb": 3.264,
     "Coffee!": 3.57,
     "Cold-Blooded": 3.1416,
@@ -202,10 +201,11 @@
     "Wiggly": 3.2232,
     "Yaaaaaay!": 5.814,
     "Zombie": 3.3966,
+    "Champagne": 4.08,
     "Dalmatian": 3.978,
     "Sour Bites": 3.1416,
     "Durov’s Cap": 3.8658,
     "Santa’s Helper": 3.1416
   },
-  "last_updated": 1785205261
+  "last_updated": 1785207897
 }

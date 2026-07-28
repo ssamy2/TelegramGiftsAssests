@@ -3,7 +3,6 @@
     "Cappuccino": 2.85
   },
   "symbols": {
-    "Anchor": 25.0,
     "Apple": 36.4,
     "Arabian Horse": 28.9,
     "Avocado": 41.0,
@@ -79,7 +78,7 @@
     "Ladybug": 30.0,
     "Leaf": 24.8,
     "Acorn": 36.0,
-    "Melon": 24.5,
+    "Anchor": 25.0,
     "Monstera": 27.9,
     "Moose Head": 25.09,
     "Mountain Goat": 27.4,
@@ -150,6 +149,7 @@
     "Manta Ray": 37.0,
     "Maple Leaf": 24.88,
     "Maple": 33.0,
+    "Melon": 24.5,
     "Bread": 59.95,
     "Crab": 98.8,
     "Glasses": 27.25,
@@ -189,7 +189,6 @@
     "Jade Black": 35.4,
     "Knockout": 30.0,
     "Legendary Item": 800.0,
-    "Ruby": 28.63,
     "Sapphire": 25.0,
     "Signature": 24.8,
     "Spring Flowers": 24.5,
@@ -201,7 +200,7 @@
     "Thunder": 28.0,
     "Titan Relics": 24.5,
     "Tradition": 25.0,
-    "Unbreakable": 55.0,
+    "Unbreakable": 39.99,
     "Vineyard Crown": 22.38,
     "Winged K": 27.0,
     "Winter": 25.0,
@@ -214,10 +213,11 @@
     "Precious": 26.0,
     "Rage Mode": 49.98,
     "Ring King": 94.99,
+    "Ruby": 28.63,
     "Family Table": 24.99,
     "Long Curls": 28.0,
     "Silver Wings": 27.5,
     "Madridista": 29.0
   },
-  "last_updated": 1785205261
+  "last_updated": 1785207896
 }

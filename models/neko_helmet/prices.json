@@ -6,7 +6,6 @@
     "Onyx Black": 72.42
   },
   "symbols": {
-    "Boat": 48.99,
     "Bobble Hat": 41.9,
     "Bobby Helmet": 77.77,
     "Bouquet": 79.0,
@@ -26,7 +25,7 @@
     "Chili Pepper": 70.0,
     "Chili": 65.0,
     "Chrysanthe": 45.0,
-    "Cicada": 36.5,
+    "Cicada": 50.0,
     "Coat of Arms": 34.0,
     "Cocktail": 60.0,
     "Coin Purse": 90.0,
@@ -97,7 +96,7 @@
     "Birthday Cake": 50.0,
     "Black Cat": 36.0,
     "Blood Drop": 70.0,
-    "Love Berry": 60.0,
+    "Boat": 48.99,
     "Love Bulb": 44.0,
     "Love Candy": 169.0,
     "Love Cherry": 48.8,
@@ -188,7 +187,7 @@
     "Lion King": 39.99,
     "Little Cupid": 120.0,
     "Lotus": 34.99,
-    "Wagasa": 80.0,
+    "Love Berry": 60.0,
     "War Bonnet": 50.0,
     "Warhorse": 100.0,
     "Watermelon": 70.0,
@@ -203,7 +202,7 @@
     "Venetian Mask": 61.0,
     "Viking": 45.0,
     "Violet": 55.0,
-    "Mayan Moth": 65.0,
+    "Wagasa": 80.0,
     "Paper Lantern": 38.0,
     "Rose Blossom": 45.0,
     "Tongue": 150.0,
@@ -215,7 +214,9 @@
     "Jörmungandr": 44.0,
     "Ladybug": 34.2,
     "Lotus Flower": 54.0,
-    "Angel": 33.99
+    "Mayan Moth": 65.0,
+    "Angel": 33.99,
+    "Anthurium": 35.9
   },
   "models": {
     "Acid Punch": 32.9766,
@@ -279,5 +280,5 @@
     "Ultravolt": 32.4768,
     "Unicorn": 35.7
   },
-  "last_updated": 1785205261
+  "last_updated": 1785207897
 }

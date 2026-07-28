@@ -79,7 +79,6 @@
     "Potion": 40.0,
     "Red Deer": 32.38,
     "Rocket": 45.0,
-    "Spider Web": 37.0,
     "Spooky Cat": 40.0,
     "Star Crown": 60.0,
     "Sumerian Bird": 55.0,
@@ -101,6 +100,7 @@
     "Shark Knife": 53.0,
     "Shell": 75.0,
     "Skull": 42.0,
+    "Spider Web": 37.0,
     "Autumn Leaves": 45.0,
     "Cursor": 59.0,
     "Human Scull": 44.0,
@@ -109,7 +109,6 @@
     "Watermelon": 100.0
   },
   "models": {
-    "Bubbles": 56.1,
     "Bumblebee": 35.7,
     "Chromed Out": 40.7898,
     "Clear Water": 132.6,
@@ -157,8 +156,9 @@
     "Bitten Lip": 36.516,
     "Blue Abyss": 31.5384,
     "Broken Hope": 200.0,
+    "Bubbles": 56.1,
     "Concept Art": 65.0,
     "Pink Needle": 67.32
   },
-  "last_updated": 1785205261
+  "last_updated": 1785207897
 }

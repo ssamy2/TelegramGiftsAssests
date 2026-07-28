@@ -6,7 +6,6 @@
     "Onyx Black": 25.4898
   },
   "symbols": {
-    "Bottlenose": 15.9,
     "Bow Tie": 13.0,
     "Bunny Ears": 10.21,
     "Bunny": 11.99,
@@ -89,12 +88,12 @@
     "Baphomet": 15.0,
     "Bastet": 15.31,
     "Bee": 15.0,
-    "Black Widow": 12.2,
-    "Blood Drop": 13.9,
     "Bell Pepper": 11.99,
+    "Blood Drop": 13.9,
     "Bloody Axe": 13.0,
+    "Black Widow": 12.2,
     "Boat": 40.0,
-    "Totem Bear": 20.0,
+    "Bottlenose": 15.9,
     "Treats": 15.0,
     "Tulip": 20.0,
     "Twin Peaks": 19.9,
@@ -109,18 +108,19 @@
     "Spider Web": 11.0,
     "Spooky Cat": 11.5,
     "Sprout": 13.49,
-    "Sun Lion": 14.0,
+    "Star": 26.0,
     "Sun": 60.0,
     "Sword": 23.0,
     "Tie": 40.0,
-    "Star": 26.0,
+    "Totem Bear": 20.0,
+    "Sun Lion": 14.0,
     "Cobra": 12.0,
-    "Flying Witch": 10.59,
+    "Flying Witch": 10.35,
     "Moon Eagle": 16.88,
     "Ram of Amun": 16.22,
     "Shooting Star": 17.0,
     "Spirit Impala": 21.0,
-    "Autumn Leaves": 10.8,
+    "Autumn Leaves": 10.56,
     "Skull": 12.0
   },
   "models": {
@@ -176,9 +176,9 @@
     "Warhol": 13.9944,
     "Warlock": 11.73,
     "World Cup": 35.7,
-    "Broken Heart": 38.7498,
     "Original Sin": 17.34,
-    "Wednesday": 30.345
+    "Wednesday": 30.345,
+    "Broken Heart": 38.7498
   },
-  "last_updated": 1785205261
+  "last_updated": 1785207896
 }
