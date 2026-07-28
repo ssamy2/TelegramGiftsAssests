@@ -5,9 +5,8 @@
     "Onyx Black": 29.58
   },
   "symbols": {
-    "Celtic Wolf": 16.4,
     "Champagne": 17.0,
-    "Chest": 25.0,
+    "Chest": 25.07,
     "Chimaev": 13.54,
     "Cicada": 15.0,
     "Coat of Arms": 34.0,
@@ -35,7 +34,7 @@
     "Glasses": 14.0,
     "Gold": 27.0,
     "Golden Scarab": 18.0,
-    "Greek Helmet": 14.28,
+    "Greek Helmet": 13.96,
     "Greek Sun": 13.59,
     "Griffon": 20.0,
     "Hand of God": 29.0,
@@ -74,7 +73,7 @@
     "Ouroboros": 13.97,
     "Owl": 16.0,
     "Oxen of Fire": 20.94,
-    "Pantoja": 15.0,
+    "Pantoja": 14.55,
     "Pearl": 299.0,
     "Pereira": 13.94,
     "Phoenix": 40.0,
@@ -93,7 +92,7 @@
     "Cap": 15.0,
     "Car": 15.0,
     "Cash": 20.37,
-    "Squeeze Bottle": 18.0,
+    "Celtic Wolf": 16.4,
     "Star": 20.94,
     "Strong Arm": 18.76,
     "Sumerian Bird": 32.2,
@@ -102,7 +101,7 @@
     "The Eye": 18.9,
     "The Octagon": 15.0,
     "Thor Hammer": 16.89,
-    "Thunderbird": 13.78,
+    "Thunderbird": 13.54,
     "Topuria": 15.0,
     "Totem Bear": 28.0,
     "Training Helmet": 14.5,
@@ -147,6 +146,7 @@
     "Speed Bag": 15.0,
     "Spirit Impala": 20.0,
     "Sports Bag": 15.19,
+    "Squeeze Bottle": 18.0,
     "Cocktail": 17.0,
     "Genie Lamp": 18.9,
     "Kitsune Mask": 21.7,
@@ -165,7 +165,6 @@
     "Classic Red": 13.2702,
     "Combo Hit": 16.32,
     "Dumbbell": 13.0152,
-    "S. O'Malley": 17.0,
     "Train Time": 15.3,
     "UFC 25 Blue": 13.0152,
     "UFC 30 Red": 13.362,
@@ -197,6 +196,7 @@
     "M. Dvalishvili": 15.4938,
     "Prime Relic": 16.0752,
     "Red Glove Token": 14.28,
+    "S. O'Malley": 16.5,
     "Fist Bump": 13.0152,
     "Gold Pantoja": 29.58,
     "UFC Glove Token": 17.289,
@@ -204,5 +204,5 @@
     "Gold O’Malley": 37.74,
     "S. O’Malley": 16.932
   },
-  "last_updated": 1785236471
+  "last_updated": 1785239047
 }
