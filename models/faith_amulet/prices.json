@@ -7,7 +7,6 @@
   },
   "symbols": {},
   "models": {
-    "Lilac Dream": 4.284,
     "Luminous": 4.896,
     "Lunar Veil": 5.202,
     "Midnight": 4.488,
@@ -39,8 +38,8 @@
     "Twilight Rose": 4.743,
     "Velvet Dusk": 4.3758,
     "Winter": 5.406,
-    "Golden Lace": 20.4,
     "Greenstone": 4.3758,
+    "Lavender": 5.1,
     "Aurora": 5.8242,
     "Azure Glow": 4.998,
     "Bronze Tower": 4.3962,
@@ -53,10 +52,11 @@
     "Ethereal": 4.8858,
     "Frosty Night": 4.386,
     "Gold Night": 12.1176,
-    "Lavender": 5.1,
+    "Golden Lace": 20.4,
     "Lightwoven": 4.386,
+    "Lilac Dream": 4.284,
     "Eternal Light": 4.59,
     "Royal Green": 4.2738
   },
-  "last_updated": 1785241668
+  "last_updated": 1785244280
 }
