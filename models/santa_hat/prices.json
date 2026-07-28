@@ -64,7 +64,6 @@
     "Ice Pop": 3.59,
     "Ice Skates": 4.0,
     "Illuminati": 6.0,
-    "Love Letter": 6.0,
     "Love Lock": 4.46,
     "Magic Wand": 3.6,
     "Maple": 6.34,
@@ -90,7 +89,7 @@
     "Planet": 6.0,
     "Rain Drop": 3.59,
     "Ram of Amun": 6.0,
-    "Rhino Warrior": 4.05,
+    "Rhino Warrior": 4.04,
     "Ring": 5.6,
     "Rocket": 6.0,
     "Royal Crown": 4.0,
@@ -136,17 +135,17 @@
     "Lightning": 6.0,
     "Like": 4.99,
     "Lily": 4.0,
-    "Jellyfish": 4.19,
+    "Love Letter": 6.0,
     "Lion Head": 7.0,
     "Phoenix": 6.0,
     "Shooting Star": 3.8,
     "Unicorn Head": 3.81,
     "Bastet": 8.0,
     "Chili Pepper": 4.47,
-    "Flashlight": 8.0
+    "Flashlight": 8.0,
+    "Jellyfish": 4.19
   },
   "models": {
-    "Cheery Vibe": 3.8658,
     "Cherry Ice": 4.08,
     "Citrus Flakes": 4.08,
     "Cold Autumn": 3.3558,
@@ -212,10 +211,11 @@
     "Blueberry Mint": 3.876,
     "Bubbly": 5.1,
     "Candy Coral": 5.1,
+    "Cheery Vibe": 3.8658,
     "80s TV": 4.488,
     "Black Drops": 6.12,
     "Holiday Spirit": 4.59,
     "Pinkie Cap": 4.692
   },
-  "last_updated": 1785202673
+  "last_updated": 1785205261
 }

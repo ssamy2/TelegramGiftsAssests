@@ -38,7 +38,6 @@
     "Calendula": 9.99,
     "Calla Lily": 15.0,
     "Candle": 5.55,
-    "Chili": 4.65,
     "Chocolate": 4.5,
     "Cobra": 5.31,
     "Cocktail": 5.49,
@@ -127,7 +126,7 @@
     "Chest": 5.2,
     "Chick": 19.0,
     "Chili Pepper": 5.35,
-    "Little Cupid": 5.94,
+    "Chili": 4.65,
     "Love Berry": 5.55,
     "Love Bulb": 5.55,
     "Love Daisy": 4.5,
@@ -216,7 +215,7 @@
     "Lightning": 5.0,
     "Lily Bloom": 6.0,
     "Lingerie": 5.48,
-    "Teddy Bear": 4.9,
+    "Little Cupid": 5.94,
     "Telescope": 5.0,
     "Tetsubin": 5.55,
     "Thor Hammer": 5.55,
@@ -234,7 +233,7 @@
     "Ushanka": 7.0,
     "Valentine": 4.59,
     "Valkyrie": 7.0,
-    "Venetian Mask": 4.84,
+    "Venetian Mask": 4.4,
     "Viking Shield": 6.0,
     "Violet": 5.18,
     "Wagasa": 7.0,
@@ -250,6 +249,7 @@
     "Sunflower": 5.55,
     "Sword": 5.15,
     "Tamagotchi": 5.55,
+    "Teddy Bear": 4.9,
     "Alert Serpent": 4.8,
     "Bucket Hat": 5.55,
     "Carrot": 7.0,
@@ -318,5 +318,5 @@
     "Bubble Bugs": 5.61,
     "Piggy Bank": 10.71
   },
-  "last_updated": 1785202673
+  "last_updated": 1785205261
 }

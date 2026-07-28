@@ -64,7 +64,6 @@
     "Lemon Slice": 3.16,
     "Lemon": 5.56,
     "Leprechaun": 5.34,
-    "Meat Leg": 3.28,
     "Mistletoe": 4.12,
     "Mittens": 5.53,
     "Monarch": 4.0,
@@ -126,6 +125,7 @@
     "Manta Ray": 4.0,
     "Maple Leaf": 3.61,
     "Mask": 3.8,
+    "Meat Leg": 3.28,
     "Cat Mask": 7.0,
     "Doctor Hat": 4.0,
     "Horned Helm": 3.14,
@@ -151,7 +151,7 @@
     "Lollipop": 3.1587584,
     "Luminous": 3.1926,
     "Mistletoe": 3.2028,
-    "Mojito": 3.1416,
+    "Mojito": 3.1008,
     "Nimbus": 4.4982,
     "Party Popper": 4.7736,
     "Pink Bunny": 3.2028,
@@ -172,7 +172,6 @@
     "Cold-Blooded": 3.1416,
     "Confused": 3.1416,
     "Crayon": 3.264,
-    "Dalmatian": 3.978,
     "Deadline": 3.3252,
     "Dobby": 6.3954,
     "Domination": 15.3,
@@ -192,7 +191,6 @@
     "Sketchy": 3.8148,
     "Snakey Mouse": 4.488,
     "Soap Bubble": 20.4,
-    "Sour Bites": 3.1416,
     "Spicy Wings": 3.6618,
     "Spooky": 8.16,
     "Sunflower": 4.1616,
@@ -204,8 +202,10 @@
     "Wiggly": 3.2232,
     "Yaaaaaay!": 5.814,
     "Zombie": 3.3966,
+    "Dalmatian": 3.978,
+    "Sour Bites": 3.1416,
     "Durov’s Cap": 3.8658,
     "Santa’s Helper": 3.1416
   },
-  "last_updated": 1785202673
+  "last_updated": 1785205261
 }

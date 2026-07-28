@@ -6,7 +6,6 @@
     "Onyx Black": 25.4898
   },
   "symbols": {
-    "Boat": 40.0,
     "Bottlenose": 15.9,
     "Bow Tie": 13.0,
     "Bunny Ears": 10.21,
@@ -29,7 +28,7 @@
     "Doberman": 13.5,
     "Dragonfly": 15.8,
     "Evil Pumpkin": 15.0,
-    "Eyeball": 11.05,
+    "Eyeball": 11.5,
     "Feather": 26.5,
     "Fire": 29.9,
     "Fish Skeleton": 10.6,
@@ -89,12 +88,12 @@
     "Bandage": 26.5,
     "Baphomet": 15.0,
     "Bastet": 15.31,
-    "Bell Pepper": 11.99,
-    "Black Widow": 12.2,
     "Bee": 15.0,
+    "Black Widow": 12.2,
     "Blood Drop": 13.9,
+    "Bell Pepper": 11.99,
     "Bloody Axe": 13.0,
-    "Tie": 40.0,
+    "Boat": 40.0,
     "Totem Bear": 20.0,
     "Treats": 15.0,
     "Tulip": 20.0,
@@ -109,18 +108,19 @@
     "Sparks": 16.0,
     "Spider Web": 11.0,
     "Spooky Cat": 11.5,
-    "Star": 26.0,
+    "Sprout": 13.49,
     "Sun Lion": 14.0,
     "Sun": 60.0,
     "Sword": 23.0,
-    "Sprout": 13.49,
+    "Tie": 40.0,
+    "Star": 26.0,
     "Cobra": 12.0,
-    "Flying Witch": 10.83,
+    "Flying Witch": 10.59,
     "Moon Eagle": 16.88,
     "Ram of Amun": 16.22,
     "Shooting Star": 17.0,
     "Spirit Impala": 21.0,
-    "Autumn Leaves": 11.04,
+    "Autumn Leaves": 10.8,
     "Skull": 12.0
   },
   "models": {
@@ -180,5 +180,5 @@
     "Original Sin": 17.34,
     "Wednesday": 30.345
   },
-  "last_updated": 1785202673
+  "last_updated": 1785205261
 }

@@ -1,8 +1,8 @@
 {
   "backdrops": {
+    "Onyx Black": 395.76,
     "Black": 474.3,
-    "Midnight Blue": 101.898,
-    "Onyx Black": 395.76
+    "Midnight Blue": 101.898
   },
   "symbols": {
     "213": 180.0,
@@ -41,7 +41,7 @@
     "Desert Eagle": 140.0,
     "Divine Falcon": 360.0,
     "Doberman": 599.0,
-    "Dollar Graffiti": 85.75,
+    "Dollar Graffiti": 85.67,
     "Donut": 87.8,
     "Dragonfly": 150.0,
     "Earflap Hat": 180.0,
@@ -71,7 +71,6 @@
     "Iron Helmet": 161.0,
     "Jester Hat": 188.0,
     "Jewel": 555.0,
-    "Loudspeaker": 190.0,
     "Low Rider": 215.0,
     "Maple": 149.0,
     "Mask": 5500.0,
@@ -124,7 +123,7 @@
     "Tricorne": 175.0,
     "Ushanka": 130.0,
     "Valkyrie": 100.0,
-    "Viking Shield": 85.76,
+    "Viking Shield": 85.68,
     "Vinyl Record": 260.0,
     "Visor": 102.0,
     "War Tiger": 175.0,
@@ -133,12 +132,13 @@
     "Winged Helm": 888.0,
     "Wise Raven": 108.0,
     "Wolf Rage": 280.0,
-    "Jumbo Pencil": 97.2,
+    "Jumbo Pencil": 95.4,
     "Kitsune Mask": 200.0,
     "Ladybug": 125.0,
     "Like": 120.0,
     "Los Angeles": 140.0,
     "Lotus Flower": 110.0,
+    "Loudspeaker": 190.0,
     "Bunny": 350.0,
     "Double Axe": 120.0,
     "Jörmungandr": 151.0,
@@ -199,5 +199,5 @@
     "Sugar Daddy": 173.4,
     "Barcs A Locks": 93.6258
   },
-  "last_updated": 1785202673
+  "last_updated": 1785205261
 }

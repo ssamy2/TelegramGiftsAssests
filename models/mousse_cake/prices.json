@@ -7,14 +7,12 @@
   },
   "symbols": {},
   "models": {
+    "Angel Cake": 7.65,
+    "Bubble Jar": 4.1616,
     "Butterflies": 4.5798,
-    "Checkmate": 4.5288,
-    "Cheesecake": 4.1616,
     "Chocolate": 4.59,
     "Circus Show": 4.182,
     "Crypto Chips": 14.8716,
-    "Cursed Apple": 4.4778,
-    "Double King": 5.1,
     "Fiesta Muerta": 4.437,
     "Film Noir": 4.1922,
     "Froggy Pond": 4.0188,
@@ -41,9 +39,11 @@
     "Razzle Dazzle": 4.9878,
     "Rock Band": 4.59,
     "Velvet Crown": 4.2942,
-    "Wicked Pie": 4.437,
-    "Angel Cake": 7.65,
-    "Bubble Jar": 4.1616,
+    "Wicked Pie": 4.386,
+    "Checkmate": 4.5288,
+    "Cheesecake": 4.1616,
+    "Cursed Apple": 4.4778,
+    "Double King": 5.1,
     "Mad Hatter": 4.5798,
     "Suprematism": 8.16,
     "Romance": 5.0286,
@@ -58,5 +58,5 @@
     "Toxic Frog": 4.2432,
     "Treasure": 4.488
   },
-  "last_updated": 1785202673
+  "last_updated": 1785205261
 }

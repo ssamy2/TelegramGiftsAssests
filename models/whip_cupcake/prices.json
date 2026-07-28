@@ -24,7 +24,6 @@
     "Blooms": 4.0,
     "Blossom": 4.0,
     "Boat": 3.3,
-    "Cake": 4.0,
     "Calla Lily": 3.5,
     "Carambola": 3.33,
     "Carrot": 3.15,
@@ -113,7 +112,7 @@
     "Burger": 2.93,
     "Cactus Bloom": 3.36,
     "Cactus": 2.94,
-    "Origami": 3.63,
+    "Cake": 4.0,
     "Ouroboros": 5.0,
     "Owl": 4.5,
     "Padlock": 3.13,
@@ -169,6 +168,7 @@
     "Oculus": 3.18,
     "Onigiri": 3.03,
     "Orchid": 2.93,
+    "Origami": 3.63,
     "Banana": 3.69,
     "Bobby Helmet": 2.94,
     "Bubbles": 3.08,
@@ -182,8 +182,6 @@
     "Winged Helmet": 4.8
   },
   "models": {
-    "Biohazard": 3.162,
-    "Bitcoin": 7.7928,
     "Bitter Sweet": 3.978,
     "Blueberry Hill": 3.06,
     "Cherry Top": 4.0698,
@@ -229,9 +227,11 @@
     "Zero Sugar": 2.9682,
     "Alien Slime": 3.111,
     "Arizona": 3.06,
-    "Bag End": 2.9771047,
+    "Bag End": 3.06,
+    "Biohazard": 3.162,
+    "Bitcoin": 7.7928,
     "Cream Scream": 6.1506,
     "Rising Dead": 2.9274
   },
-  "last_updated": 1785202673
+  "last_updated": 1785205261
 }

@@ -34,7 +34,7 @@
     "Cherry": 280.0,
     "Chest": 38.0,
     "Chili Pepper": 55.0,
-    "Cicada": 39.87,
+    "Cicada": 39.52,
     "Coat of Arms": 38.0,
     "Cobra": 40.0,
     "Cocktail": 35.5,
@@ -53,7 +53,6 @@
     "Fenrir": 38.0,
     "Firebird": 59.0,
     "Flashlight": 59.0,
-    "Gift Box": 44.44,
     "Gold": 39.0,
     "Golden Scarab": 45.0,
     "Grape": 333.0,
@@ -68,7 +67,7 @@
     "Jellyfish": 34.0,
     "Jumbo Pencil": 170.0,
     "Kite": 69.0,
-    "Kitsune": 40.53,
+    "Kitsune": 40.18,
     "Ladybug": 43.5,
     "Lemon": 68.0,
     "Lightning": 70.0,
@@ -140,7 +139,7 @@
     "Gear": 81.0,
     "Gem": 32.99,
     "Genie Lamp": 75.0,
-    "Tribal Shield": 40.0,
+    "Gift Box": 44.44,
     "Trophy": 39.0,
     "Turtle": 244.42,
     "Twin Peaks": 53.0,
@@ -157,6 +156,7 @@
     "Top Hat": 40.0,
     "Totem Bear": 33.33,
     "Tree of Life": 34.98,
+    "Tribal Shield": 40.0,
     "Alkonost": 40.0,
     "Carrot": 41.1,
     "Eagle": 39.0,
@@ -166,7 +166,8 @@
     "Rain Drop": 111.0,
     "Strawberry": 47.0,
     "Sword": 44.0,
-    "Thief": 42.12
+    "Thief": 42.12,
+    "Cat Mask": 38.0
   },
   "models": {
     "Aquaviolet": 32.487,
@@ -225,5 +226,5 @@
     "Thermal": 37.74,
     "Psychonaut": 127.5
   },
-  "last_updated": 1785202673
+  "last_updated": 1785205261
 }

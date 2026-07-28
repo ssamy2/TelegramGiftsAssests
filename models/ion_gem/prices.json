@@ -28,7 +28,6 @@
     "Celtic Cross": 104.0,
     "Celtic Wolf": 80.0,
     "Champagne": 94.0,
-    "Cursor": 100.0,
     "Dagger": 500.0,
     "Dessert": 85.0,
     "Dice": 95.0,
@@ -102,7 +101,7 @@
     "Pawn": 74.9,
     "PC Mouse": 109.0,
     "Pear": 200.0,
-    "Pearl": 72.2,
+    "Pearl": 72.21,
     "Pegasus": 1111.0,
     "Pickaxe": 300.0,
     "Piggy Bank": 64.19,
@@ -128,6 +127,7 @@
     "Crown": 200.0,
     "Crusader Cross": 84.0,
     "Crystal": 199.0,
+    "Cursor": 100.0,
     "Tooth": 61.44,
     "Shortsword": 94.0,
     "Shuriken": 499.0,
@@ -193,7 +193,6 @@
     "Cartoon": 64.26,
     "Chaos Emerald": 81.6,
     "Color Drain": 82.4976,
-    "Halloween": 81.6,
     "Himalaya": 63.24,
     "Honey Gold": 1938.0,
     "Ice Crystal": 80.58,
@@ -229,11 +228,12 @@
     "Girl Power": 71.4,
     "Gold Gram": 124.44,
     "Gradient": 83.64,
+    "Halloween": 81.6,
     "Cryst-mas": 78.54,
     "Love Stones": 163.2,
     "Sugilite": 66.3,
     "Crystal Clear": 398.9934,
     "Jamaica": 459.0
   },
-  "last_updated": 1785202673
+  "last_updated": 1785205261
 }

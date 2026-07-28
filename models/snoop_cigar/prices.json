@@ -5,7 +5,6 @@
     "Onyx Black": 28.9986
   },
   "symbols": {
-    "Acorn": 15.0,
     "All-Seeing Eye": 12.68,
     "Anchor": 14.2,
     "Anubis": 16.5,
@@ -42,7 +41,7 @@
     "Cat Mask": 15.91,
     "Cavalier Hat": 17.35,
     "Cheese": 13.99,
-    "Chili Pepper": 13.66,
+    "Chili Pepper": 14.32,
     "Coat of Arms": 12.35,
     "Cobra": 16.0,
     "Cocktail": 12.44,
@@ -91,7 +90,7 @@
     "Like": 14.0,
     "Lion of Babylon": 12.71,
     "213": 12.98,
-    "Mushroom": 25.0,
+    "Acorn": 15.0,
     "Music Skull": 13.0,
     "Musical Note": 14.04,
     "Mustache": 14.4,
@@ -119,7 +118,7 @@
     "Potion": 16.67,
     "Press Hat": 12.25,
     "Pro Headphones": 15.5,
-    "Radar": 12.75,
+    "Radar": 12.74,
     "Rain Drop": 12.49,
     "Rap Mic": 14.5,
     "Rap Sign": 15.0,
@@ -171,6 +170,7 @@
     "Melon": 12.1,
     "Money Bag": 14.0,
     "Moon Eagle": 13.98,
+    "Mushroom": 25.0,
     "Black Bandana": 16.66,
     "Chest": 14.5,
     "Egg Basket": 13.0,
@@ -179,12 +179,12 @@
     "Loudspeaker": 12.3,
     "Paisley": 17.41,
     "Rocket": 14.42,
-    "Tooth": 12.3
+    "Tooth": 11.92
   },
   "models": {
     "America": 13.2498,
     "Angel Dust": 14.535,
-    "Baked Beats": 11.9238,
+    "Baked Beats": 12.24,
     "Bandana": 11.985,
     "Cabbage Roll": 11.9136,
     "California": 12.6072,
@@ -197,7 +197,7 @@
     "Funk Dunk": 11.883,
     "Gilded Copper": 13.2498,
     "Happy Face": 12.342,
-    "Herbalist": 11.7504,
+    "Herbalist": 12.0258,
     "Highway": 15.2898,
     "Hot Rod": 12.036,
     "Hot Stuff": 12.24,
@@ -212,10 +212,10 @@
     "Puff Puff Pass": 11.9238,
     "Rap Battle": 13.1478,
     "Rasta": 12.852,
-    "Record Label": 11.883,
+    "Record Label": 13.1886,
     "Royalty": 14.025,
     "Ruby Doobie": 12.75,
-    "Smoke Dogg": 12.24,
+    "Smoke Dogg": 11.8728,
     "Smoke Nukem": 13.464,
     "Smoke Sway": 18.36,
     "Snoop Doggy": 16.0038,
@@ -234,5 +234,5 @@
     "Cartoon Roll": 14.7798,
     "Snoop’s Pipe": 13.158
   },
-  "last_updated": 1785202673
+  "last_updated": 1785205261
 }
