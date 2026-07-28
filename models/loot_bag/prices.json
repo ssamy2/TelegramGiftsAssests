@@ -80,7 +80,6 @@
     "Hand of God": 142.22,
     "Heart": 210.0,
     "Heater Shield": 800.0,
-    "Knight": 264.0,
     "Legionary": 300.0,
     "Lion Head": 180.0,
     "Lotus Flower": 178.0,
@@ -176,6 +175,7 @@
     "Jolly Roger": 129.0,
     "Jörmungandr": 199.0,
     "Kitsune": 199.0,
+    "Knight": 264.0,
     "Viking": 200.0,
     "Viper": 199.0,
     "Vortex": 150.0,
@@ -185,9 +185,9 @@
     "Watermelon": 175.0,
     "Wepwawet": 145.0,
     "Wise Raven": 222.0,
+    "Wolf Rage": 280.0,
     "Wontons": 250.0,
     "Yogi Shaman": 220.0,
-    "Wolf Rage": 280.0,
     "Bull of Heaven": 180.0,
     "Crusader Cross": 444.0,
     "Flamingo": 197.0,
@@ -206,10 +206,9 @@
   },
   "models": {
     "Academic": 132.6,
-    "City Life": 459.0,
     "Conductor": 183.6,
     "Contour": 123.42,
-    "Cortado": 109.0482,
+    "Cortado": 105.0498,
     "Courchevel": 132.6,
     "Crypto Byte": 289.0,
     "Crypto Punk": 448.8,
@@ -252,7 +251,7 @@
     "Steel Agate": 153.0,
     "Studded Green": 122.4,
     "Sunrise Bands": 153.0,
-    "Sunset Stripes": 107.355,
+    "Sunset Stripes": 178.5,
     "Tangerine": 198.9,
     "Travel Bag": 279.48,
     "Tressage": 105.876,
@@ -275,6 +274,7 @@
     "Cherry Red": 103.938,
     "Chrome Clutch": 362.1,
     "Circus": 142.8,
+    "City Life": 459.0,
     "Aero Swift": 105.06,
     "Black Ascot": 357.0,
     "Jade Serpent": 142.8,
@@ -285,5 +285,5 @@
     "Panthera": 679.32,
     "Vert d’Eau": 147.9
   },
-  "last_updated": 1785218333
+  "last_updated": 1785220936
 }

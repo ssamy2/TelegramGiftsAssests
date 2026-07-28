@@ -8,7 +8,7 @@
   "symbols": {},
   "models": {
     "Baby Dragon": 4.845,
-    "Knitty Kitty": 6.936,
+    "Knitty Kitty": 6.5994,
     "Litter Box": 13.158,
     "Lovely Lamb": 5.61,
     "Balloon Dog": 4.6206,
@@ -21,7 +21,7 @@
     "Candy Bat": 4.794,
     "Capybara": 5.1,
     "Cash Bunny": 12.24,
-    "Cheems": 5.712,
+    "Cheems": 5.61,
     "Chihuahua": 6.8238,
     "Choco Bunny": 4.7226,
     "Claw Machine": 12.138,
@@ -30,13 +30,12 @@
     "Daisy Skunk": 4.743,
     "Dalmatian Pup": 5.61,
     "Dom Pingouin": 6.477,
-    "Dragon Hoard": 6.324,
+    "Dragon Hoard": 6.018,
     "Eggsclusive": 5.661,
     "Fire Fox": 15.504,
     "Gold Retriever": 8.6598,
-    "Hamster": 13.6986,
+    "Hamster": 15.81,
     "Kinder Hippo": 5.0898,
-    "Trojan Horse": 4.743,
     "Usagi-Chan": 8.16,
     "Wonderland": 6.9972,
     "Magician": 6.069,
@@ -56,7 +55,8 @@
     "Sushi Neko": 10.659,
     "Trash Bandit": 4.743,
     "Trash Pigeon": 4.7328,
-    "Triceratops": 5.5998
+    "Triceratops": 5.5998,
+    "Trojan Horse": 4.743
   },
-  "last_updated": 1785218333
+  "last_updated": 1785220936
 }

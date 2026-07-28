@@ -7,12 +7,11 @@
   },
   "symbols": {},
   "models": {
-    "Black Panther": 3.4986,
     "Brothers": 3.621,
     "Courage": 3.5904,
     "Dark Power": 3.3966,
-    "Barry Allen": 3.4476,
     "Drumsticks": 3.4986,
+    "Bartender": 3.672,
     "Foundation": 3.519,
     "Free Elf": 5.0898,
     "Friend In Me": 3.774,
@@ -22,7 +21,7 @@
     "Grandma": 3.4986,
     "Gunk Fight": 3.672,
     "Heavy Rain": 3.4884,
-    "Hermes": 4.233,
+    "Hermes": 4.2126,
     "Intellect": 3.4986,
     "Leopard": 3.4986,
     "Loyalty": 3.4782,
@@ -36,7 +35,7 @@
     "Puppet Master": 5.1,
     "Quest Item": 3.7332,
     "Radioactive": 3.774,
-    "Ratatouille": 3.672,
+    "Ratatouille": 3.4272,
     "Rebel Spirit": 3.9678,
     "Shrunk": 3.4884,
     "Space Merc": 4.182,
@@ -44,7 +43,7 @@
     "Spike": 10.2,
     "Sporty": 3.774,
     "SquareSocks": 7.956,
-    "Stitches": 3.315,
+    "Stitches": 3.4884,
     "The Office": 3.672,
     "This Is Fine": 4.08,
     "Towelie": 4.0902,
@@ -52,11 +51,12 @@
     "Twin Peaks": 3.57,
     "Adventure": 4.692,
     "Alcatraz": 3.4476,
-    "Bartender": 3.672,
     "Ambition": 3.5496,
-    "Ballerina": 3.57,
     "Billie Jean": 7.14,
-    "Biohazard": 3.927
+    "Ballerina": 3.57,
+    "Barry Allen": 3.4476,
+    "Biohazard": 3.927,
+    "Black Panther": 3.4986
   },
-  "last_updated": 1785218333
+  "last_updated": 1785220936
 }

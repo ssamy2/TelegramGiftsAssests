@@ -6,7 +6,6 @@
     "Onyx Black": 72.42
   },
   "symbols": {
-    "Bread": 37.0,
     "Bunny Ears": 54.4,
     "Cactus Bloom": 48.95,
     "Cake": 44.99,
@@ -97,10 +96,10 @@
     "Bobby Helmet": 77.77,
     "Bouquet": 79.0,
     "Bow Tie": 47.0,
-    "Love Mug": 88.0,
+    "Bread": 37.0,
     "Love Potion": 50.0,
     "Love Puzzle": 52.0,
-    "Love Scene": 35.54,
+    "Love Scene": 35.47,
     "Mafdet": 49.99,
     "Magic Vial": 110.0,
     "Magic Wand": 69.99,
@@ -115,7 +114,7 @@
     "Melon": 144.0,
     "Moai Head": 40.0,
     "Monarch": 50.0,
-    "Money Bag": 35.99,
+    "Money Bag": 35.8,
     "Mountain Goat": 49.99,
     "Mountain Lion": 180.0,
     "Muffin": 34.69,
@@ -188,7 +187,7 @@
     "Love Candy": 169.0,
     "Love Cherry": 48.8,
     "Love Daisy": 59.0,
-    "Winter Hat": 80.0,
+    "Love Mug": 88.0,
     "Wise Raven": 60.0,
     "Tulip Bloom": 54.54,
     "Twin Koi": 49.93,
@@ -203,6 +202,7 @@
     "Warhorse": 100.0,
     "Watermelon": 70.0,
     "Wine Toast": 60.0,
+    "Winter Hat": 80.0,
     "Belladonna": 50.0,
     "Cherry": 38.9,
     "Divine Falcon": 35.0,
@@ -266,11 +266,11 @@
     "Sonic Rave": 45.9,
     "Starry Sky": 33.456,
     "Steampunk": 34.68,
-    "Strawberry": 31.62,
+    "Strawberry": 35.7,
     "Techno": 35.7,
     "Tokyo Sunset": 45.288,
     "Turbo Frog": 321.3,
-    "Twister": 32.334,
+    "Twister": 34.68,
     "White Rabbit": 85.68,
     "Whiteout": 44.778,
     "Wild Cat": 79.56,
@@ -280,5 +280,5 @@
     "Ultravolt": 32.4768,
     "Unicorn": 35.7
   },
-  "last_updated": 1785218333
+  "last_updated": 1785220936
 }

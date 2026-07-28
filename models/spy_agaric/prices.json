@@ -23,7 +23,6 @@
     "Bloody Axe": 5.9,
     "Book": 8.5,
     "Brain": 9.0,
-    "Crusader": 5.9,
     "Crystal Ball": 5.0,
     "Diamonds": 4.3,
     "Dolphin": 6.0,
@@ -81,7 +80,7 @@
     "Piggy Bank": 4.8,
     "Planet": 6.66,
     "Plum": 10.0,
-    "Poison Drop": 5.37,
+    "Poison Drop": 5.36,
     "Polar Bear": 7.29,
     "Pomegranate": 5.9,
     "Potion": 4.35,
@@ -94,7 +93,7 @@
     "Severed Hand": 5.0,
     "Sharp Sword": 4.9,
     "Shell": 5.51,
-    "Skull": 5.37,
+    "Skull": 5.36,
     "Spades": 4.2,
     "Spanner": 5.36,
     "Sparks": 8.0,
@@ -117,7 +116,7 @@
     "Coin Purse": 4.43,
     "Croissant": 5.0,
     "Crow": 4.89,
-    "Witch’s Hat": 4.7,
+    "Crusader": 5.9,
     "Wolf Rage": 5.0,
     "Wreath": 9.5,
     "Sun": 5.0,
@@ -133,6 +132,7 @@
     "Voodoo Doll": 5.0,
     "Vortex": 4.7,
     "Watermelon": 6.0,
+    "Witch’s Hat": 4.7,
     "Bug": 5.5,
     "Candy": 4.47,
     "Evil Pumpkin": 4.75,
@@ -228,5 +228,5 @@
     "Herbalist": 4.182,
     "Night Light": 4.182
   },
-  "last_updated": 1785218333
+  "last_updated": 1785220936
 }

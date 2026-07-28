@@ -64,7 +64,6 @@
     "Ice Pop": 3.59,
     "Ice Skates": 4.0,
     "Illuminati": 6.0,
-    "Mittens": 3.84,
     "Monstera": 3.89,
     "Moon Cross": 6.0,
     "Moon Eagle": 12.0,
@@ -73,7 +72,7 @@
     "Narcissus": 6.0,
     "New Year's Eve": 4.0,
     "New Year’s Eve": 4.0,
-    "Nordic Wolf": 3.86,
+    "Nordic Wolf": 3.84,
     "Oak Leaf": 5.49,
     "Octopus": 6.0,
     "Ornament": 3.9,
@@ -136,6 +135,7 @@
     "Maple": 6.34,
     "Mask": 5.0,
     "Mistletoe": 3.85,
+    "Mittens": 3.84,
     "Bastet": 8.0,
     "Chili Pepper": 4.47,
     "Flashlight": 8.0,
@@ -146,10 +146,9 @@
     "Unicorn Head": 3.81
   },
   "models": {
-    "Cold Vapor": 4.9776,
     "Creamy": 20.4,
     "Dandelion": 3.672,
-    "Dreamy": 4.08,
+    "Dreamy": 3.5598,
     "Evergreen": 3.672,
     "Festive": 5.1,
     "Fireball": 27.54,
@@ -212,10 +211,11 @@
     "Cold Autumn": 3.3558,
     "Cold Limeade": 9.18,
     "Cold Slushy": 5.1,
+    "Cold Vapor": 4.9776,
     "80s TV": 4.488,
     "Black Drops": 6.12,
     "Holiday Spirit": 4.59,
     "Pinkie Cap": 4.692
   },
-  "last_updated": 1785218333
+  "last_updated": 1785220936
 }
