@@ -23,7 +23,6 @@
     "Bloody Axe": 5.9,
     "Book": 8.5,
     "Brain": 9.0,
-    "Celtic Wolf": 9.9,
     "Cheese": 4.35,
     "Coconut": 6.0,
     "Coffee Bean": 4.45,
@@ -60,7 +59,7 @@
     "Human Scull": 4.39,
     "Ice Pop": 5.3,
     "Illuminati": 6.0,
-    "Inguz Rune": 5.37,
+    "Inguz Rune": 5.36,
     "Jaws": 4.44,
     "Kite": 5.9,
     "Light Bulb": 5.0,
@@ -104,7 +103,7 @@
     "Shell": 5.51,
     "Skull": 5.36,
     "Spades": 4.2,
-    "Spanner": 5.37,
+    "Spanner": 5.36,
     "Sparks": 8.0,
     "Spider Web": 4.04,
     "Spooky Cat": 4.03,
@@ -117,7 +116,7 @@
     "Cap": 4.26,
     "Cash": 5.0,
     "Cauldron": 4.2,
-    "Top Hat": 5.3,
+    "Celtic Wolf": 9.9,
     "Treats": 5.5,
     "Tree of Life": 8.4,
     "Tribal Shield": 4.06,
@@ -133,6 +132,7 @@
     "Sword": 5.9,
     "The Eye": 6.0,
     "Tie": 8.2,
+    "Top Hat": 5.3,
     "Bug": 5.5,
     "Candy": 4.47,
     "Evil Pumpkin": 4.75,
@@ -228,5 +228,5 @@
     "Herbalist": 4.182,
     "Night Light": 4.182
   },
-  "last_updated": 1785197446
+  "last_updated": 1785200081
 }

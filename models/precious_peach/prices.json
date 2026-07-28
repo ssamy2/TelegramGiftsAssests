@@ -31,7 +31,6 @@
     "Croissant": 600.0,
     "Crusader": 2555.0,
     "Cunning Fox": 350.0,
-    "Elephant": 750.0,
     "Fehu Rune": 5129.0,
     "Fenrir": 750.0,
     "Fire": 335.0,
@@ -80,8 +79,8 @@
     "Piñata": 800.0,
     "Plum": 350.0,
     "Pomegranate": 499.0,
-    "Polar Bear": 248.98,
     "Pyramid": 280.0,
+    "Polar Bear": 248.98,
     "Rain Drop": 750.0,
     "Red Deer": 900.0,
     "Rhino Warrior": 375.0,
@@ -117,6 +116,7 @@
     "Dragonfly": 10000.0,
     "Drug": 1999.0,
     "Eagle": 400.0,
+    "Elephant": 750.0,
     "Wreath": 1270.0,
     "Carambola": 320.0,
     "Cupid": 450.0,
@@ -129,7 +129,6 @@
     "White Deer": 445.0
   },
   "models": {
-    "Angelic": 1071.0,
     "Bismuth": 268.77,
     "Bright Coral": 267.98,
     "Bronze": 412.08,
@@ -193,14 +192,15 @@
     "Yin Yang": 280.5,
     "999 Karat": 413.0,
     "Airy Bright": 370.0,
+    "Angelic": 1071.0,
     "Fuzzy Lilac": 264.996,
-    "Tonfruit": 306.0,
     "Ogre Green": 408.0,
+    "Tonfruit": 306.0,
     "Blizzard": 994.9998,
     "Berry Pit": 249.8796,
     "Cutie Pink": 373.32,
     "Twilight": 289.9962,
     "Glossy Finish": 387.6
   },
-  "last_updated": 1785197446
+  "last_updated": 1785200081
 }

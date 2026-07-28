@@ -8,7 +8,6 @@
   "symbols": {},
   "models": {
     "Baby Dragon": 4.845,
-    "Midas Bunny": 6.4872,
     "Monkey Boss": 5.049,
     "Moon Frog": 5.865,
     "Nocturne": 5.4876,
@@ -25,13 +24,14 @@
     "Trojan Horse": 4.743,
     "Usagi-Chan": 8.16,
     "Wonderland": 6.9972,
-    "Magician": 6.069,
     "Marmot": 6.018,
+    "Meme God": 999.6,
     "Knitty Kitty": 6.936,
     "Litter Box": 13.158,
     "Lovely Lamb": 5.61,
-    "Meme God": 999.6,
+    "Magician": 6.069,
     "Meme Snake": 4.743,
+    "Midas Bunny": 6.4872,
     "Balloon Dog": 4.6206,
     "Bastet": 14.586,
     "Bear Market": 5.1408,
@@ -58,5 +58,5 @@
     "Hamster": 13.7088,
     "Kinder Hippo": 5.0898
   },
-  "last_updated": 1785197446
+  "last_updated": 1785200081
 }

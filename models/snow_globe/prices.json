@@ -64,7 +64,6 @@
     "Kite": 3.99,
     "Kitsune Mask": 9.9,
     "Lily": 6.5,
-    "Mittens": 4.9,
     "Moon Cross": 4.0,
     "Moon Eagle": 12.0,
     "Moon Face": 4.4,
@@ -133,14 +132,15 @@
     "Maple Leaf": 8.0,
     "Maple": 7.5,
     "Mistletoe": 4.2,
-    "Lovely Kiss": 9.0,
+    "Mittens": 4.9,
     "Monstera": 4.0,
     "Paper Lantern": 4.8,
     "Snowman": 4.0,
     "Winter House": 3.99,
     "Candle": 4.0,
     "Cow Skull": 4.0,
-    "Hot Matcha": 3.93
+    "Hot Matcha": 3.93,
+    "Lovely Kiss": 9.0
   },
   "models": {
     "Amethyst": 3.876,
@@ -194,5 +194,5 @@
     "Ocean Oasis": 3.876,
     "Spring": 4.59
   },
-  "last_updated": 1785197446
+  "last_updated": 1785200081
 }

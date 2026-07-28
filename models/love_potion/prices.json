@@ -11,7 +11,6 @@
     "Amour Scoops": 18.9,
     "Angel": 26.59,
     "Angelic Heart": 50.0,
-    "Black Cat": 21.5,
     "Boat": 14.9,
     "Bonsai": 18.99,
     "Book": 17.0,
@@ -101,7 +100,7 @@
     "Beer": 14.0,
     "Birthday Cake": 24.0,
     "Bishop": 16.4,
-    "Hourglass": 49.99,
+    "Black Cat": 21.5,
     "Ice Cream": 12.38,
     "Ice Pop": 16.0,
     "Imperial Lion": 15.99,
@@ -113,7 +112,7 @@
     "Kitty Cat": 31.0,
     "Ladybug": 24.0,
     "Lemon Slice": 15.97,
-    "Like Button": 13.52,
+    "Like Button": 13.5,
     "Lily": 12.98,
     "Lingerie": 15.0,
     "Lion Head": 23.0,
@@ -190,7 +189,7 @@
     "Hippo": 14.8,
     "Holy Grail": 20.0,
     "Hot Matcha": 16.9,
-    "Shiny Heart": 19.5,
+    "Hourglass": 49.99,
     "Shooting Star": 13.9,
     "Sleepy Unicorn": 13.7,
     "Smartphone": 17.0,
@@ -235,6 +234,7 @@
     "Serpent": 16.48,
     "Sharp Sword": 20.0,
     "Shell": 19.0,
+    "Shiny Heart": 19.5,
     "Apple": 20.0,
     "Blossom": 32.0,
     "Chick": 14.0,
@@ -329,5 +329,5 @@
     "Nurgle’s Rot": 17.34,
     "Seeker’s Wish": 15.861
   },
-  "last_updated": 1785197446
+  "last_updated": 1785200081
 }
