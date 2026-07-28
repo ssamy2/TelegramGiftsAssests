@@ -6,7 +6,6 @@
     "Onyx Black": 72.42
   },
   "symbols": {
-    "Candle": 65.65,
     "Carambola": 100.0,
     "Carnation": 36.0,
     "Carrot": 49.33,
@@ -67,7 +66,7 @@
     "Horn": 100.0,
     "Ice Cream": 43.0,
     "Imperial Lion": 45.0,
-    "Inca Sun": 81.0,
+    "Inca Sun": 42.0,
     "Inguz Rune": 68.0,
     "Iris": 45.0,
     "Iron Helmet": 39.95,
@@ -97,7 +96,7 @@
     "Cake": 44.99,
     "Calendula": 50.0,
     "Calla Lily": 47.0,
-    "Magic Wand": 69.99,
+    "Candle": 65.65,
     "Mailbox": 47.0,
     "Mannaz Rune": 36.95,
     "Maple Leaf": 65.0,
@@ -185,9 +184,10 @@
     "Love Mug": 88.0,
     "Love Potion": 50.0,
     "Love Puzzle": 52.0,
-    "Love Scene": 35.47,
+    "Love Scene": 35.48,
     "Mafdet": 49.99,
     "Magic Vial": 110.0,
+    "Magic Wand": 69.99,
     "Tulip Bloom": 54.54,
     "UFO": 72.0,
     "Valentine": 45.0,
@@ -196,7 +196,7 @@
     "Winter Hat": 80.0,
     "Wise Raven": 60.0,
     "Belladonna": 50.0,
-    "Cherry": 38.9,
+    "Cherry": 34.68,
     "Divine Falcon": 35.0,
     "Glasses": 45.0,
     "Jörmungandr": 44.0,
@@ -211,20 +211,20 @@
     "Anthurium": 35.9,
     "Twin Koi": 49.93,
     "Two Hearts": 177.0,
-    "Violet": 55.0,
     "Wagasa": 80.0,
     "War Bonnet": 50.0,
     "Warhorse": 100.0,
     "Watermelon": 70.0,
-    "Viking": 45.0
+    "Viking": 45.0,
+    "Violet": 55.0
   },
   "models": {
-    "Acid Punch": 33.099,
+    "Acid Punch": 36.4854,
     "Astronaut": 86.7,
     "Biker Girl": 102.0,
     "Blackout": 43.8498,
     "Bulldog Bob": 70.38,
-    "Caffeine": 31.62,
+    "Caffeine": 39.78,
     "Chrome": 43.86,
     "Cookie Monster": 35.9958,
     "Copper Alloy": 32.64,
@@ -233,7 +233,7 @@
     "Databreak": 35.7,
     "Disco Ball": 37.74,
     "Dullahan": 39.78,
-    "Formula One": 35.0166,
+    "Formula One": 33.9966,
     "Glitch": 50.9898,
     "Gold Rush": 51.0,
     "Grey Shark": 45.9,
@@ -280,5 +280,5 @@
     "Ultravolt": 32.4768,
     "Unicorn": 35.7
   },
-  "last_updated": 1785233917
+  "last_updated": 1785236471
 }

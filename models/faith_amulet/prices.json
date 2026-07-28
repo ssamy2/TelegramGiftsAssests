@@ -7,7 +7,6 @@
   },
   "symbols": {},
   "models": {
-    "Greenstone": 4.3758,
     "Lavender": 5.1,
     "Lightwoven": 4.386,
     "Lilac Dream": 4.284,
@@ -19,10 +18,10 @@
     "Moonlight": 4.8756,
     "Morning Dew": 4.182,
     "Mystic Tide": 4.2738,
-    "Obsidian": 6.9972,
+    "Obsidian": 5.0286,
     "Ocean Glass": 4.8858,
     "Princess": 4.794,
-    "Purple Dunes": 4.3758,
+    "Purple Dunes": 4.3656,
     "Radiance": 4.3758,
     "Rose Gold": 5.61,
     "Rose Pearl": 4.743,
@@ -42,8 +41,8 @@
     "Twilight Rose": 4.743,
     "Velvet Dusk": 4.3758,
     "Winter": 5.406,
-    "Ethereal": 4.8858,
     "Frosty Night": 4.386,
+    "Gold Night": 12.1176,
     "Aurora": 5.8242,
     "Azure Glow": 4.998,
     "Bronze Tower": 4.3962,
@@ -53,10 +52,11 @@
     "Crystal Leaf": 4.794,
     "Dark Night": 4.998,
     "Emerald": 4.3146,
-    "Gold Night": 12.1176,
+    "Ethereal": 4.8858,
     "Golden Lace": 20.4,
+    "Greenstone": 4.3758,
     "Eternal Light": 4.59,
-    "Royal Green": 4.2738
+    "Royal Green": 4.2024
   },
-  "last_updated": 1785233917
+  "last_updated": 1785236471
 }
