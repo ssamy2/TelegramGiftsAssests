@@ -79,7 +79,6 @@
     "Potion": 40.0,
     "Red Deer": 32.38,
     "Rocket": 45.0,
-    "Thief": 39.9,
     "Treats": 40.0,
     "Tribal Shield": 69.0,
     "Trophy": 41.7,
@@ -101,6 +100,7 @@
     "Spooky Cat": 40.0,
     "Star Crown": 60.0,
     "Sumerian Bird": 55.0,
+    "Thief": 39.9,
     "Autumn Leaves": 45.0,
     "Cursor": 59.0,
     "Human Scull": 44.0,
@@ -109,7 +109,6 @@
     "Watermelon": 100.0
   },
   "models": {
-    "Cold-Blooded": 34.68,
     "Cruella": 51.0,
     "Dark Side": 51.0,
     "Disco Doll": 117.3,
@@ -127,7 +126,7 @@
     "Magma Ooze": 45.9,
     "Malachite": 32.385,
     "Medium Rare": 35.7,
-    "Mocha Man": 31.4874,
+    "Mocha Man": 35.7,
     "Pain Train": 31.467,
     "Painful Love": 34.476,
     "Pumpkin": 40.8,
@@ -157,8 +156,9 @@
     "Bumblebee": 35.7,
     "Chromed Out": 40.7898,
     "Clear Water": 132.6,
+    "Cold-Blooded": 34.68,
     "Concept Art": 60.0,
     "Pink Needle": 71.4
   },
-  "last_updated": 1785215776
+  "last_updated": 1785218333
 }

@@ -32,7 +32,7 @@
     "Clubs": 4.85,
     "Cobra": 12.0,
     "Cocktail": 5.8,
-    "Coin Purse": 4.77,
+    "Coin Purse": 4.76,
     "Cone": 5.0,
     "Cookie": 5.0,
     "Coonskin Cap": 9.0,
@@ -64,7 +64,6 @@
     "Kite": 3.99,
     "Kitsune Mask": 9.9,
     "Lily": 6.5,
-    "New Year’s Eve": 4.0,
     "Nordic Wolf": 3.85,
     "Obon Lantern": 9.5,
     "Octopus": 4.2,
@@ -125,6 +124,7 @@
     "Mittens": 4.9,
     "Moon Cross": 4.0,
     "Moon Eagle": 12.0,
+    "New Year’s Eve": 4.0,
     "Candle": 4.0,
     "Cow Skull": 4.0,
     "Hot Matcha": 3.93,
@@ -145,7 +145,7 @@
   "models": {
     "Amethyst": 3.876,
     "Apocalypse": 4.1514,
-    "Autumn": 5.0898,
+    "Autumn": 3.8148,
     "Bag End": 6.426,
     "Baobab": 4.0596,
     "Bedrock": 3.9984,
@@ -165,7 +165,7 @@
     "Happy Town": 4.08,
     "House of Cards": 12.852,
     "Inversion": 3.978,
-    "Lavender": 3.9678,
+    "Lavender": 3.8862,
     "Lost Color": 4.284,
     "Mango Lodge": 3.876,
     "Meadow": 4.59,
@@ -180,7 +180,7 @@
     "Piggy Bank": 15.3,
     "Pink Dreams": 3.876,
     "Pyramid": 4.0698,
-    "Rose Pink": 5.1,
+    "Rose Pink": 3.8148,
     "Sea Whisper": 3.876,
     "Secret Gift": 4.284,
     "Silver Frost": 4.3758,
@@ -194,5 +194,5 @@
     "Ocean Oasis": 3.876,
     "Spring": 4.59
   },
-  "last_updated": 1785215776
+  "last_updated": 1785218333
 }

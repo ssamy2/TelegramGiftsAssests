@@ -5,7 +5,6 @@
     "Onyx Black": 28.9986
   },
   "symbols": {
-    "Aztec Falcon": 20.0,
     "Baphomet": 16.66,
     "Bascinet": 14.0,
     "Baseball Cap": 12.3,
@@ -91,7 +90,7 @@
     "Anchor": 15.46,
     "Anubis": 16.5,
     "Apple": 13.88,
-    "Nemes": 17.0,
+    "Aztec Falcon": 20.0,
     "Nigiri": 17.0,
     "Oak Leaf": 16.16,
     "Old Candle": 13.99,
@@ -114,7 +113,7 @@
     "Potion": 16.67,
     "Press Hat": 12.3,
     "Pro Headphones": 15.5,
-    "Radar": 12.73,
+    "Radar": 12.66,
     "Rain Drop": 12.49,
     "Rap Mic": 14.5,
     "Rap Sign": 15.0,
@@ -148,7 +147,7 @@
     "Unicorn Head": 12.5,
     "Ushanka": 14.14,
     "UZI": 14.0,
-    "Vinyl Record": 12.8,
+    "Vinyl Record": 12.79,
     "Viper": 12.7,
     "Wagasa": 14.7,
     "War Tiger": 12.99,
@@ -171,6 +170,7 @@
     "Musical Note": 14.04,
     "Mustache": 14.4,
     "Mustang": 13.6,
+    "Nemes": 17.0,
     "Black Bandana": 16.66,
     "Chest": 14.5,
     "Egg Basket": 13.0,
@@ -182,10 +182,8 @@
     "Tooth": 11.92
   },
   "models": {
-    "America": 13.2498,
-    "Angel Dust": 14.535,
     "Baked Beats": 12.24,
-    "Bandana": 11.985,
+    "Bandana": 12.1074,
     "Cabbage Roll": 11.9136,
     "California": 12.6072,
     "Charmed Roll": 12.75,
@@ -194,7 +192,7 @@
     "Doggystyle": 34.2414,
     "Dolla Rolla": 13.9638,
     "Eurotrip": 12.2094,
-    "Funk Dunk": 11.883,
+    "Funk Dunk": 11.9442,
     "Gilded Copper": 13.2498,
     "Happy Face": 12.342,
     "Herbalist": 12.0258,
@@ -221,12 +219,14 @@
     "Snoop Doggy": 16.0038,
     "Snoop Graffiti": 20.4,
     "Snoop Ring": 12.138,
-    "Snoop's Pipe": 12.95,
+    "Snoop's Pipe": 12.94,
     "Snooperman": 12.24,
     "Soul Plane": 13.668,
     "Space Wrap": 19.0026,
     "Stargazer": 13.9842,
     "Surprise": 12.24,
+    "America": 13.2498,
+    "Angel Dust": 14.535,
     "Vinyl Vibes": 11.883,
     "Meteor Impact": 12.699,
     "The King": 12.2298,
@@ -234,5 +234,5 @@
     "Cartoon Roll": 14.7798,
     "Snoop’s Pipe": 13.158
   },
-  "last_updated": 1785215776
+  "last_updated": 1785218333
 }

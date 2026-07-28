@@ -7,12 +7,11 @@
   },
   "symbols": {},
   "models": {
-    "Biohazard": 3.927,
     "Black Panther": 3.4986,
     "Brothers": 3.621,
     "Courage": 3.5904,
-    "Ballerina": 3.57,
     "Dark Power": 3.3966,
+    "Barry Allen": 3.4476,
     "Drumsticks": 3.4986,
     "Foundation": 3.519,
     "Free Elf": 5.0898,
@@ -22,7 +21,7 @@
     "Goldfinger": 4.284,
     "Grandma": 3.4986,
     "Gunk Fight": 3.672,
-    "Heavy Rain": 3.3966,
+    "Heavy Rain": 3.4884,
     "Hermes": 4.233,
     "Intellect": 3.4986,
     "Leopard": 3.4986,
@@ -45,18 +44,19 @@
     "Spike": 10.2,
     "Sporty": 3.774,
     "SquareSocks": 7.956,
-    "Stitches": 3.4884,
+    "Stitches": 3.315,
     "The Office": 3.672,
     "This Is Fine": 4.08,
     "Towelie": 4.0902,
     "Trader": 4.1718,
     "Twin Peaks": 3.57,
     "Adventure": 4.692,
-    "Barry Allen": 3.4476,
     "Alcatraz": 3.4476,
-    "Ambition": 3.5496,
     "Bartender": 3.672,
-    "Billie Jean": 7.14
+    "Ambition": 3.5496,
+    "Ballerina": 3.57,
+    "Billie Jean": 7.14,
+    "Biohazard": 3.927
   },
-  "last_updated": 1785215776
+  "last_updated": 1785218333
 }

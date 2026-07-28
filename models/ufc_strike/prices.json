@@ -5,7 +5,6 @@
     "Onyx Black": 29.58
   },
   "symbols": {
-    "Aztec Totem": 19.0,
     "Baphomet": 14.48,
     "Bascinet": 20.0,
     "Bastet": 15.3,
@@ -93,7 +92,7 @@
     "Anchor": 17.31,
     "Anubis": 15.0,
     "Aztec Falcon": 14.99,
-    "Sakura": 13.89,
+    "Aztec Totem": 19.0,
     "Scorpion": 13.9,
     "Serpent": 20.0,
     "Shield": 26.0,
@@ -147,6 +146,7 @@
     "Round Two": 23.0,
     "Royal Crown": 16.9,
     "Sakura Flower": 22.0,
+    "Sakura": 13.89,
     "Cocktail": 17.0,
     "Genie Lamp": 18.9,
     "Kitsune Mask": 21.7,
@@ -162,20 +162,19 @@
     "Blue Glove Token": 13.362,
     "C. Oliveira": 18.972,
     "Classic Blue": 13.056,
-    "Classic Red": 13.2906,
+    "Classic Red": 13.311,
     "Combo Hit": 16.32,
     "Dumbbell": 13.3416,
-    "J. Jones": 15.81,
     "K. Chimaev": 19.176,
     "Keychain Blue": 13.5558,
     "Keychain Red": 19.89,
     "Level Up": 13.26,
-    "M. Dvalishvili": 15.3,
+    "M. Dvalishvili": 15.4938,
     "Prime Relic": 16.0752,
     "Red Glove Token": 14.28,
     "S. O'Malley": 17.0,
     "Train Time": 15.3,
-    "UFC 25 Blue": 12.917606,
+    "UFC 25 Blue": 13.0356,
     "UFC 30 Red": 13.362,
     "UFC BMF": 23.358,
     "UFC Classic": 37.74,
@@ -197,6 +196,7 @@
     "Gold Volkanovski": 27.54,
     "I. Adesanya": 15.3,
     "I. Topuria": 17.646,
+    "J. Jones": 15.81,
     "Fist Bump": 13.515,
     "Gold Pantoja": 29.58,
     "UFC Glove Token": 17.289,
@@ -204,5 +204,5 @@
     "Gold O’Malley": 35.7,
     "S. O’Malley": 16.932
   },
-  "last_updated": 1785215776
+  "last_updated": 1785218333
 }

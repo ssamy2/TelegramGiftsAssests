@@ -54,7 +54,6 @@
     "Earflap Hat": 55.0,
     "Egg": 53.0,
     "Eggplant": 155.0,
-    "Gua Pi Mao": 72.8,
     "Hamburger": 60.0,
     "Hand of God": 99.0,
     "Handset": 79.0,
@@ -89,7 +88,7 @@
     "Moon": 74.0,
     "Music Skull": 155.0,
     "Mustache": 100.0,
-    "Narcissus": 73.88,
+    "Narcissus": 45.89,
     "Nemes": 55.0,
     "Neptune": 52.0,
     "Nordic Wolf": 70.0,
@@ -149,7 +148,7 @@
     "Gold": 60.0,
     "Greek Helmet": 59.86,
     "Griffon": 85.0,
-    "Tricorne": 58.0,
+    "Gua Pi Mao": 72.8,
     "Turkey": 85.0,
     "Unicorn": 60.0,
     "UZI": 100.0,
@@ -159,8 +158,9 @@
     "Watermelon": 60.0,
     "Wepwawet": 65.0,
     "Westside Hand": 6666.0,
-    "Wolf Rage": 149.89,
+    "Wolf Rage": 149.88,
     "Yo Sign": 65.0,
+    "Tricorne": 58.0,
     "Bobble Hat": 69.0,
     "Cowboy Hat": 54.0,
     "Fehu Rune": 70.0,
@@ -176,7 +176,6 @@
   "models": {
     "Alpine Gold": 51.0,
     "Bass Drop": 45.9,
-    "Flamingo": 48.96,
     "Gigahorse": 66.3,
     "Gold Rush": 142.8,
     "Golden Bike": 91.8,
@@ -220,10 +219,11 @@
     "Dribble": 46.92,
     "Drop It!": 69.003,
     "First Class": 20400.0,
+    "Flamingo": 48.96,
     "Blaze": 45.9,
     "Dry Eyes": 61.2,
     "Money Rider": 56.1,
     "Blizzard": 47.94
   },
-  "last_updated": 1785215776
+  "last_updated": 1785218333
 }
