@@ -54,7 +54,6 @@
     "Earflap Hat": 55.0,
     "Egg": 53.0,
     "Eggplant": 155.0,
-    "Greek Helmet": 59.86,
     "Griffon": 85.0,
     "Gua Pi Mao": 72.8,
     "Hamburger": 60.0,
@@ -139,7 +138,7 @@
     "Tetsubin": 75.0,
     "Thor Hammer": 100.0,
     "Thunderbird": 88.0,
-    "Fleur-de-lis": 69.22,
+    "Fleur-de-lis": 67.28,
     "Flower": 99.99,
     "French Fries": 77.0,
     "Galaxy": 77.0,
@@ -149,6 +148,7 @@
     "Gift Box": 49.97,
     "Glasses": 69.69,
     "Gold": 60.0,
+    "Greek Helmet": 59.86,
     "Tricorne": 58.0,
     "Turkey": 85.0,
     "Unicorn": 60.0,
@@ -176,7 +176,6 @@
   "models": {
     "Alpine Gold": 51.0,
     "Bass Drop": 45.9,
-    "Drop It!": 69.003,
     "First Class": 20400.0,
     "Flamingo": 48.96,
     "Gigahorse": 66.3,
@@ -206,7 +205,7 @@
     "Sticker Gang": 71.4,
     "Telegram Bus": 69.9924,
     "Toy Car": 43.35,
-    "Tricycle": 44.676,
+    "Tricycle": 47.94,
     "Ultramarine": 43.3398,
     "Vape Wave": 43.044,
     "War Rig": 54.06,
@@ -220,10 +219,11 @@
     "Disco Rider": 45.9,
     "Doggyland Bus": 45.9,
     "Dribble": 46.92,
+    "Drop It!": 69.003,
     "Blaze": 45.9,
     "Dry Eyes": 61.2,
     "Money Rider": 56.1,
     "Blizzard": 47.94
   },
-  "last_updated": 1785210434
+  "last_updated": 1785213144
 }

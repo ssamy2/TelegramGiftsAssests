@@ -21,7 +21,7 @@
     "Bunny": 10.0,
     "Burger": 4.99,
     "Candle": 3.99,
-    "Candy": 3.8,
+    "Candy": 3.99,
     "Car": 3.8,
     "Carambola": 7.0,
     "Champagne": 3.78,
@@ -64,7 +64,6 @@
     "Ice Pop": 3.59,
     "Ice Skates": 4.0,
     "Illuminati": 6.0,
-    "Maple": 6.34,
     "Mask": 5.0,
     "Mistletoe": 3.85,
     "Mittens": 3.84,
@@ -136,17 +135,17 @@
     "Love Letter": 6.0,
     "Love Lock": 4.46,
     "Magic Wand": 3.6,
-    "Shooting Star": 3.8,
+    "Maple": 6.34,
     "Unicorn Head": 3.81,
     "Bastet": 8.0,
     "Chili Pepper": 4.47,
     "Flashlight": 8.0,
     "Jellyfish": 4.19,
     "Lion Head": 7.0,
-    "Phoenix": 6.0
+    "Phoenix": 6.0,
+    "Shooting Star": 3.8
   },
   "models": {
-    "Cold Autumn": 3.3558,
     "Cold Limeade": 9.18,
     "Cold Slushy": 5.1,
     "Cold Vapor": 4.9776,
@@ -212,10 +211,11 @@
     "Cheery Vibe": 3.8658,
     "Cherry Ice": 4.08,
     "Citrus Flakes": 4.08,
+    "Cold Autumn": 3.3558,
     "80s TV": 4.488,
     "Black Drops": 6.12,
     "Holiday Spirit": 4.59,
     "Pinkie Cap": 4.692
   },
-  "last_updated": 1785210434
+  "last_updated": 1785213144
 }

@@ -80,7 +80,6 @@
     "Dragonfly": 5.62,
     "Drug": 5.0,
     "Eagle": 7.0,
-    "Fleur-de-lis": 8.0,
     "Flipper": 5.8,
     "Flower Cross": 3.29,
     "Flower Tulip": 3.28,
@@ -123,7 +122,7 @@
     "Leaf": 5.2,
     "Lemon": 3.9,
     "Light Bulb": 7.0,
-    "Lightning": 3.6,
+    "Lightning": 3.59,
     "Like": 4.99,
     "Lily": 4.53,
     "Lion Head": 3.7,
@@ -172,7 +171,7 @@
     "Fish": 8.0,
     "Flamingo": 5.0,
     "Flashlight": 3.46,
-    "Potion": 8.0,
+    "Fleur-de-lis": 8.0,
     "Pyramid": 8.0,
     "Rain Drop": 8.0,
     "Ram of Amun": 5.5,
@@ -205,7 +204,7 @@
     "Star Crown": 3.96,
     "Star": 6.99,
     "Strawberry": 4.7,
-    "Sumerian Bird": 7.67,
+    "Sumerian Bird": 7.68,
     "Sun Lion": 3.69,
     "Sun Mountain": 3.8,
     "Sun": 14.0,
@@ -246,6 +245,7 @@
     "Plume": 8.0,
     "Polar Bear": 3.99,
     "Police Badge": 4.6,
+    "Potion": 8.0,
     "Anchor": 4.5,
     "Brain": 5.4,
     "Champagne": 7.0,
@@ -263,7 +263,6 @@
     "Watermelon": 5.0
   },
   "models": {
-    "Aries Rum": 4.08,
     "Birthday Parfait": 3.7128,
     "Black Hole": 8.058,
     "Blackout": 3.9984,
@@ -344,7 +343,7 @@
     "Swamp Gas": 5.1,
     "Aqua Vita": 3.468,
     "Aquarium": 3.876,
-    "Water Spout": 3.4374,
+    "Aries Rum": 4.08,
     "Whiskey Wine": 6.2934,
     "With Caution": 4.08,
     "Yellow Pop": 8.16,
@@ -358,11 +357,12 @@
     "Vague Berry": 3.3807797,
     "Vin Virgo": 3.3558,
     "Vitamin C": 3.6822,
+    "Water Spout": 3.4374,
     "Absinthe": 4.182,
     "Cool Water": 4.08,
     "Green Glitter": 3.57,
     "Minty Fresh": 3.315,
     "Tarkhuna": 3.5496
   },
-  "last_updated": 1785210434
+  "last_updated": 1785213144
 }

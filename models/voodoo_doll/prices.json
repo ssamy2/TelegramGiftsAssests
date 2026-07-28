@@ -79,7 +79,6 @@
     "Potion": 40.0,
     "Red Deer": 32.38,
     "Rocket": 45.0,
-    "Star Crown": 60.0,
     "Sumerian Bird": 55.0,
     "Thief": 39.9,
     "Treats": 40.0,
@@ -101,6 +100,7 @@
     "Skull": 42.0,
     "Spider Web": 37.0,
     "Spooky Cat": 40.0,
+    "Star Crown": 60.0,
     "Autumn Leaves": 45.0,
     "Cursor": 59.0,
     "Human Scull": 44.0,
@@ -109,7 +109,6 @@
     "Watermelon": 100.0
   },
   "models": {
-    "Chromed Out": 40.7898,
     "Clear Water": 132.6,
     "Cold-Blooded": 34.68,
     "Cruella": 51.0,
@@ -157,8 +156,9 @@
     "Broken Hope": 200.0,
     "Bubbles": 56.1,
     "Bumblebee": 35.7,
-    "Concept Art": 65.0,
+    "Chromed Out": 40.7898,
+    "Concept Art": 60.0,
     "Pink Needle": 71.4
   },
-  "last_updated": 1785210434
+  "last_updated": 1785213144
 }

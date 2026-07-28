@@ -77,10 +77,9 @@
     "Golden Scarab": 265.0,
     "Greek Sun": 175.0,
     "Hamburger": 265.0,
-    "Hand of God": 211.0,
+    "Hand of God": 142.22,
     "Heart": 210.0,
     "Heater Shield": 800.0,
-    "Jolly Roger": 129.0,
     "Jörmungandr": 199.0,
     "Kitsune": 199.0,
     "Knight": 264.0,
@@ -176,8 +175,7 @@
     "Inguz Rune": 217.0,
     "Ink Pen": 280.0,
     "Iron Helmet": 520.0,
-    "Wontons": 250.0,
-    "Yogi Shaman": 220.0,
+    "Jolly Roger": 129.0,
     "Viking": 200.0,
     "Viper": 199.0,
     "Vortex": 150.0,
@@ -188,6 +186,8 @@
     "Wepwawet": 145.0,
     "Wise Raven": 222.0,
     "Wolf Rage": 280.0,
+    "Wontons": 250.0,
+    "Yogi Shaman": 220.0,
     "Bull of Heaven": 180.0,
     "Crusader Cross": 444.0,
     "Flamingo": 197.0,
@@ -200,11 +200,12 @@
     "Viking Shield": 159.0,
     "Acorn": 165.0,
     "Clubs": 215.0,
-    "Hermit Shell": 139.0
+    "Hermit Shell": 139.0,
+    "Genie Lamp": 191.11,
+    "Lion King": 250.0
   },
   "models": {
     "Academic": 132.6,
-    "Cherry Red": 103.938,
     "Chrome Clutch": 362.1,
     "Circus": 142.8,
     "City Life": 459.0,
@@ -235,7 +236,7 @@
     "Pendragon": 285.6,
     "Pepe Bag": 497.7498,
     "Pink Pulsar": 226.644,
-    "Poison Dart": 174.9912,
+    "Poison Dart": 174.4914,
     "Potamus": 105.06,
     "Priestly": 326.4,
     "Reptile Noir": 222.258,
@@ -273,6 +274,7 @@
     "Burgun Bag": 103.734,
     "Cargo Citron": 117.3,
     "Cherry Croc": 104.448,
+    "Cherry Red": 103.938,
     "Aero Swift": 105.06,
     "Black Ascot": 357.0,
     "Jade Serpent": 142.8,
@@ -283,5 +285,5 @@
     "Panthera": 679.32,
     "Vert d’Eau": 147.9
   },
-  "last_updated": 1785210434
+  "last_updated": 1785213144
 }
