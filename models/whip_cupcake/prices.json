@@ -5,12 +5,13 @@
     "Midnight Blue": 3.2436
   },
   "symbols": {
+    "Blossom": 4.0,
+    "Boat": 3.3,
+    "Alert Serpent": 3.44,
     "Angel": 3.67,
     "Angelic Heart": 4.0,
     "Apple": 2.94,
     "Avocado": 4.0,
-    "Boat": 3.3,
-    "Alert Serpent": 3.44,
     "Aztec Falcon": 4.0,
     "Ball": 4.0,
     "Balloon": 3.07,
@@ -18,16 +19,14 @@
     "Baphomet": 4.89,
     "Bascinet": 3.07,
     "Baseball Cap": 2.96,
-    "Blossom": 4.0,
-    "Daisy": 3.0,
     "Dessert": 3.2,
     "Doghouse": 2.93,
     "Earth": 3.13,
     "Eye of Horus": 3.13,
     "Feather": 3.5,
-    "Fenrir": 2.95,
+    "Fenrir": 3.49,
     "Fireman Hat": 4.9,
-    "Fish Skeleton": 2.87,
+    "Fish Skeleton": 3.05,
     "Flat Cap": 3.92,
     "Fleur-de-lis": 3.55,
     "Fluffy Wolf": 3.0,
@@ -108,7 +107,7 @@
     "Cupid": 2.93,
     "Cute Bear": 2.95,
     "Cyclamen": 3.7,
-    "Sea Jelly": 3.59,
+    "Daisy": 3.0,
     "Seahorse": 3.59,
     "Shark Knife": 2.92,
     "Shortsword": 3.55,
@@ -164,6 +163,7 @@
     "Sakura Flower": 3.16,
     "Scissors": 2.98,
     "Sea Dragon": 3.19,
+    "Sea Jelly": 3.59,
     "Banana": 3.69,
     "Bobby Helmet": 3.53,
     "Bubbles": 3.08,
@@ -182,7 +182,6 @@
     "Blooms": 4.0
   },
   "models": {
-    "Wasteland": 3.0294,
     "Alien Slime": 3.111,
     "Arizona": 3.06,
     "Bag End": 2.9771047,
@@ -229,9 +228,10 @@
     "Trump Cake": 3.5088,
     "Two Sweet!": 3.06,
     "Unicorn": 3.3558,
+    "Wasteland": 3.0294,
     "Zero Sugar": 3.06,
     "Cream Scream": 6.1506,
     "Rising Dead": 3.06
   },
-  "last_updated": 1785259994
+  "last_updated": 1785262564
 }
