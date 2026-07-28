@@ -7,12 +7,11 @@
   },
   "symbols": {},
   "models": {
-    "Dark Power": 3.6414,
     "Drumsticks": 3.4986,
     "Foundation": 3.519,
     "Free Elf": 5.0898,
-    "Biohazard": 3.927,
     "Friend In Me": 3.774,
+    "Black Panther": 3.4986,
     "Garfield": 3.4884,
     "Gingerbread": 3.4986,
     "Goldfinger": 4.284,
@@ -29,7 +28,7 @@
     "Passion": 4.0698,
     "Patriot": 3.9576,
     "Peg Leg": 3.978,
-    "Pepe Socks": 12.24,
+    "Pepe Socks": 12.75,
     "Puppet Master": 4.59,
     "Quest Item": 3.7332,
     "Radioactive": 3.774,
@@ -52,11 +51,12 @@
     "Ambition": 3.5496,
     "Ballerina": 3.57,
     "Barry Allen": 3.57,
-    "Black Panther": 3.4986,
     "Bartender": 3.672,
-    "Billie Jean": 7.14,
     "Brothers": 3.621,
-    "Courage": 3.5904
+    "Billie Jean": 7.14,
+    "Biohazard": 3.927,
+    "Courage": 3.5904,
+    "Dark Power": 3.6414
   },
-  "last_updated": 1785226185
+  "last_updated": 1785228773
 }

@@ -28,7 +28,6 @@
     "Coffin": 180.0,
     "Coin Purse": 799.0,
     "Coin": 319.2,
-    "Happy Smile": 185.0,
     "Heart": 990.0,
     "Human Scull": 260.0,
     "Illuminati": 195.0,
@@ -81,11 +80,12 @@
     "Grim Reaper": 250.0,
     "Guitar": 1000.0,
     "Half Moon": 168.9,
-    "Pyramid": 178.6,
+    "Happy Smile": 185.0,
     "Carambola": 500.0,
     "Crow": 400.0,
     "Crystal Ball": 199.0,
     "Inguz Rune": 240.0,
+    "Pyramid": 178.6,
     "Cupcake": 290.0,
     "Inca Sun": 260.0,
     "Pencil": 380.0,
@@ -126,7 +126,7 @@
     "Nyan Cat": 175.44,
     "Pepe Paws": 228.48,
     "Phantom": 306.0,
-    "Purrlion": 173.094,
+    "Purrlion": 166.77,
     "Purrrple": 255.0,
     "Puss in Boots": 167.2392,
     "Ranni": 209.1,
@@ -134,7 +134,7 @@
     "Silver Napper": 285.6,
     "Torracat": 168.3,
     "Vampkitty": 320.28,
-    "Vapurr": 166.974,
+    "Vapurr": 166.26,
     "Virus": 171.36,
     "Voodoo": 169.83,
     "Weedcat": 176.46,
@@ -147,5 +147,5 @@
     "Goodbye Kitty": 776.9952,
     "Obelisk": 1499.961
   },
-  "last_updated": 1785226185
+  "last_updated": 1785228773
 }
