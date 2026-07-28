@@ -43,7 +43,7 @@
     "Calm Wolf": 4.14,
     "Candle": 4.4,
     "Candy": 7.5,
-    "Cap": 7.16,
+    "Cap": 7.12,
     "Carambola": 4.25,
     "Cat Mask": 8.8,
     "Celtic Wolf": 7.83,
@@ -74,7 +74,6 @@
     "Eagle": 3.99,
     "Earflap Hat": 5.99,
     "Earth": 7.5,
-    "Fleur-de-lis": 4.05,
     "Flipper": 4.14,
     "Flower Sun": 6.47,
     "Flower Tulip": 6.7,
@@ -175,7 +174,7 @@
     "Fish": 3.99,
     "Flamingo": 9.9,
     "Flat Cap": 6.99,
-    "Shark Knife": 4.25,
+    "Fleur-de-lis": 4.05,
     "Shield": 6.0,
     "Shooting Star": 4.08,
     "Shuriken": 19.0,
@@ -238,11 +237,12 @@
     "Robin Hood": 7.2,
     "Rocket": 4.97,
     "Royal Crown": 7.0,
-    "Sauron": 6.0,
-    "Scarab": 9.99,
     "Sakura": 4.08,
+    "Scarab": 8.5,
     "Scissors": 6.95,
+    "Sauron": 6.0,
     "Seahorse": 3.99,
+    "Shark Knife": 4.25,
     "Baseball Cap": 4.04,
     "Bunny Ears": 4.75,
     "Easter Bunny": 4.06,
@@ -260,7 +260,6 @@
     "Pumpkin Coach": 5.0
   },
   "models": {
-    "Batwing": 37.74,
     "Billiards": 4.233,
     "Blue Morpho": 8.16,
     "Bordeaux": 4.0494,
@@ -307,11 +306,12 @@
     "Velvet Gold": 38.76,
     "Volleyball": 3.9862926,
     "Baby Yoda": 17.34,
+    "Batwing": 37.74,
     "Chebu": 5.916,
     "Ladybug": 4.233,
     "Vampire": 5.661,
     "Durov’s Dog": 12.75,
     "Cupid’s Bow": 5.406
   },
-  "last_updated": 1785213144
+  "last_updated": 1785215776
 }

@@ -54,7 +54,6 @@
     "Earflap Hat": 55.0,
     "Egg": 53.0,
     "Eggplant": 155.0,
-    "Griffon": 85.0,
     "Gua Pi Mao": 72.8,
     "Hamburger": 60.0,
     "Hand of God": 99.0,
@@ -114,7 +113,7 @@
     "Ram of Amun": 64.89,
     "Rap Mic": 77.0,
     "Rap Sign": 65.0,
-    "Revolver": 57.1,
+    "Revolver": 62.0,
     "Ribeye Steak": 90.0,
     "Ring": 69.0,
     "Robin Hood": 64.99,
@@ -149,6 +148,7 @@
     "Glasses": 69.69,
     "Gold": 60.0,
     "Greek Helmet": 59.86,
+    "Griffon": 85.0,
     "Tricorne": 58.0,
     "Turkey": 85.0,
     "Unicorn": 60.0,
@@ -159,7 +159,7 @@
     "Watermelon": 60.0,
     "Wepwawet": 65.0,
     "Westside Hand": 6666.0,
-    "Wolf Rage": 149.88,
+    "Wolf Rage": 149.89,
     "Yo Sign": 65.0,
     "Bobble Hat": 69.0,
     "Cowboy Hat": 54.0,
@@ -176,7 +176,6 @@
   "models": {
     "Alpine Gold": 51.0,
     "Bass Drop": 45.9,
-    "First Class": 20400.0,
     "Flamingo": 48.96,
     "Gigahorse": 66.3,
     "Gold Rush": 142.8,
@@ -220,10 +219,11 @@
     "Doggyland Bus": 45.9,
     "Dribble": 46.92,
     "Drop It!": 69.003,
+    "First Class": 20400.0,
     "Blaze": 45.9,
     "Dry Eyes": 61.2,
     "Money Rider": 56.1,
     "Blizzard": 47.94
   },
-  "last_updated": 1785213144
+  "last_updated": 1785215776
 }

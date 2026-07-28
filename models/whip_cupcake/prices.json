@@ -24,7 +24,6 @@
     "Blooms": 4.0,
     "Blossom": 4.0,
     "Boat": 3.3,
-    "Cheese": 3.0,
     "Cherry": 4.0,
     "Chest": 3.13,
     "Chick": 3.17,
@@ -113,7 +112,7 @@
     "Calla Lily": 3.5,
     "Carambola": 3.33,
     "Carrot": 3.15,
-    "Panty": 3.18,
+    "Cheese": 3.0,
     "Paw": 3.4,
     "Pigeon": 4.0,
     "Pixel Heart": 3.5,
@@ -162,13 +161,14 @@
     "Nemean Lion": 3.06,
     "Nigiri": 3.5,
     "Obon Lantern": 3.83,
-    "Oculus": 3.18,
+    "Oculus": 3.045,
     "Onigiri": 3.03,
     "Orchid": 2.93,
     "Origami": 3.63,
     "Ouroboros": 5.0,
     "Owl": 4.5,
     "Padlock": 3.13,
+    "Panty": 3.18,
     "Banana": 3.69,
     "Bobby Helmet": 3.53,
     "Bubbles": 3.08,
@@ -182,8 +182,6 @@
     "Winged Helmet": 4.8
   },
   "models": {
-    "Deep State": 3.57,
-    "Demoman": 3.162,
     "Dracula": 3.5496,
     "Fantastic Four": 3.111,
     "Fast Charge": 3.213,
@@ -230,8 +228,10 @@
     "Christmas": 3.264,
     "Circus": 3.6822,
     "Cloud Nine": 3.06,
+    "Deep State": 3.57,
+    "Demoman": 3.162,
     "Cream Scream": 6.1506,
     "Rising Dead": 3.06
   },
-  "last_updated": 1785213144
+  "last_updated": 1785215776
 }

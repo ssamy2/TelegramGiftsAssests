@@ -64,7 +64,6 @@
     "Ice Pop": 3.59,
     "Ice Skates": 4.0,
     "Illuminati": 6.0,
-    "Mask": 5.0,
     "Mistletoe": 3.85,
     "Mittens": 3.84,
     "Monstera": 3.89,
@@ -136,17 +135,17 @@
     "Love Lock": 4.46,
     "Magic Wand": 3.6,
     "Maple": 6.34,
-    "Unicorn Head": 3.81,
+    "Mask": 5.0,
     "Bastet": 8.0,
     "Chili Pepper": 4.47,
     "Flashlight": 8.0,
     "Jellyfish": 4.19,
     "Lion Head": 7.0,
     "Phoenix": 6.0,
-    "Shooting Star": 3.8
+    "Shooting Star": 3.8,
+    "Unicorn Head": 3.81
   },
   "models": {
-    "Cold Limeade": 9.18,
     "Cold Slushy": 5.1,
     "Cold Vapor": 4.9776,
     "Creamy": 20.4,
@@ -212,10 +211,11 @@
     "Cherry Ice": 4.08,
     "Citrus Flakes": 4.08,
     "Cold Autumn": 3.3558,
+    "Cold Limeade": 9.18,
     "80s TV": 4.488,
     "Black Drops": 6.12,
     "Holiday Spirit": 4.59,
     "Pinkie Cap": 4.692
   },
-  "last_updated": 1785213144
+  "last_updated": 1785215776
 }

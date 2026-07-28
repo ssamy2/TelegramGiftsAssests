@@ -6,7 +6,6 @@
     "Onyx Black": 72.42
   },
   "symbols": {
-    "Bouquet": 79.0,
     "Bow Tie": 47.0,
     "Bread": 37.0,
     "Bunny Ears": 54.4,
@@ -24,7 +23,7 @@
     "Chili": 65.0,
     "Chrysanthe": 45.0,
     "Cicada": 50.0,
-    "Coat of Arms": 34.0,
+    "Coat of Arms": 33.9,
     "Cocktail": 60.0,
     "Coin Purse": 90.0,
     "Conch": 68.0,
@@ -66,7 +65,7 @@
     "Griffon": 66.0,
     "Hammerhead": 50.0,
     "Headband": 54.0,
-    "Heart Donut": 33.99,
+    "Heart Donut": 33.89,
     "Heart Lock": 37.0,
     "Heart Ring": 39.95,
     "Hearts": 4149.0,
@@ -97,7 +96,7 @@
     "Boat": 48.99,
     "Bobble Hat": 41.9,
     "Bobby Helmet": 77.77,
-    "Love Cherry": 48.8,
+    "Bouquet": 79.0,
     "Love Daisy": 59.0,
     "Love Mug": 88.0,
     "Love Potion": 50.0,
@@ -188,7 +187,7 @@
     "Love Berry": 60.0,
     "Love Bulb": 44.0,
     "Love Candy": 169.0,
-    "Watermelon": 70.0,
+    "Love Cherry": 48.8,
     "Wine Toast": 60.0,
     "Winter Hat": 80.0,
     "Wise Raven": 60.0,
@@ -203,7 +202,7 @@
     "Wagasa": 80.0,
     "War Bonnet": 50.0,
     "Warhorse": 100.0,
-    "Tongue": 150.0,
+    "Watermelon": 70.0,
     "Tsunami": 36.0,
     "Belladonna": 50.0,
     "Cherry": 38.9,
@@ -215,7 +214,8 @@
     "Mayan Moth": 65.0,
     "Paper Lantern": 38.0,
     "Rose Blossom": 45.0,
-    "Angel": 33.99,
+    "Tongue": 150.0,
+    "Angel": 33.89,
     "Anthurium": 35.9
   },
   "models": {
@@ -280,5 +280,5 @@
     "Ultravolt": 32.4768,
     "Unicorn": 35.7
   },
-  "last_updated": 1785213144
+  "last_updated": 1785215776
 }

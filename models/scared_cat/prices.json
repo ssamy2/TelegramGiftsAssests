@@ -28,7 +28,6 @@
     "Coffin": 180.0,
     "Coin Purse": 799.0,
     "Coin": 319.2,
-    "Gravestone": 175.0,
     "Grenade": 1000.0,
     "Grim Reaper": 250.0,
     "Guitar": 1000.0,
@@ -81,6 +80,7 @@
     "Flamingo": 350.0,
     "Flying Witch": 176.0,
     "Ghost": 260.0,
+    "Gravestone": 175.0,
     "Carambola": 195.0,
     "Crow": 400.0,
     "Crystal Ball": 199.0,
@@ -124,7 +124,6 @@
     "Nebula": 255.0,
     "Niko": 249.9,
     "Nyan Cat": 175.44,
-    "Virus": 171.36,
     "Voodoo": 169.83,
     "Weedcat": 176.46,
     "Yolkster": 306.0,
@@ -139,6 +138,7 @@
     "Torracat": 168.3,
     "Vampkitty": 320.28,
     "Vapurr": 198.9,
+    "Virus": 171.36,
     "Azuki Siam": 550.8,
     "Garfield": 990.0,
     "Oreo": 714.0,
@@ -147,5 +147,5 @@
     "Goodbye Kitty": 776.9952,
     "Obelisk": 1499.961
   },
-  "last_updated": 1785213144
+  "last_updated": 1785215776
 }

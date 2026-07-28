@@ -8,7 +8,7 @@
     "Alarm": 4.0,
     "Arabian Horse": 4.5,
     "Bandage": 7.0,
-    "Bastet": 7.0,
+    "Bastet": 5.0,
     "Bishop": 6.4,
     "Bottle": 3.37,
     "Bow Tie": 4.44,
@@ -77,7 +77,6 @@
     "Mafdet": 3.99,
     "Magic Wand": 3.9,
     "Mannaz Rune": 6.24,
-    "Oak Leaf": 5.0,
     "Octopus": 3.7,
     "Paw": 7.0,
     "Phoenix": 3.34,
@@ -134,6 +133,7 @@
     "Musical Note": 8.0,
     "New Year’s Eve": 3.35,
     "Nordic Wolf": 3.32,
+    "Oak Leaf": 5.0,
     "Alkonost": 3.79,
     "Garden Pot": 3.7,
     "Love Letter": 4.0,
@@ -143,7 +143,6 @@
     "Cocktail": 3.85
   },
   "models": {
-    "Birthday": 4.0596,
     "Bitcoin": 28.5498,
     "Blue Sparks": 3.4272,
     "Blueberry": 3.72437,
@@ -223,6 +222,7 @@
     "Anemone": 15.3,
     "Assault": 8.364,
     "Azurite": 3.9882,
+    "Birthday": 4.0596,
     "Shimmer": 4.998,
     "Sonic Blue": 4.0698,
     "Sour Gummy": 3.2538,
@@ -244,5 +244,5 @@
     "Seafoam": 3.3864,
     "Star Time": 8.16
   },
-  "last_updated": 1785213144
+  "last_updated": 1785215776
 }
