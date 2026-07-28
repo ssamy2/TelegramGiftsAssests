@@ -5,7 +5,6 @@
     "Onyx Black": 29.58
   },
   "symbols": {
-    "Bascinet": 20.0,
     "Bastet": 15.3,
     "Bishop": 20.94,
     "Cap": 15.0,
@@ -13,8 +12,8 @@
     "Cash": 14.99,
     "Celtic Wolf": 16.4,
     "Champagne": 17.0,
-    "Chest": 25.04,
-    "Chimaev": 13.6,
+    "Chest": 24.99,
+    "Chimaev": 13.59,
     "Cicada": 15.0,
     "Coat of Arms": 34.0,
     "Cobra": 18.0,
@@ -42,7 +41,7 @@
     "Gold": 27.0,
     "Golden Scarab": 18.0,
     "Greek Helmet": 18.0,
-    "Greek Sun": 14.49,
+    "Greek Sun": 13.59,
     "Griffon": 20.0,
     "Hand of God": 29.0,
     "Heater Shield": 19.0,
@@ -55,7 +54,7 @@
     "Ink Pen": 30.0,
     "Jewel": 30.0,
     "Jolly Roger": 39.0,
-    "Jones": 14.49,
+    "Jones": 13.59,
     "Jörmungandr": 16.0,
     "Kitsune": 45.0,
     "Knight": 30.0,
@@ -93,7 +92,7 @@
     "Aztec Falcon": 14.99,
     "Aztec Totem": 19.0,
     "Baphomet": 14.48,
-    "Serpent": 20.0,
+    "Bascinet": 20.0,
     "Shield": 26.0,
     "Silver Ibis": 18.0,
     "Speed Bag": 15.0,
@@ -147,6 +146,7 @@
     "Sakura Flower": 22.0,
     "Sakura": 13.89,
     "Scorpion": 13.9,
+    "Serpent": 20.0,
     "Cocktail": 17.0,
     "Genie Lamp": 18.9,
     "Kitsune Mask": 21.7,
@@ -165,7 +165,6 @@
     "Classic Red": 13.311,
     "Combo Hit": 16.32,
     "Dumbbell": 13.3416,
-    "Keychain Blue": 13.5558,
     "Keychain Red": 19.89,
     "Level Up": 13.26,
     "M. Dvalishvili": 15.4938,
@@ -197,6 +196,7 @@
     "I. Topuria": 17.646,
     "J. Jones": 15.81,
     "K. Chimaev": 19.176,
+    "Keychain Blue": 13.5558,
     "Fist Bump": 13.515,
     "Gold Pantoja": 29.58,
     "UFC Glove Token": 17.289,
@@ -204,5 +204,5 @@
     "Gold O’Malley": 35.7,
     "S. O’Malley": 16.932
   },
-  "last_updated": 1785220936
+  "last_updated": 1785223535
 }

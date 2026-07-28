@@ -65,7 +65,6 @@
     "Cursor": 6.0,
     "Diamonds": 15.0,
     "Divine Falcon": 5.6,
-    "Flamingo": 6.5,
     "Flashlight": 7.0,
     "Flat Cap": 6.5,
     "Flipper": 10.0,
@@ -119,7 +118,7 @@
     "Magic Vial": 6.3,
     "Magic Wand": 5.98,
     "Mannaz Rune": 6.66,
-    "Mayan Moth": 7.0,
+    "Maple": 6.5,
     "Melon": 5.98,
     "Mining Helmet": 5.98,
     "Monarch": 6.5,
@@ -145,8 +144,8 @@
     "Fire": 6.0,
     "Fireman Hat": 5.9,
     "Fish": 5.9,
-    "Maple": 6.5,
-    "Pawn": 6.76,
+    "Flamingo": 6.5,
+    "Mayan Moth": 7.0,
     "Peace Dove": 6.5,
     "Peaked Cap": 5.84,
     "Pearl": 6.66,
@@ -236,6 +235,7 @@
     "Palette": 6.66,
     "Paper Crane": 6.5,
     "Paschal Lamb": 5.98,
+    "Pawn": 6.77,
     "Bottle": 8.05,
     "Chili": 6.84,
     "Doctor Hat": 6.66,
@@ -253,14 +253,14 @@
     "Fish Skeleton": 7.0,
     "Nemes": 5.5,
     "Sumerian Bird": 6.66,
-    "Koala": 5.98,
-    "Leaf": 8.0,
+    "La Corona": 6.5,
     "Kite": 6.97,
     "Kitsune Mask": 6.0,
     "Kitsune": 6.0,
     "Knight": 6.5,
+    "Koala": 5.98,
     "Kudu Totem": 6.0,
-    "La Corona": 6.5
+    "Leaf": 8.0
   },
   "models": {
     "Absinthe": 6.63,
@@ -316,5 +316,5 @@
     "Toy Blade": 5.2938,
     "Tsunami": 8.466
   },
-  "last_updated": 1785220936
+  "last_updated": 1785223535
 }

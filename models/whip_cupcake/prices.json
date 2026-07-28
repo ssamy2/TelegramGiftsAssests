@@ -24,7 +24,6 @@
     "Blooms": 4.0,
     "Blossom": 4.0,
     "Boat": 3.3,
-    "Chick": 3.17,
     "Chili": 3.4533,
     "Chocolate": 4.0,
     "Cicada": 3.28,
@@ -62,7 +61,7 @@
     "Handcuffs": 3.1,
     "Hard Hat": 4.0,
     "Hazelnut": 3.13,
-    "Heart Box": 2.88,
+    "Heart Box": 2.93,
     "Heart Donut": 2.93,
     "Heart Lock": 3.13,
     "Heart Ring": 2.88,
@@ -99,7 +98,7 @@
     "Manta Ray": 3.46,
     "Maple Leaf": 3.4,
     "Maple": 3.3,
-    "Money Bag": 3.5,
+    "Money Bag": 3.98,
     "Bone": 2.88,
     "Breeze": 2.88,
     "Bubble Tea": 3.05,
@@ -113,7 +112,7 @@
     "Cheese": 3.0,
     "Cherry": 4.0,
     "Chest": 3.13,
-    "Pixel Heart": 3.5,
+    "Chick": 3.17,
     "Piñata": 3.09,
     "Plume": 3.4,
     "Pomegranate": 3.99,
@@ -148,7 +147,7 @@
     "Turkey": 3.49,
     "Turtle": 3.1,
     "Twin Koi": 4.0,
-    "Two Hearts": 3.3,
+    "Two Hearts": 3.11,
     "Venetian Mask": 5.11,
     "Wagasa": 3.5,
     "Water Drops": 2.98,
@@ -169,6 +168,7 @@
     "Panty": 3.18,
     "Paw": 3.4,
     "Pigeon": 4.0,
+    "Pixel Heart": 3.5,
     "Banana": 3.69,
     "Bobby Helmet": 3.53,
     "Bubbles": 3.08,
@@ -182,8 +182,6 @@
     "Winged Helmet": 4.8
   },
   "models": {
-    "Gummy Bears": 3.9678,
-    "Half-Life": 3.162,
     "Hawaii": 3.57,
     "Heaven Seven": 5.7936,
     "Hellspawn": 3.519,
@@ -230,8 +228,10 @@
     "Fantastic Four": 3.111,
     "Fast Charge": 3.213,
     "First Bite": 3.06,
+    "Gummy Bears": 3.9678,
+    "Half-Life": 3.162,
     "Cream Scream": 6.018,
     "Rising Dead": 3.06
   },
-  "last_updated": 1785220936
+  "last_updated": 1785223535
 }

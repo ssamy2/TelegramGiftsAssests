@@ -6,7 +6,6 @@
     "Onyx Black": 72.42
   },
   "symbols": {
-    "Bunny Ears": 54.4,
     "Cactus Bloom": 48.95,
     "Cake": 44.99,
     "Calendula": 50.0,
@@ -40,7 +39,7 @@
     "Eggplant": 52.0,
     "February 14": 145.0,
     "Fehu Rune": 60.0,
-    "Fenrir": 370.0,
+    "Fenrir": 398.0,
     "Firebird": 34.8,
     "Fish": 49.0,
     "Flaming Heart": 68.6,
@@ -97,9 +96,9 @@
     "Bouquet": 79.0,
     "Bow Tie": 47.0,
     "Bread": 37.0,
-    "Love Potion": 50.0,
+    "Bunny Ears": 54.4,
     "Love Puzzle": 52.0,
-    "Love Scene": 35.47,
+    "Love Scene": 35.48,
     "Mafdet": 49.99,
     "Magic Vial": 110.0,
     "Magic Wand": 69.99,
@@ -188,7 +187,7 @@
     "Love Cherry": 48.8,
     "Love Daisy": 59.0,
     "Love Mug": 88.0,
-    "Wise Raven": 60.0,
+    "Love Potion": 50.0,
     "Tulip Bloom": 54.54,
     "Twin Koi": 49.93,
     "Two Hearts": 177.0,
@@ -203,6 +202,7 @@
     "Watermelon": 70.0,
     "Wine Toast": 60.0,
     "Winter Hat": 80.0,
+    "Wise Raven": 60.0,
     "Belladonna": 50.0,
     "Cherry": 38.9,
     "Divine Falcon": 35.0,
@@ -275,10 +275,10 @@
     "Whiteout": 44.778,
     "Wild Cat": 79.56,
     "Wild Daisy": 36.9852,
-    "Frostbear": 40.8,
     "Princess": 142.0,
     "Ultravolt": 32.4768,
-    "Unicorn": 35.7
+    "Unicorn": 35.7,
+    "Frostbear": 40.8
   },
-  "last_updated": 1785220936
+  "last_updated": 1785223535
 }

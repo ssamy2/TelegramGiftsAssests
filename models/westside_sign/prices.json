@@ -1,8 +1,8 @@
 {
   "backdrops": {
-    "Onyx Black": 395.76,
     "Black": 474.3,
-    "Midnight Blue": 101.898
+    "Midnight Blue": 101.898,
+    "Onyx Black": 395.76
   },
   "symbols": {
     "213": 180.0,
@@ -71,7 +71,6 @@
     "Iron Helmet": 161.0,
     "Jester Hat": 188.0,
     "Jewel": 555.0,
-    "Monstera": 115.0,
     "Morgenstern": 87.8,
     "Moto Helmet": 280.41,
     "Mountain Goat": 1850.0,
@@ -126,7 +125,7 @@
     "Winged Helm": 888.0,
     "Wise Raven": 108.0,
     "Wolf Rage": 280.0,
-    "Jumbo Pencil": 95.4,
+    "Jumbo Pencil": 95.41,
     "Kitsune Mask": 200.0,
     "Ladybug": 125.0,
     "Like": 120.0,
@@ -139,6 +138,7 @@
     "Meat Leg": 109.0,
     "Moai Head": 150.0,
     "Money Bag": 120.0,
+    "Monstera": 115.0,
     "Bunny": 350.0,
     "Double Axe": 120.0,
     "Jörmungandr": 151.0,
@@ -199,5 +199,5 @@
     "Sugar Daddy": 173.4,
     "Barcs A Locks": 93.6258
   },
-  "last_updated": 1785220936
+  "last_updated": 1785223535
 }

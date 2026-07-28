@@ -54,7 +54,7 @@
     "Greek Sun": 5.3,
     "Hard Hat": 3.94,
     "Heraldic Lily": 6.4,
-    "Horseshoe": 7.65,
+    "Horseshoe": 7.66,
     "Hot Drink": 3.85,
     "Ice Pop": 4.2,
     "Ice Skates": 4.0,
@@ -64,7 +64,6 @@
     "Kite": 3.99,
     "Kitsune Mask": 9.9,
     "Lily": 6.5,
-    "Obon Lantern": 9.5,
     "Octopus": 4.2,
     "Okami Wolf": 4.5,
     "Omusubi": 11.0,
@@ -125,6 +124,7 @@
     "Moon Eagle": 12.0,
     "New Year’s Eve": 4.0,
     "Nordic Wolf": 3.85,
+    "Obon Lantern": 9.5,
     "Candle": 4.0,
     "Cow Skull": 4.0,
     "Hot Matcha": 3.93,
@@ -133,10 +133,10 @@
     "Paper Lantern": 4.8,
     "Snowman": 4.0,
     "Winter House": 3.99,
-    "Moon Face": 4.4,
     "Moon": 10.0,
     "Moose Head": 4.0,
     "Morgenstern": 4.89,
+    "Moon Face": 4.4,
     "Mushroom": 12.0,
     "Mustache": 4.25,
     "Narcissus": 5.0,
@@ -194,5 +194,5 @@
     "Ocean Oasis": 3.876,
     "Spring": 4.59
   },
-  "last_updated": 1785220936
+  "last_updated": 1785223535
 }

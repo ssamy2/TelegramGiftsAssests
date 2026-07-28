@@ -26,7 +26,7 @@
     "Carambola": 7.0,
     "Champagne": 3.78,
     "Cherry": 6.0,
-    "Chest": 3.67,
+    "Chest": 3.66,
     "Chili": 3.87,
     "Christmas Tree": 4.0,
     "Cicada": 6.99,
@@ -64,7 +64,6 @@
     "Ice Pop": 3.59,
     "Ice Skates": 4.0,
     "Illuminati": 6.0,
-    "Monstera": 3.89,
     "Moon Cross": 6.0,
     "Moon Eagle": 12.0,
     "Moon": 3.76,
@@ -83,7 +82,7 @@
     "Planet": 6.0,
     "Rain Drop": 3.59,
     "Ram of Amun": 6.0,
-    "Rhino Warrior": 4.04,
+    "Rhino Warrior": 4.05,
     "Ring": 5.6,
     "Rocket": 6.0,
     "Royal Crown": 4.0,
@@ -134,8 +133,9 @@
     "Magic Wand": 3.6,
     "Maple": 6.34,
     "Mask": 5.0,
-    "Mistletoe": 3.85,
+    "Mistletoe": 3.83,
     "Mittens": 3.84,
+    "Monstera": 3.89,
     "Bastet": 8.0,
     "Chili Pepper": 4.47,
     "Flashlight": 8.0,
@@ -146,7 +146,6 @@
     "Unicorn Head": 3.81
   },
   "models": {
-    "Creamy": 20.4,
     "Dandelion": 3.672,
     "Dreamy": 3.5598,
     "Evergreen": 3.672,
@@ -212,10 +211,11 @@
     "Cold Limeade": 9.18,
     "Cold Slushy": 5.1,
     "Cold Vapor": 4.9776,
+    "Creamy": 20.4,
     "80s TV": 4.488,
     "Black Drops": 6.12,
     "Holiday Spirit": 4.59,
     "Pinkie Cap": 4.692
   },
-  "last_updated": 1785220936
+  "last_updated": 1785223535
 }

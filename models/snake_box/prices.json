@@ -31,7 +31,6 @@
     "Cowboy Hat": 2.9,
     "Crystal Ball": 2.99,
     "Crystal": 3.0,
-    "Gingerbread": 4.0,
     "Gold": 3.5,
     "Gua Pi Mao": 5.9,
     "Hand of God": 3.29,
@@ -64,7 +63,7 @@
     "Mushroom": 3.0,
     "Nemes": 3.0,
     "New Year's Eve": 4.49,
-    "Nordic Wolf": 2.94,
+    "Nordic Wolf": 2.85,
     "Okami Wolf": 3.0,
     "Onigiri": 3.99,
     "Ornament": 2.85,
@@ -126,6 +125,7 @@
     "Galaxy": 3.0,
     "Gamepad": 3.03,
     "Gift Box": 3.11,
+    "Gingerbread": 4.0,
     "Winter Hat": 3.0,
     "Winter House": 3.3,
     "Wontons": 3.0,
@@ -143,10 +143,10 @@
     "Wolf Rage": 2.94
   },
   "models": {
-    "Aquarium": 4.284,
-    "Best Hisses!": 2.9274,
     "Birthday": 3.2028,
     "Black Box": 2.9478,
+    "Aquarium": 4.284,
+    "Best Hisses!": 2.9274,
     "Dream Big": 2.958,
     "Golden Fang": 3.57,
     "Green Spots": 3.06,
@@ -187,15 +187,14 @@
     "Double Joy": 2.9988,
     "Holly Jolly": 3.06,
     "Raspberry": 2.9886,
-    "Bronze Award": 3.2538,
     "Burger": 3.06,
     "Buttercup": 2.9478,
-    "Bento": 3.06,
-    "Bluebell": 2.9478,
     "Candy Bubble": 3.9576,
+    "Bluebell": 2.9478,
+    "Bronze Award": 3.2538,
     "Cheese": 3.6516,
     "Balloons": 4.947,
-    "Fuchsia": 2.9886,
+    "Bento": 3.06,
     "Furnace": 3.162,
     "Gold Award": 4.1922,
     "Pink Boa": 3.162,
@@ -212,7 +211,8 @@
     "Fantasy": 2.958,
     "Fluorescent": 3.06,
     "Fragile": 2.9274,
-    "Fresh Mint": 2.9886
+    "Fresh Mint": 2.9886,
+    "Fuchsia": 2.9886
   },
-  "last_updated": 1785220936
+  "last_updated": 1785223535
 }
