@@ -11,7 +11,7 @@
     "Birthday Cake": 333.0,
     "Bishop": 800.0,
     "Black Widow": 182.0,
-    "Blood Drop": 167.97,
+    "Blood Drop": 219.0,
     "Bloody Axe": 200.0,
     "Book": 240.0,
     "Brain": 171.0,
@@ -28,7 +28,6 @@
     "Coffin": 180.0,
     "Coin Purse": 799.0,
     "Coin": 319.2,
-    "Heart": 990.0,
     "Human Scull": 260.0,
     "Illuminati": 195.0,
     "Jaws": 189.0,
@@ -41,7 +40,7 @@
     "Magic Wand": 333.0,
     "Moon Eagle": 229.0,
     "Moon": 450.0,
-    "Mountain Goat": 167.8,
+    "Mountain Goat": 205.0,
     "Mushroom": 300.0,
     "Musical Note": 500.0,
     "Nice Ghost": 320.0,
@@ -73,7 +72,7 @@
     "Fish Skeleton": 189.0,
     "Fish": 300.0,
     "Flamingo": 350.0,
-    "Flying Witch": 176.0,
+    "Flying Witch": 177.43,
     "Ghost": 260.0,
     "Gravestone": 175.0,
     "Grenade": 1000.0,
@@ -81,6 +80,7 @@
     "Guitar": 1000.0,
     "Half Moon": 168.9,
     "Happy Smile": 185.0,
+    "Heart": 990.0,
     "Carambola": 500.0,
     "Crow": 400.0,
     "Crystal Ball": 199.0,
@@ -147,5 +147,5 @@
     "Goodbye Kitty": 776.9952,
     "Obelisk": 1499.961
   },
-  "last_updated": 1785228773
+  "last_updated": 1785231336
 }

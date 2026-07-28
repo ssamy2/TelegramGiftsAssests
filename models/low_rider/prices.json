@@ -54,7 +54,6 @@
     "Earflap Hat": 55.0,
     "Egg": 53.0,
     "Eggplant": 155.0,
-    "Head Scarf": 60.0,
     "Headphones": 100.0,
     "Hedgehog": 80.0,
     "Hersir": 69.98,
@@ -132,7 +131,7 @@
     "Tetsubin": 75.0,
     "Thor Hammer": 100.0,
     "Thunderbird": 88.0,
-    "Fleur-de-lis": 66.43,
+    "Fleur-de-lis": 65.07,
     "Flower": 99.99,
     "French Fries": 77.0,
     "Galaxy": 77.0,
@@ -149,6 +148,7 @@
     "Hand of God": 99.0,
     "Handset": 79.0,
     "Hard Hat": 54.0,
+    "Head Scarf": 60.0,
     "Tricorne": 58.0,
     "Turkey": 44.9,
     "Unicorn": 60.0,
@@ -159,7 +159,7 @@
     "Watermelon": 60.0,
     "Wepwawet": 65.0,
     "Westside Hand": 6666.0,
-    "Wolf Rage": 149.89,
+    "Wolf Rage": 149.88,
     "Yo Sign": 65.0,
     "Bobble Hat": 69.0,
     "Cowboy Hat": 54.0,
@@ -176,7 +176,6 @@
   "models": {
     "Alpine Gold": 51.0,
     "Bass Drop": 45.9,
-    "Green DeVille": 45.9,
     "Grid Runner": 43.2582,
     "Helicopter": 56.1,
     "High Flyer": 76.449,
@@ -220,10 +219,11 @@
     "Gold Rush": 142.8,
     "Golden Bike": 91.8,
     "Grasshopper": 44.064,
-    "Money Rider": 66.3,
+    "Green DeVille": 45.9,
     "Blaze": 45.9,
     "Dry Eyes": 61.2,
+    "Money Rider": 66.3,
     "Blizzard": 47.94
   },
-  "last_updated": 1785228773
+  "last_updated": 1785231336
 }

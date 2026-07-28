@@ -7,12 +7,11 @@
   },
   "symbols": {},
   "models": {
-    "Drumsticks": 3.4986,
     "Foundation": 3.519,
     "Free Elf": 5.0898,
     "Friend In Me": 3.774,
-    "Black Panther": 3.4986,
     "Garfield": 3.4884,
+    "Brothers": 3.621,
     "Gingerbread": 3.4986,
     "Goldfinger": 4.284,
     "Grandma": 3.4986,
@@ -52,11 +51,12 @@
     "Ballerina": 3.57,
     "Barry Allen": 3.57,
     "Bartender": 3.672,
-    "Brothers": 3.621,
     "Billie Jean": 7.14,
-    "Biohazard": 3.927,
     "Courage": 3.5904,
-    "Dark Power": 3.6414
+    "Biohazard": 3.927,
+    "Black Panther": 3.4986,
+    "Dark Power": 3.6414,
+    "Drumsticks": 3.4986
   },
-  "last_updated": 1785228773
+  "last_updated": 1785231335
 }

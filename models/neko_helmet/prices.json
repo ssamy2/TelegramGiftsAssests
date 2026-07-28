@@ -6,7 +6,6 @@
     "Onyx Black": 72.42
   },
   "symbols": {
-    "Calendula": 50.0,
     "Calla Lily": 47.0,
     "Candle": 65.65,
     "Carambola": 100.0,
@@ -93,11 +92,11 @@
     "Bobby Helmet": 77.77,
     "Bouquet": 79.0,
     "Bow Tie": 47.0,
-    "Bread": 37.0,
+    "Bread": 55.0,
     "Bunny Ears": 54.4,
     "Cactus Bloom": 48.95,
     "Cake": 44.99,
-    "Mafdet": 49.99,
+    "Calendula": 50.0,
     "Magic Vial": 110.0,
     "Magic Wand": 69.99,
     "Mailbox": 47.0,
@@ -187,7 +186,8 @@
     "Love Mug": 88.0,
     "Love Potion": 50.0,
     "Love Puzzle": 52.0,
-    "Love Scene": 35.47,
+    "Love Scene": 35.48,
+    "Mafdet": 49.99,
     "Tulip Bloom": 54.54,
     "UFO": 72.0,
     "Valentine": 45.0,
@@ -275,10 +275,10 @@
     "Whiteout": 44.778,
     "Wild Cat": 79.56,
     "Wild Daisy": 36.9852,
-    "Unicorn": 35.7,
     "Frostbear": 40.8,
     "Princess": 142.0,
-    "Ultravolt": 32.4768
+    "Ultravolt": 32.4768,
+    "Unicorn": 35.7
   },
-  "last_updated": 1785228773
+  "last_updated": 1785231336
 }

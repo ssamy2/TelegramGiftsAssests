@@ -23,7 +23,6 @@
     "Bloody Axe": 5.9,
     "Book": 8.5,
     "Brain": 9.0,
-    "Eikthyrnir": 5.3,
     "Eyeball": 5.0,
     "Fehu Rune": 4.29,
     "Fenrir": 13.3,
@@ -48,7 +47,7 @@
     "Human Scull": 4.39,
     "Ice Pop": 5.3,
     "Illuminati": 6.0,
-    "Inguz Rune": 5.36,
+    "Inguz Rune": 5.37,
     "Jaws": 4.44,
     "Kite": 5.9,
     "Light Bulb": 5.0,
@@ -92,7 +91,7 @@
     "Shell": 5.51,
     "Skull": 5.36,
     "Spades": 4.2,
-    "Spanner": 5.36,
+    "Spanner": 5.37,
     "Sparks": 8.0,
     "Spider Web": 4.04,
     "Spooky Cat": 4.39,
@@ -117,6 +116,7 @@
     "Crystal Ball": 5.0,
     "Diamonds": 4.3,
     "Dolphin": 6.0,
+    "Eikthyrnir": 5.3,
     "Sun": 5.0,
     "Sunflower": 4.8,
     "Sword": 5.9,
@@ -144,7 +144,6 @@
     "Bubbles": 4.9
   },
   "models": {
-    "Bleached": 5.916,
     "Bliss": 5.0388,
     "Blooming Cap": 16.2894,
     "Camo": 4.4676,
@@ -209,7 +208,6 @@
     "Skin Cap": 4.896,
     "Sour Gummy": 4.5288,
     "Square Cap": 7.65,
-    "Sunburst": 4.488,
     "Sunset Glow": 6.2016,
     "Sunspot": 4.386,
     "Teleshroom": 4.488,
@@ -222,11 +220,13 @@
     "Acid Trip": 5.2734,
     "Acidic": 4.3962,
     "Amour Touch": 40.3818,
+    "Bleached": 5.916,
     "Bag Pipe": 4.488,
     "Savannah": 4.7838,
     "Zebra Cap": 4.845,
     "Herbalist": 4.182,
-    "Night Light": 4.182
+    "Night Light": 4.182,
+    "Sunburst": 4.488
   },
-  "last_updated": 1785228773
+  "last_updated": 1785231336
 }

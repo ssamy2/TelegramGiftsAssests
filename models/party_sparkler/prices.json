@@ -5,7 +5,6 @@
     "Onyx Black": 6.9258
   },
   "symbols": {
-    "Bandage": 7.0,
     "Bastet": 5.0,
     "Bishop": 6.4,
     "Bottle": 3.37,
@@ -65,7 +64,7 @@
     "Ice Skates": 3.32,
     "Jellyfish": 5.5,
     "Jingle Bell": 3.6,
-    "Jumbo Pencil": 7.41,
+    "Jumbo Pencil": 7.58,
     "Key": 6.0,
     "Kitsune": 6.32,
     "Ladybug": 3.8,
@@ -77,7 +76,7 @@
     "Mannaz Rune": 6.24,
     "Alarm": 4.0,
     "Arabian Horse": 4.5,
-    "Plum": 7.0,
+    "Bandage": 7.0,
     "Plume": 3.5,
     "Police Badge": 3.99,
     "Pyramid": 3.99,
@@ -134,16 +133,16 @@
     "Phoenix": 3.34,
     "Piggy Bank": 3.81,
     "Pizza Slice": 5.0,
-    "Ornament": 3.9,
+    "Plum": 7.0,
     "Snow Angel": 3.47,
     "Alkonost": 3.79,
     "Garden Pot": 3.7,
     "Love Letter": 4.0,
     "Maple Leaf": 3.99,
-    "Cocktail": 3.85
+    "Ornament": 3.9,
+    "Cocktail": 4.0
   },
   "models": {
-    "Bronze": 3.9358332,
     "Bumble": 4.08,
     "Burnt End": 5.61,
     "Candy Goth": 3.672,
@@ -223,6 +222,7 @@
     "Blueberry": 3.72437,
     "Blueshift": 3.774,
     "Bright Flare": 3.714385,
+    "Bronze": 3.9358332,
     "Shimmer": 3.4884,
     "Sonic Blue": 4.0698,
     "Sour Gummy": 3.2538,
@@ -244,5 +244,5 @@
     "Seafoam": 3.3864,
     "Star Time": 8.16
   },
-  "last_updated": 1785228773
+  "last_updated": 1785231336
 }

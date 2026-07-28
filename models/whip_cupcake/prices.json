@@ -24,7 +24,6 @@
     "Blooms": 4.0,
     "Blossom": 4.0,
     "Boat": 3.3,
-    "Cicada": 3.28,
     "Clover": 3.2,
     "Coat of Arms": 3.07,
     "Cobra": 2.93,
@@ -97,7 +96,7 @@
     "Maple Leaf": 3.4,
     "Maple": 3.3,
     "Money Bag": 3.98,
-    "Bone": 2.88,
+    "Bone": 3.11,
     "Breeze": 2.88,
     "Bubble Tea": 3.05,
     "Burger": 2.93,
@@ -110,10 +109,10 @@
     "Cheese": 3.0,
     "Cherry": 4.0,
     "Chest": 3.13,
-    "Chick": 3.12,
+    "Chick": 3.05,
     "Chili": 3.4533,
     "Chocolate": 4.0,
-    "Pomegranate": 3.99,
+    "Cicada": 3.28,
     "Porrige": 3.75,
     "Press Hat": 3.88,
     "Pyramid": 3.03,
@@ -145,7 +144,7 @@
     "Turkey": 3.49,
     "Turtle": 3.1,
     "Twin Koi": 4.0,
-    "Two Hearts": 3.11,
+    "Two Hearts": 3.3,
     "Venetian Mask": 5.11,
     "Wagasa": 3.5,
     "Water Drops": 2.98,
@@ -169,6 +168,7 @@
     "Pixel Heart": 3.5,
     "Piñata": 3.09,
     "Plume": 3.35,
+    "Pomegranate": 3.99,
     "Banana": 3.69,
     "Bobby Helmet": 3.53,
     "Bubbles": 3.08,
@@ -182,8 +182,6 @@
     "Winged Helmet": 4.8
   },
   "models": {
-    "Honey Bee": 3.264,
-    "Jolly Roger": 3.366,
     "Maneki Neko": 5.916,
     "March Eight": 3.0804,
     "Minion": 10.2,
@@ -230,8 +228,10 @@
     "Heaven Seven": 6.2322,
     "Hellspawn": 3.519,
     "High Five": 3.06,
+    "Honey Bee": 3.264,
+    "Jolly Roger": 3.366,
     "Cream Scream": 6.1506,
     "Rising Dead": 3.06
   },
-  "last_updated": 1785228773
+  "last_updated": 1785231336
 }
