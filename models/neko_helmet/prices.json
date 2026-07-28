@@ -6,7 +6,6 @@
     "Onyx Black": 72.42
   },
   "symbols": {
-    "Cactus Bloom": 48.95,
     "Cake": 44.99,
     "Calendula": 50.0,
     "Calla Lily": 47.0,
@@ -97,8 +96,8 @@
     "Bow Tie": 47.0,
     "Bread": 37.0,
     "Bunny Ears": 54.4,
-    "Love Puzzle": 52.0,
-    "Love Scene": 35.48,
+    "Cactus Bloom": 48.95,
+    "Love Scene": 35.47,
     "Mafdet": 49.99,
     "Magic Vial": 110.0,
     "Magic Wand": 69.99,
@@ -188,6 +187,7 @@
     "Love Daisy": 59.0,
     "Love Mug": 88.0,
     "Love Potion": 50.0,
+    "Love Puzzle": 52.0,
     "Tulip Bloom": 54.54,
     "Twin Koi": 49.93,
     "Two Hearts": 177.0,
@@ -219,12 +219,12 @@
     "Anthurium": 35.9
   },
   "models": {
-    "Acid Punch": 32.9766,
+    "Acid Punch": 33.1092,
     "Astronaut": 86.7,
     "Biker Girl": 102.0,
     "Blackout": 43.8498,
     "Bulldog Bob": 70.38,
-    "Caffeine": 34.68,
+    "Caffeine": 33.66,
     "Chrome": 43.86,
     "Cookie Monster": 35.9958,
     "Copper Alloy": 32.64,
@@ -242,7 +242,7 @@
     "Hothead": 44.88,
     "Jade Breeze": 32.64,
     "Kawaii": 61.2,
-    "Ladybug": 35.7,
+    "Ladybug": 32.4666,
     "Lagoon": 40.8,
     "Lightspeed": 34.986,
     "Lime Juice": 39.9942,
@@ -268,17 +268,17 @@
     "Steampunk": 34.68,
     "Strawberry": 35.7,
     "Techno": 35.7,
-    "Tokyo Sunset": 45.288,
+    "Tokyo Sunset": 32.4564,
     "Turbo Frog": 321.3,
     "Twister": 34.68,
     "White Rabbit": 85.68,
     "Whiteout": 44.778,
     "Wild Cat": 79.56,
     "Wild Daisy": 36.9852,
-    "Princess": 142.0,
     "Ultravolt": 32.4768,
     "Unicorn": 35.7,
-    "Frostbear": 40.8
+    "Frostbear": 40.8,
+    "Princess": 142.0
   },
-  "last_updated": 1785223535
+  "last_updated": 1785226185
 }
