@@ -16,6 +16,9 @@
     "Cat Food": 3.1008,
     "Chicken": 2.9886,
     "Classic Ramen": 3.06,
+    "Diamonds": 6.579,
+    "First Date": 3.9678,
+    "Giant Crab": 2.958,
     "Gold Chain": 3.162,
     "Golden Fleece": 4.8858,
     "Gothic Dish": 3.3558,
@@ -29,18 +32,15 @@
     "Slurp-Slurp": 3.06,
     "Spicy Beef": 2.9682,
     "Sponge Box": 2.9988,
-    "Topokki": 2.958,
+    "Squid Wok": 2.9886,
     "Turtle Soup": 3.9882,
-    "Diamonds": 6.579,
-    "First Date": 3.9678,
-    "Giant Crab": 2.958,
     "Sandbox": 2.9886,
     "Sausage Duo": 2.958,
-    "Squid Wok": 2.9886,
     "Sunny Loops": 3.009,
-    "Spicy Wiener": 3.0192,
+    "Topokki": 2.958,
     "Abduction": 3.009,
     "Golden Vault": 3.519,
+    "Spicy Wiener": 3.0192,
     "Bitcoins": 9.384,
     "Black Pasta": 3.111,
     "Broccoli": 2.9784,
@@ -58,5 +58,5 @@
     "Ratatouille": 3.0192,
     "Red Lobster": 2.9274
   },
-  "last_updated": 1785275581
+  "last_updated": 1785278160
 }
