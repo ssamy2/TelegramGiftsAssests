@@ -7,12 +7,11 @@
   },
   "symbols": {},
   "models": {
-    "Barry Allen": 3.4476,
     "Bartender": 3.672,
     "Billie Jean": 7.14,
     "Biohazard": 3.927,
-    "Adventure": 4.692,
     "Black Panther": 3.4986,
+    "Alcatraz": 3.4476,
     "Brothers": 3.621,
     "Courage": 3.5904,
     "Dark Power": 3.4068,
@@ -42,7 +41,7 @@
     "Radioactive": 3.774,
     "Ratatouille": 3.672,
     "Rebel Spirit": 3.417,
-    "Shrunk": 3.4884,
+    "Shrunk": 3.3966,
     "Space Merc": 4.182,
     "Spider Web": 4.59,
     "Spike": 10.2,
@@ -54,9 +53,10 @@
     "Towelie": 4.0902,
     "Trader": 4.1718,
     "Twin Peaks": 3.57,
-    "Alcatraz": 3.4476,
     "Ambition": 3.5496,
-    "Ballerina": 3.57
+    "Adventure": 4.692,
+    "Ballerina": 3.57,
+    "Barry Allen": 3.4476
   },
-  "last_updated": 1785207896
+  "last_updated": 1785210434
 }
