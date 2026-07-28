@@ -1,13 +1,12 @@
 {
   "backdrops": {
-    "Midnight Blue": 12.9846,
-    "Black": 112.1898,
-    "Onyx Black": 27.999
+    "Midnight Blue": 15.3,
+    "Black": 118.9932,
+    "Onyx Black": 28.9986
   },
   "symbols": {
-    "213": 12.98,
     "Acorn": 15.0,
-    "All-Seeing Eye": 12.6,
+    "All-Seeing Eye": 12.68,
     "Anchor": 14.2,
     "Anubis": 16.5,
     "Apple": 13.88,
@@ -82,7 +81,7 @@
     "Heater Shield": 13.75,
     "Hip-Hop": 14.5,
     "Illuminati": 13.33,
-    "Inguz Rune": 11.93,
+    "Inguz Rune": 15.29,
     "Jellyfish": 12.9,
     "Kashket": 12.9,
     "Key": 13.75,
@@ -91,7 +90,7 @@
     "Lightning": 14.88,
     "Like": 14.0,
     "Lion of Babylon": 12.71,
-    "Moon Eagle": 13.98,
+    "213": 12.98,
     "Mushroom": 25.0,
     "Music Skull": 13.0,
     "Musical Note": 14.04,
@@ -120,7 +119,7 @@
     "Potion": 16.67,
     "Press Hat": 12.25,
     "Pro Headphones": 15.5,
-    "Radar": 12.68,
+    "Radar": 12.75,
     "Rain Drop": 12.49,
     "Rap Mic": 14.5,
     "Rap Sign": 15.0,
@@ -143,7 +142,7 @@
     "Steampunk Hat": 12.49,
     "Sunflower": 12.3,
     "Swag Bandana": 15.4,
-    "Teru Bōzu": 13.51,
+    "Teru Bōzu": 15.0,
     "The Eye": 14.77,
     "Tie": 13.0,
     "Toy Bucket": 17.5,
@@ -154,7 +153,7 @@
     "Unicorn Head": 12.5,
     "Ushanka": 14.14,
     "UZI": 14.0,
-    "Vinyl Record": 12.75,
+    "Vinyl Record": 12.82,
     "Viper": 12.7,
     "Wagasa": 14.7,
     "War Tiger": 12.99,
@@ -171,6 +170,7 @@
     "Magic Vial": 12.47,
     "Melon": 12.1,
     "Money Bag": 14.0,
+    "Moon Eagle": 13.98,
     "Black Bandana": 16.66,
     "Chest": 14.5,
     "Egg Basket": 13.0,
@@ -205,7 +205,7 @@
     "Ice Prince": 15.3,
     "Infinity Stoned": 23.46,
     "Jade Fade": 11.883,
-    "Lion King": 13.9434,
+    "Lion King": 14.9838,
     "Mirage": 11.9442,
     "Mushizzle": 12.648,
     "Old School": 12.648,
@@ -234,5 +234,5 @@
     "Cartoon Roll": 14.7798,
     "Snoop’s Pipe": 13.158
   },
-  "last_updated": 1785200081
+  "last_updated": 1785202673
 }

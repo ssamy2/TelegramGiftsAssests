@@ -7,8 +7,6 @@
   },
   "symbols": {},
   "models": {
-    "Angel Cake": 7.65,
-    "Bubble Jar": 4.1616,
     "Butterflies": 4.5798,
     "Checkmate": 4.5288,
     "Cheesecake": 4.1616,
@@ -28,9 +26,9 @@
     "Honey Cake": 4.5288,
     "Ice Cream": 4.3758,
     "Imperial": 7.0992,
-    "Italian Pie": 4.284,
+    "Italian Pie": 4.0086,
     "Luxury Taste": 4.5492,
-    "Meatcake": 4.5288,
+    "Meatcake": 4.0086,
     "Meringue": 5.1,
     "Mermaid": 4.08,
     "Monster Cake": 13.566,
@@ -44,8 +42,10 @@
     "Rock Band": 4.59,
     "Velvet Crown": 4.2942,
     "Wicked Pie": 4.437,
+    "Angel Cake": 7.65,
+    "Bubble Jar": 4.1616,
     "Mad Hatter": 4.5798,
-    "Suprematism": 12.801,
+    "Suprematism": 8.16,
     "Romance": 5.0286,
     "Rose Bouquet": 5.61,
     "Scarlet Drip": 6.732,
@@ -58,5 +58,5 @@
     "Toxic Frog": 4.2432,
     "Treasure": 4.488
   },
-  "last_updated": 1785200081
+  "last_updated": 1785202673
 }

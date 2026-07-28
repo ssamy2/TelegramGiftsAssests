@@ -1,8 +1,8 @@
 {
   "backdrops": {
-    "Black": 253.98,
-    "Midnight Blue": 37.7604,
-    "Onyx Black": 61.2
+    "Black": 386.58,
+    "Midnight Blue": 36.9852,
+    "Onyx Black": 59.16
   },
   "symbols": {
     "Alarm": 70.0,
@@ -79,7 +79,6 @@
     "Potion": 40.0,
     "Red Deer": 32.38,
     "Rocket": 45.0,
-    "Shell": 75.0,
     "Skull": 42.0,
     "Spider Web": 37.0,
     "Spooky Cat": 40.0,
@@ -101,6 +100,7 @@
     "Sea Jelly": 35.5,
     "Severed Hand": 37.0,
     "Shark Knife": 53.0,
+    "Shell": 75.0,
     "Autumn Leaves": 45.0,
     "Cursor": 59.0,
     "Human Scull": 44.0,
@@ -109,7 +109,6 @@
     "Watermelon": 100.0
   },
   "models": {
-    "Blue Abyss": 31.5384,
     "Broken Hope": 200.0,
     "Bubbles": 56.1,
     "Bumblebee": 35.7,
@@ -134,7 +133,7 @@
     "Malachite": 32.385,
     "Medium Rare": 35.7,
     "Mocha Man": 31.4874,
-    "Pain Train": 32.6298,
+    "Pain Train": 31.467,
     "Painful Love": 34.476,
     "Pumpkin": 40.8,
     "Pure Hatred": 31.62,
@@ -142,7 +141,7 @@
     "Red Checker": 36.72,
     "Redemption": 33.15,
     "Revenge": 70.1964,
-    "Royal Gold": 33.66,
+    "Royal Gold": 56.1,
     "Salad Spell": 33.9966,
     "Scribble Stab": 114.9846,
     "Shrek": 33.66,
@@ -157,8 +156,9 @@
     "Aqua Gem": 31.5996,
     "Birthday Cake": 56.1,
     "Bitten Lip": 36.516,
+    "Blue Abyss": 31.5384,
     "Concept Art": 65.0,
     "Pink Needle": 67.32
   },
-  "last_updated": 1785200081
+  "last_updated": 1785202673
 }

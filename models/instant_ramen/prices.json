@@ -1,15 +1,15 @@
 {
   "backdrops": {
     "Jade Green": 2.85,
-    "Black": 19.482,
-    "Onyx Black": 5.61,
+    "Black": 19.176,
+    "Onyx Black": 5.5896,
     "Midnight Blue": 2.9988
   },
   "symbols": {},
   "models": {
     "Anti-Gravity": 3.06,
     "Arcane Bowl": 2.9784,
-    "Bacon": 2.9682,
+    "Bacon": 2.907,
     "Bento": 2.9988,
     "Bitcoins": 9.996,
     "Black Pasta": 3.111,
@@ -28,7 +28,7 @@
     "Gold Chain": 3.264,
     "Golden Fleece": 4.9878,
     "Gothic Dish": 3.366,
-    "Homemade": 2.8968,
+    "Homemade": 2.9682,
     "Hotpot": 3.0396,
     "Jade Dragon": 3.876,
     "Jelly Brain": 3.06,
@@ -41,7 +41,7 @@
     "Ratatouille": 3.0498,
     "Red Lobster": 3.06,
     "Sacred Grove": 3.0498,
-    "Samurai": 2.8356,
+    "Samurai": 2.856,
     "Sandbox": 2.9988,
     "Sausage Duo": 2.9172,
     "Seafood": 2.907,
@@ -58,5 +58,5 @@
     "Golden Vault": 3.519,
     "Spicy Wiener": 2.9376
   },
-  "last_updated": 1785200081
+  "last_updated": 1785202673
 }

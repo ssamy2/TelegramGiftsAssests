@@ -28,7 +28,6 @@
     "Coffin": 180.0,
     "Coin Purse": 799.0,
     "Coin": 319.2,
-    "Fish Skeleton": 205.0,
     "Fish": 300.0,
     "Flamingo": 350.0,
     "Flying Witch": 177.43,
@@ -55,7 +54,7 @@
     "Mountain Goat": 169.0,
     "Mushroom": 300.0,
     "Musical Note": 500.0,
-    "Nice Ghost": 313.0,
+    "Nice Ghost": 320.0,
     "Night Bats": 249.0,
     "Ouroboros": 255.0,
     "Pegasus": 990.0,
@@ -86,6 +85,7 @@
     "Evil Pumpkin": 250.0,
     "Eyeball": 220.0,
     "Feather": 375.0,
+    "Fish Skeleton": 205.0,
     "Carambola": 195.0,
     "Crow": 400.0,
     "Crystal Ball": 199.0,
@@ -124,7 +124,6 @@
     "Nebula": 255.0,
     "Niko": 249.9,
     "Nyan Cat": 175.44,
-    "Ruby": 214.2,
     "Silver Napper": 274.992,
     "Torracat": 168.3,
     "Vampkitty": 320.28,
@@ -139,6 +138,7 @@
     "Purrrple": 255.0,
     "Puss in Boots": 167.2392,
     "Ranni": 209.1,
+    "Ruby": 214.2,
     "Azuki Siam": 550.8,
     "Garfield": 990.0,
     "Oreo": 714.0,
@@ -147,5 +147,5 @@
     "Goodbye Kitty": 776.9952,
     "Obelisk": 1499.961
   },
-  "last_updated": 1785200081
+  "last_updated": 1785202673
 }

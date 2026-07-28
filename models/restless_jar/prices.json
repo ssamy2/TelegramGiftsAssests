@@ -2,7 +2,7 @@
   "backdrops": {
     "Dark Green": 2.8,
     "Midnight Blue": 5.4264,
-    "Onyx Black": 7.9968,
+    "Onyx Black": 8.67,
     "Black": 28.5498
   },
   "symbols": {
@@ -38,7 +38,6 @@
     "Calendula": 9.99,
     "Calla Lily": 15.0,
     "Candle": 5.55,
-    "Chili Pepper": 5.35,
     "Chili": 4.65,
     "Chocolate": 4.5,
     "Cobra": 5.31,
@@ -127,7 +126,7 @@
     "Cherry": 5.25,
     "Chest": 5.2,
     "Chick": 19.0,
-    "Lingerie": 5.48,
+    "Chili Pepper": 5.35,
     "Little Cupid": 5.94,
     "Love Berry": 5.55,
     "Love Bulb": 5.55,
@@ -193,7 +192,7 @@
     "Ribeye Steak": 4.2,
     "Ring": 12.0,
     "Rocket": 5.55,
-    "Romantic Cake": 6.87,
+    "Romantic Cake": 6.76,
     "Rook": 4.98,
     "Rooster": 7.0,
     "Rose": 9.0,
@@ -216,7 +215,7 @@
     "Leprechaun": 5.0,
     "Lightning": 5.0,
     "Lily Bloom": 6.0,
-    "Tamagotchi": 5.55,
+    "Lingerie": 5.48,
     "Teddy Bear": 4.9,
     "Telescope": 5.0,
     "Tetsubin": 5.55,
@@ -235,7 +234,7 @@
     "Ushanka": 7.0,
     "Valentine": 4.59,
     "Valkyrie": 7.0,
-    "Venetian Mask": 5.27,
+    "Venetian Mask": 4.84,
     "Viking Shield": 6.0,
     "Violet": 5.18,
     "Wagasa": 7.0,
@@ -250,6 +249,7 @@
     "Sun": 6.69,
     "Sunflower": 5.55,
     "Sword": 5.15,
+    "Tamagotchi": 5.55,
     "Alert Serpent": 4.8,
     "Bucket Hat": 5.55,
     "Carrot": 7.0,
@@ -271,12 +271,12 @@
     "Arcade": 4.998,
     "Autumn Candle": 4.2738,
     "Blueberry": 4.998,
-    "Booster": 4.437,
+    "Booster": 4.1718,
     "Chained Soul": 9.6798,
     "Charcoal": 5.661,
     "Cherry Punch": 4.3554,
     "Choco Cookies": 5.1,
-    "Chocolate": 4.4676,
+    "Chocolate": 4.1275787,
     "Coffee Beans": 4.4676,
     "Cold Mint": 7.956,
     "Cotton Candy": 4.998,
@@ -318,5 +318,5 @@
     "Bubble Bugs": 5.61,
     "Piggy Bank": 10.71
   },
-  "last_updated": 1785200081
+  "last_updated": 1785202673
 }

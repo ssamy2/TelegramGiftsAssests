@@ -3,7 +3,7 @@
     "Silver Blue": 2.8,
     "Black": 39.78,
     "Midnight Blue": 6.63,
-    "Onyx Black": 15.555
+    "Onyx Black": 16.575
   },
   "symbols": {
     "Acorn": 5.0,
@@ -22,7 +22,7 @@
     "Baphomet": 4.19,
     "Beanie": 11.3,
     "Bee": 12.9,
-    "Beetle": 3.99,
+    "Beetle": 5.0,
     "Bell Pepper": 4.08,
     "Bicorne": 25.0,
     "Bishop": 7.95,
@@ -43,7 +43,7 @@
     "Calm Wolf": 4.14,
     "Candle": 4.4,
     "Candy": 7.5,
-    "Cap": 7.22,
+    "Cap": 7.21,
     "Carambola": 4.25,
     "Cat Mask": 8.8,
     "Celtic Wolf": 7.83,
@@ -74,7 +74,6 @@
     "Eagle": 3.99,
     "Earflap Hat": 5.99,
     "Earth": 7.5,
-    "Fireman Hat": 4.49,
     "Fish Skeleton": 5.35,
     "Fish": 3.99,
     "Flamingo": 9.9,
@@ -175,7 +174,7 @@
     "Feather": 8.0,
     "Fedora": 8.12,
     "Fehu Rune": 5.0,
-    "Sakura": 4.08,
+    "Fireman Hat": 4.49,
     "Sauron": 6.0,
     "Scarab": 9.99,
     "Scissors": 6.95,
@@ -238,11 +237,12 @@
     "Radar": 5.98,
     "Rain Drop": 6.0,
     "Ramen": 4.08,
-    "Ring": 14.0,
-    "Robin Hood": 7.2,
     "Ribeye Steak": 4.7,
+    "Robin Hood": 7.2,
     "Rocket": 4.97,
+    "Ring": 14.0,
     "Royal Crown": 7.0,
+    "Sakura": 4.08,
     "Baseball Cap": 4.04,
     "Bunny Ears": 4.75,
     "Easter Bunny": 4.06,
@@ -256,8 +256,8 @@
     "Tetsubin": 4.25,
     "Unicorn": 11.0,
     "Yin-Yang": 6.8,
-    "Coonskin Cap": 5.65,
-    "Pumpkin Coach": 5.0
+    "Pumpkin Coach": 5.0,
+    "Coonskin Cap": 5.65
   },
   "models": {
     "Baby Yoda": 17.34,
@@ -269,7 +269,7 @@
     "Bus Guys": 9.7002,
     "Cambridge": 14.7798,
     "Canada": 4.131,
-    "Cherries": 3.9219892,
+    "Cherries": 3.945925,
     "Classic": 6.936,
     "Creator": 4.2024,
     "Cupid's Bow": 4.25,
@@ -313,5 +313,5 @@
     "Durov’s Dog": 12.75,
     "Cupid’s Bow": 5.406
   },
-  "last_updated": 1785200081
+  "last_updated": 1785202673
 }

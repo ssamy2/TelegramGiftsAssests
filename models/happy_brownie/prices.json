@@ -2,21 +2,21 @@
   "backdrops": {
     "Rosewood": 2.83,
     "Onyx Black": 5.7018,
-    "Midnight Blue": 3.7638,
-    "Black": 20.145
+    "Midnight Blue": 3.8658,
+    "Black": 19.992
   },
   "symbols": {
+    "Spirit Impala": 3.9,
+    "Toilet": 5.0,
     "Crown": 3.65,
     "Flower Cross": 5.0,
     "Love Letter": 3.96,
     "Oak Leaf": 3.8,
     "Rhino Warrior": 4.0,
-    "Spirit Impala": 3.9,
-    "Toilet": 5.0,
     "Mountain Lion": 11.0
   },
   "models": {
-    "Alien": 3.4986,
+    "Alien": 3.4578,
     "Art Supplies": 3.6108,
     "Balloon": 3.927,
     "Blobfish": 3.4986,
@@ -29,8 +29,7 @@
     "Cherry Cake": 3.8556,
     "Cookie Monster": 3.774,
     "Deadpoo": 3.7128,
-    "Dirty Bomb": 3.5292,
-    "Octopoo": 3.4782,
+    "Dirty Bomb": 3.519,
     "Pebbles": 4.029,
     "Plunger": 4.08,
     "Poocano": 3.9576,
@@ -42,7 +41,7 @@
     "Smelly Yeti": 3.7638,
     "Snowman": 3.774,
     "Sponge Boi": 6.426,
-    "Stool Sample": 3.4578,
+    "Stool Sample": 3.723,
     "Strawberry": 3.57,
     "Toilet Bot": 3.7944,
     "Unicorn": 3.7842,
@@ -51,15 +50,16 @@
     "Wrestler": 3.672,
     "Golgothan": 6.9054,
     "Homer": 4.0698,
-    "Hot Shit": 3.978,
+    "Hot Shit": 3.9678,
     "Love Pootion": 3.7944,
     "Lucky Pin": 3.8148,
     "Modern Art": 11.9442,
     "Mud King": 4.8756,
-    "Gold Nugget": 4.794,
+    "Octopoo": 3.4782,
+    "Solid Waste": 3.774,
     "Amethyst": 4.2942,
     "Dung Beetle": 3.876,
-    "Solid Waste": 3.774,
+    "Gold Nugget": 4.794,
     "Frankenstein": 3.5088,
     "Holy Shit": 5.61,
     "Huge Mess": 4.0698,
@@ -67,5 +67,5 @@
     "Kawaii": 7.14,
     "Kinky Stinky": 25.5
   },
-  "last_updated": 1785200081
+  "last_updated": 1785202673
 }

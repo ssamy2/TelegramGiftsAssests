@@ -1,8 +1,8 @@
 {
   "backdrops": {
-    "Onyx Black": 5.457,
-    "Black": 19.9002,
-    "Midnight Blue": 4.08
+    "Onyx Black": 5.355,
+    "Black": 19.89,
+    "Midnight Blue": 3.2436
   },
   "symbols": {
     "Alert Serpent": 3.44,
@@ -24,7 +24,6 @@
     "Blooms": 4.0,
     "Blossom": 4.0,
     "Boat": 3.3,
-    "Cactus": 2.94,
     "Cake": 4.0,
     "Calla Lily": 3.5,
     "Carambola": 3.33,
@@ -49,7 +48,7 @@
     "Cyclamen": 3.7,
     "Daisy": 3.0,
     "Dessert": 3.2,
-    "Doghouse": 2.82,
+    "Doghouse": 2.93,
     "Earth": 3.13,
     "Eye of Horus": 3.13,
     "Feather": 3.5,
@@ -108,12 +107,12 @@
     "Maple Leaf": 3.4,
     "Maple": 3.3,
     "Money Bag": 3.5,
-    "Bone": 3.11,
+    "Bone": 2.88,
     "Breeze": 3.49,
     "Bubble Tea": 3.05,
     "Burger": 2.93,
     "Cactus Bloom": 3.36,
-    "Orchid": 2.93,
+    "Cactus": 2.94,
     "Origami": 3.63,
     "Ouroboros": 5.0,
     "Owl": 4.5,
@@ -169,6 +168,7 @@
     "Obon Lantern": 3.83,
     "Oculus": 3.18,
     "Onigiri": 3.03,
+    "Orchid": 2.93,
     "Banana": 3.69,
     "Bobby Helmet": 2.94,
     "Bubbles": 3.08,
@@ -182,8 +182,6 @@
     "Winged Helmet": 4.8
   },
   "models": {
-    "Arizona": 3.06,
-    "Bag End": 2.9771047,
     "Biohazard": 3.162,
     "Bitcoin": 7.7928,
     "Bitter Sweet": 3.978,
@@ -191,10 +189,10 @@
     "Cherry Top": 4.0698,
     "Christmas": 3.264,
     "Circus": 3.6822,
-    "Cloud Nine": 2.9886,
+    "Cloud Nine": 2.9478,
     "Deep State": 3.57,
     "Demoman": 3.162,
-    "Dracula": 3.5598,
+    "Dracula": 3.5496,
     "Fantastic Four": 3.111,
     "Fast Charge": 3.213,
     "First Bite": 3.06,
@@ -213,7 +211,7 @@
     "Paradise": 3.366,
     "Poopy Pie": 3.264,
     "Resistance": 7.344,
-    "Six Senses": 3.2742,
+    "Six Senses": 2.9988,
     "Spiritwood": 3.06,
     "Sponge Duck": 3.06,
     "Stardust": 3.366,
@@ -223,15 +221,17 @@
     "Tarot Cards": 3.468,
     "Toncoin": 3.57,
     "Triple Treat": 3.0192,
-    "Trippy": 3.3456,
+    "Trippy": 3.3354,
     "Trump Cake": 3.519,
     "Two Sweet!": 2.9478,
     "Unicorn": 3.468,
     "Wasteland": 3.0498,
     "Zero Sugar": 2.9682,
     "Alien Slime": 3.111,
-    "Cream Scream": 5.1612,
-    "Rising Dead": 3.009
+    "Arizona": 3.06,
+    "Bag End": 2.9771047,
+    "Cream Scream": 6.1506,
+    "Rising Dead": 2.9274
   },
-  "last_updated": 1785200081
+  "last_updated": 1785202673
 }

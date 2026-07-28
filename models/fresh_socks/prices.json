@@ -1,15 +1,14 @@
 {
   "backdrops": {
     "Steel Grey": 2.88,
-    "Black": 22.95,
+    "Black": 21.42,
     "Midnight Blue": 3.57,
-    "Onyx Black": 6.324
+    "Onyx Black": 7.344
   },
   "symbols": {},
   "models": {
-    "Alcatraz": 3.4476,
     "Ambition": 3.5496,
-    "Ballerina": 3.672,
+    "Ballerina": 3.57,
     "Barry Allen": 3.4476,
     "Bartender": 3.672,
     "Billie Jean": 7.14,
@@ -21,7 +20,7 @@
     "Drumsticks": 3.4986,
     "Foundation": 3.519,
     "Free Elf": 5.0898,
-    "Friend In Me": 3.8454,
+    "Friend In Me": 3.774,
     "Garfield": 3.4884,
     "Gingerbread": 3.4986,
     "Goldfinger": 4.284,
@@ -41,9 +40,9 @@
     "Pepe Socks": 12.24,
     "Puppet Master": 5.1,
     "Quest Item": 3.7332,
-    "Radioactive": 3.8352,
+    "Radioactive": 3.774,
     "Ratatouille": 3.672,
-    "Rebel Spirit": 3.9678,
+    "Rebel Spirit": 3.417,
     "Shrunk": 3.4884,
     "Space Merc": 4.182,
     "Spider Web": 4.59,
@@ -56,7 +55,8 @@
     "Towelie": 4.0902,
     "Trader": 4.1718,
     "Twin Peaks": 3.57,
-    "Adventure": 4.692
+    "Adventure": 4.692,
+    "Alcatraz": 3.4476
   },
-  "last_updated": 1785200081
+  "last_updated": 1785202673
 }

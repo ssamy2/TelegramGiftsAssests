@@ -2,13 +2,12 @@
   "backdrops": {
     "Electric Purple": 2.78,
     "Black": 24.8982,
-    "Midnight Blue": 4.896,
-    "Onyx Black": 7.344
+    "Midnight Blue": 6.579,
+    "Onyx Black": 7.548
   },
   "symbols": {},
   "models": {
     "Baby Dragon": 4.845,
-    "Monkey Boss": 5.049,
     "Moon Frog": 5.865,
     "Nocturne": 5.4876,
     "Penguin": 5.304,
@@ -24,14 +23,15 @@
     "Trojan Horse": 4.743,
     "Usagi-Chan": 8.16,
     "Wonderland": 6.9972,
-    "Marmot": 6.018,
     "Meme God": 999.6,
+    "Meme Snake": 4.743,
     "Knitty Kitty": 6.936,
     "Litter Box": 13.158,
     "Lovely Lamb": 5.61,
     "Magician": 6.069,
-    "Meme Snake": 4.743,
+    "Marmot": 6.018,
     "Midas Bunny": 6.4872,
+    "Monkey Boss": 5.049,
     "Balloon Dog": 4.6206,
     "Bastet": 14.586,
     "Bear Market": 5.1408,
@@ -41,11 +41,11 @@
     "Bull Market": 7.6296,
     "Candy Bat": 4.8144,
     "Capybara": 5.61,
-    "Cash Bunny": 12.24,
+    "Cash Bunny": 11.934,
     "Cheems": 5.712,
     "Chihuahua": 6.8238,
     "Choco Bunny": 4.7226,
-    "Claw Machine": 11.424,
+    "Claw Machine": 12.24,
     "Crystal Dragon": 6.9972,
     "Cute Unicorn": 6.1098,
     "Daisy Skunk": 4.743,
@@ -55,8 +55,8 @@
     "Eggsclusive": 5.661,
     "Fire Fox": 15.504,
     "Gold Retriever": 8.6598,
-    "Hamster": 13.7088,
+    "Hamster": 13.6986,
     "Kinder Hippo": 5.0898
   },
-  "last_updated": 1785200081
+  "last_updated": 1785202673
 }

@@ -1,8 +1,8 @@
 {
   "backdrops": {
     "Black": 22.44,
-    "Midnight Blue": 3.927,
-    "Onyx Black": 6.783
+    "Midnight Blue": 5.253,
+    "Onyx Black": 6.7116
   },
   "symbols": {
     "Alarm": 3.86,
@@ -16,7 +16,7 @@
     "Boat": 7.0,
     "Book": 4.0,
     "Bottle": 4.0,
-    "Bowtie": 3.66,
+    "Bowtie": 3.59,
     "Brain": 5.3,
     "Bunny": 10.0,
     "Burger": 4.99,
@@ -64,7 +64,6 @@
     "Ice Pop": 3.59,
     "Ice Skates": 4.0,
     "Illuminati": 6.0,
-    "Lily": 4.0,
     "Love Letter": 6.0,
     "Love Lock": 4.46,
     "Magic Wand": 3.6,
@@ -91,7 +90,7 @@
     "Planet": 6.0,
     "Rain Drop": 3.59,
     "Ram of Amun": 6.0,
-    "Rhino Warrior": 4.04,
+    "Rhino Warrior": 4.05,
     "Ring": 5.6,
     "Rocket": 6.0,
     "Royal Crown": 4.0,
@@ -136,17 +135,17 @@
     "Light Bulb": 4.0,
     "Lightning": 6.0,
     "Like": 4.99,
-    "Flashlight": 8.0,
+    "Lily": 4.0,
     "Jellyfish": 4.19,
     "Lion Head": 7.0,
     "Phoenix": 6.0,
     "Shooting Star": 3.8,
     "Unicorn Head": 3.81,
     "Bastet": 8.0,
-    "Chili Pepper": 4.47
+    "Chili Pepper": 4.47,
+    "Flashlight": 8.0
   },
   "models": {
-    "Candy Coral": 5.1,
     "Cheery Vibe": 3.8658,
     "Cherry Ice": 4.08,
     "Citrus Flakes": 4.08,
@@ -169,7 +168,7 @@
     "Inky White": 4.488,
     "Jingle Bells": 5.1,
     "Jingle Volts": 14.11,
-    "KFC": 12.24,
+    "KFC": 20.4,
     "Lagoon": 7.14,
     "Lemon Sorbet": 3.978,
     "Let It Go": 11.322,
@@ -184,7 +183,7 @@
     "Night Sky": 3.6006,
     "Nighttime": 5.61,
     "Panda Puff": 4.0596,
-    "Peachy": 3.57,
+    "Peachy": 4.488,
     "Polar Glow": 4.08,
     "Pure Chill": 3.978,
     "Rave": 5.5488,
@@ -212,10 +211,11 @@
     "Berry Frosty": 3.4476,
     "Blueberry Mint": 3.876,
     "Bubbly": 5.1,
+    "Candy Coral": 5.1,
     "80s TV": 4.488,
     "Black Drops": 6.12,
     "Holiday Spirit": 4.59,
     "Pinkie Cap": 4.692
   },
-  "last_updated": 1785200081
+  "last_updated": 1785202673
 }

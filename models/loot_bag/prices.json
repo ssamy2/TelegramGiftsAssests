@@ -2,7 +2,7 @@
   "backdrops": {
     "Battleship Grey": 2.91,
     "Onyx Black": 224.4,
-    "Black": 449.9934,
+    "Black": 408.0,
     "Midnight Blue": 132.6
   },
   "symbols": {
@@ -80,7 +80,6 @@
     "Hand of God": 211.0,
     "Heart": 210.0,
     "Heater Shield": 800.0,
-    "Imperial Lion": 140.0,
     "Inguz Rune": 217.0,
     "Ink Pen": 280.0,
     "Iron Helmet": 520.0,
@@ -176,7 +175,7 @@
     "Holy Grail": 185.0,
     "Horseshoe": 300.0,
     "Ice Pop": 220.0,
-    "Watermelon": 175.0,
+    "Imperial Lion": 140.0,
     "Wepwawet": 145.0,
     "Wise Raven": 222.0,
     "Wolf Rage": 280.0,
@@ -188,6 +187,7 @@
     "War Tiger": 105.1,
     "Warhorse": 159.0,
     "Watching Sun": 270.0,
+    "Watermelon": 175.0,
     "Bull of Heaven": 180.0,
     "Crusader Cross": 444.0,
     "Flamingo": 197.0,
@@ -204,7 +204,6 @@
   },
   "models": {
     "Academic": 132.6,
-    "Bouquet": 188.7,
     "Burgun Bag": 103.734,
     "Cargo Citron": 117.3,
     "Cherry Croc": 104.448,
@@ -240,7 +239,7 @@
     "Pepe Bag": 499.9938,
     "Pink Pulsar": 226.644,
     "Poison Dart": 174.9912,
-    "Potamus": 104.958,
+    "Potamus": 105.06,
     "Priestly": 326.4,
     "Reptile Noir": 222.258,
     "Riot Pack": 321.3,
@@ -269,10 +268,11 @@
     "Zip Pocket": 189.9852,
     "Aqua Atoll": 142.8,
     "Ardente": 244.8,
-    "Argylle": 103.734,
+    "Argylle": 104.04,
     "Biscuit": 108.63,
     "Black Purrse": 612.0,
     "Bleu Officier": 105.06,
+    "Bouquet": 188.7,
     "Aero Swift": 105.06,
     "Black Ascot": 357.0,
     "Jade Serpent": 142.8,
@@ -283,5 +283,5 @@
     "Panthera": 679.32,
     "Vert d’Eau": 147.9
   },
-  "last_updated": 1785200081
+  "last_updated": 1785202673
 }

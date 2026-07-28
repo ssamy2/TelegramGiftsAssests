@@ -1,8 +1,8 @@
 {
   "backdrops": {
     "Midnight Blue": 6.528,
-    "Onyx Black": 13.26,
-    "Black": 27.4992
+    "Onyx Black": 12.9948,
+    "Black": 32.028
   },
   "symbols": {
     "Acorn": 5.6,
@@ -23,7 +23,6 @@
     "Bloody Axe": 5.9,
     "Book": 8.5,
     "Brain": 9.0,
-    "Cheese": 4.35,
     "Coconut": 6.0,
     "Coffee Bean": 4.45,
     "Coffin": 4.44,
@@ -97,7 +96,7 @@
     "Sakura": 7.0,
     "Sauron": 5.0,
     "Scissors": 4.79,
-    "Seahorse": 8.97,
+    "Seahorse": 8.96,
     "Severed Hand": 5.0,
     "Sharp Sword": 4.9,
     "Shell": 5.51,
@@ -117,7 +116,7 @@
     "Cash": 5.0,
     "Cauldron": 4.2,
     "Celtic Wolf": 9.9,
-    "Treats": 5.5,
+    "Cheese": 4.35,
     "Tree of Life": 8.4,
     "Tribal Shield": 4.06,
     "Viking": 7.2,
@@ -133,6 +132,7 @@
     "The Eye": 6.0,
     "Tie": 8.2,
     "Top Hat": 5.3,
+    "Treats": 5.5,
     "Bug": 5.5,
     "Candy": 4.47,
     "Evil Pumpkin": 4.75,
@@ -166,7 +166,7 @@
     "Evil Eye": 6.528,
     "Fungal Dew": 4.0494,
     "Ghost Jelly": 6.732,
-    "Golden Dust": 4.6818,
+    "Golden Dust": 4.386,
     "Hot Stuff": 4.998,
     "Hypnotoad": 4.1514,
     "Ice Cold": 8.058,
@@ -228,5 +228,5 @@
     "Herbalist": 4.182,
     "Night Light": 4.182
   },
-  "last_updated": 1785200081
+  "last_updated": 1785202673
 }
