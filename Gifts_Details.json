@@ -1252,6 +1252,18 @@
       "floor_price_ton": 22.32,
       "models": "models/rare_bird/prices.json",
       "custom_emoji_id": "5893391945606110355"
+    },
+    {
+      "full_name": "Durov’s Glasses",
+      "short_name": "durovs_glasses",
+      "regular_id": "5834651202612102354",
+      "models": "models/durovs_glasses/prices.json"
+    },
+    {
+      "full_name": "Liberty Figure",
+      "short_name": "liberty_figure",
+      "regular_id": "5999298447486747746",
+      "models": "models/liberty_figure/prices.json"
     }
   ],
   "unupgraded": [
@@ -1312,13 +1324,6 @@
       "custom_emoji_id": "5891098991415794702"
     },
     {
-      "full_name": "Durov Glasses",
-      "short_name": "durov_glasses",
-      "id": "5834651202612102354",
-      "price_ton": 240.0,
-      "custom_emoji_id": "5890913328569523960"
-    },
-    {
       "full_name": "Durov's Figurine",
       "short_name": "durovs_figurine",
       "id": "6003477390536213997",
@@ -1354,13 +1359,6 @@
       "custom_emoji_id": "5892971528437374635"
     },
     {
-      "full_name": "Khabib's Papakha",
-      "short_name": "khabibs_papakha",
-      "id": "5839094187366024301",
-      "price_ton": 193.99,
-      "custom_emoji_id": "5890852395868496901"
-    },
-    {
       "full_name": "Pencil",
       "short_name": "pencil",
       "id": "5882129648002794519",
@@ -1393,13 +1391,6 @@
       "id": "6001229799790478558",
       "price_ton": 66.99,
       "custom_emoji_id": "5891122557901351876"
-    },
-    {
-      "full_name": "Statue",
-      "short_name": "statue",
-      "id": "5999298447486747746",
-      "price_ton": 4.46,
-      "custom_emoji_id": "5891200369823849956"
     },
     {
       "full_name": "Durov's Coat",
