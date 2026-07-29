@@ -5,9 +5,9 @@
       "short_name": "artisan_brick",
       "regular_id": "6005797617768858105",
       "floor_price_ton": 50.08,
-      "portal_price_ton": 50.05,
+      "portal_price_ton": 50.07,
       "getgems_price_ton": 50.98,
-      "tgmrkt_price_ton": 47.6952,
+      "tgmrkt_price_ton": 47.685,
       "models": "models/artisan_brick/prices.json",
       "custom_emoji_id": "5891206434317671306"
     },
@@ -62,7 +62,7 @@
       "floor_price_ton": 22,
       "portal_price_ton": 22.0,
       "getgems_price_ton": 22.0,
-      "tgmrkt_price_ton": 21.0426,
+      "tgmrkt_price_ton": 21.0528,
       "models": "models/bling_binky/prices.json",
       "custom_emoji_id": "5891164803199672244"
     },
@@ -84,7 +84,7 @@
       "floor_price_ton": 4.17,
       "portal_price_ton": 4.17,
       "getgems_price_ton": 4.2,
-      "tgmrkt_price_ton": 3.9984,
+      "tgmrkt_price_ton": 4.0188,
       "models": "models/bow_tie/prices.json",
       "custom_emoji_id": "5890865585713061521"
     },
@@ -170,9 +170,9 @@
       "short_name": "diamond_ring",
       "regular_id": "5868503709637411929",
       "floor_price_ton": 27.2,
-      "portal_price_ton": 27.2,
+      "portal_price_ton": 27.15,
       "getgems_price_ton": 27.4399,
-      "tgmrkt_price_ton": 25.857,
+      "tgmrkt_price_ton": 25.5,
       "models": "models/diamond_ring/prices.json",
       "custom_emoji_id": "5891079028407803073"
     },
@@ -276,7 +276,7 @@
       "short_name": "gem_signet",
       "regular_id": "5859442703032386168",
       "floor_price_ton": 55.12,
-      "portal_price_ton": 55.12,
+      "portal_price_ton": 55.19,
       "getgems_price_ton": 66.5,
       "tgmrkt_price_ton": 52.5606,
       "models": "models/gem_signet/prices.json",
@@ -287,7 +287,7 @@
       "short_name": "genie_lamp",
       "regular_id": "5933531623327795414",
       "floor_price_ton": 30.83,
-      "portal_price_ton": 30.52,
+      "portal_price_ton": 30.83,
       "getgems_price_ton": 34.0,
       "tgmrkt_price_ton": 29.3658,
       "models": "models/genie_lamp/prices.json",
@@ -399,7 +399,7 @@
       "floor_price_ton": 3,
       "portal_price_ton": 3.0,
       "getgems_price_ton": 3.0,
-      "tgmrkt_price_ton": 2.907,
+      "tgmrkt_price_ton": 2.958,
       "models": "models/ice_cream/prices.json",
       "custom_emoji_id": "5890934326664634527"
     },
@@ -432,7 +432,7 @@
       "floor_price_ton": 63.41,
       "portal_price_ton": 63.41,
       "getgems_price_ton": 72.5,
-      "tgmrkt_price_ton": 60.3942,
+      "tgmrkt_price_ton": 60.384,
       "models": "models/ion_gem/prices.json",
       "custom_emoji_id": "5891015183718949660"
     },
@@ -465,7 +465,7 @@
       "floor_price_ton": 6.01,
       "portal_price_ton": 6.01,
       "getgems_price_ton": 6.8,
-      "tgmrkt_price_ton": 6.3138,
+      "tgmrkt_price_ton": 6.3036,
       "models": "models/jelly_bunny/prices.json",
       "custom_emoji_id": "5891017893843311982"
     },
@@ -527,7 +527,7 @@
       "floor_price_ton": 45,
       "portal_price_ton": 45.0,
       "getgems_price_ton": 45.0,
-      "tgmrkt_price_ton": 43.7988,
+      "tgmrkt_price_ton": 40.8,
       "models": "models/kissed_frog/prices.json",
       "custom_emoji_id": "5890822442766572880"
     },
@@ -604,7 +604,7 @@
       "floor_price_ton": 2.78,
       "portal_price_ton": 2.78,
       "getgems_price_ton": 3.15,
-      "tgmrkt_price_ton": 2.856,
+      "tgmrkt_price_ton": 2.8764,
       "models": "models/lunar_snake/prices.json",
       "custom_emoji_id": "5893456773842476284"
     },
@@ -670,7 +670,7 @@
       "floor_price_ton": 4.07,
       "portal_price_ton": 4.08,
       "getgems_price_ton": 4.1,
-      "tgmrkt_price_ton": 3.8854,
+      "tgmrkt_price_ton": 3.9576,
       "models": "models/money_pot/prices.json",
       "custom_emoji_id": "5890784440895938474"
     },
@@ -714,7 +714,7 @@
       "floor_price_ton": 33,
       "portal_price_ton": 33.0,
       "getgems_price_ton": 33.0,
-      "tgmrkt_price_ton": 32.6094,
+      "tgmrkt_price_ton": 32.5992,
       "models": "models/neko_helmet/prices.json",
       "custom_emoji_id": "5891035593403538458"
     },
@@ -734,7 +734,7 @@
       "short_name": "perfume_bottle",
       "regular_id": "5913517067138499193",
       "floor_price_ton": 59.23,
-      "portal_price_ton": 59.23,
+      "portal_price_ton": 59.65,
       "getgems_price_ton": 64.8136,
       "tgmrkt_price_ton": 56.814,
       "models": "models/perfume_bottle/prices.json",
@@ -745,9 +745,9 @@
       "short_name": "pet_snake",
       "regular_id": "6023917088358269866",
       "floor_price_ton": 3.23,
-      "portal_price_ton": 3.23,
+      "portal_price_ton": 3.18,
       "getgems_price_ton": 3.44,
-      "tgmrkt_price_ton": 3.0294,
+      "tgmrkt_price_ton": 2.9973,
       "models": "models/pet_snake/prices.json",
       "custom_emoji_id": "5890750837071816921"
     },
@@ -1033,7 +1033,7 @@
       "floor_price_ton": 2.75,
       "portal_price_ton": 2.75,
       "getgems_price_ton": 3.35,
-      "tgmrkt_price_ton": 3.1184,
+      "tgmrkt_price_ton": 3.0853,
       "models": "models/tama_gadget/prices.json",
       "custom_emoji_id": "5891185655265893814"
     },
@@ -1088,7 +1088,7 @@
       "floor_price_ton": 8.4,
       "portal_price_ton": 8.4,
       "getgems_price_ton": 9.45,
-      "tgmrkt_price_ton": 8.6891,
+      "tgmrkt_price_ton": 8.7618,
       "models": "models/valentine_box/prices.json",
       "custom_emoji_id": "5890725647088622892"
     },
@@ -1130,7 +1130,7 @@
       "short_name": "whip_cupcake",
       "regular_id": "5933543975653737112",
       "floor_price_ton": 3.03,
-      "portal_price_ton": 3.03,
+      "portal_price_ton": 3.0,
       "getgems_price_ton": 3.1,
       "tgmrkt_price_ton": 2.8866,
       "models": "models/whip_cupcake/prices.json",
@@ -1163,7 +1163,7 @@
       "short_name": "xmas_stocking",
       "regular_id": "6003767644426076664",
       "floor_price_ton": 2.99,
-      "portal_price_ton": 2.99,
+      "portal_price_ton": 3.0,
       "getgems_price_ton": 3.0,
       "tgmrkt_price_ton": 2.8866,
       "models": "models/xmas_stocking/prices.json",
@@ -1233,7 +1233,7 @@
       "models": "models/chill_flame/prices.json",
       "portal_price_ton": 2.93,
       "getgems_price_ton": 3.0,
-      "tgmrkt_price_ton": 2.8866
+      "tgmrkt_price_ton": 2.8649
     },
     {
       "full_name": "Mood Pack",
@@ -1244,7 +1244,7 @@
       "models": "models/mood_pack/prices.json",
       "portal_price_ton": 3.44,
       "getgems_price_ton": 3.3,
-      "tgmrkt_price_ton": 3.2844
+      "tgmrkt_price_ton": 3.3252
     },
     {
       "full_name": "Rare Bird",
@@ -1432,7 +1432,7 @@
   "unupgraded_description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars.",
   "regular_description": "A regular gift you can send to your friends for a nominal price.",
   "models": "models/",
-  "last_updated": 1785283323,
+  "last_updated": 1785284654,
   "regular_gifts": [
     {
       "full_name": "Gift 5170145012310081615",
