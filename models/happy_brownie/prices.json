@@ -6,13 +6,13 @@
     "Black": 19.992
   },
   "symbols": {
-    "Toilet": 5.0,
-    "Crown": 3.68,
     "Flower Cross": 5.0,
     "Love Letter": 3.96,
     "Oak Leaf": 3.8,
-    "Rhino Warrior": 3.5,
+    "Rhino Warrior": 4.0,
     "Spirit Impala": 3.9,
+    "Toilet": 5.0,
+    "Crown": 3.68,
     "Mountain Lion": 11.0
   },
   "models": {
@@ -30,18 +30,18 @@
     "Cookie Monster": 3.774,
     "Deadpoo": 3.7026,
     "Dirty Bomb": 3.4476,
-    "Mud King": 4.998,
     "Octopoo": 3.57,
     "Pebbles": 3.5598,
     "Plunger": 3.978,
     "Poocano": 3.876,
     "Poopy Dragon": 4.5288,
+    "Raphael": 5.1,
     "Homer": 4.0698,
     "Hot Shit": 3.9678,
     "Love Pootion": 3.7944,
     "Lucky Pin": 3.8556,
     "Modern Art": 11.781,
-    "Raphael": 5.1,
+    "Mud King": 4.998,
     "Rattlesnake": 3.7332,
     "Shitty Coffee": 3.7638,
     "Slime": 3.774,
@@ -62,10 +62,10 @@
     "Solid Waste": 3.7638,
     "Frankenstein": 3.5088,
     "Holy Shit": 5.61,
+    "Huge Mess": 3.774,
     "Ice Cream": 3.4884,
-    "Kawaii": 7.14,
     "Kinky Stinky": 28.56,
-    "Huge Mess": 3.774
+    "Kawaii": 7.14
   },
-  "last_updated": 1785292305
+  "last_updated": 1785294869
 }
