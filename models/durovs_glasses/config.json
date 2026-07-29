@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "name": "pepe_dream",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/durovs_glasses/pepe_dream.tgs",
+    "webp_path": "models/durovs_glasses/pepe_dream.webp",
+    "custom_emoji_id": "5188447736269151540",
+    "model_id": "5188447736269151540",
+    "telegram_document_id": "5188447736269151540",
+    "telegram_file_id": "BQACAgIAAxUAAWppTz_899r-gIo_GccXtSgpl9JbAAI0nQACuhEBSN7Bqruj1PM3HgQ"
+  },
+  {
+    "name": "ton_vision",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/durovs_glasses/ton_vision.tgs",
+    "webp_path": "models/durovs_glasses/ton_vision.webp",
+    "custom_emoji_id": "5194988713762921912",
+    "model_id": "5194988713762921912",
+    "telegram_document_id": "5194988713762921912",
+    "telegram_file_id": "BQACAgIAAxUAAWppTz9c7zvlFz7V_BbVTB3LQJLjAAK4nQACtk4YSHvFA-Y9HXPCHgQ"
+  },
+  {
+    "name": "splinter_cell",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/durovs_glasses/splinter_cell.tgs",
+    "webp_path": "models/durovs_glasses/splinter_cell.webp",
+    "custom_emoji_id": "5195082228085863937",
+    "model_id": "5195082228085863937",
+    "telegram_document_id": "5195082228085863937",
+    "telegram_file_id": "BQACAgIAAxUAAWppTz88s7gONaw_RDl8H2CIgoTAAAIBtgACw6MYSNqPLq5GMJTJHgQ"
+  },
+  {
+    "name": "cat_core",
+    "rarity_percent": 3.0,
+    "tgs_path": "models/durovs_glasses/cat_core.tgs",
+    "webp_path": "models/durovs_glasses/cat_core.webp",
+    "custom_emoji_id": "5195198746253631494",
+    "model_id": "5195198746253631494",
+    "telegram_document_id": "5195198746253631494",
+    "telegram_file_id": "BQACAgIAAxUAAWppTz9mE2LugJR3VvMpRaE4k49uAAIGoAACvA0ZSAn6E9rOviWUHgQ"
+  },
+  {
+    "name": "speedster",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/durovs_glasses/speedster.tgs",
+    "webp_path": "models/durovs_glasses/speedster.webp",
+    "custom_emoji_id": "5204455779461015004",
+    "model_id": "5204455779461015004",
+    "telegram_document_id": "5204455779461015004",
+    "telegram_file_id": "BQACAgIAAxUAAWppTz9jhQZ8XAxfYAABtvCXETNYGQAC3KUAAvXwOUheLXJgjQkZYR4E"
+  }
+]
