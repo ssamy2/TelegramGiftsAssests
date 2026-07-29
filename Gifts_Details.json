@@ -687,7 +687,8 @@
       "portal_price_ton": 5.42,
       "getgems_price_ton": 5.42,
       "tgmrkt_price_ton": 5.1922,
-      "models": "models/moon_pendant/prices.json"
+      "models": "models/moon_pendant/prices.json",
+      "custom_emoji_id": "5900192021296980312"
     },
     {
       "full_name": "Mousse Cake",
@@ -697,7 +698,8 @@
       "portal_price_ton": 3.79,
       "getgems_price_ton": 3.7949,
       "tgmrkt_price_ton": 3.9358,
-      "models": "models/mousse_cake/prices.json"
+      "models": "models/mousse_cake/prices.json",
+      "custom_emoji_id": "5900024577701978831"
     },
     {
       "full_name": "Nail Bracelet",
@@ -1125,7 +1127,8 @@
       "portal_price_ton": 63.9,
       "getgems_price_ton": 63.9,
       "tgmrkt_price_ton": 61.74,
-      "models": "models/westside_sign/prices.json"
+      "models": "models/westside_sign/prices.json",
+      "custom_emoji_id": "5902131972125236427"
     },
     {
       "full_name": "Whip Cupcake",
@@ -1257,13 +1260,15 @@
       "full_name": "Durov’s Glasses",
       "short_name": "durovs_glasses",
       "regular_id": "5834651202612102354",
-      "models": "models/durovs_glasses/prices.json"
+      "models": "models/durovs_glasses/prices.json",
+      "custom_emoji_id": "5890913328569523960"
     },
     {
       "full_name": "Liberty Figure",
       "short_name": "liberty_figure",
       "regular_id": "5999298447486747746",
-      "models": "models/liberty_figure/prices.json"
+      "models": "models/liberty_figure/prices.json",
+      "custom_emoji_id": "5891200369823849956"
     }
   ],
   "unupgraded": [
@@ -1362,7 +1367,8 @@
       "full_name": "Pencil",
       "short_name": "pencil",
       "id": "5882129648002794519",
-      "price_ton": 20.0
+      "price_ton": 20.0,
+      "custom_emoji_id": "5902048138658586426"
     },
     {
       "full_name": "REDO",
