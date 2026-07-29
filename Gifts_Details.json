@@ -366,7 +366,7 @@
       "floor_price_ton": 3.03,
       "portal_price_ton": 3.03,
       "getgems_price_ton": 3.25,
-      "tgmrkt_price_ton": 2.8866,
+      "tgmrkt_price_ton": 2.8764,
       "models": "models/holiday_drink/prices.json",
       "custom_emoji_id": "5890844561848147566"
     },
@@ -813,7 +813,7 @@
       "floor_price_ton": 7.83,
       "portal_price_ton": 7.83,
       "getgems_price_ton": 7.83,
-      "tgmrkt_price_ton": 7.9928,
+      "tgmrkt_price_ton": 8.0784,
       "models": "models/sakura_flower/prices.json",
       "custom_emoji_id": "5893003744987061893"
     },
@@ -1165,7 +1165,7 @@
       "floor_price_ton": 2.99,
       "portal_price_ton": 3.0,
       "getgems_price_ton": 3.0,
-      "tgmrkt_price_ton": 2.856,
+      "tgmrkt_price_ton": 2.8866,
       "models": "models/xmas_stocking/prices.json",
       "custom_emoji_id": "5893359703286619796"
     },
@@ -1432,7 +1432,7 @@
   "unupgraded_description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars.",
   "regular_description": "A regular gift you can send to your friends for a nominal price.",
   "models": "models/",
-  "last_updated": 1785285157,
+  "last_updated": 1785285198,
   "regular_gifts": [
     {
       "full_name": "Gift 5170145012310081615",
