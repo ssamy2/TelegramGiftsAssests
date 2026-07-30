@@ -6,17 +6,16 @@
     "Black": 20.91
   },
   "symbols": {
-    "Crown": 4.9,
     "Flower Cross": 3.67,
     "Love Letter": 3.96,
     "Oak Leaf": 3.8,
+    "Crown": 4.9,
     "Rhino Warrior": 4.0,
     "Spirit Impala": 4.1,
     "Toilet": 5.0,
     "Mountain Lion": 3.63
   },
   "models": {
-    "Dirty Bomb": 3.519,
     "Alien": 3.6618,
     "Art Supplies": 3.6618,
     "Balloon": 3.927,
@@ -30,7 +29,7 @@
     "Cherry Cake": 3.8556,
     "Cookie Monster": 3.672,
     "Deadpoo": 3.7128,
-    "Mud King": 4.6716,
+    "Dirty Bomb": 3.519,
     "Octopoo": 4.08,
     "Pebbles": 3.3558,
     "Plunger": 3.927,
@@ -55,6 +54,7 @@
     "Love Pootion": 3.6618,
     "Lucky Pin": 3.8556,
     "Modern Art": 11.6994,
+    "Mud King": 4.6716,
     "Golgothan": 7.1196,
     "Amethyst": 3.825,
     "Dung Beetle": 3.4578,
@@ -67,5 +67,5 @@
     "Kawaii": 7.14,
     "Kinky Stinky": 27.54
   },
-  "last_updated": 1785440577
+  "last_updated": 1785443178
 }
