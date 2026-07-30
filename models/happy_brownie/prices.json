@@ -6,11 +6,11 @@
     "Black": 20.91
   },
   "symbols": {
-    "Flower Cross": 3.67,
     "Love Letter": 3.96,
     "Oak Leaf": 3.8,
-    "Crown": 4.9,
     "Rhino Warrior": 4.0,
+    "Crown": 4.9,
+    "Flower Cross": 3.67,
     "Spirit Impala": 4.1,
     "Toilet": 5.0,
     "Mountain Lion": 3.63
@@ -20,7 +20,7 @@
     "Art Supplies": 3.6618,
     "Balloon": 3.927,
     "Blobfish": 3.927,
-    "Brownwood": 3.2946,
+    "Brownwood": 4.0392,
     "Bubble Tea": 3.5904,
     "Cactus": 3.7332,
     "Captain Flush": 3.4884,
@@ -30,13 +30,12 @@
     "Cookie Monster": 3.672,
     "Deadpoo": 3.7128,
     "Dirty Bomb": 3.519,
-    "Octopoo": 4.08,
     "Pebbles": 3.3558,
     "Plunger": 3.927,
     "Poocano": 3.774,
-    "Poopy Dragon": 4.5288,
-    "Raphael": 4.335,
-    "Rattlesnake": 3.7536,
+    "Poopy Dragon": 4.437,
+    "Raphael": 4.2024,
+    "Rattlesnake": 3.6924,
     "Shitty Coffee": 3.7638,
     "Slime": 3.774,
     "Smelly Yeti": 3.3558,
@@ -55,17 +54,18 @@
     "Lucky Pin": 3.8556,
     "Modern Art": 11.6994,
     "Mud King": 4.6716,
+    "Octopoo": 4.08,
     "Golgothan": 7.1196,
-    "Amethyst": 3.825,
-    "Dung Beetle": 3.4578,
+    "Amethyst": 4.284,
+    "Dung Beetle": 3.315,
     "Gold Nugget": 4.794,
     "Solid Waste": 3.315,
     "Frankenstein": 3.57,
-    "Holy Shit": 6.018,
     "Huge Mess": 4.08,
     "Ice Cream": 3.57,
     "Kawaii": 7.14,
-    "Kinky Stinky": 27.54
+    "Kinky Stinky": 27.54,
+    "Holy Shit": 6.018
   },
-  "last_updated": 1785443178
+  "last_updated": 1785445726
 }
