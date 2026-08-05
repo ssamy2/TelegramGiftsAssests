@@ -1285,6 +1285,12 @@
       "portal_price_ton": 3.6,
       "getgems_price_ton": 4.0,
       "tgmrkt_price_ton": 3.621
+    },
+    {
+      "full_name": "Triple Meow",
+      "short_name": "triple_meow",
+      "regular_id": "5882129648002794519",
+      "models": "models/triple_meow/prices.json"
     }
   ],
   "unupgraded": [
@@ -1380,13 +1386,6 @@
       "custom_emoji_id": "5892971528437374635"
     },
     {
-      "full_name": "Pencil",
-      "short_name": "pencil",
-      "id": "5882129648002794519",
-      "price_ton": 21.2,
-      "custom_emoji_id": "5902048138658586426"
-    },
-    {
       "full_name": "REDO",
       "short_name": "redo",
       "id": "5832279504491381684",
@@ -1434,13 +1433,6 @@
       "id": "5897607679345427347",
       "price_ton": 4.38,
       "custom_emoji_id": "5890913891210239220"
-    },
-    {
-      "full_name": "Khabib's Papakha",
-      "short_name": "khabibs_papakha",
-      "id": "5839094187366024301",
-      "custom_emoji_id": "5890852395868496901",
-      "price_ton": 193.9938
     }
   ],
   "upgraded_description": "A unique collectible NFT that can be collected, sold, or gifted to friends.",
