@@ -1290,7 +1290,8 @@
       "full_name": "Triple Meow",
       "short_name": "triple_meow",
       "regular_id": "5882129648002794519",
-      "models": "models/triple_meow/prices.json"
+      "models": "models/triple_meow/prices.json",
+      "custom_emoji_id": "5902048138658586426"
     }
   ],
   "unupgraded": [
