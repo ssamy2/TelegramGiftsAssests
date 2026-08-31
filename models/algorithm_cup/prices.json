@@ -1,1 +1,13 @@
-{}
+{
+  "backdrops": {},
+  "symbols": {
+    "Thunderbird": 25000.0,
+    "Wreath": 15000.0,
+    "Horseshoe": 8000.0
+  },
+  "models": {
+    "Bronze": 8000.0,
+    "Gold": 25000.0
+  },
+  "last_updated": 1788185899
+}
