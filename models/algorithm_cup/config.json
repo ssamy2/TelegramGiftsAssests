@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "name": "gold",
+    "rarity_percent": 17.0,
+    "tgs_path": "models/algorithm_cup/gold.tgs",
+    "webp_path": "models/algorithm_cup/gold.webp",
+    "custom_emoji_id": "5812188579488604172",
+    "model_id": "5472164797577471030",
+    "telegram_document_id": "5472164797577471030",
+    "telegram_file_id": "BQACAgIAAxUAAWqVik_foVj-MzZPILAmQZ5Zkv_ZAAI2pAAC5AjxS64vyBVJGnpVHgQ"
+  }
+]
