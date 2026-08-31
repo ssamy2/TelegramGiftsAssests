@@ -3,11 +3,13 @@
   "symbols": {
     "Thunderbird": 25000.0,
     "Wreath": 15000.0,
-    "Horseshoe": 8000.0
+    "Horseshoe": 8000.0,
+    "Novus Ordo": 10500.0
   },
   "models": {
     "Bronze": 8000.0,
+    "Silver": 10500.0,
     "Gold": 25000.0
   },
-  "last_updated": 1788190867
+  "last_updated": 1788193264
 }
