@@ -1298,7 +1298,8 @@
       "full_name": "Algorithm Cup",
       "short_name": "algorithm_cup",
       "regular_id": "6050827940390765935",
-      "models": "models/algorithm_cup/prices.json"
+      "models": "models/algorithm_cup/prices.json",
+      "custom_emoji_id": "5812456546793169371"
     }
   ],
   "unupgraded": [
