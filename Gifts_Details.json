@@ -138,7 +138,7 @@
       "regular_id": "5841336413697606412",
       "floor_price_ton": 10.9,
       "portal_price_ton": 12.42,
-      "getgems_price_ton": 11.7,
+      "getgems_price_ton": 12.949,
       "tgmrkt_price_ton": 10.6182,
       "models": "models/crystal_ball/prices.json",
       "custom_emoji_id": "5891225619936582358"
@@ -798,7 +798,7 @@
       "regular_id": "5856973938650776169",
       "floor_price_ton": 11.11,
       "portal_price_ton": 12.43,
-      "getgems_price_ton": 11.7,
+      "getgems_price_ton": 12.88,
       "tgmrkt_price_ton": 10.71,
       "models": "models/record_player/prices.json",
       "custom_emoji_id": "5891243521360272512"
@@ -1029,7 +1029,7 @@
       "regular_id": "5936043693864651359",
       "floor_price_ton": 43,
       "portal_price_ton": 49.5,
-      "getgems_price_ton": 49.89,
+      "getgems_price_ton": 49.9,
       "tgmrkt_price_ton": 42.891,
       "models": "models/swiss_watch/prices.json",
       "custom_emoji_id": "5890981700153909246"
@@ -1117,7 +1117,7 @@
       "regular_id": "5836780359634649414",
       "floor_price_ton": 33.89,
       "portal_price_ton": 33.89,
-      "getgems_price_ton": 34.15,
+      "getgems_price_ton": 34.7,
       "tgmrkt_price_ton": 32.3136,
       "models": "models/voodoo_doll/prices.json",
       "custom_emoji_id": "5891020230305520908"
@@ -1194,7 +1194,7 @@
       "regular_id": "5898012527257715797",
       "floor_price_ton": 3.12,
       "portal_price_ton": 3.12,
-      "getgems_price_ton": 3.72,
+      "getgems_price_ton": 3.6,
       "tgmrkt_price_ton": 3.0294,
       "models": "models/vice_cream/prices.json",
       "custom_emoji_id": "5890913891210239220"
@@ -1456,7 +1456,7 @@
   "unupgraded_description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars.",
   "regular_description": "A regular gift you can send to your friends for a nominal price.",
   "models": "models/",
-  "last_updated": 1788238911,
+  "last_updated": 1788240770,
   "regular_gifts": [
     {
       "full_name": "Gift 5170145012310081615",
