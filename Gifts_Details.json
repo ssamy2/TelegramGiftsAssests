@@ -347,7 +347,7 @@
       "regular_id": "5895328365971244193",
       "floor_price_ton": 181.51,
       "portal_price_ton": 181.51,
-      "getgems_price_ton": 165.0,
+      "getgems_price_ton": 182.0,
       "tgmrkt_price_ton": 173.1348,
       "models": "models/heroic_helmet/prices.json",
       "custom_emoji_id": "5890989001598312284"
@@ -611,7 +611,7 @@
       "regular_id": "6028426950047957932",
       "floor_price_ton": 2.95,
       "portal_price_ton": 3.71,
-      "getgems_price_ton": 3.65,
+      "getgems_price_ton": 3.75,
       "tgmrkt_price_ton": 3.0192,
       "models": "models/lunar_snake/prices.json",
       "custom_emoji_id": "5893456773842476284"
@@ -1284,7 +1284,7 @@
       "custom_emoji_id": "5891200369823849956",
       "floor_price_ton": 3.52,
       "portal_price_ton": 4.44,
-      "getgems_price_ton": 4.653,
+      "getgems_price_ton": 4.6,
       "tgmrkt_price_ton": 3.621
     },
     {
@@ -1456,7 +1456,7 @@
   "unupgraded_description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars.",
   "regular_description": "A regular gift you can send to your friends for a nominal price.",
   "models": "models/",
-  "last_updated": 1788276309,
+  "last_updated": 1788278188,
   "regular_gifts": [
     {
       "full_name": "Gift 5170145012310081615",
