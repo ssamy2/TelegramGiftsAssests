@@ -105,7 +105,7 @@
       "regular_id": "6003373314888696650",
       "floor_price_ton": 3.1,
       "portal_price_ton": 3.67,
-      "getgems_price_ton": 3.75,
+      "getgems_price_ton": 3.93,
       "tgmrkt_price_ton": 3.0192,
       "models": "models/candy_cane/prices.json",
       "custom_emoji_id": "5890743587167017994"
@@ -424,7 +424,7 @@
       "regular_id": "6005564615793050414",
       "floor_price_ton": 3.13,
       "portal_price_ton": 3.13,
-      "getgems_price_ton": 3.74,
+      "getgems_price_ton": 3.75,
       "tgmrkt_price_ton": 3.06,
       "models": "models/instant_ramen/prices.json",
       "custom_emoji_id": "5893463267833028094"
@@ -930,7 +930,7 @@
       "regular_id": "6014591077976114307",
       "floor_price_ton": 4.62,
       "portal_price_ton": 4.62,
-      "getgems_price_ton": 5.2005,
+      "getgems_price_ton": 5.2,
       "tgmrkt_price_ton": 4.692,
       "models": "models/snoop_dogg/prices.json",
       "custom_emoji_id": "5890824336847152562"
@@ -1172,7 +1172,7 @@
       "regular_id": "6003767644426076664",
       "floor_price_ton": 3.09,
       "portal_price_ton": 3.09,
-      "getgems_price_ton": 3.75,
+      "getgems_price_ton": 3.96,
       "tgmrkt_price_ton": 2.9555,
       "models": "models/xmas_stocking/prices.json",
       "custom_emoji_id": "5893359703286619796"
@@ -1239,7 +1239,7 @@
       "custom_emoji_id": "5891147576085847661",
       "floor_price_ton": 2.95,
       "portal_price_ton": 3.7755,
-      "getgems_price_ton": 3.75,
+      "getgems_price_ton": 3.78,
       "tgmrkt_price_ton": 3.0396,
       "models": "models/chill_flame/prices.json"
     },
@@ -1284,7 +1284,7 @@
       "custom_emoji_id": "5891200369823849956",
       "floor_price_ton": 3.52,
       "portal_price_ton": 4.44,
-      "getgems_price_ton": 4.4,
+      "getgems_price_ton": 4.7,
       "tgmrkt_price_ton": 3.621
     },
     {
@@ -1456,7 +1456,7 @@
   "unupgraded_description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars.",
   "regular_description": "A regular gift you can send to your friends for a nominal price.",
   "models": "models/",
-  "last_updated": 1788259427,
+  "last_updated": 1788261305,
   "regular_gifts": [
     {
       "full_name": "Gift 5170145012310081615",
