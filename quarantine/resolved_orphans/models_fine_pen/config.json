@@ -1,0 +1,52 @@
+[
+  {
+    "name": "red_lipstick",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/fine_pen/red_lipstick.tgs",
+    "webp_path": "models/fine_pen/red_lipstick.webp",
+    "custom_emoji_id": "5222416104332239636",
+    "model_id": "5222416104332239636",
+    "telegram_document_id": "5222416104332239636",
+    "telegram_file_id": "BQACAgIAAxUAAWqXTRluHvA4N5770Huns4qDkLrAAAIUowACx795SM6TptU1-extHgQ"
+  },
+  {
+    "name": "hopscotch",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/fine_pen/hopscotch.tgs",
+    "webp_path": "models/fine_pen/hopscotch.webp",
+    "custom_emoji_id": "5237914545359460997",
+    "model_id": "5237914545359460997",
+    "telegram_document_id": "5237914545359460997",
+    "telegram_file_id": "BQACAgIAAxUAAWqXTRkEJZVUYk9JCJHmEn972qDoAAKFmgACh8-wSBk346a6ilcvHgQ"
+  },
+  {
+    "name": "coin_mint",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/fine_pen/coin_mint.tgs",
+    "webp_path": "models/fine_pen/coin_mint.webp",
+    "custom_emoji_id": "5238197923006684863",
+    "model_id": "5238197923006684863",
+    "telegram_document_id": "5238197923006684863",
+    "telegram_file_id": "BQACAgIAAxUAAWqXTRnumc-oKBYV_b__YQrLKa7WAAK_ngACQtGxSG1R8SEFtQgdHgQ"
+  },
+  {
+    "name": "tip_and_strip",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/fine_pen/tip_and_strip.tgs",
+    "webp_path": "models/fine_pen/tip_and_strip.webp",
+    "custom_emoji_id": "5242714381766136679",
+    "model_id": "5242714381766136679",
+    "telegram_document_id": "5242714381766136679",
+    "telegram_file_id": "BQACAgIAAxUAAWqXTRm0qb3KajvEWQLEXo7oASp_AAJnkwAC9NzBSDJeFOs6c1xqHgQ"
+  },
+  {
+    "name": "laser_pointer",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/fine_pen/laser_pointer.tgs",
+    "webp_path": "models/fine_pen/laser_pointer.webp",
+    "custom_emoji_id": "5269257691972279687",
+    "model_id": "5269257691972279687",
+    "telegram_document_id": "5269257691972279687",
+    "telegram_file_id": "BQACAgIAAxUAAWqXTRmmsPCsHCAdLnxrj61SAXrvAAKHnQAC9CkgSVBawKRcYCIGHgQ"
+  }
+]
