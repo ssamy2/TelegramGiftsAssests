@@ -184,7 +184,7 @@
       "floor_price_ton": 420,
       "models": "models/durovs_cap/prices.json",
       "portal_price_ton": 387.49,
-      "getgems_price_ton": 400.0,
+      "getgems_price_ton": 399.0,
       "tgmrkt_price_ton": 397.8
     },
     {
@@ -842,7 +842,7 @@
       "regular_id": "5837059369300132790",
       "floor_price_ton": 176.1,
       "portal_price_ton": 176.1,
-      "getgems_price_ton": 207.72,
+      "getgems_price_ton": 207.69,
       "tgmrkt_price_ton": 173.4,
       "models": "models/scared_cat/prices.json",
       "custom_emoji_id": "5890995486998929120"
@@ -886,7 +886,7 @@
       "regular_id": "5870947077877400011",
       "floor_price_ton": 16.9,
       "portal_price_ton": 19.39,
-      "getgems_price_ton": 19.5,
+      "getgems_price_ton": 19.3,
       "tgmrkt_price_ton": 16.575,
       "models": "models/sky_stilettos/prices.json",
       "custom_emoji_id": "5890758314609877075"
@@ -1194,7 +1194,7 @@
       "regular_id": "5898012527257715797",
       "floor_price_ton": 3.12,
       "portal_price_ton": 3.12,
-      "getgems_price_ton": 3.6,
+      "getgems_price_ton": 3.77,
       "tgmrkt_price_ton": 3.0294,
       "models": "models/vice_cream/prices.json",
       "custom_emoji_id": "5890913891210239220"
@@ -1456,7 +1456,7 @@
   "unupgraded_description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars.",
   "regular_description": "A regular gift you can send to your friends for a nominal price.",
   "models": "models/",
-  "last_updated": 1788261305,
+  "last_updated": 1788263164,
   "regular_gifts": [
     {
       "full_name": "Gift 5170145012310081615",
