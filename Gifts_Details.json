@@ -556,7 +556,7 @@
       "regular_id": "5170594532177215681",
       "floor_price_ton": 3.17,
       "portal_price_ton": 3.79,
-      "getgems_price_ton": 3.85,
+      "getgems_price_ton": 3.89,
       "tgmrkt_price_ton": 3.0906,
       "models": "models/lol_pop/prices.json",
       "custom_emoji_id": "5891147279733105050"
@@ -776,7 +776,7 @@
       "regular_id": "5933671725160989227",
       "floor_price_ton": 269.88,
       "portal_price_ton": 253.5,
-      "getgems_price_ton": 274.0,
+      "getgems_price_ton": 270.0,
       "tgmrkt_price_ton": 259.0698,
       "models": "models/precious_peach/prices.json",
       "custom_emoji_id": "5890791102390213507"
@@ -1084,7 +1084,7 @@
       "regular_id": "5882260270843168924",
       "floor_price_ton": 13.26,
       "portal_price_ton": 15.2,
-      "getgems_price_ton": 14.95,
+      "getgems_price_ton": 15.2,
       "tgmrkt_price_ton": 14.4534,
       "models": "models/ufc_strike/prices.json",
       "custom_emoji_id": "5891159949886629444"
@@ -1194,7 +1194,7 @@
       "regular_id": "5898012527257715797",
       "floor_price_ton": 3.12,
       "portal_price_ton": 3.12,
-      "getgems_price_ton": 3.74,
+      "getgems_price_ton": 3.5,
       "tgmrkt_price_ton": 3.0294,
       "models": "models/vice_cream/prices.json",
       "custom_emoji_id": "5890913891210239220"
@@ -1456,7 +1456,7 @@
   "unupgraded_description": "Upgrade this gift when its upgrade time arrives, or burn it to convert it into Stars.",
   "regular_description": "A regular gift you can send to your friends for a nominal price.",
   "models": "models/",
-  "last_updated": 1788278188,
+  "last_updated": 1788280043,
   "regular_gifts": [
     {
       "full_name": "Gift 5170145012310081615",
