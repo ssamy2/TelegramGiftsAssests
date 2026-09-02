@@ -2,17 +2,18 @@
   "backdrops": {},
   "symbols": {
     "Dagger": 10000.0,
-    "Trickster Fox": 4750.0,
+    "Trickster Fox": 3900.0,
+    "Telescope": 13000.0,
     "Thunderbird": 2900.0,
     "Wreath": 15000.0,
     "Horseshoe": 8000.0,
-    "Novus Ordo": 10500.0,
+    "Novus Ordo": 4000.0,
     "Moon": 30000.0
   },
   "models": {
-    "Bronze": 4750.0,
+    "Bronze": 3900.0,
     "Silver": 10000.0,
     "Gold": 30000.0
   },
-  "last_updated": 1788363022
+  "last_updated": 1788365427
 }
