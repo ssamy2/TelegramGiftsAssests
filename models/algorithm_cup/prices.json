@@ -1,6 +1,7 @@
 {
   "backdrops": {},
   "symbols": {
+    "Dagger": 10000.0,
     "Thunderbird": 2900.0,
     "Wreath": 15000.0,
     "Horseshoe": 8000.0,
@@ -9,8 +10,8 @@
   },
   "models": {
     "Bronze": 2900.0,
-    "Silver": 10500.0,
+    "Silver": 10000.0,
     "Gold": 30000.0
   },
-  "last_updated": 1788348607
+  "last_updated": 1788350961
 }
