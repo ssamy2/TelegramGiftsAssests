@@ -1,7 +1,7 @@
 {
   "backdrops": {},
   "symbols": {
-    "Dagger": 10000.0,
+    "Dagger": 9500.0,
     "Trickster Fox": 3750.0,
     "Telescope": 10800.0,
     "Calm Wolf": 11000.0,
@@ -13,8 +13,8 @@
   },
   "models": {
     "Bronze": 3750.0,
-    "Silver": 10000.0,
+    "Silver": 9500.0,
     "Gold": 30000.0
   },
-  "last_updated": 1788384451
+  "last_updated": 1788386826
 }
