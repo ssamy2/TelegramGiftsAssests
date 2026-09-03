@@ -1,8 +1,8 @@
 {
   "backdrops": {
-    "Pure Gold": 3.8299997,
+    "Pure Gold": 3.8163266,
     "Satin Gold": 3.89,
-    "Onyx Black": 4590.0,
+    "Onyx Black": 5100.0,
     "Steel Grey": 3.9
   },
   "symbols": {
@@ -17,9 +17,9 @@
     "Moon": 30000.0
   },
   "models": {
-    "Bronze": 4590.0,
+    "Bronze": 5100.0,
     "Silver": 6120.0,
     "Gold": 20400.0
   },
-  "last_updated": 1788472872
+  "last_updated": 1788475562
 }
