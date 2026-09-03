@@ -1,10 +1,12 @@
 {
-  "backdrops": {},
+  "backdrops": {
+    "Midnight Blue": 3.99
+  },
   "symbols": {
     "Gamepad": 9900.0
   },
   "models": {
     "Silver": 9900.0
   },
-  "last_updated": 1788458690
+  "last_updated": 1788460329
 }
