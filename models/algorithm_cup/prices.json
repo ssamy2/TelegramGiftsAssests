@@ -1,5 +1,7 @@
 {
-  "backdrops": {},
+  "backdrops": {
+    "Onyx Black": 3865.994
+  },
   "symbols": {
     "Dagger": 9000.0,
     "Trickster Fox": 3750.0,
@@ -12,9 +14,9 @@
     "Moon": 30000.0
   },
   "models": {
-    "Bronze": 3750.0,
-    "Silver": 9000.0,
-    "Gold": 30000.0
+    "Bronze": 3865.994,
+    "Silver": 6120.0,
+    "Gold": 20400.0
   },
-  "last_updated": 1788454677
+  "last_updated": 1788458690
 }
