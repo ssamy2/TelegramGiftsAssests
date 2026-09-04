@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Pure Gold": 3.8,
+    "Pure Gold": 3.8163266,
     "Satin Gold": 3.7755103,
     "Onyx Black": 3749.9995,
     "Steel Grey": 3.78
@@ -13,8 +13,8 @@
     "Thunderbird": 2900.0,
     "Wreath": 15000.0,
     "Horseshoe": 8000.0,
-    "Novus Ordo": 7888.0,
     "Mountain Lion": 3650.0,
+    "Novus Ordo": 7888.0,
     "Moon": 30000.0
   },
   "models": {
@@ -22,5 +22,5 @@
     "Silver": 6120.0,
     "Gold": 20400.0
   },
-  "last_updated": 1788523733
+  "last_updated": 1788526449
 }
