@@ -2,9 +2,9 @@
   "backdrops": {
     "Satin Gold": 3.8,
     "Pure Gold": 3.8163266,
-    "Onyx Black": 3749.9995,
-    "Steel Grey": 3.78,
-    "Amber": 3.78
+    "Onyx Black": 4080.0,
+    "Steel Grey": 3.8,
+    "Amber": 3.8
   },
   "symbols": {
     "Dagger": 7700.0,
@@ -20,9 +20,9 @@
     "Mustang": 12000.0
   },
   "models": {
-    "Bronze": 3749.9995,
-    "Silver": 6120.0,
-    "Gold": 10200.0
+    "Bronze": 4080.0,
+    "Silver": 4998.0,
+    "Gold": 20400.0
   },
-  "last_updated": 1788537580
+  "last_updated": 1788540261
 }
