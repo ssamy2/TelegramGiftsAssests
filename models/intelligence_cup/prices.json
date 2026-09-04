@@ -1,16 +1,17 @@
 {
   "backdrops": {
     "Midnight Blue": 10200.0,
-    "Pure Gold": 3.8163266
+    "Pure Gold": 3.76,
+    "Steel Grey": 3.78
   },
   "symbols": {
     "Gamepad": 9900.0,
     "Lily": 15067.0
   },
   "models": {
-    "Silver": 8160.0,
+    "Silver": 6120.0,
     "Gold": 10200.0,
     "Bronze": 6120.0
   },
-  "last_updated": 1788529215
+  "last_updated": 1788531977
 }
