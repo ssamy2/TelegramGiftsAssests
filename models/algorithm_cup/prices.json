@@ -1,9 +1,9 @@
 {
   "backdrops": {
     "Pure Gold": 3.8163266,
-    "Satin Gold": 3.8,
-    "Onyx Black": 5100.0,
-    "Steel Grey": 3.85
+    "Satin Gold": 3.77,
+    "Onyx Black": 3749.9995,
+    "Steel Grey": 3.78
   },
   "symbols": {
     "Dagger": 7700.0,
@@ -14,12 +14,13 @@
     "Wreath": 15000.0,
     "Horseshoe": 8000.0,
     "Novus Ordo": 7888.0,
+    "Mountain Lion": 3650.0,
     "Moon": 30000.0
   },
   "models": {
-    "Bronze": 3876.0,
+    "Bronze": 3749.9995,
     "Silver": 6120.0,
     "Gold": 20400.0
   },
-  "last_updated": 1788512961
+  "last_updated": 1788515662
 }
