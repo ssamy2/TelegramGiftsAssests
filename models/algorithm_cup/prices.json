@@ -5,13 +5,13 @@
     "Midnight Blue": 3.98,
     "Black": 8000.0,
     "Onyx Black": 4182.0,
-    "Steel Grey": 3.93,
+    "Steel Grey": 3.8,
     "Amber": 3.94
   },
   "symbols": {
-    "Nemean Lion": 10000.0,
     "Light Bulb": 7000.0,
-    "Dagger": 7500.0,
+    "Nemean Lion": 10000.0,
+    "Dagger": 6500.0,
     "Trickster Fox": 4150.0,
     "Telescope": 11000.0,
     "Calm Wolf": 10000.0,
@@ -28,5 +28,5 @@
     "Silver": 4998.0,
     "Gold": 15300.0
   },
-  "last_updated": 1788628691
+  "last_updated": 1788631378
 }
