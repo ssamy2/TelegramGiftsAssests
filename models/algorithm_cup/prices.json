@@ -7,13 +7,15 @@
     "Onyx Black": 4182.0,
     "Steel Grey": 3.92,
     "Silver Blue": 3.9,
+    "Gunmetal": 4.0,
     "Amber": 3.94
   },
   "symbols": {
     "Nemean Lion": 10000.0,
     "Light Bulb": 7000.0,
     "Firebird": 6450.0,
-    "Dagger": 6500.0,
+    "Dagger": 6000.0,
+    "Coat of Arms": 5967.0,
     "Trickster Fox": 4150.0,
     "Telescope": 11000.0,
     "Calm Wolf": 8000.0,
@@ -30,5 +32,5 @@
     "Silver": 4998.0,
     "Gold": 15300.0
   },
-  "last_updated": 1788636822
+  "last_updated": 1788639532
 }
