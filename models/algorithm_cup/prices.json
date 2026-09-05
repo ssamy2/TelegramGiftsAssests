@@ -3,12 +3,12 @@
     "Pure Gold": 3.8163266,
     "Satin Gold": 3.88,
     "Onyx Black": 4182.0,
-    "Steel Grey": 3.9,
+    "Steel Grey": 3.83,
     "Amber": 3.9
   },
   "symbols": {
     "Dagger": 7500.0,
-    "Trickster Fox": 3750.0,
+    "Trickster Fox": 4150.0,
     "Telescope": 11000.0,
     "Calm Wolf": 10000.0,
     "Thunderbird": 2900.0,
@@ -20,9 +20,9 @@
     "Mustang": 12000.0
   },
   "models": {
-    "Bronze": 4182.0,
+    "Bronze": 4335.0,
     "Silver": 4998.0,
     "Gold": 15300.0
   },
-  "last_updated": 1788601794
+  "last_updated": 1788604538
 }
