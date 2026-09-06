@@ -1,12 +1,12 @@
 {
   "backdrops": {
     "Onyx Black": 3900.0,
-    "Gunmetal": 3.98,
     "Neon Blue": 3.92,
+    "Gunmetal": 3.98,
     "Midnight Blue": 10200.0,
-    "Pure Gold": 3.98,
-    "Silver Blue": 3.96,
-    "Steel Grey": 3.93
+    "Pure Gold": 3.84,
+    "Silver Blue": 3.84,
+    "Steel Grey": 3.84
   },
   "symbols": {
     "Cicada": 3900.0,
@@ -15,12 +15,12 @@
     "Diamond": 7850.0,
     "Gamepad": 6000.0,
     "Lily": 7200.0,
-    "Evil Dragon": 2990.0
+    "Evil Dragon": 2900.0
   },
   "models": {
     "Silver": 3366.0,
     "Bronze": 2979.9912,
     "Gold": 9999.988
   },
-  "last_updated": 1788703695
+  "last_updated": 1788706403
 }
