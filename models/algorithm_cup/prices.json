@@ -2,10 +2,10 @@
   "backdrops": {
     "Satin Gold": 3.89,
     "Pure Gold": 3.8163266,
-    "Midnight Blue": 4499.995,
+    "Midnight Blue": 4199.9927,
     "Black": 8000.0,
     "Onyx Black": 3774.0,
-    "Steel Grey": 3.76,
+    "Steel Grey": 3.88,
     "Silver Blue": 3.69,
     "Gunmetal": 4.0,
     "Amber": 3.94
@@ -23,15 +23,15 @@
     "Holy Grail": 4500.0,
     "Wreath": 15000.0,
     "Horseshoe": 8000.0,
-    "Novus Ordo": 7888.0,
     "Mountain Lion": 3650.0,
+    "Novus Ordo": 7888.0,
     "Moon": 30000.0,
     "Mustang": 9999.0
   },
   "models": {
     "Bronze": 3774.0,
-    "Silver": 4499.995,
+    "Silver": 4199.9927,
     "Gold": 10200.0
   },
-  "last_updated": 1788730778
+  "last_updated": 1788733408
 }
