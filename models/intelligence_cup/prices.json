@@ -4,9 +4,9 @@
     "Neon Blue": 3.92,
     "Gunmetal": 3.98,
     "Midnight Blue": 10200.0,
-    "Pure Gold": 3.91,
-    "Steel Grey": 3.93,
-    "Silver Blue": 3.94
+    "Pure Gold": 3.98,
+    "Silver Blue": 3.94,
+    "Steel Grey": 3.91
   },
   "symbols": {
     "Cicada": 3900.0,
@@ -19,8 +19,8 @@
   },
   "models": {
     "Silver": 3366.0,
-    "Bronze": 3199.995,
+    "Bronze": 2999.9934,
     "Gold": 9999.988
   },
-  "last_updated": 1788690264
+  "last_updated": 1788692905
 }
