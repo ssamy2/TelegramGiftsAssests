@@ -6,15 +6,15 @@
     "Midnight Blue": 10200.0,
     "Black": 5500.0,
     "Pure Gold": 3.89,
-    "Silver Blue": 3.89,
     "Steel Grey": 3.89,
-    "Copper": 3.89
+    "Copper": 3.89,
+    "Silver Blue": 3.89
   },
   "symbols": {
     "Cicada": 3500.0,
     "Police Badge": 6500.0,
-    "Battle Axe": 9500.0,
     "Diamond": 2500.0,
+    "Battle Axe": 9500.0,
     "Flag": 3499.0,
     "Bastet": 5500.0,
     "Gamepad": 6000.0,
@@ -26,5 +26,5 @@
     "Bronze": 2652.0,
     "Gold": 9999.988
   },
-  "last_updated": 1788799963
+  "last_updated": 1788802718
 }

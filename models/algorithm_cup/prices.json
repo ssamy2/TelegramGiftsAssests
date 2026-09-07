@@ -14,7 +14,7 @@
     "Nemean Lion": 4000.0,
     "Light Bulb": 7000.0,
     "Firebird": 6450.0,
-    "Dagger": 5600.0,
+    "Dagger": 4900.0,
     "Coat of Arms": 5000.0,
     "Trickster Fox": 3450.0,
     "Telescope": 11000.0,
@@ -30,8 +30,8 @@
   },
   "models": {
     "Bronze": 3213.0,
-    "Silver": 4590.0,
+    "Silver": 4588.98,
     "Gold": 9180.0
   },
-  "last_updated": 1788799962
+  "last_updated": 1788802718
 }
