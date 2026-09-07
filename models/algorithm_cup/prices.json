@@ -7,12 +7,12 @@
     "Onyx Black": 3774.0,
     "Steel Grey": 3.88,
     "Silver Blue": 3.79,
-    "Gunmetal": 4.0,
+    "Gunmetal": 3.88,
     "Amber": 3.78
   },
   "symbols": {
-    "Light Bulb": 7000.0,
     "Nemean Lion": 4000.0,
+    "Light Bulb": 7000.0,
     "Firebird": 6450.0,
     "Dagger": 6100.0,
     "Coat of Arms": 5000.0,
@@ -33,5 +33,5 @@
     "Silver": 4029.0,
     "Gold": 10200.0
   },
-  "last_updated": 1788744059
+  "last_updated": 1788746812
 }
