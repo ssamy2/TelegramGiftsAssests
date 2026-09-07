@@ -13,18 +13,18 @@
   "symbols": {
     "Cicada": 3500.0,
     "Police Badge": 6500.0,
-    "Battle Axe": 9500.0,
     "Diamond": 2500.0,
+    "Battle Axe": 5000.0,
     "Flag": 3000.0,
     "Bastet": 5500.0,
     "Gamepad": 5500.0,
     "Lily": 7200.0,
-    "Evil Dragon": 2599.0
+    "Evil Dragon": 2999.0
   },
   "models": {
     "Silver": 3366.0,
     "Bronze": 2499.0,
     "Gold": 9999.988
   },
-  "last_updated": 1788808303
+  "last_updated": 1788810974
 }
