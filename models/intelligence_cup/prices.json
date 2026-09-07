@@ -1,14 +1,14 @@
 {
   "backdrops": {
     "Onyx Black": 3500.0,
+    "Neon Blue": 3.89,
     "Gunmetal": 3.98,
-    "Neon Blue": 3.8,
     "Midnight Blue": 10200.0,
     "Black": 6000.0,
     "Pure Gold": 3.85,
     "Copper": 3.85,
     "Silver Blue": 3.89,
-    "Steel Grey": 3.84
+    "Steel Grey": 3.89
   },
   "symbols": {
     "Cicada": 3500.0,
@@ -26,5 +26,5 @@
     "Bronze": 2652.0,
     "Gold": 9999.988
   },
-  "last_updated": 1788791033
+  "last_updated": 1788793903
 }
