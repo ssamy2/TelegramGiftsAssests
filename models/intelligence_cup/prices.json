@@ -12,8 +12,8 @@
   },
   "symbols": {
     "Cicada": 3500.0,
-    "Police Badge": 6500.0,
     "Diamond": 2800.0,
+    "Police Badge": 6500.0,
     "Battle Axe": 9500.0,
     "Flag": 3499.0,
     "Bastet": 6000.0,
@@ -23,8 +23,8 @@
   },
   "models": {
     "Silver": 3366.0,
-    "Bronze": 2887.9973,
+    "Bronze": 2703.0,
     "Gold": 9999.988
   },
-  "last_updated": 1788771483
+  "last_updated": 1788774229
 }
