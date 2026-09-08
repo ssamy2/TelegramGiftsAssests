@@ -6,8 +6,8 @@
     "Midnight Blue": 10200.0,
     "Black": 5500.0,
     "Pure Gold": 3.89,
-    "Copper": 3.89,
     "Silver Blue": 3.99,
+    "Copper": 3.89,
     "Steel Grey": 3.89
   },
   "symbols": {
@@ -17,7 +17,7 @@
     "Diamond": 2500.0,
     "Flag": 3000.0,
     "Bastet": 5500.0,
-    "Gamepad": 5500.0,
+    "Gamepad": 5200.0,
     "Lily": 7200.0,
     "Evil Dragon": 2999.0
   },
@@ -26,5 +26,5 @@
     "Bronze": 2499.0,
     "Gold": 20999.994
   },
-  "last_updated": 1788865275
+  "last_updated": 1788868124
 }
