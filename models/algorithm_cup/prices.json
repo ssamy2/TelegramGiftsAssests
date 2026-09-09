@@ -1,12 +1,12 @@
 {
   "backdrops": {
-    "Pure Gold": 3.9591837,
     "Satin Gold": 3.89,
+    "Pure Gold": 3.98,
     "Midnight Blue": 3264.0,
     "Black": 9000.0,
     "Onyx Black": 3213.0,
-    "Steel Grey": 3.95,
-    "Silver Blue": 3.97,
+    "Steel Grey": 3.97,
+    "Silver Blue": 3.96,
     "Gunmetal": 4.0,
     "Amber": 3.78
   },
@@ -30,9 +30,9 @@
     "Mustang": 9999.0
   },
   "models": {
-    "Bronze": 3060.0,
+    "Bronze": 3009.0,
     "Silver": 4896.0,
     "Gold": 51000.0
   },
-  "last_updated": 1788935991
+  "last_updated": 1788938660
 }
