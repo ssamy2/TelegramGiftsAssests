@@ -1,13 +1,13 @@
 {
   "backdrops": {
-    "Pure Gold": 3.87,
     "Satin Gold": 3.87,
+    "Pure Gold": 3.87,
     "Midnight Blue": 3264.0,
     "Black": 9000.0,
     "Onyx Black": 4863.36,
-    "Steel Grey": 3.99,
+    "Steel Grey": 3.98,
     "Silver Blue": 3.98,
-    "Gunmetal": 4.05,
+    "Gunmetal": 4.2,
     "Amber": 3.78
   },
   "symbols": {
@@ -23,16 +23,16 @@
     "Holy Grail": 4500.0,
     "Wreath": 15000.0,
     "Horseshoe": 8000.0,
-    "Mountain Lion": 3650.0,
     "Novus Ordo": 5888.0,
+    "Mountain Lion": 3650.0,
     "Double Axe": 9000.0,
     "Moon": 15555.0,
     "Mustang": 9999.0
   },
   "models": {
-    "Bronze": 2550.0,
+    "Bronze": 2448.0,
     "Silver": 4896.0,
     "Gold": 41820.0
   },
-  "last_updated": 1788968571
+  "last_updated": 1788971293
 }
