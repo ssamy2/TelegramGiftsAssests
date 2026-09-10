@@ -1,20 +1,20 @@
 {
   "backdrops": {
     "Onyx Black": 2799.9,
-    "Neon Blue": 3.99,
+    "Neon Blue": 3.98,
     "Gunmetal": 3.98,
     "Midnight Blue": 10200.0,
     "Black": 5500.0,
     "Pure Gold": 3.88,
     "Steel Grey": 3.99,
-    "Silver Blue": 3.98,
-    "Copper": 3.89
+    "Copper": 3.89,
+    "Silver Blue": 3.98
   },
   "symbols": {
     "Cicada": 3500.0,
     "Battle Axe": 5000.0,
-    "Police Badge": 6500.0,
     "Diamond": 2500.0,
+    "Police Badge": 6500.0,
     "Flag": 3000.0,
     "Bastet": 5500.0,
     "Gamepad": 5000.0,
@@ -26,5 +26,5 @@
     "Bronze": 2397.0,
     "Gold": 30600.0
   },
-  "last_updated": 1789006398
+  "last_updated": 1789009100
 }
