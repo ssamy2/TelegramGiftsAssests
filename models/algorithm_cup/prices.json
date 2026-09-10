@@ -1,13 +1,13 @@
 {
   "backdrops": {
-    "Satin Gold": 3.8979592,
+    "Satin Gold": 3.98,
     "Pure Gold": 3.98,
-    "Platinum": 3.99,
+    "Platinum": 3.98,
     "Midnight Blue": 3264.0,
     "Black": 9000.0,
     "Onyx Black": 3999.42,
-    "Steel Grey": 3.99,
-    "Silver Blue": 3.92,
+    "Steel Grey": 3.95,
+    "Silver Blue": 3.98,
     "Gunmetal": 4.2,
     "Amber": 3.78
   },
@@ -15,7 +15,7 @@
     "Nemean Lion": 4000.0,
     "Light Bulb": 7000.0,
     "Firebird": 6450.0,
-    "Dagger": 4450.0,
+    "Dagger": 5000.0,
     "Coat of Arms": 4500.0,
     "Trickster Fox": 3450.0,
     "Telescope": 11000.0,
@@ -36,5 +36,5 @@
     "Silver": 3842.34,
     "Gold": 18360.0
   },
-  "last_updated": 1789057805
+  "last_updated": 1789060592
 }

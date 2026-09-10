@@ -7,8 +7,8 @@
     "Black": 4944.0,
     "Pure Gold": 3.99,
     "Steel Grey": 3.99,
-    "Silver Blue": 3.92,
-    "Copper": 3.89
+    "Copper": 3.89,
+    "Silver Blue": 3.99
   },
   "symbols": {
     "Cicada": 3500.0,
@@ -24,8 +24,8 @@
   },
   "models": {
     "Silver": 3366.0,
-    "Bronze": 2394.96,
+    "Bronze": 2391.9,
     "Gold": 30600.0
   },
-  "last_updated": 1789057805
+  "last_updated": 1789060592
 }
