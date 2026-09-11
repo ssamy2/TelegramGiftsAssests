@@ -1,13 +1,13 @@
 {
   "backdrops": {
-    "Satin Gold": 3.98,
+    "Satin Gold": 4.0,
     "Pure Gold": 3.98,
-    "Platinum": 3.98,
+    "Platinum": 3.99,
     "Midnight Blue": 3264.0,
     "Black": 9000.0,
     "Onyx Black": 3999.42,
     "Steel Grey": 3.98,
-    "Silver Blue": 3.98,
+    "Silver Blue": 3.982818,
     "Gunmetal": 4.27,
     "Amber": 3.78
   },
@@ -25,8 +25,8 @@
     "Wreath": 15000.0,
     "Gear": 10000.0,
     "Horseshoe": 8000.0,
-    "Mountain Lion": 3650.0,
     "Novus Ordo": 5888.0,
+    "Mountain Lion": 3650.0,
     "Double Axe": 9000.0,
     "Moon": 15555.0,
     "Mustang": 9999.0
@@ -36,5 +36,5 @@
     "Silver": 4080.0,
     "Gold": 18360.0
   },
-  "last_updated": 1789125840
+  "last_updated": 1789128620
 }
