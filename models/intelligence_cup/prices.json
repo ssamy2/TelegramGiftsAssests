@@ -7,14 +7,14 @@
     "Black": 4944.0,
     "Pure Gold": 3.99,
     "Steel Grey": 3.99,
-    "Silver Blue": 3.99,
-    "Copper": 3.89
+    "Copper": 3.89,
+    "Silver Blue": 3.98
   },
   "symbols": {
     "Cicada": 3500.0,
     "Police Badge": 6500.0,
-    "Battle Axe": 5000.0,
     "Diamond": 2500.0,
+    "Battle Axe": 5000.0,
     "Flag": 3000.0,
     "Fenrir": 4944.0,
     "Bastet": 5500.0,
@@ -28,5 +28,5 @@
     "Silver": 3366.0,
     "Bronze": 2386.8
   },
-  "last_updated": 1789142384
+  "last_updated": 1789145150
 }
