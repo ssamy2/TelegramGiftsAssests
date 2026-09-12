@@ -1,10 +1,10 @@
 {
   "backdrops": {
-    "Satin Gold": 3.989796,
+    "Satin Gold": 3.99,
     "Pure Gold": 3.98,
     "Platinum": 4.0,
     "Midnight Blue": 3264.0,
-    "Black": 12000.0,
+    "Black": 10000.0,
     "Onyx Black": 3999.42,
     "Steel Grey": 3.99,
     "Silver Blue": 3.99,
@@ -29,7 +29,7 @@
     "Mountain Lion": 3650.0,
     "Imperial Lion": 2900.0,
     "Two Katanas": 4000.0,
-    "Double Axe": 12000.0,
+    "Double Axe": 10000.0,
     "Moon": 12000.0,
     "Mustang": 9999.0
   },
@@ -38,5 +38,5 @@
     "Silver": 3978.0,
     "Gold": 9690.0
   },
-  "last_updated": 1789220541
+  "last_updated": 1789223261
 }
