@@ -4,7 +4,7 @@
     "Pure Gold": 3.98,
     "Platinum": 4.0,
     "Midnight Blue": 3264.0,
-    "Black": 15000.0,
+    "Black": 12000.0,
     "Onyx Black": 3999.42,
     "Steel Grey": 4.04,
     "Silver Blue": 3.99,
@@ -25,9 +25,10 @@
     "Wreath": 15000.0,
     "Gear": 10000.0,
     "Horseshoe": 8000.0,
-    "Novus Ordo": 5888.0,
     "Mountain Lion": 3650.0,
-    "Double Axe": 15000.0,
+    "Novus Ordo": 5888.0,
+    "Imperial Lion": 2900.0,
+    "Double Axe": 12000.0,
     "Moon": 15555.0,
     "Mustang": 9999.0
   },
@@ -36,5 +37,5 @@
     "Silver": 3978.0,
     "Gold": 10200.0
   },
-  "last_updated": 1789185426
+  "last_updated": 1789188148
 }
