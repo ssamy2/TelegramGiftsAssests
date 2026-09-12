@@ -6,8 +6,8 @@
     "Midnight Blue": 10200.0,
     "Black": 4944.0,
     "Pure Gold": 3.99,
-    "Copper": 3.89,
     "Silver Blue": 3.99,
+    "Copper": 3.89,
     "Steel Grey": 4.04
   },
   "symbols": {
@@ -26,7 +26,7 @@
   "models": {
     "Gold": 30600.0,
     "Silver": 3366.0,
-    "Bronze": 2560.2
+    "Bronze": 2346.0
   },
-  "last_updated": 1789198873
+  "last_updated": 1789201528
 }
