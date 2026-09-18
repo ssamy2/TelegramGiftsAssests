@@ -1,7 +1,7 @@
 {
   "backdrops": {
-    "Pure Gold": 4.0,
     "Satin Gold": 4.0,
+    "Pure Gold": 4.0,
     "Platinum": 4.0,
     "Midnight Blue": 3264.0,
     "Black": 4080.0,
@@ -26,6 +26,7 @@
     "Wreath": 15000.0,
     "Gear": 9700.0,
     "Horseshoe": 8000.0,
+    "Axe": 11111.0,
     "Novus Ordo": 4888.0,
     "Mountain Lion": 3650.0,
     "Imperial Lion": 2900.0,
@@ -39,5 +40,5 @@
     "Silver": 3468.0,
     "Gold": 20400.0
   },
-  "last_updated": 1789772227
+  "last_updated": 1789774859
 }
