@@ -6,7 +6,7 @@
     "Midnight Blue": 3264.0,
     "Black": 12000.0,
     "Onyx Black": 2999.82,
-    "Steel Grey": 4.04,
+    "Steel Grey": 4.0,
     "Silver Blue": 4.08,
     "Gunmetal": 4.15,
     "Amber": 3.78
@@ -37,7 +37,7 @@
   "models": {
     "Bronze": 2652.0,
     "Silver": 3468.0,
-    "Gold": 20400.0
+    "Gold": 14999.998
   },
-  "last_updated": 1789756414
+  "last_updated": 1789759062
 }
