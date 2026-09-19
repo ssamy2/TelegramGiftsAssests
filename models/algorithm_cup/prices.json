@@ -1,7 +1,7 @@
 {
   "backdrops": {
-    "Satin Gold": 4.0,
     "Pure Gold": 4.0,
+    "Satin Gold": 4.0,
     "Platinum": 4.0,
     "Midnight Blue": 3264.0,
     "Black": 4080.0,
@@ -15,7 +15,7 @@
     "Nemean Lion": 4000.0,
     "Light Bulb": 7000.0,
     "Firebird": 6450.0,
-    "Dagger": 3598.0,
+    "Dagger": 4300.0,
     "Coat of Arms": 4500.0,
     "Trickster Fox": 3450.0,
     "Telescope": 4700.0,
@@ -41,5 +41,5 @@
     "Silver": 3468.0,
     "Gold": 20400.0
   },
-  "last_updated": 1789827410
+  "last_updated": 1789830037
 }
