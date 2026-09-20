@@ -42,7 +42,7 @@
     "Emerald": 3.97,
     "Roman Silver": 3.89,
     "Sapphire": 3.9,
-    "Onyx Black": 26.01,
+    "Onyx Black": 25.755,
     "English Violet": 3.95,
     "Fandango": 3.89,
     "French Blue": 3.96,
@@ -200,16 +200,16 @@
   "models": {
     "Druid Circle": 15.3,
     "Poor Kitty": 25.296,
-    "Red Skull": 12.495,
+    "Red Skull": 12.6786,
     "Sanguine": 21.42,
     "Amanita": 13.26,
     "Warhol": 12.75,
     "Death Wish": 12.7194,
     "Refreshing": 12.9234,
-    "Seeing Red": 12.546,
+    "Seeing Red": 12.5256,
     "Deathquik": 12.6684,
-    "Daisy": 12.75,
-    "Samhain": 24.4902,
+    "Daisy": 12.648,
+    "Samhain": 24.276,
     "Electric Shock": 12.6786,
     "Rainbow": 14.79,
     "Fatal Error": 12.9234,
@@ -249,10 +249,10 @@
     "Oculus": 15.3,
     "Opacity": 15.3,
     "Past Tell": 14.28,
-    "Pink Chess": 12.5256,
+    "Pink Chess": 12.648,
     "Peridot": 12.75,
     "Pink Panther": 30.6,
     "Martian": 14.484
   },
-  "last_updated": 1789932114
+  "last_updated": 1789934500
 }

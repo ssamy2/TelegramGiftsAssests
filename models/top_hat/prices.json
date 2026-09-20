@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Amber": 3.9,
-    "Black": 100.878,
+    "Black": 100.98,
     "French Violet": 4.25,
     "Orange": 3.95,
     "Fandango": 3.85,
@@ -62,7 +62,7 @@
     "Chestnut": 3.862264,
     "Pacific Cyan": 3.87,
     "Rifle Green": 3.98,
-    "Onyx Black": 30.6,
+    "Onyx Black": 29.58,
     "Pine Green": 3.91,
     "Pure Gold": 3.89,
     "Sapphire": 3.9,
@@ -346,7 +346,7 @@
     "Visor": 30.0
   },
   "models": {
-    "Clockwork": 11.0364,
+    "Clockwork": 11.118,
     "Grandmaster": 11.0364,
     "Graphite": 11.118,
     "Maestro": 11.118,
@@ -354,8 +354,8 @@
     "Purple Rain": 11.118,
     "Spectrum": 11.424,
     "Starlight": 11.22,
-    "Victorian Era": 11.1384,
-    "White Windsor": 11.0568,
+    "Victorian Era": 11.5974,
+    "White Windsor": 11.118,
     "Scrooge": 14.076,
     "Lucifer": 66.3,
     "Pink Bunny": 15.9732,
@@ -374,9 +374,9 @@
     "Blood Veil": 11.118,
     "Limoncello": 12.24,
     "Lincoln": 11.22,
-    "Low Rider": 11.118,
+    "Low Rider": 11.0976,
     "Willy Wonka": 12.138,
-    "Black Raven": 11.0976,
+    "Black Raven": 12.24,
     "Cardinal": 11.118,
     "Pixel Perfect": 346.8,
     "Brainiac": 13.26,
@@ -417,5 +417,5 @@
     "Green Stars": 20.4,
     "Uncle Sam": 16.3098
   },
-  "last_updated": 1789932114
+  "last_updated": 1789934500
 }

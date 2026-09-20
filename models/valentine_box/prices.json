@@ -68,7 +68,7 @@
     "Copper": 3.9,
     "Cyberpunk": 3.89,
     "Rifle Green": 3.98,
-    "Black": 57.12,
+    "Black": 58.1298,
     "Pine Green": 3.91,
     "Purple": 3.87,
     "Pure Gold": 3.89,
@@ -276,16 +276,16 @@
     "Vibrant": 12.1992,
     "Blue Suede": 12.24,
     "Choco Mint": 12.24,
-    "Christmas": 12.0666,
+    "Christmas": 12.036,
     "Green Apple": 12.648,
     "Pizza": 14.1984,
     "Froggie": 16.1976,
     "Golden Bear": 13.7904,
     "Inbox": 15.3,
     "Molten Core": 16.32,
-    "Red Velvet": 14.9736,
-    "Crime Scene": 12.1992,
-    "Fuse Box": 12.1992,
+    "Red Velvet": 11.908419,
+    "Crime Scene": 12.75,
+    "Fuse Box": 12.8928,
     "Hitman": 74.9904,
     "First Aid": 16.9014,
     "Redshift": 13.566,
@@ -311,5 +311,5 @@
     "Traveler": 16.3098,
     "Vampire": 27.438
   },
-  "last_updated": 1789932114
+  "last_updated": 1789934500
 }

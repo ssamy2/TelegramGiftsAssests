@@ -275,17 +275,17 @@
     "Moon Cross": 70.0
   },
   "models": {
-    "Cranberry": 56.1,
+    "Cranberry": 49.3476,
     "Sarutoad": 49.3884,
-    "Starry Night": 48.6234,
-    "Void Hopper": 48.6642,
+    "Starry Night": 51.0,
+    "Void Hopper": 102.0,
     "Sea Breeze": 57.12,
     "Icefrog": 71.3898,
     "Brewtoad": 204.0,
     "Happy Pepe": 816.0,
     "Lava Leap": 96.9,
     "Desert Frog": 51.0,
-    "Hopberry": 61.098,
+    "Hopberry": 58.65,
     "Ms. Toad": 86.7,
     "Duskhopper": 59.16,
     "Ectobloom": 51.0,
@@ -299,7 +299,7 @@
     "Melty Butter": 124.44,
     "Boingo": 89.76,
     "Cupid": 60.18,
-    "Bronze": 51.0,
+    "Bronze": 47.94,
     "Frogtart": 59.16,
     "Rocky Hopper": 244.8,
     "Banana Pox": 49.4802,
@@ -326,5 +326,5 @@
     "Lemon Juice": 49.368,
     "Lily Pond": 51.0
   },
-  "last_updated": 1789932114
+  "last_updated": 1789934500
 }

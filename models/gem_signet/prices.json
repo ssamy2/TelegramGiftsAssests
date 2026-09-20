@@ -16,7 +16,7 @@
     "Electric Indigo": 3.98,
     "Celtic Blue": 3.93,
     "Emerald": 3.97,
-    "Black": 699.9954,
+    "Black": 649.995,
     "Lavender": 3.887756,
     "Burnt Sienna": 3.9795945,
     "Cappuccino": 3.98,
@@ -315,9 +315,9 @@
   "models": {
     "Hot Cherry": 535.5,
     "Old Bronze": 93.84,
-    "Sapphire": 62.2098,
+    "Sapphire": 62.8218,
     "Brass Zircon": 69.36,
-    "Dark Violet": 63.1074,
+    "Dark Violet": 86.7,
     "Elven Shade": 113.22,
     "Pink Quartz": 74.46,
     "El Dorado": 224.4,
@@ -325,7 +325,7 @@
     "Molten Core": 1018.98,
     "Malachite": 64.3212,
     "Atomic Bomb": 4080.0,
-    "Malibu Pink": 62.8422,
+    "Malibu Pink": 61.9854,
     "Moonstone": 70.38,
     "Nuclear Core": 63.2298,
     "Event Horizon": 666.0,
@@ -364,5 +364,5 @@
     "Render": 76.5,
     "Fire Stone": 1530.0
   },
-  "last_updated": 1789932114
+  "last_updated": 1789934500
 }

@@ -57,7 +57,7 @@
     "Shamrock Green": 3.92,
     "Platinum": 3.92,
     "Mystic Pearl": 3.92,
-    "Onyx Black": 22.95,
+    "Onyx Black": 22.899,
     "Lavender": 3.887756,
     "English Violet": 3.95
   },
@@ -215,7 +215,7 @@
     "Pale Palette": 8.6496,
     "Event Horizon": 9.69,
     "Outbreak": 8.16,
-    "8 Ball": 8.5578,
+    "8 Ball": 8.823,
     "Periwinkle": 7.956,
     "Ice Sight": 12.24,
     "Output Error": 11.9238,
@@ -224,8 +224,8 @@
     "Starlight": 7.7214,
     "True North": 7.8948,
     "Visible Spectrum": 8.313,
-    "Solar Flare": 8.466,
-    "Submarine": 7.65,
+    "Solar Flare": 7.6296,
+    "Submarine": 8.1498,
     "Succubus": 7.752,
     "Eye Bone": 7.9866,
     "Inverted": 9.5982,
@@ -243,10 +243,10 @@
     "Concentric Circles": 7.9764,
     "Baltic Amber": 7.9458,
     "Blink": 7.446,
-    "Bloodshot": 8.16,
+    "Bloodshot": 7.9968,
     "Do Not Disturb": 7.65,
     "Dragonborn": 8.721,
-    "Cirrus": 9.1596,
+    "Cirrus": 8.67,
     "Cybernetic": 8.16,
     "Canceled": 8.1498,
     "Blue Period": 8.16,
@@ -254,5 +254,5 @@
     "Direct Current": 7.752,
     "Dark Secret": 7.65
   },
-  "last_updated": 1789932114
+  "last_updated": 1789934500
 }

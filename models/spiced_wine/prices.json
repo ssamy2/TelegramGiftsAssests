@@ -321,7 +321,7 @@
   },
   "models": {
     "Kalamansi": 7.344,
-    "Lime Slice": 4.896,
+    "Lime Slice": 4.5288,
     "Rosemary": 4.998,
     "Shadow Spirit": 5.61,
     "Light Grape": 6.987,
@@ -381,9 +381,9 @@
     "High Class": 6.12,
     "Over Ice": 6.018,
     "Aquarium": 6.12,
-    "Aries Rum": 5.1,
+    "Aries Rum": 5.8854,
     "Blue Burn": 7.1298,
-    "Intense Indigo": 5.1,
+    "Intense Indigo": 4.5186,
     "Kiwi Degree": 5.304,
     "Scuba Dive": 5.049,
     "Blackout": 5.5896,
@@ -402,7 +402,7 @@
     "Brain Enhancer": 12.24,
     "Tea Infusion": 5.151,
     "Tequila Sunrise": 4.692,
-    "The Grinch": 4.896,
+    "The Grinch": 4.6512,
     "Turquoise": 5.61,
     "Vague Berry": 5.61,
     "Vitamin C": 4.8552,
@@ -421,5 +421,5 @@
     "Absinthe": 4.539,
     "Low Tide": 5.1
   },
-  "last_updated": 1789932114
+  "last_updated": 1789934500
 }
