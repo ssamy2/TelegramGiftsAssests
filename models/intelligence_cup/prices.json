@@ -6,10 +6,10 @@
     "Platinum": 3.95,
     "Midnight Blue": 10200.0,
     "Ivory White": 4.0,
-    "Black": 3500.64,
-    "Pure Gold": 4.0,
-    "Silver Blue": 3.95,
-    "Steel Grey": 3.95,
+    "Black": 3396.6,
+    "Pure Gold": 3.9081736,
+    "Silver Blue": 3.93,
+    "Steel Grey": 4.0,
     "Copper": 3.89
   },
   "symbols": {
@@ -18,7 +18,7 @@
     "Battle Axe": 3000.0,
     "Diamond": 2500.0,
     "Glasses": 3000.0,
-    "Trophy": 4444.0,
+    "Trophy": 3380.0,
     "Flag": 3000.0,
     "Fenrir": 4544.0,
     "Bastet": 9999.0,
@@ -35,5 +35,5 @@
     "Silver": 3417.0,
     "Bronze": 2751.96
   },
-  "last_updated": 1789901436
+  "last_updated": 1789904105
 }
