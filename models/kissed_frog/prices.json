@@ -275,10 +275,10 @@
     "Moon Cross": 70.0
   },
   "models": {
-    "Cranberry": 48.9192,
+    "Cranberry": 56.1,
     "Sarutoad": 49.3884,
     "Starry Night": 48.6234,
-    "Void Hopper": 48.705,
+    "Void Hopper": 48.6642,
     "Sea Breeze": 57.12,
     "Icefrog": 71.3898,
     "Brewtoad": 204.0,
@@ -287,7 +287,7 @@
     "Desert Frog": 51.0,
     "Hopberry": 61.098,
     "Ms. Toad": 86.7,
-    "Duskhopper": 61.2,
+    "Duskhopper": 59.16,
     "Ectobloom": 51.0,
     "Ectofrog": 67.32,
     "Lemon Drop": 56.1,
@@ -299,14 +299,14 @@
     "Melty Butter": 124.44,
     "Boingo": 89.76,
     "Cupid": 60.18,
-    "Bronze": 55.998,
+    "Bronze": 51.0,
     "Frogtart": 59.16,
     "Rocky Hopper": 244.8,
     "Banana Pox": 49.4802,
-    "Frogwave": 49.47,
+    "Frogwave": 51.0,
     "Prince Ribbit": 173.4,
     "Tree Frog": 204.0,
-    "Puddles": 260.1,
+    "Puddles": 255.0,
     "Zodiak Croak": 149.94,
     "Toadstool": 59.16,
     "Silver": 51.0,
@@ -323,8 +323,8 @@
     "Frogmaid": 122.4,
     "Melon": 91.8,
     "Brownie": 48.654,
-    "Lemon Juice": 48.7152,
+    "Lemon Juice": 49.368,
     "Lily Pond": 51.0
   },
-  "last_updated": 1789925510
+  "last_updated": 1789928801
 }

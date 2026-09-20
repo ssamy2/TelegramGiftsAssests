@@ -38,7 +38,7 @@
     "Burgundy": 3.89,
     "Cobalt Blue": 3.9,
     "English Violet": 3.95,
-    "Onyx Black": 10.506,
+    "Onyx Black": 10.4856,
     "Celtic Blue": 3.93,
     "Chestnut": 3.98,
     "Chocolate": 3.91,
@@ -284,12 +284,12 @@
     "Aztec Totem": 7.16
   },
   "models": {
-    "Nice Try": 4.5798,
+    "Nice Try": 4.6716,
     "Aegis": 82.9566,
     "Crypto Whale": 43.86,
     "Brewmaster": 4.692,
     "Clown": 5.1,
-    "Finish Line": 4.692,
+    "Finish Line": 4.641,
     "Glory Goal": 5.1,
     "Golden Puck": 4.692,
     "Heroic Honor": 4.6818,
@@ -303,7 +303,7 @@
     "Heartbreaker": 22.032,
     "Princess": 7.14,
     "Candy King": 4.692,
-    "Crystal Trophy": 4.692,
+    "Crystal Trophy": 4.641,
     "King Troll": 74.6436,
     "Noble Prize": 71.5428,
     "Heart of Steel": 6.12,
@@ -326,14 +326,14 @@
     "Master Of Luck": 12.0156,
     "Gold": 14.1474,
     "Queen Bee": 5.2938,
-    "Crown of Grace": 10.098,
+    "Crown of Grace": 10.2,
     "Good Boy": 15.3,
     "Eternal Glory": 7.956,
-    "Grandmaster": 7.038,
-    "High Roller": 73.3992,
+    "Grandmaster": 7.14,
+    "High Roller": 69.36,
     "Master Gamer": 13.26,
     "Illuminatus": 8.9862,
     "Sweet Reward": 4.6818
   },
-  "last_updated": 1789925510
+  "last_updated": 1789928801
 }

@@ -346,16 +346,16 @@
     "Visor": 30.0
   },
   "models": {
-    "Clockwork": 11.118,
+    "Clockwork": 11.0364,
     "Grandmaster": 11.0364,
     "Graphite": 11.118,
     "Maestro": 11.118,
     "Maroon": 11.424,
     "Purple Rain": 11.118,
     "Spectrum": 11.424,
-    "Starlight": 11.118,
-    "Victorian Era": 11.5974,
-    "White Windsor": 11.0772,
+    "Starlight": 11.22,
+    "Victorian Era": 11.1384,
+    "White Windsor": 11.0568,
     "Scrooge": 14.076,
     "Lucifer": 66.3,
     "Pink Bunny": 15.9732,
@@ -375,7 +375,7 @@
     "Limoncello": 12.24,
     "Lincoln": 11.22,
     "Low Rider": 11.118,
-    "Willy Wonka": 10.9194145,
+    "Willy Wonka": 12.138,
     "Black Raven": 11.0976,
     "Cardinal": 11.118,
     "Pixel Perfect": 346.8,
@@ -406,7 +406,7 @@
     "Cranberry": 11.7198,
     "Edison": 15.81,
     "Constable": 33.6498,
-    "Solar System": 67.32,
+    "Solar System": 108.1302,
     "Dairy Dandy": 11.6994,
     "Golden Ratio": 13.974,
     "Glam Safari": 15.198,
@@ -417,5 +417,5 @@
     "Green Stars": 20.4,
     "Uncle Sam": 16.3098
   },
-  "last_updated": 1789925510
+  "last_updated": 1789928801
 }

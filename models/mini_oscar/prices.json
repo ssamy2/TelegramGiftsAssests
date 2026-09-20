@@ -289,10 +289,10 @@
   "models": {
     "Boulevard": 89.99,
     "Red Carpet": 346.8,
-    "Rear End": 75.225,
+    "Rear End": 204.0,
     "Speaker": 69.0438,
     "Solid Bronze": 499.8,
-    "Skeleton": 74.715,
+    "Skeleton": 81.5898,
     "Santa Claus": 84.66,
     "Red Dream": 158.1,
     "Regent": 84.15,
@@ -340,8 +340,8 @@
     "Pharaoh": 187.68,
     "Pigeon": 153.0,
     "Pirate": 77.316,
-    "Poseidon": 74.3988,
-    "Welder": 87.7506,
+    "Poseidon": 75.3882,
+    "Welder": 86.7,
     "Nebula": 117.3,
     "Premiere": 204.0,
     "Producer": 244.8,
@@ -359,7 +359,7 @@
     "Obsidian": 153.0,
     "Dracula": 75.327,
     "Brain Slug": 102.0,
-    "Finest Fish": 74.3886,
+    "Finest Fish": 76.5,
     "Gas Mask": 75.3066,
     "Astronaut": 83.64,
     "Dark Side": 100.98,
@@ -374,7 +374,7 @@
     "Caveman": 96.9,
     "Grenadine": 795.6,
     "Crusader": 99.96,
-    "Cyclopes": 74.3784,
+    "Cyclopes": 74.7048,
     "Dark Knight": 255.0,
     "Chieftain": 76.5,
     "Hot Shots": 132.498,
@@ -386,5 +386,5 @@
     "Molten Gold": 1020.0,
     "Sour Gummy": 83.64
   },
-  "last_updated": 1789925510
+  "last_updated": 1789928801
 }

@@ -355,8 +355,8 @@
   },
   "models": {
     "Black Velvet": 34.68,
-    "Blue Pearl": 35.7,
-    "Champagne": 31.365,
+    "Blue Pearl": 32.946,
+    "Champagne": 31.4058,
     "Rose Quartz": 36.9852,
     "Topaz": 41.82,
     "Whirlpool": 53.04,
@@ -407,7 +407,7 @@
     "Princess Cut": 39.78,
     "Pure Love": 100.98,
     "Red Light": 35.394,
-    "Scrapyard": 31.62,
+    "Scrapyard": 33.405,
     "Space Steel": 42.84,
     "Cobalt Rose": 45.9918,
     "Color Chaos": 45.9,
@@ -431,14 +431,14 @@
     "Barbie Gem": 36.6282,
     "Black Hole": 59.1906,
     "Arabian Night": 33.66,
-    "Azurite": 41.208,
+    "Azurite": 55.08,
     "Bubble Burst": 38.76,
     "Cold Desire": 40.8,
     "Cold Fusion": 36.9342,
     "Color Blocks": 32.13,
     "Color Spray": 38.9844,
     "Bondi Blue": 34.068,
-    "Bronze Heart": 31.365,
+    "Bronze Heart": 34.7922,
     "Black Thorn": 71.4,
     "Blood Orange": 32.13,
     "Canary": 31.62,
@@ -455,5 +455,5 @@
     "Tesla": 40.8,
     "Velvet Rose": 51.0
   },
-  "last_updated": 1789925510
+  "last_updated": 1789928801
 }

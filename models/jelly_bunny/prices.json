@@ -5,7 +5,7 @@
     "Silver Blue": 3.9,
     "Steel Grey": 3.99,
     "Turquoise": 3.94,
-    "Black": 41.82,
+    "Black": 42.024,
     "Shamrock Green": 3.92,
     "Navy Blue": 3.88,
     "Mint Green": 3.91,
@@ -363,7 +363,7 @@
     "Indigo Fruit": 8.6802,
     "Firefruit": 9.588,
     "Engineer": 11.73,
-    "First Bite": 9.1698,
+    "First Bite": 8.043228,
     "Fruity": 8.415,
     "Frosted": 26.52,
     "Gentle Touch": 10.1898,
@@ -371,7 +371,7 @@
     "Guava Gel": 14.994,
     "Grape Glaze": 8.67,
     "Grass Gel": 9.18,
-    "Gelatin Girl": 11.4036,
+    "Gelatin Girl": 10.2,
     "Ghost": 10.71,
     "Juicy Blue": 9.2208,
     "Juicy Mint": 9.1698,
@@ -384,7 +384,7 @@
     "Seaweed": 8.67,
     "Sad Clown": 8.67,
     "Spreadable": 8.976,
-    "Spooky": 8.3538,
+    "Spooky": 8.0886,
     "Blue Swirl": 10.2,
     "Burnt Cream": 9.1392,
     "Chili Pepper": 10.098,
@@ -420,5 +420,5 @@
     "Dr. Jelly": 8.8638,
     "Diver": 8.415
   },
-  "last_updated": 1789925510
+  "last_updated": 1789928801
 }

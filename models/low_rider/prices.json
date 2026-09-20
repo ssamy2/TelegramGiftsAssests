@@ -259,11 +259,11 @@
   },
   "models": {
     "Chevy 1964": 59.16,
-    "DeVille 1968": 61.2,
+    "DeVille 1968": 61.1898,
     "Paparazzi": 71.4,
     "Brown Sugar": 55.4982,
     "Alpine Gold": 63.75,
-    "Bass Drop": 63.2196,
+    "Bass Drop": 54.3456,
     "Gold Rush": 306.0,
     "Toy Car": 66.3,
     "Neon Nitro": 96.9,
@@ -273,7 +273,7 @@
     "Golden Bike": 102.0,
     "LA Noir": 75.48,
     "Mothership": 58.14,
-    "Dark Roast": 55.08,
+    "Dark Roast": 54.366,
     "Jade Emperor": 68.34,
     "Flamingo": 61.2,
     "Road Ape": 171.36,
@@ -287,7 +287,7 @@
     "Helicopter": 66.3,
     "Hippie": 57.63,
     "Lovemobile": 69.9822,
-    "Malibu": 54.06,
+    "Malibu": 54.315,
     "Blood Ruby": 79.4988,
     "Disco Rider": 56.1,
     "Dribble": 55.743,
@@ -298,10 +298,10 @@
     "Dry Eyes": 59.16,
     "Money Rider": 75.48,
     "Blaze": 57.2118,
-    "Silver Angel": 64.26,
+    "Silver Angel": 59.16,
     "Sticker Gang": 71.4,
     "Vape Wave": 132.6,
-    "Speedboat": 54.3966,
+    "Speedboat": 54.3252,
     "Telegram Bus": 91.8,
     "Soul Plane": 114.24,
     "Tricycle": 76.5,
@@ -309,5 +309,5 @@
     "Ultramarine": 96.9,
     "Blizzard": 61.2
   },
-  "last_updated": 1789925510
+  "last_updated": 1789928801
 }

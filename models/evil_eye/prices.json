@@ -205,12 +205,12 @@
   "models": {
     "Grayscale": 8.568,
     "Green Lantern": 9.18,
-    "Poison Plus": 7.65,
+    "Poison Plus": 7.7928,
     "Pink Eye": 8.058,
     "Jarvis": 13.2396,
     "Morphing": 9.8736,
     "Press Play": 8.1396,
-    "Monster Mash": 7.9968,
+    "Monster Mash": 7.9866,
     "Grinch Gaze": 8.1396,
     "Pale Palette": 8.6496,
     "Event Horizon": 9.69,
@@ -235,8 +235,8 @@
     "Hypnosis": 8.16,
     "Seeing Stars": 11.3322,
     "First Sight": 8.6598,
-    "Red Ring": 7.65,
-    "Radioactive": 7.752,
+    "Red Ring": 9.18,
+    "Radioactive": 7.65,
     "Golden Gleam": 8.16,
     "Silver Glass": 7.9866,
     "Blue Flame": 10.2,
@@ -254,5 +254,5 @@
     "Direct Current": 7.752,
     "Dark Secret": 7.65
   },
-  "last_updated": 1789925510
+  "last_updated": 1789928801
 }
