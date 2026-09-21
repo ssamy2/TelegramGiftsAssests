@@ -1,7 +1,7 @@
 {
   "backdrops": {
-    "Pure Gold": 3.86,
-    "Satin Gold": 3.8999999,
+    "Satin Gold": 3.8574555,
+    "Pure Gold": 3.88,
     "Platinum": 4.0,
     "Midnight Blue": 3264.0,
     "Black": 4284.0,
@@ -20,13 +20,14 @@
     "Trickster Fox": 3450.0,
     "Telescope": 4700.0,
     "Calm Wolf": 6000.0,
+    "Crescent": 3895.0,
     "Thunderbird": 2900.0,
     "Holy Grail": 4500.0,
     "Fenrir": 3599.0,
     "Wreath": 15000.0,
     "Gear": 9700.0,
     "Horseshoe": 8000.0,
-    "Axe": 9000.0,
+    "Axe": 8000.0,
     "Okami Wolf": 2700.0,
     "Royal Crown": 8000.0,
     "Novus Ordo": 4888.0,
@@ -42,5 +43,5 @@
     "Silver": 2856.0,
     "Gold": 13260.0
   },
-  "last_updated": 1790012492
+  "last_updated": 1790015180
 }
