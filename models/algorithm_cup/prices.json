@@ -1,7 +1,7 @@
 {
   "backdrops": {
-    "Pure Gold": 3.97,
     "Satin Gold": 3.89,
+    "Pure Gold": 3.89,
     "Platinum": 4.0,
     "Midnight Blue": 3264.0,
     "Black": 4284.0,
@@ -38,9 +38,9 @@
     "Mustang": 9999.0
   },
   "models": {
-    "Bronze": 2652.0,
-    "Silver": 3058.98,
+    "Bronze": 2649.9905,
+    "Silver": 2958.0,
     "Gold": 13260.0
   },
-  "last_updated": 1789979936
+  "last_updated": 1789982664
 }
