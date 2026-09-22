@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Satin Gold": 3.78,
+    "Satin Gold": 3.79,
     "Platinum": 4.0,
     "Midnight Blue": 3264.0,
     "Onyx Black": 2999.82,
@@ -9,7 +9,7 @@
     "Amber": 3.78,
     "Black": 4284.0,
     "Old Gold": 3.77,
-    "Steel Grey": 3.79,
+    "Steel Grey": 3.75,
     "Pure Gold": 3.97
   },
   "symbols": {
@@ -41,8 +41,8 @@
   },
   "models": {
     "Gold": 13260.0,
-    "Silver": 2856.0,
+    "Silver": 2754.0,
     "Bronze": 2649.9905
   },
-  "last_updated": 1790067740
+  "last_updated": 1790071833
 }
