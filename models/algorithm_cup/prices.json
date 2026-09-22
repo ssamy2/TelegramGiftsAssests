@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Satin Gold": 3.79,
+    "Satin Gold": 3.81,
     "Platinum": 4.0,
     "Midnight Blue": 3264.0,
     "Onyx Black": 2999.82,
@@ -8,8 +8,8 @@
     "Gunmetal": 4.2,
     "Amber": 3.78,
     "Black": 4284.0,
-    "Old Gold": 3.77,
-    "Steel Grey": 3.75,
+    "Old Gold": 3.89,
+    "Steel Grey": 3.87,
     "Pure Gold": 3.97
   },
   "symbols": {
@@ -24,14 +24,14 @@
     "Wreath": 15000.0,
     "Gear": 9700.0,
     "Horseshoe": 8000.0,
-    "Royal Crown": 8000.0,
+    "Royal Crown": 10000.0,
     "Mountain Lion": 3650.0,
     "Imperial Lion": 2900.0,
     "Two Katanas": 4000.0,
     "Double Axe": 10000.0,
     "Mustang": 9999.0,
     "Novus Ordo": 4888.0,
-    "Crescent": 3825.0,
+    "Crescent": 3785.0,
     "Okami Wolf": 2600.0,
     "Axe": 8500.0,
     "Dagger": 4400.0,
@@ -44,5 +44,5 @@
     "Silver": 2754.0,
     "Bronze": 2649.9905
   },
-  "last_updated": 1790071833
+  "last_updated": 1790076038
 }
