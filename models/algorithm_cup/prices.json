@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Satin Gold": 3.79,
+    "Satin Gold": 3.77,
     "Platinum": 4.0,
     "Midnight Blue": 3264.0,
     "Onyx Black": 2649.96,
@@ -8,7 +8,7 @@
     "Gunmetal": 4.2,
     "Amber": 3.78,
     "Black": 4284.0,
-    "Old Gold": 3.82,
+    "Old Gold": 3.85,
     "Steel Grey": 3.88,
     "Pure Gold": 3.89
   },
@@ -32,7 +32,7 @@
     "Mustang": 9999.0,
     "Axe": 7777.0,
     "Novus Ordo": 4888.0,
-    "Crescent": 3755.0,
+    "Crescent": 3585.0,
     "Okami Wolf": 2600.0,
     "Dagger": 4400.0,
     "Fenrir": 2799.0,
@@ -42,7 +42,7 @@
   "models": {
     "Gold": 13260.0,
     "Silver": 2754.0,
-    "Bronze": 2589.78
+    "Bronze": 2539.8
   },
-  "last_updated": 1790137950
+  "last_updated": 1790142034
 }
