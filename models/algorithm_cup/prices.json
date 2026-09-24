@@ -33,18 +33,18 @@
     "Mustang": 9999.0,
     "Fenrir": 2549.0,
     "Axe": 7777.0,
-    "Moon": 11111.0,
-    "Calm Wolf": 5000.0,
-    "Crescent": 3585.0,
     "Novus Ordo": 4888.0,
     "Okami Wolf": 2550.0,
+    "Crescent": 3585.0,
     "Dagger": 4400.0,
+    "Moon": 11111.0,
+    "Calm Wolf": 5000.0,
     "Nordic Wolf": 2549.99
   },
   "models": {
     "Gold": 13260.0,
-    "Bronze": 2446.98,
-    "Silver": 2754.0
+    "Silver": 2754.0,
+    "Bronze": 2446.98
   },
-  "last_updated": 1790249555
+  "last_updated": 1790253691
 }
