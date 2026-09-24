@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Satin Gold": 3.787091,
+    "Satin Gold": 3.82,
     "Platinum": 4.0,
     "Navy Blue": 3.75,
     "Midnight Blue": 3264.0,
@@ -10,8 +10,8 @@
     "Amber": 3.78,
     "Old Gold": 3.8,
     "Black": 4284.0,
-    "Steel Grey": 3.75,
-    "Pure Gold": 3.8
+    "Steel Grey": 3.79,
+    "Pure Gold": 3.76
   },
   "symbols": {
     "Nemean Lion": 4000.0,
@@ -32,19 +32,19 @@
     "Double Axe": 10000.0,
     "Mustang": 9999.0,
     "Fenrir": 2549.0,
-    "Calm Wolf": 5000.0,
+    "Moon": 11111.0,
     "Axe": 7777.0,
     "Crescent": 3585.0,
+    "Calm Wolf": 5000.0,
     "Novus Ordo": 4888.0,
     "Okami Wolf": 2550.0,
     "Dagger": 4400.0,
-    "Moon": 11111.0,
     "Nordic Wolf": 2549.99
   },
   "models": {
-    "Gold": 13260.0,
     "Silver": 2754.0,
+    "Gold": 13260.0,
     "Bronze": 2446.98
   },
-  "last_updated": 1790278389
+  "last_updated": 1790282523
 }
