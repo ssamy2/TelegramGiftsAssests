@@ -10,8 +10,8 @@
     "Amber": 3.78,
     "Old Gold": 3.8,
     "Black": 4284.0,
-    "Steel Grey": 3.88,
-    "Pure Gold": 3.85
+    "Pure Gold": 3.836751,
+    "Steel Grey": 3.85
   },
   "symbols": {
     "Nemean Lion": 4000.0,
@@ -43,8 +43,8 @@
   },
   "models": {
     "Gold": 6630.0,
-    "Bronze": 2437.7898,
-    "Silver": 2652.0
+    "Silver": 2652.0,
+    "Bronze": 2437.7898
   },
-  "last_updated": 1790356498
+  "last_updated": 1790360465
 }
