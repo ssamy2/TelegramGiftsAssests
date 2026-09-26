@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Satin Gold": 3.8,
+    "Satin Gold": 3.81,
     "Platinum": 4.0,
     "Navy Blue": 3.75,
     "Midnight Blue": 3264.0,
@@ -10,8 +10,8 @@
     "Amber": 3.78,
     "Old Gold": 3.8,
     "Black": 4284.0,
-    "Steel Grey": 3.78,
-    "Pure Gold": 3.79
+    "Pure Gold": 3.82,
+    "Steel Grey": 3.78
   },
   "symbols": {
     "Nemean Lion": 4000.0,
@@ -24,7 +24,7 @@
     "Holy Grail": 4500.0,
     "Wreath": 15000.0,
     "Gear": 9700.0,
-    "Horseshoe": 2599.0,
+    "Horseshoe": 2598.0,
     "Royal Crown": 10000.0,
     "Mountain Lion": 3650.0,
     "Imperial Lion": 2900.0,
@@ -46,5 +46,5 @@
     "Silver": 8160.0,
     "Bronze": 2437.7898
   },
-  "last_updated": 1790397215
+  "last_updated": 1790401312
 }
