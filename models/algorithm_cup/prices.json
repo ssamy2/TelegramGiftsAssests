@@ -9,7 +9,7 @@
     "Gunmetal": 4.2,
     "Amber": 3.78,
     "Black": 4284.0,
-    "Steel Grey": 3.55,
+    "Steel Grey": 3.51,
     "Pure Gold": 3.47,
     "Old Gold": 3.58
   },
@@ -27,25 +27,26 @@
     "Horseshoe": 2385.0,
     "Cat Mask": 15000.0,
     "Royal Crown": 10000.0,
+    "Baseball Cap": 2300.0,
     "Mountain Lion": 3650.0,
     "Imperial Lion": 2900.0,
     "Two Katanas": 4000.0,
     "Double Axe": 10000.0,
     "Mustang": 9999.0,
-    "Okami Wolf": 2396.0,
-    "Crescent": 2990.0,
-    "Fenrir": 2390.0,
-    "Axe": 7777.0,
     "Dagger": 4000.0,
+    "Crescent": 2990.0,
     "Moon": 7000.0,
     "Calm Wolf": 5000.0,
+    "Fenrir": 2390.0,
+    "Axe": 7777.0,
     "Novus Ordo": 4200.0,
+    "Okami Wolf": 2396.0,
     "Nordic Wolf": 2549.99
   },
   "models": {
     "Gold": 13260.0,
     "Silver": 4532.88,
-    "Bronze": 1723.8
+    "Bronze": 2074.68
   },
-  "last_updated": 1790517096
+  "last_updated": 1790521102
 }
