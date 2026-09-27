@@ -10,7 +10,7 @@
     "Amber": 3.78,
     "Black": 4284.0,
     "Old Gold": 3.7,
-    "Steel Grey": 3.63,
+    "Steel Grey": 3.6,
     "Pure Gold": 3.75
   },
   "symbols": {
@@ -32,8 +32,8 @@
     "Double Axe": 10000.0,
     "Mustang": 9999.0,
     "Dagger": 4400.0,
-    "Fenrir": 2398.0,
     "Crescent": 2990.0,
+    "Fenrir": 2398.0,
     "Axe": 7777.0,
     "Novus Ordo": 4888.0,
     "Moon": 7000.0,
@@ -46,5 +46,5 @@
     "Silver": 4532.88,
     "Bronze": 1805.4
   },
-  "last_updated": 1790475833
+  "last_updated": 1790479774
 }
