@@ -3,14 +3,14 @@
     "Satin Gold": 3.4,
     "Platinum": 4.0,
     "Navy Blue": 3.75,
-    "Midnight Blue": 3060.0,
+    "Midnight Blue": 3264.0,
     "Onyx Black": 1762.9987,
     "Silver Blue": 4.08,
     "Gunmetal": 4.2,
     "Amber": 3.78,
     "Black": 4284.0,
-    "Steel Grey": 3.2347224,
-    "Pure Gold": 3.46,
+    "Steel Grey": 3.4,
+    "Pure Gold": 3.36,
     "Old Gold": 3.58
   },
   "symbols": {
@@ -36,19 +36,20 @@
     "Double Axe": 10000.0,
     "Mustang": 9999.0,
     "Crescent": 2990.0,
-    "Novus Ordo": 4200.0,
     "Dagger": 4000.0,
+    "Moon": 7000.0,
     "Fenrir": 2095.0,
     "Axe": 7777.0,
-    "Moon": 7000.0,
-    "Calm Wolf": 5000.0,
+    "Novus Ordo": 4200.0,
     "Okami Wolf": 1900.0,
+    "Calm Wolf": 5000.0,
+    "Egg": 3999.0,
     "Nordic Wolf": 2549.99
   },
   "models": {
     "Gold": 20400.0,
-    "Silver": 3060.0,
+    "Silver": 8976.0,
     "Bronze": 1762.9987
   },
-  "last_updated": 1790609392
+  "last_updated": 1790613560
 }
