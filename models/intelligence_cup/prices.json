@@ -4,8 +4,8 @@
     "Neon Blue": 3.99,
     "Gunmetal": 3.98,
     "Platinum": 3.48,
-    "Midnight Blue": 1887.9996,
-    "Ivory White": 3.43,
+    "Midnight Blue": 1776.993,
+    "Ivory White": 3.3,
     "Black": 3060.0,
     "Pure Gold": 3.44,
     "Silver Blue": 3.32,
@@ -35,7 +35,7 @@
   "models": {
     "Gold": 10200.0,
     "Silver": 3060.0,
-    "Bronze": 1887.9996
+    "Bronze": 1776.993
   },
-  "last_updated": 1790630390
+  "last_updated": 1790634541
 }
