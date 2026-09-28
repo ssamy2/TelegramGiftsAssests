@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Satin Gold": 3.25,
+    "Satin Gold": 3.26,
     "Platinum": 4.0,
     "Navy Blue": 3.75,
     "Midnight Blue": 3060.0,
@@ -9,7 +9,7 @@
     "Gunmetal": 4.2,
     "Amber": 3.78,
     "Black": 4284.0,
-    "Steel Grey": 3.1938775,
+    "Steel Grey": 3.26,
     "Pure Gold": 3.4,
     "Old Gold": 3.58
   },
@@ -30,19 +30,19 @@
     "Baseball Cap": 2099.0,
     "Mountain Lion": 3650.0,
     "Cicada": 3999.0,
-    "Scorpion": 1800.0,
+    "Scorpion": 1770.41,
     "Imperial Lion": 2900.0,
     "Two Katanas": 4000.0,
     "Double Axe": 10000.0,
     "Mustang": 9999.0,
-    "Novus Ordo": 4200.0,
-    "Crescent": 2990.0,
-    "Okami Wolf": 1900.0,
-    "Axe": 7777.0,
-    "Fenrir": 2095.0,
-    "Moon": 7000.0,
-    "Calm Wolf": 5000.0,
     "Dagger": 4000.0,
+    "Crescent": 2990.0,
+    "Fenrir": 2095.0,
+    "Axe": 7777.0,
+    "Calm Wolf": 5000.0,
+    "Novus Ordo": 4200.0,
+    "Okami Wolf": 1900.0,
+    "Moon": 7000.0,
     "Nordic Wolf": 2549.99
   },
   "models": {
@@ -50,5 +50,5 @@
     "Silver": 3060.0,
     "Bronze": 1762.9987
   },
-  "last_updated": 1790601029
+  "last_updated": 1790605196
 }
