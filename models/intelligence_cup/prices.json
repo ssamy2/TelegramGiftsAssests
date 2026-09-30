@@ -3,14 +3,14 @@
     "Onyx Black": 2448.0,
     "Neon Blue": 3.99,
     "Gunmetal": 3.98,
-    "Platinum": 3.42,
+    "Platinum": 3.4,
     "Midnight Blue": 1776.993,
-    "Ivory White": 3.47,
+    "Ivory White": 3.39,
     "Black": 3060.0,
-    "Pure Gold": 3.42,
+    "Pure Gold": 3.4,
     "Silver Blue": 3.32,
     "Copper": 3.89,
-    "Steel Grey": 3.5,
+    "Steel Grey": 3.54,
     "Roman Silver": 3.43
   },
   "symbols": {
@@ -30,12 +30,12 @@
     "Lily": 3233.0,
     "Celtic Wolf": 5100.0,
     "Evil Dragon": 2554.0,
-    "Bastet": 9999.0
+    "Bastet": 2650.0
   },
   "models": {
-    "Gold": 5999.895,
+    "Gold": 10200.0,
     "Silver": 3060.0,
     "Bronze": 2294.9897
   },
-  "last_updated": 1790794768
+  "last_updated": 1790798954
 }
