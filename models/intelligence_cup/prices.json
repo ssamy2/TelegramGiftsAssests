@@ -5,12 +5,12 @@
     "Gunmetal": 3.98,
     "Platinum": 3.48,
     "Midnight Blue": 1776.993,
-    "Ivory White": 3.53,
+    "Ivory White": 3.5,
     "Black": 3060.0,
-    "Pure Gold": 3.47,
+    "Pure Gold": 3.4795928,
     "Silver Blue": 3.32,
     "Copper": 3.89,
-    "Steel Grey": 3.52,
+    "Steel Grey": 3.76,
     "Roman Silver": 3.49
   },
   "symbols": {
@@ -37,5 +37,5 @@
     "Silver": 3060.0,
     "Bronze": 2300.1
   },
-  "last_updated": 1790769725
+  "last_updated": 1790773876
 }
