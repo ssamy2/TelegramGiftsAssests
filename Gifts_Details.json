@@ -1315,6 +1315,12 @@
       "floor_price_ton": 1999.0,
       "tgmrkt_price_ton": 2294.8267,
       "getgems_price_ton": 3499.0
+    },
+    {
+      "full_name": "White Gilded",
+      "short_name": "white_gilded",
+      "regular_id": "5913351908466098791",
+      "models": "models/white_gilded/prices.json"
     }
   ],
   "unupgraded": [
@@ -1324,13 +1330,6 @@
       "id": "5832325860073407546",
       "custom_emoji_id": "5893391945606110355",
       "price_ton": 20.0
-    },
-    {
-      "full_name": "Chill Flame",
-      "short_name": "chill_flame",
-      "id": "5913351908466098791",
-      "custom_emoji_id": "5891147576085847661",
-      "price_ton": 47.9
     },
     {
       "full_name": "Mood Pack",
@@ -1457,13 +1456,6 @@
       "id": "5897607679345427347",
       "price_ton": 5.62,
       "custom_emoji_id": "5890913891210239220"
-    },
-    {
-      "full_name": "Khabib's Papakha",
-      "short_name": "khabibs_papakha",
-      "id": "5839094187366024301",
-      "custom_emoji_id": "5890852395868496901",
-      "price_ton": 193.9938
     }
   ],
   "upgraded_description": "A unique collectible NFT that can be collected, sold, or gifted to friends.",
