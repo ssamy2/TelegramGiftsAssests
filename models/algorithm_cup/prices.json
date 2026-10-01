@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Satin Gold": 3.36,
+    "Satin Gold": 3.44,
     "Platinum": 4.0,
     "Navy Blue": 3.75,
     "Midnight Blue": 3264.0,
@@ -9,8 +9,8 @@
     "Gunmetal": 4.2,
     "Amber": 3.78,
     "Black": 6120.0,
-    "Steel Grey": 3.4727573,
-    "Pure Gold": 3.5,
+    "Steel Grey": 3.4922192,
+    "Pure Gold": 3.39,
     "Old Gold": 3.58
   },
   "symbols": {
@@ -30,19 +30,19 @@
     "Baseball Cap": 2499.0,
     "Mountain Lion": 15555.0,
     "Cicada": 3969.0,
-    "Scorpion": 1770.0,
+    "Scorpion": 1900.0,
     "Imperial Lion": 2900.0,
     "Two Katanas": 4000.0,
     "Double Axe": 10000.0,
     "Mustang": 9999.0,
     "Calm Wolf": 5000.0,
     "Crescent": 2990.0,
-    "Okami Wolf": 1999.0,
+    "Dagger": 4080.0,
     "Fenrir": 2095.0,
     "Axe": 7777.0,
     "Novus Ordo": 4200.0,
-    "Dagger": 4080.0,
     "Moon": 12000.0,
+    "Okami Wolf": 1999.0,
     "Egg": 3969.0,
     "Sakura Flower": 2888.0,
     "Nordic Wolf": 2549.99
@@ -52,5 +52,5 @@
     "Bronze": 1936.98,
     "Gold": 20400.0
   },
-  "last_updated": 1790856715
+  "last_updated": 1790860772
 }
