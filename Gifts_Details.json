@@ -1320,7 +1320,8 @@
       "full_name": "White Gilded",
       "short_name": "white_gilded",
       "regular_id": "5913351908466098791",
-      "models": "models/white_gilded/prices.json"
+      "models": "models/white_gilded/prices.json",
+      "custom_emoji_id": "5891147576085847661"
     }
   ],
   "unupgraded": [
