@@ -7,10 +7,10 @@
     "Midnight Blue": 1776.993,
     "Ivory White": 3.5,
     "Black": 2648.991,
-    "Pure Gold": 3.42,
+    "Pure Gold": 3.43,
     "Silver Blue": 3.32,
     "Copper": 3.42,
-    "Steel Grey": 3.49,
+    "Steel Grey": 3.43,
     "Roman Silver": 3.35
   },
   "symbols": {
@@ -28,15 +28,15 @@
     "Rain Drop": 3000.0,
     "Galaxy": 3750.0,
     "Sakura Flower": 2299.0,
-    "Lily": 3233.0,
+    "Lily": 2632.0,
     "Celtic Wolf": 5100.0,
     "Evil Dragon": 2497.0,
     "Bastet": 2650.0
   },
   "models": {
     "Gold": 8160.0,
-    "Silver": 2049.996,
+    "Silver": 2091.0,
     "Bronze": 1677.9
   },
-  "last_updated": 1790972128
+  "last_updated": 1790976184
 }
