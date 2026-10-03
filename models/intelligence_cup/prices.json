@@ -9,8 +9,8 @@
     "Black": 2648.991,
     "Pure Gold": 3.5,
     "Silver Blue": 3.32,
-    "Copper": 3.44,
     "Steel Grey": 3.43,
+    "Copper": 3.44,
     "Roman Silver": 3.35
   },
   "symbols": {
@@ -35,8 +35,8 @@
   },
   "models": {
     "Gold": 8160.0,
-    "Silver": 2049.996,
+    "Silver": 2099.9963,
     "Bronze": 1677.9
   },
-  "last_updated": 1791001015
+  "last_updated": 1791005099
 }
