@@ -19,8 +19,8 @@
     "Sapphire": 3.41,
     "Mystic Pearl": 3.41,
     "Satin Gold": 3.42,
-    "Electric Purple": 3.42,
     "Onyx Black": 1275.0,
+    "Electric Purple": 3.42,
     "Ivory White": 3.42,
     "Rosewood": 3.45,
     "Raspberry": 3.48,
@@ -40,10 +40,10 @@
     "Caramel": 3.44,
     "Roman Silver": 3.41,
     "Battleship Grey": 3.42,
-    "Black": 3399.66,
     "Pacific Green": 3.42,
     "Pine Green": 3.47,
     "Aquamarine": 3.42,
+    "Black": 3399.66,
     "Amber": 3.41,
     "Chestnut": 3.42,
     "Desert Sand": 3.41,
@@ -231,7 +231,7 @@
     "Salem": 10200.0,
     "Ranni": 255.0,
     "Ruby": 357.0,
-    "Weedcat": 236.64,
+    "Weedcat": 234.09,
     "Puss in Boots": 275.4,
     "Vapurr": 244.8,
     "Virus": 234.6,
@@ -242,5 +242,5 @@
     "Cake": 275.4,
     "Caramel": 460.02
   },
-  "last_updated": 1791079460
+  "last_updated": 1791083839
 }
