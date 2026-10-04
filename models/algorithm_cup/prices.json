@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Satin Gold": 3.49,
+    "Satin Gold": 3.46,
     "Platinum": 4.0,
     "Navy Blue": 3.75,
     "Midnight Blue": 3264.0,
@@ -10,7 +10,7 @@
     "Amber": 3.78,
     "Black": 6120.0,
     "Old Gold": 3.44,
-    "Steel Grey": 3.41,
+    "Steel Grey": 3.42,
     "Pure Gold": 3.42
   },
   "symbols": {
@@ -39,9 +39,9 @@
     "Calm Wolf": 5000.0,
     "Crescent": 2990.0,
     "Novus Ordo": 4200.0,
-    "Moon": 12000.0,
-    "Axe": 7777.0,
     "Dagger": 4100.0,
+    "Axe": 7777.0,
+    "Moon": 12000.0,
     "Okami Wolf": 1999.0,
     "Fenrir": 3150.0,
     "Egg": 3499.0,
@@ -53,5 +53,5 @@
     "Bronze": 1825.3818,
     "Gold": 20400.0
   },
-  "last_updated": 1791125888
+  "last_updated": 1791130080
 }
