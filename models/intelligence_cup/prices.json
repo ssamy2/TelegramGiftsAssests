@@ -6,10 +6,10 @@
     "Platinum": 3.4,
     "Midnight Blue": 1776.993,
     "Ivory White": 3.5,
-    "Satin Gold": 3.3877552,
+    "Satin Gold": 3.39,
     "Black": 2648.991,
-    "Pure Gold": 3.39,
     "Silver Blue": 3.32,
+    "Pure Gold": 3.38,
     "Copper": 3.39,
     "Steel Grey": 3.39,
     "Roman Silver": 3.35
@@ -33,7 +33,7 @@
     "Sakura Flower": 2299.0,
     "Lily": 2632.0,
     "Celtic Wolf": 2300.0,
-    "Evil Dragon": 2497.0,
+    "Evil Dragon": 2298.0,
     "Bastet": 2650.0
   },
   "models": {
@@ -41,5 +41,5 @@
     "Silver": 1999.9956,
     "Bronze": 1433.1
   },
-  "last_updated": 1791313745
+  "last_updated": 1791317830
 }
