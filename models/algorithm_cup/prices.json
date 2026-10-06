@@ -8,10 +8,10 @@
     "Silver Blue": 3.44,
     "Gunmetal": 4.2,
     "Amber": 3.78,
-    "Pure Gold": 3.42,
-    "Black": 6120.0,
     "Old Gold": 3.39,
-    "Steel Grey": 3.4
+    "Black": 6120.0,
+    "Steel Grey": 3.4,
+    "Pure Gold": 3.42
   },
   "symbols": {
     "Nemean Lion": 4000.0,
@@ -42,8 +42,8 @@
     "Novus Ordo": 4200.0,
     "Okami Wolf": 1999.0,
     "Dagger": 4100.0,
-    "Moon": 8164.0,
     "Fenrir": 3000.0,
+    "Moon": 8164.0,
     "Egg": 3100.0,
     "Sakura Flower": 2888.0,
     "Nordic Wolf": 2549.99
@@ -53,5 +53,5 @@
     "Silver": 8976.0,
     "Bronze": 1785.0
   },
-  "last_updated": 1791244176
+  "last_updated": 1791248286
 }
