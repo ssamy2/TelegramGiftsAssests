@@ -9,9 +9,9 @@
     "Satin Gold": 3.39,
     "Black": 2648.991,
     "Silver Blue": 3.32,
-    "Pure Gold": 3.38,
+    "Pure Gold": 3.39,
     "Copper": 3.39,
-    "Steel Grey": 3.39,
+    "Steel Grey": 3.3899999,
     "Roman Silver": 3.35
   },
   "symbols": {
@@ -20,7 +20,7 @@
     "Diamond": 2500.0,
     "Battle Axe": 1700.0,
     "Glasses": 2888.0,
-    "Kitsune": 1950.0,
+    "Kitsune": 1945.0,
     "Trophy": 2500.0,
     "Flag": 3000.0,
     "Fenrir": 3500.0,
@@ -38,8 +38,8 @@
   },
   "models": {
     "Gold": 8160.0,
-    "Silver": 1999.9956,
-    "Bronze": 1433.1
+    "Silver": 1949.9952,
+    "Bronze": 1399.9908
   },
-  "last_updated": 1791317830
+  "last_updated": 1791321892
 }
