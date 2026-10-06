@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Satin Gold": 3.39,
+    "Satin Gold": 3.41,
     "Platinum": 4.0,
     "Navy Blue": 3.75,
     "Midnight Blue": 3264.0,
@@ -8,10 +8,10 @@
     "Silver Blue": 3.44,
     "Gunmetal": 4.2,
     "Amber": 3.78,
-    "Pure Gold": 3.39,
     "Black": 5334.6,
     "Old Gold": 3.41,
-    "Steel Grey": 3.39
+    "Steel Grey": 3.4,
+    "Pure Gold": 3.41
   },
   "symbols": {
     "Nemean Lion": 4000.0,
@@ -51,7 +51,7 @@
   "models": {
     "Gold": 20400.0,
     "Silver": 8976.0,
-    "Bronze": 1774.8
+    "Bronze": 1723.8
   },
-  "last_updated": 1791293842
+  "last_updated": 1791297736
 }
