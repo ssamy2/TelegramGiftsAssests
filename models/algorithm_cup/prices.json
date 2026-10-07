@@ -9,7 +9,7 @@
     "Gunmetal": 4.2,
     "Amber": 3.78,
     "Black": 5334.6,
-    "Old Gold": 3.42,
+    "Old Gold": 3.41,
     "Steel Grey": 3.42,
     "Pure Gold": 3.42
   },
@@ -39,12 +39,12 @@
     "Mustang": 9999.0,
     "Calm Wolf": 5000.0,
     "Crescent": 2990.0,
-    "Dagger": 4100.0,
     "Axe": 7777.0,
     "Novus Ordo": 4200.0,
-    "Moon": 8164.0,
     "Okami Wolf": 1999.0,
+    "Dagger": 4100.0,
     "Fenrir": 2950.0,
+    "Moon": 8164.0,
     "Egg": 2999.0,
     "Sakura Flower": 2888.0,
     "Nordic Wolf": 2549.99
@@ -54,5 +54,5 @@
     "Silver": 2958.0,
     "Bronze": 1721.76
   },
-  "last_updated": 1791362485
+  "last_updated": 1791366581
 }
