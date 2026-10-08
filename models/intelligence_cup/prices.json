@@ -6,9 +6,9 @@
     "Platinum": 3.4,
     "Midnight Blue": 1776.993,
     "Ivory White": 3.5,
-    "Satin Gold": 3.48,
+    "Satin Gold": 3.49,
     "Black": 2648.991,
-    "Pure Gold": 3.4799998,
+    "Pure Gold": 3.5,
     "Silver Blue": 3.32,
     "Steel Grey": 3.49,
     "Copper": 3.5,
@@ -39,8 +39,8 @@
   },
   "models": {
     "Gold": 8160.0,
-    "Silver": 1949.9952,
-    "Bronze": 1397.4
+    "Silver": 1899.9948,
+    "Bronze": 1382.1
   },
-  "last_updated": 1791452345
+  "last_updated": 1791456483
 }
