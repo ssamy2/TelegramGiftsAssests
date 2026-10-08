@@ -2,16 +2,16 @@
   "backdrops": {
     "Onyx Black": 1836.0,
     "Neon Blue": 3.99,
+    "Gunmetal": 3.55,
     "Platinum": 3.4,
-    "Gunmetal": 3.6,
     "Midnight Blue": 1776.993,
     "Ivory White": 3.5,
     "Satin Gold": 3.69,
     "Black": 2648.991,
-    "Pure Gold": 3.67,
     "Silver Blue": 3.32,
-    "Steel Grey": 3.59,
-    "Copper": 3.55,
+    "Pure Gold": 3.6699991,
+    "Copper": 3.59,
+    "Steel Grey": 3.7,
     "Roman Silver": 3.35
   },
   "symbols": {
@@ -20,7 +20,7 @@
     "Diamond": 2500.0,
     "Battle Axe": 1700.0,
     "Glasses": 2888.0,
-    "Kitsune": 1850.0,
+    "Kitsune": 1920.0,
     "Trophy": 2500.0,
     "Flag": 3000.0,
     "Fenrir": 2600.0,
@@ -42,5 +42,5 @@
     "Silver": 1899.9948,
     "Bronze": 1397.298
   },
-  "last_updated": 1791477308
+  "last_updated": 1791481459
 }

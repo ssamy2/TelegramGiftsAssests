@@ -9,9 +9,9 @@
     "Gunmetal": 4.2,
     "Amber": 3.78,
     "Black": 5334.6,
-    "Old Gold": 3.59,
-    "Steel Grey": 3.59,
-    "Pure Gold": 3.67
+    "Old Gold": 3.58,
+    "Steel Grey": 3.7,
+    "Pure Gold": 3.6699991
   },
   "symbols": {
     "Nemean Lion": 4000.0,
@@ -38,10 +38,10 @@
     "Double Axe": 10000.0,
     "Mustang": 9999.0,
     "Calm Wolf": 5000.0,
-    "Novus Ordo": 4200.0,
+    "Okami Wolf": 1999.0,
     "Crescent": 2990.0,
     "Axe": 7777.0,
-    "Okami Wolf": 1999.0,
+    "Novus Ordo": 4200.0,
     "Dagger": 4100.0,
     "Fenrir": 2900.0,
     "Moon": 12000.0,
@@ -51,8 +51,8 @@
   },
   "models": {
     "Silver": 2751.96,
-    "Gold": 20400.0,
-    "Bronze": 1799.28
+    "Bronze": 1799.28,
+    "Gold": 20400.0
   },
-  "last_updated": 1791477308
+  "last_updated": 1791481459
 }
