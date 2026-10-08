@@ -1327,7 +1327,8 @@
       "full_name": "The Creation",
       "short_name": "the_creation",
       "regular_id": "5872744075014177223",
-      "models": "models/the_creation/prices.json"
+      "models": "models/the_creation/prices.json",
+      "custom_emoji_id": "5892971528437374635"
     }
   ],
   "unupgraded": [
