@@ -2,16 +2,16 @@
   "backdrops": {
     "Onyx Black": 1836.0,
     "Neon Blue": 3.99,
-    "Gunmetal": 3.98,
     "Platinum": 3.4,
+    "Gunmetal": 3.6,
     "Midnight Blue": 1776.993,
     "Ivory White": 3.5,
-    "Satin Gold": 3.4799936,
+    "Satin Gold": 3.4799926,
     "Black": 2648.991,
-    "Silver Blue": 3.32,
     "Pure Gold": 3.5,
+    "Silver Blue": 3.32,
     "Copper": 3.5,
-    "Steel Grey": 3.48,
+    "Steel Grey": 3.479999,
     "Roman Silver": 3.35
   },
   "symbols": {
@@ -34,12 +34,13 @@
     "Lily": 2632.0,
     "Celtic Wolf": 2000.0,
     "Evil Dragon": 2298.0,
-    "Bastet": 2650.0
+    "Bastet": 2650.0,
+    "Trinity Knot": 1649.0
   },
   "models": {
     "Gold": 8160.0,
     "Silver": 1949.9952,
     "Bronze": 1397.4
   },
-  "last_updated": 1791444077
+  "last_updated": 1791448212
 }
