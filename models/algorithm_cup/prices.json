@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Satin Gold": 3.66,
+    "Satin Gold": 3.589641,
     "Feldgrau": 3.6,
     "Platinum": 4.0,
     "Navy Blue": 3.75,
@@ -10,8 +10,8 @@
     "Gunmetal": 4.2,
     "Amber": 3.78,
     "Old Gold": 3.63,
-    "Steel Grey": 3.68,
-    "Pure Gold": 3.58,
+    "Steel Grey": 3.62,
+    "Pure Gold": 3.61,
     "Black": 5334.6
   },
   "symbols": {
@@ -33,7 +33,7 @@
     "Baseball Cap": 2499.0,
     "Mountain Lion": 15555.0,
     "Cicada": 2999.0,
-    "Scorpion": 1945.0,
+    "Scorpion": 1940.1,
     "Imperial Lion": 2900.0,
     "Two Katanas": 4000.0,
     "Moon Eagle": 1829.8,
@@ -52,9 +52,9 @@
     "Nordic Wolf": 2549.99
   },
   "models": {
-    "Bronze": 1999.2,
     "Silver": 2547.96,
+    "Bronze": 1999.2,
     "Gold": 20400.0
   },
-  "last_updated": 1791571875
+  "last_updated": 1791575831
 }
