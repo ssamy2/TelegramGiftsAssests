@@ -5,13 +5,13 @@
     "Platinum": 3.4,
     "Gunmetal": 3.86,
     "Midnight Blue": 1776.993,
-    "Ivory White": 3.67,
-    "Satin Gold": 3.63,
+    "Ivory White": 3.69,
+    "Satin Gold": 3.66,
     "Black": 2648.991,
-    "Pure Gold": 3.66,
-    "Silver Blue": 3.32,
-    "Steel Grey": 3.74,
-    "Copper": 3.66,
+    "Silver Blue": 3.67,
+    "Pure Gold": 3.58,
+    "Steel Grey": 3.68,
+    "Copper": 3.55,
     "Roman Silver": 3.35
   },
   "symbols": {
@@ -26,6 +26,7 @@
     "Flag": 3000.0,
     "Fenrir": 2600.0,
     "Alert Serpent": 1650.0,
+    "Crystal Ball": 1699.0,
     "Tree of Life": 2000.0,
     "Gamepad": 3970.0,
     "Thunderbird": 35000.0,
@@ -43,5 +44,5 @@
     "Silver": 2040.0,
     "Bronze": 1632.0
   },
-  "last_updated": 1791567535
+  "last_updated": 1791571876
 }
