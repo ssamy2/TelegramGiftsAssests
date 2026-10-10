@@ -10,8 +10,8 @@
     "Black": 2648.991,
     "Silver Blue": 3.67,
     "Pure Gold": 3.67,
-    "Copper": 3.63,
     "Steel Grey": 3.75,
+    "Copper": 3.63,
     "Roman Silver": 3.35
   },
   "symbols": {
@@ -25,7 +25,7 @@
     "Trophy": 2500.0,
     "Flag": 3000.0,
     "Fenrir": 2600.0,
-    "Alert Serpent": 1650.0,
+    "Alert Serpent": 10204.1,
     "Crystal Ball": 1699.0,
     "Tree of Life": 2000.0,
     "Gamepad": 3970.0,
@@ -44,5 +44,5 @@
     "Silver": 2040.0,
     "Bronze": 1632.0
   },
-  "last_updated": 1791607655
+  "last_updated": 1791611584
 }
