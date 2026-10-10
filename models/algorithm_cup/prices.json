@@ -1,7 +1,7 @@
 {
   "backdrops": {
-    "Satin Gold": 3.65,
-    "Feldgrau": 3.66,
+    "Satin Gold": 3.62,
+    "Feldgrau": 3.65,
     "Platinum": 4.0,
     "Navy Blue": 3.75,
     "Midnight Blue": 3264.0,
@@ -9,8 +9,8 @@
     "Silver Blue": 3.44,
     "Gunmetal": 4.2,
     "Amber": 3.78,
-    "Old Gold": 3.5221848,
-    "Steel Grey": 3.74,
+    "Steel Grey": 3.75,
+    "Old Gold": 3.61,
     "Pure Gold": 3.67,
     "Black": 5334.6
   },
@@ -41,20 +41,20 @@
     "Mustang": 9999.0,
     "Calm Wolf": 5000.0,
     "Crescent": 2990.0,
-    "Dagger": 4100.0,
-    "Moon": 12000.0,
-    "Axe": 7777.0,
-    "Okami Wolf": 1999.0,
     "Fenrir": 2750.0,
     "Novus Ordo": 4200.0,
+    "Axe": 7777.0,
+    "Okami Wolf": 1999.0,
+    "Dagger": 4100.0,
+    "Moon": 12000.0,
     "Egg": 2999.0,
     "Sakura Flower": 2888.0,
     "Nordic Wolf": 2549.99
   },
   "models": {
-    "Silver": 2448.0,
     "Bronze": 1999.2,
+    "Silver": 2448.0,
     "Gold": 20400.0
   },
-  "last_updated": 1791599732
+  "last_updated": 1791603724
 }
