@@ -1334,7 +1334,8 @@
       "full_name": "Digital Rain",
       "short_name": "digital_rain",
       "regular_id": "5832279504491381684",
-      "models": "models/digital_rain/prices.json"
+      "models": "models/digital_rain/prices.json",
+      "custom_emoji_id": "5890954405636742597"
     }
   ],
   "unupgraded": [
