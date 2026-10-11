@@ -2,7 +2,7 @@
   "backdrops": {
     "Onyx Black": 1836.0,
     "Neon Blue": 3.99,
-    "Platinum": 3.4,
+    "Platinum": 3.6,
     "Gunmetal": 3.86,
     "Midnight Blue": 1776.993,
     "Ivory White": 3.6,
@@ -10,8 +10,8 @@
     "Black": 2648.991,
     "Silver Blue": 3.64,
     "Pure Gold": 3.62,
-    "Steel Grey": 3.68,
     "Copper": 3.6,
+    "Steel Grey": 3.68,
     "Roman Silver": 3.35
   },
   "symbols": {
@@ -31,6 +31,7 @@
     "Gamepad": 3970.0,
     "Thunderbird": 35000.0,
     "Rain Drop": 3000.0,
+    "Wreath": 1699.0,
     "Galaxy": 3750.0,
     "Sakura Flower": 2299.0,
     "Lily": 2632.0,
@@ -44,5 +45,5 @@
     "Silver": 2000.22,
     "Bronze": 1632.0
   },
-  "last_updated": 1791691929
+  "last_updated": 1791696044
 }
