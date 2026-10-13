@@ -2,15 +2,15 @@
   "backdrops": {
     "Onyx Black": 1672.8,
     "Neon Blue": 3.99,
+    "Platinum": 3.63,
     "Gunmetal": 3.86,
-    "Platinum": 3.65,
     "Midnight Blue": 1776.993,
-    "Ivory White": 3.6,
+    "Ivory White": 3.69,
     "Satin Gold": 3.65,
     "Black": 2648.991,
     "Silver Blue": 3.599999,
-    "Pure Gold": 3.65,
-    "Copper": 3.64,
+    "Pure Gold": 3.63,
+    "Copper": 3.59,
     "Steel Grey": 3.66,
     "Roman Silver": 3.35
   },
@@ -24,8 +24,8 @@
     "Kitsune": 1790.0,
     "Trophy": 2500.0,
     "Flag": 3000.0,
-    "Musical Note": 1999.0,
     "Fenrir": 2600.0,
+    "Musical Note": 1999.0,
     "Alert Serpent": 10204.1,
     "Crystal Ball": 1699.0,
     "Tree of Life": 1999.0,
@@ -46,5 +46,5 @@
     "Silver": 2000.22,
     "Bronze": 1672.8
   },
-  "last_updated": 1791869565
+  "last_updated": 1791873472
 }
