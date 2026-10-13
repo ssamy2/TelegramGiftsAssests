@@ -2,16 +2,16 @@
   "backdrops": {
     "Onyx Black": 1672.8,
     "Neon Blue": 3.99,
-    "Platinum": 3.59,
+    "Platinum": 3.5714297,
     "Gunmetal": 3.86,
     "Midnight Blue": 1776.993,
-    "Ivory White": 3.7,
-    "Satin Gold": 3.58,
+    "Ivory White": 3.65,
+    "Satin Gold": 3.57,
     "Black": 2648.991,
+    "Pure Gold": 3.61,
     "Silver Blue": 3.599999,
-    "Pure Gold": 3.59,
-    "Steel Grey": 3.6,
-    "Copper": 3.57,
+    "Copper": 3.5,
+    "Steel Grey": 3.66,
     "Roman Silver": 3.35
   },
   "symbols": {
@@ -24,15 +24,15 @@
     "Kitsune": 1790.0,
     "Trophy": 2500.0,
     "Flag": 3000.0,
-    "Musical Note": 2290.0,
+    "Musical Note": 1999.0,
     "Fenrir": 2600.0,
     "Alert Serpent": 10204.1,
     "Crystal Ball": 1699.0,
     "Tree of Life": 1999.0,
     "Gamepad": 3970.0,
     "Thunderbird": 35000.0,
-    "Wreath": 1699.0,
     "Rain Drop": 3000.0,
+    "Wreath": 1699.0,
     "Galaxy": 3750.0,
     "Sakura Flower": 2299.0,
     "Lily": 2632.0,
@@ -46,5 +46,5 @@
     "Silver": 2000.22,
     "Bronze": 1672.8
   },
-  "last_updated": 1791846730
+  "last_updated": 1791850652
 }
