@@ -9,9 +9,9 @@
     "Silver Blue": 3.44,
     "Gunmetal": 4.2,
     "Amber": 3.78,
-    "Steel Grey": 3.59,
-    "Old Gold": 3.59,
     "Pure Gold": 3.59,
+    "Old Gold": 3.58,
+    "Steel Grey": 3.59,
     "Black": 5334.6
   },
   "symbols": {
@@ -41,8 +41,8 @@
     "Mustang": 9999.0,
     "Calm Wolf": 5000.0,
     "Crescent": 2990.0,
-    "Axe": 7777.0,
     "Novus Ordo": 4200.0,
+    "Axe": 7777.0,
     "Okami Wolf": 1699.0,
     "Dagger": 3990.0,
     "Moon": 12000.0,
@@ -56,5 +56,5 @@
     "Bronze": 1626.9,
     "Gold": 20400.0
   },
-  "last_updated": 1791961937
+  "last_updated": 1791965736
 }
