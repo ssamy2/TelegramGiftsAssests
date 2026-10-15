@@ -5,13 +5,13 @@
     "Platinum": 3.68,
     "Gunmetal": 3.86,
     "Midnight Blue": 1776.993,
-    "Ivory White": 3.65,
+    "Ivory White": 3.66,
     "Satin Gold": 3.67,
     "Black": 2648.991,
     "Silver Blue": 3.599999,
-    "Pure Gold": 3.67,
+    "Pure Gold": 3.44,
+    "Steel Grey": 3.7,
     "Copper": 3.66,
-    "Steel Grey": 3.69,
     "Roman Silver": 3.35
   },
   "symbols": {
@@ -31,8 +31,8 @@
     "Tree of Life": 1999.0,
     "Gamepad": 3970.0,
     "Thunderbird": 35000.0,
-    "Rain Drop": 3000.0,
     "Wreath": 1688.0,
+    "Rain Drop": 3000.0,
     "Galaxy": 3750.0,
     "Sakura Flower": 2299.0,
     "Lily": 2632.0,
@@ -46,5 +46,5 @@
     "Silver": 2040.0,
     "Bronze": 1671.9534
   },
-  "last_updated": 1792023396
+  "last_updated": 1792027314
 }
