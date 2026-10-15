@@ -1,7 +1,7 @@
 {
   "backdrops": {
-    "Satin Gold": 3.65,
-    "Feldgrau": 3.67,
+    "Satin Gold": 3.7,
+    "Feldgrau": 3.64,
     "Platinum": 4.0,
     "Navy Blue": 3.75,
     "Midnight Blue": 3264.0,
@@ -9,10 +9,10 @@
     "Silver Blue": 3.44,
     "Gunmetal": 4.2,
     "Amber": 3.78,
-    "Steel Grey": 3.7,
-    "Pure Gold": 3.67,
+    "Pure Gold": 3.7,
     "Black": 5334.6,
-    "Old Gold": 3.63
+    "Old Gold": 3.65,
+    "Steel Grey": 3.7
   },
   "symbols": {
     "Nemean Lion": 4000.0,
@@ -21,7 +21,7 @@
     "Coat of Arms": 4500.0,
     "Trickster Fox": 3450.0,
     "Telescope": 4700.0,
-    "Lion Head": 1850.0,
+    "Lion Head": 1750.0,
     "Thunderbird": 2900.0,
     "Holy Grail": 4500.0,
     "Wreath": 15000.0,
@@ -53,8 +53,8 @@
   },
   "models": {
     "Silver": 2244.0,
-    "Gold": 20400.0,
-    "Bronze": 1626.9
+    "Bronze": 1326.0,
+    "Gold": 20400.0
   },
-  "last_updated": 1792059205
+  "last_updated": 1792063505
 }
