@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Satin Gold": 3.6,
+    "Satin Gold": 3.63,
     "Feldgrau": 3.67,
     "Platinum": 4.0,
     "Navy Blue": 3.75,
@@ -10,7 +10,7 @@
     "Gunmetal": 4.2,
     "Amber": 3.78,
     "Old Gold": 3.69,
-    "Steel Grey": 3.7,
+    "Steel Grey": 3.75,
     "Pure Gold": 3.67,
     "Black": 5334.6
   },
@@ -52,9 +52,9 @@
     "Nordic Wolf": 2549.99
   },
   "models": {
-    "Silver": 2244.0,
     "Bronze": 1626.9,
-    "Gold": 20400.0
+    "Gold": 20400.0,
+    "Silver": 2244.0
   },
-  "last_updated": 1792051218
+  "last_updated": 1792055154
 }
