@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Satin Gold": 3.7,
-    "Feldgrau": 3.7,
+    "Feldgrau": 3.68,
     "Platinum": 4.0,
     "Navy Blue": 3.75,
     "Ivory White": 3.7,
@@ -11,8 +11,8 @@
     "Gunmetal": 4.2,
     "Amber": 3.78,
     "Old Gold": 3.7,
-    "Pure Gold": 3.7,
     "Steel Grey": 3.7,
+    "Pure Gold": 3.7,
     "Black": 5334.6
   },
   "symbols": {
@@ -22,7 +22,7 @@
     "Coat of Arms": 4500.0,
     "Trickster Fox": 3450.0,
     "Telescope": 4700.0,
-    "Lion Head": 1670.0,
+    "Lion Head": 1640.0,
     "Thunderbird": 2900.0,
     "Holy Grail": 4500.0,
     "Wreath": 15000.0,
@@ -44,10 +44,10 @@
     "Crescent": 2990.0,
     "Axe": 7777.0,
     "Novus Ordo": 4200.0,
-    "Dagger": 3990.0,
+    "Okami Wolf": 1666.0,
     "Fenrir": 2700.0,
     "Moon": 12000.0,
-    "Okami Wolf": 1599.0,
+    "Dagger": 3990.0,
     "Egg": 3999.0,
     "Sakura Flower": 2888.0,
     "Nordic Wolf": 2549.99,
@@ -58,5 +58,5 @@
     "Bronze": 1621.8,
     "Gold": 20400.0
   },
-  "last_updated": 1792172590
+  "last_updated": 1792176911
 }
