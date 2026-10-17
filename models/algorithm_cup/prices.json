@@ -4,7 +4,7 @@
     "Feldgrau": 3.68,
     "Platinum": 4.0,
     "Navy Blue": 3.75,
-    "Ivory White": 3.69,
+    "Ivory White": 3.72,
     "Midnight Blue": 3264.0,
     "Onyx Black": 2550.0,
     "Silver Blue": 3.44,
@@ -34,7 +34,7 @@
     "Baseball Cap": 2499.0,
     "Mountain Lion": 15555.0,
     "Cicada": 3590.0,
-    "Scorpion": 1699.0,
+    "Scorpion": 1569.9,
     "Imperial Lion": 2900.0,
     "Two Katanas": 4000.0,
     "Moon Eagle": 1829.8,
@@ -54,9 +54,9 @@
     "Twin Koi": 1700.0
   },
   "models": {
-    "Gold": 20400.0,
     "Silver": 2197.08,
+    "Gold": 20400.0,
     "Bronze": 1326.0
   },
-  "last_updated": 1792268479
+  "last_updated": 1792272789
 }
