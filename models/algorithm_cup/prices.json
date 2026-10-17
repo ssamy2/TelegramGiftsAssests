@@ -1,7 +1,7 @@
 {
   "backdrops": {
     "Satin Gold": 3.7,
-    "Feldgrau": 3.69,
+    "Feldgrau": 3.7,
     "Platinum": 4.0,
     "Navy Blue": 3.75,
     "Ivory White": 3.72,
@@ -11,8 +11,8 @@
     "Gunmetal": 4.2,
     "Amber": 3.78,
     "Old Gold": 3.7,
-    "Black": 5334.6,
     "Steel Grey": 3.75,
+    "Black": 5334.6,
     "Pure Gold": 3.7
   },
   "symbols": {
@@ -58,5 +58,5 @@
     "Bronze": 1621.8,
     "Gold": 20400.0
   },
-  "last_updated": 1792277086
+  "last_updated": 1792281364
 }
