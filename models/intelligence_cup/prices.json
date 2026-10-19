@@ -5,11 +5,11 @@
     "Platinum": 3.74,
     "Gunmetal": 3.86,
     "Midnight Blue": 1776.993,
-    "Ivory White": 3.9,
-    "Satin Gold": 3.72,
+    "Ivory White": 3.74,
+    "Satin Gold": 3.73,
     "Black": 2599.98,
     "Silver Blue": 3.73,
-    "Pure Gold": 3.75,
+    "Pure Gold": 3.74,
     "Steel Grey": 3.7,
     "Copper": 3.7,
     "Roman Silver": 3.35
@@ -40,13 +40,13 @@
     "Evil Dragon": 2298.0,
     "Bastet": 2650.0,
     "Trinity Knot": 1649.0,
-    "Pegasus": 5500.0,
-    "Cobra": 1750.0
+    "Cobra": 1750.0,
+    "Pegasus": 5500.0
   },
   "models": {
     "Gold": 8160.0,
     "Silver": 1499.9916,
     "Bronze": 1377.0
   },
-  "last_updated": 1792389266
+  "last_updated": 1792393578
 }
