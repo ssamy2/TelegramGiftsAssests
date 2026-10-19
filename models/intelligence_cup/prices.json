@@ -5,11 +5,11 @@
     "Platinum": 3.75,
     "Gunmetal": 3.86,
     "Midnight Blue": 1776.993,
-    "Ivory White": 3.88,
-    "Satin Gold": 3.73,
+    "Ivory White": 3.8783295,
+    "Satin Gold": 3.77,
     "Black": 2599.98,
     "Silver Blue": 3.75,
-    "Pure Gold": 3.75,
+    "Pure Gold": 3.74,
     "Steel Grey": 3.7,
     "Copper": 3.7,
     "Roman Silver": 3.35
@@ -24,8 +24,8 @@
     "Kitsune": 1790.0,
     "Trophy": 2500.0,
     "Flag": 3000.0,
-    "Musical Note": 1999.0,
     "Fenrir": 2600.0,
+    "Musical Note": 1999.0,
     "Alert Serpent": 1550.0,
     "Crystal Ball": 1700.0,
     "Tree of Life": 1800.0,
@@ -48,5 +48,5 @@
     "Silver": 1499.9916,
     "Bronze": 1377.0
   },
-  "last_updated": 1792406390
+  "last_updated": 1792410953
 }
