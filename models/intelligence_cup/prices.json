@@ -2,10 +2,10 @@
   "backdrops": {
     "Onyx Black": 1631.8674,
     "Neon Blue": 3.99,
-    "Platinum": 3.79,
-    "Gunmetal": 3.86,
+    "Platinum": 3.77,
+    "Gunmetal": 3.79,
     "Midnight Blue": 1776.993,
-    "Ivory White": 3.88,
+    "Ivory White": 3.79,
     "Satin Gold": 3.77,
     "Black": 2599.98,
     "Silver Blue": 3.8,
@@ -26,7 +26,7 @@
     "Flag": 3000.0,
     "Fenrir": 2600.0,
     "Musical Note": 1999.0,
-    "Alert Serpent": 1123.0,
+    "Alert Serpent": 1497.0,
     "Crystal Ball": 1700.0,
     "Tree of Life": 1800.0,
     "Gamepad": 3970.0,
@@ -41,12 +41,13 @@
     "Bastet": 2650.0,
     "Trinity Knot": 1649.0,
     "Cobra": 1750.0,
-    "Pegasus": 5500.0
+    "Pegasus": 5500.0,
+    "Scorpion": 1666.0
   },
   "models": {
     "Gold": 8160.0,
     "Silver": 1499.9916,
     "Bronze": 1377.0
   },
-  "last_updated": 1792442154
+  "last_updated": 1792446107
 }
