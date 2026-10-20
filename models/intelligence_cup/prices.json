@@ -1,15 +1,15 @@
 {
   "backdrops": {
-    "Onyx Black": 1629.9906,
+    "Onyx Black": 1630.9902,
     "Neon Blue": 3.99,
     "Gunmetal": 3.9,
-    "Platinum": 3.79,
+    "Platinum": 3.77,
     "Midnight Blue": 1776.993,
     "Ivory White": 3.9,
-    "Satin Gold": 3.79,
+    "Satin Gold": 3.77,
     "Black": 2599.98,
     "Silver Blue": 3.88,
-    "Pure Gold": 3.77,
+    "Pure Gold": 3.79,
     "Steel Grey": 3.7,
     "Copper": 3.7,
     "Roman Silver": 3.35
@@ -21,7 +21,7 @@
     "Battle Axe": 1700.0,
     "Glasses": 2888.0,
     "Wizard Hat": 1800.0,
-    "Kitsune": 1790.0,
+    "Kitsune": 1660.0,
     "Trophy": 2500.0,
     "Flag": 3000.0,
     "Fenrir": 2600.0,
@@ -40,14 +40,15 @@
     "Evil Dragon": 2298.0,
     "Bastet": 2000.0,
     "Trinity Knot": 1649.0,
-    "Cobra": 1750.0,
     "Pegasus": 5000.0,
-    "Scorpion": 1588.0
+    "Cobra": 1750.0,
+    "Scorpion": 1588.0,
+    "Easter Egg": 2450.0
   },
   "models": {
     "Gold": 8160.0,
     "Silver": 1499.9916,
     "Bronze": 1377.0
   },
-  "last_updated": 1792497572
+  "last_updated": 1792501546
 }
