@@ -8,8 +8,8 @@
     "Ivory White": 3.75,
     "Satin Gold": 3.79,
     "Black": 2599.98,
-    "Silver Blue": 3.75,
-    "Pure Gold": 3.75,
+    "Silver Blue": 3.8,
+    "Pure Gold": 3.79,
     "Steel Grey": 3.7,
     "Copper": 3.7,
     "Roman Silver": 3.35
@@ -40,8 +40,8 @@
     "Evil Dragon": 2298.0,
     "Bastet": 2000.0,
     "Trinity Knot": 1649.0,
-    "Pegasus": 5500.0,
     "Cobra": 1750.0,
+    "Pegasus": 5500.0,
     "Scorpion": 1666.0
   },
   "models": {
@@ -49,5 +49,5 @@
     "Silver": 1499.9916,
     "Bronze": 1377.0
   },
-  "last_updated": 1792457874
+  "last_updated": 1792461816
 }
