@@ -1,10 +1,10 @@
 {
   "backdrops": {
     "Satin Gold": 3.79,
-    "Feldgrau": 3.79,
+    "Feldgrau": 3.75,
     "Platinum": 4.0,
     "Navy Blue": 3.75,
-    "Ivory White": 3.9,
+    "Ivory White": 3.75,
     "Midnight Blue": 3264.0,
     "Onyx Black": 2550.0,
     "Silver Blue": 3.44,
@@ -13,7 +13,7 @@
     "Black": 5334.6,
     "Old Gold": 3.78,
     "Steel Grey": 3.78,
-    "Pure Gold": 3.79
+    "Pure Gold": 3.75
   },
   "symbols": {
     "Nemean Lion": 4000.0,
@@ -44,10 +44,10 @@
     "Crescent": 2990.0,
     "Axe": 7777.0,
     "Novus Ordo": 4200.0,
-    "Dagger": 2140.0,
+    "Okami Wolf": 1513.12,
     "Fenrir": 2150.0,
     "Moon": 12000.0,
-    "Okami Wolf": 1513.12,
+    "Dagger": 2140.0,
     "Egg": 3999.0,
     "Sakura Flower": 2888.0,
     "Nordic Wolf": 2549.99,
@@ -58,5 +58,5 @@
     "Bronze": 1621.8,
     "Gold": 20400.0
   },
-  "last_updated": 1792453919
+  "last_updated": 1792457873
 }
