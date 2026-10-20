@@ -24,9 +24,9 @@
     "Kitsune": 1790.0,
     "Trophy": 2500.0,
     "Flag": 3000.0,
-    "Fenrir": 2600.0,
     "Musical Note": 1999.0,
-    "Alert Serpent": 1497.0,
+    "Fenrir": 2600.0,
+    "Alert Serpent": 1495.0,
     "Crystal Ball": 1700.0,
     "Tree of Life": 1800.0,
     "Gamepad": 3970.0,
@@ -40,8 +40,8 @@
     "Evil Dragon": 2298.0,
     "Bastet": 2000.0,
     "Trinity Knot": 1649.0,
-    "Cobra": 1750.0,
     "Pegasus": 5500.0,
+    "Cobra": 1750.0,
     "Scorpion": 1666.0
   },
   "models": {
@@ -49,5 +49,5 @@
     "Silver": 1499.9916,
     "Bronze": 1377.0
   },
-  "last_updated": 1792477761
+  "last_updated": 1792481609
 }
