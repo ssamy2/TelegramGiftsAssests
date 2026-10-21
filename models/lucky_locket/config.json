@@ -1,0 +1,62 @@
+[
+  {
+    "name": "the_legend",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/lucky_locket/the_legend.tgs",
+    "webp_path": "models/lucky_locket/the_legend.webp",
+    "custom_emoji_id": "5201766142091242022",
+    "model_id": "5201766142091242022",
+    "telegram_document_id": "5201766142091242022",
+    "telegram_file_id": "BQACAgIAAxUAAWrYXxit7RReAgZ8QYoNOlzLgqAdAAImqgACv2IwSIiJBTQXYOcrHgQ"
+  },
+  {
+    "name": "secret_key",
+    "rarity_percent": 3.0,
+    "tgs_path": "models/lucky_locket/secret_key.tgs",
+    "webp_path": "models/lucky_locket/secret_key.webp",
+    "custom_emoji_id": "5217572991835089843",
+    "model_id": "5217572991835089843",
+    "telegram_document_id": "5217572991835089843",
+    "telegram_file_id": "BQACAgIAAxUAAWrYXxjLR1KMJ8vt7f4epRtTXLShAAKzqwAC_opoSN8lqLTwZtJZHgQ"
+  },
+  {
+    "name": "ouija",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/lucky_locket/ouija.tgs",
+    "webp_path": "models/lucky_locket/ouija.webp",
+    "custom_emoji_id": "5229121789526849652",
+    "model_id": "5229121789526849652",
+    "telegram_document_id": "5229121789526849652",
+    "telegram_file_id": "BQACAgIAAxUAAWrYXxiHJlUc8dlqaItDWPcMBhZ9AAJ0uAACkJKRSGiJwHozXy7XHgQ"
+  },
+  {
+    "name": "to_the_moon",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/lucky_locket/to_the_moon.tgs",
+    "webp_path": "models/lucky_locket/to_the_moon.webp",
+    "custom_emoji_id": "5244685148984745946",
+    "model_id": "5244685148984745946",
+    "telegram_document_id": "5244685148984745946",
+    "telegram_file_id": "BQACAgIAAxUAAWrYXxgJzy5doWmER1BRBp7afq9lAALanwACW93ISOclZGEmQkYCHgQ"
+  },
+  {
+    "name": "ufo",
+    "rarity_percent": 3.0,
+    "tgs_path": "models/lucky_locket/ufo.tgs",
+    "webp_path": "models/lucky_locket/ufo.webp",
+    "custom_emoji_id": "5282903941238010628",
+    "model_id": "5282903941238010628",
+    "telegram_document_id": "5282903941238010628",
+    "telegram_file_id": "BQACAgIAAxUAAWrYXxhEmjbTMcelShiosHbyWMUaAAIEswACJaVQSRcNtnC13dDGHgQ"
+  },
+  {
+    "name": "beauty_beast",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/lucky_locket/beauty_beast.tgs",
+    "webp_path": "models/lucky_locket/beauty_beast.webp",
+    "custom_emoji_id": "5282932047503994428",
+    "model_id": "5282932047503994428",
+    "telegram_document_id": "5282932047503994428",
+    "telegram_file_id": "BQACAgIAAxUAAWrYXxjFizqu7sFdOZFxaTcrttdsAAI8rgACtb5QSXiKeniD5t2eHgQ"
+  }
+]
