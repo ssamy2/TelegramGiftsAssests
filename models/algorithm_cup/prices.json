@@ -11,9 +11,9 @@
     "Gunmetal": 4.2,
     "Amber": 3.78,
     "Black": 5334.6,
-    "Old Gold": 3.83,
-    "Steel Grey": 3.8968747,
-    "Pure Gold": 3.85
+    "Steel Grey": 3.95,
+    "Pure Gold": 3.85,
+    "Old Gold": 3.83
   },
   "symbols": {
     "Nemean Lion": 4000.0,
@@ -55,8 +55,8 @@
   },
   "models": {
     "Silver": 2040.0,
-    "Gold": 20400.0,
-    "Bronze": 1479.0
+    "Bronze": 1479.0,
+    "Gold": 20400.0
   },
-  "last_updated": 1792552787
+  "last_updated": 1792556741
 }
