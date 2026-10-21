@@ -2,14 +2,14 @@
   "backdrops": {
     "Onyx Black": 1530.0,
     "Neon Blue": 3.99,
-    "Platinum": 3.81,
     "Gunmetal": 3.9,
+    "Platinum": 3.81,
     "Midnight Blue": 1776.993,
-    "Ivory White": 3.84,
+    "Ivory White": 3.9,
     "Satin Gold": 3.81,
     "Black": 2599.98,
-    "Navy Blue": 3.81,
-    "Pure Gold": 3.81,
+    "Navy Blue": 3.88,
+    "Pure Gold": 3.82,
     "Silver Blue": 3.85,
     "Steel Grey": 3.7,
     "Copper": 3.7,
@@ -33,8 +33,8 @@
     "Tree of Life": 1800.0,
     "Gamepad": 3970.0,
     "Thunderbird": 35000.0,
-    "Wreath": 1450.0,
     "Rain Drop": 3000.0,
+    "Wreath": 1450.0,
     "Galaxy": 3750.0,
     "Sakura Flower": 2299.0,
     "Lily": 2632.0,
@@ -42,7 +42,7 @@
     "Evil Dragon": 2298.0,
     "Bastet": 2500.0,
     "Trinity Knot": 1649.0,
-    "Cobra": 1750.0,
+    "Cobra": 1700.0,
     "Pegasus": 6000.0,
     "Scorpion": 1588.0,
     "Easter Egg": 2450.0
@@ -52,5 +52,5 @@
     "Silver": 2040.0,
     "Bronze": 1224.0
   },
-  "last_updated": 1792602338
+  "last_updated": 1792606746
 }
