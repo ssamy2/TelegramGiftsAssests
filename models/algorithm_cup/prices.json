@@ -11,8 +11,8 @@
     "Gunmetal": 4.2,
     "Amber": 3.78,
     "Black": 5334.6,
-    "Old Gold": 3.8,
-    "Steel Grey": 3.9039688,
+    "Old Gold": 3.83,
+    "Steel Grey": 3.8968747,
     "Pure Gold": 3.85
   },
   "symbols": {
@@ -54,9 +54,9 @@
     "Twin Koi": 1700.0
   },
   "models": {
-    "Bronze": 1479.0,
+    "Silver": 2040.0,
     "Gold": 20400.0,
-    "Silver": 2040.0
+    "Bronze": 1479.0
   },
-  "last_updated": 1792548745
+  "last_updated": 1792552787
 }
