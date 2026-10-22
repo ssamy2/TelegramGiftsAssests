@@ -3,12 +3,12 @@
     "Onyx Black": 1499.9916,
     "Neon Blue": 3.99,
     "Gunmetal": 3.9,
-    "Platinum": 4.0,
+    "Platinum": 3.97,
     "Midnight Blue": 1776.993,
-    "Ivory White": 3.99,
-    "Satin Gold": 3.98,
+    "Ivory White": 4.0,
+    "Satin Gold": 3.99,
     "Black": 2599.98,
-    "Navy Blue": 3.98,
+    "Navy Blue": 4.0,
     "Pure Gold": 3.99,
     "Silver Blue": 3.85,
     "Steel Grey": 3.7,
@@ -51,7 +51,7 @@
   "models": {
     "Gold": 8160.0,
     "Silver": 1734.0,
-    "Bronze": 1326.0
+    "Bronze": 1300.5
   },
-  "last_updated": 1792680422
+  "last_updated": 1792684840
 }
