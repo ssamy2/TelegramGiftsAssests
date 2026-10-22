@@ -3,14 +3,14 @@
     "Onyx Black": 1499.9916,
     "Neon Blue": 3.99,
     "Gunmetal": 3.9,
-    "Platinum": 3.89,
+    "Platinum": 3.9,
     "Midnight Blue": 1776.993,
-    "Ivory White": 3.99,
-    "Satin Gold": 3.94,
+    "Ivory White": 4.0,
+    "Satin Gold": 3.95,
     "Black": 2599.98,
-    "Navy Blue": 3.88,
-    "Pure Gold": 3.98,
+    "Navy Blue": 3.91,
     "Silver Blue": 3.85,
+    "Pure Gold": 3.9797776,
     "Steel Grey": 3.7,
     "Copper": 3.7,
     "Roman Silver": 3.35
@@ -22,12 +22,13 @@
     "Diamond": 2500.0,
     "Battle Axe": 1700.0,
     "Glasses": 2888.0,
+    "Jewel": 1666.0,
     "Wizard Hat": 1800.0,
     "Kitsune": 1645.0,
     "Trophy": 2500.0,
     "Flag": 3000.0,
-    "Musical Note": 1999.0,
     "Fenrir": 2400.0,
+    "Musical Note": 1999.0,
     "Alert Serpent": 1495.0,
     "Crystal Ball": 1700.0,
     "Tree of Life": 1800.0,
@@ -50,7 +51,7 @@
   "models": {
     "Gold": 8160.0,
     "Silver": 1734.0,
-    "Bronze": 1326.0
+    "Bronze": 1324.9902
   },
-  "last_updated": 1792663336
+  "last_updated": 1792667498
 }
