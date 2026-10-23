@@ -11,9 +11,9 @@
     "Gunmetal": 4.17,
     "Amber": 3.78,
     "Black": 5334.6,
-    "Old Gold": 3.94,
     "Steel Grey": 3.93,
-    "Pure Gold": 3.92
+    "Pure Gold": 3.92,
+    "Old Gold": 3.94
   },
   "symbols": {
     "Flag": 1430.0,
@@ -43,8 +43,8 @@
     "Mustang": 9999.0,
     "Calm Wolf": 5000.0,
     "Crescent": 2990.0,
-    "Axe": 7777.0,
     "Novus Ordo": 4200.0,
+    "Axe": 7777.0,
     "Okami Wolf": 1430.0,
     "Dagger": 2140.0,
     "Fenrir": 2100.0,
@@ -55,9 +55,9 @@
     "Twin Koi": 1700.0
   },
   "models": {
-    "Silver": 2099.9963,
     "Bronze": 1417.8,
+    "Silver": 2099.9963,
     "Gold": 20400.0
   },
-  "last_updated": 1792710941
+  "last_updated": 1792715404
 }
