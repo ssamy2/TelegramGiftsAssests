@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Satin Gold": 3.91,
+    "Satin Gold": 3.89,
     "Feldgrau": 3.9,
     "Platinum": 4.0,
     "Navy Blue": 3.75,
@@ -8,12 +8,12 @@
     "Midnight Blue": 3264.0,
     "Onyx Black": 2550.0,
     "Silver Blue": 3.44,
-    "Gunmetal": 4.13,
+    "Gunmetal": 3.98,
     "Amber": 3.78,
     "Black": 5334.6,
     "Old Gold": 3.9,
-    "Steel Grey": 3.96,
-    "Pure Gold": 3.91
+    "Steel Grey": 3.95,
+    "Pure Gold": 3.89
   },
   "symbols": {
     "Flag": 1395.0,
@@ -48,16 +48,16 @@
     "Novus Ordo": 4200.0,
     "Okami Wolf": 1395.0,
     "Dagger": 2099.0,
-    "Fenrir": 2100.0,
+    "Fenrir": 1700.0,
     "Egg": 2690.0,
     "Sakura Flower": 2888.0,
     "Nordic Wolf": 2549.99,
     "Twin Koi": 1700.0
   },
   "models": {
-    "Bronze": 1326.0,
     "Gold": 20400.0,
-    "Silver": 2288.88
+    "Silver": 2288.88,
+    "Bronze": 1326.0
   },
-  "last_updated": 1792879096
+  "last_updated": 1792883360
 }
