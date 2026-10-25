@@ -2,7 +2,7 @@
   "backdrops": {
     "Onyx Black": 1530.0,
     "Neon Blue": 3.99,
-    "Platinum": 3.89,
+    "Platinum": 3.9,
     "Gunmetal": 4.22,
     "Midnight Blue": 1776.993,
     "Ivory White": 3.97,
@@ -27,14 +27,14 @@
     "Kitsune": 1645.0,
     "Trophy": 2500.0,
     "Flag": 3000.0,
-    "Fenrir": 2400.0,
     "Musical Note": 1999.0,
+    "Fenrir": 2400.0,
     "Alert Serpent": 1495.0,
     "Crystal Ball": 1700.0,
     "Tree of Life": 1500.0,
     "Gamepad": 3970.0,
     "Thunderbird": 35000.0,
-    "Wreath": 1399.9,
+    "Wreath": 1349.0,
     "Rain Drop": 3000.0,
     "Galaxy": 3750.0,
     "Sakura Flower": 2299.0,
@@ -50,8 +50,8 @@
   },
   "models": {
     "Gold": 8160.0,
-    "Silver": 2040.0,
+    "Silver": 1359.66,
     "Bronze": 1224.0
   },
-  "last_updated": 1792901120
+  "last_updated": 1792905426
 }
