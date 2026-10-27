@@ -2,11 +2,11 @@
   "backdrops": {
     "Onyx Black": 1630.9902,
     "Neon Blue": 3.99,
-    "Platinum": 3.97,
     "Gunmetal": 4.22,
+    "Platinum": 3.97,
     "Midnight Blue": 1776.993,
     "Ivory White": 3.97,
-    "Satin Gold": 3.99,
+    "Satin Gold": 4.1,
     "Black": 2599.98,
     "Navy Blue": 3.89,
     "Pure Gold": 3.98,
@@ -43,8 +43,8 @@
     "Evil Dragon": 1593.0,
     "Bastet": 2198.99,
     "Trinity Knot": 1649.0,
-    "Cobra": 1777.0,
     "Pegasus": 6000.0,
+    "Cobra": 1777.0,
     "Scorpion": 1500.0,
     "Easter Egg": 2450.0
   },
@@ -53,5 +53,5 @@
     "Silver": 2040.0,
     "Bronze": 1630.9902
   },
-  "last_updated": 1793140867
+  "last_updated": 1793143590
 }
