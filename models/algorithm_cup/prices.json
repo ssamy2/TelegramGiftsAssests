@@ -1,19 +1,19 @@
 {
   "backdrops": {
-    "Satin Gold": 4.0,
+    "Satin Gold": 3.99,
     "Feldgrau": 4.0,
     "Platinum": 4.0,
-    "Navy Blue": 3.75,
+    "Navy Blue": 3.97,
     "Ivory White": 3.9,
     "Midnight Blue": 3264.0,
     "Onyx Black": 2550.0,
     "Silver Blue": 3.44,
-    "Gunmetal": 4.18,
+    "Gunmetal": 4.09,
     "Amber": 3.78,
     "Black": 5334.6,
-    "Old Gold": 4.0,
-    "Steel Grey": 3.99,
-    "Pure Gold": 4.0
+    "Steel Grey": 4.0,
+    "Pure Gold": 3.98,
+    "Old Gold": 3.99
   },
   "symbols": {
     "Flag": 1374.0,
@@ -23,7 +23,7 @@
     "Coat of Arms": 4500.0,
     "Trickster Fox": 3450.0,
     "Telescope": 4700.0,
-    "Lion Head": 1368.0,
+    "Lion Head": 2000.0,
     "Thunderbird": 1800.0,
     "Holy Grail": 4500.0,
     "Wreath": 15000.0,
@@ -34,7 +34,7 @@
     "Royal Crown": 10000.0,
     "Baseball Cap": 2499.0,
     "Mountain Lion": 15555.0,
-    "Cicada": 2690.0,
+    "Cicada": 2590.0,
     "Scorpion": 1539.9,
     "Imperial Lion": 2900.0,
     "Two Katanas": 4000.0,
@@ -43,21 +43,21 @@
     "Mustang": 9999.0,
     "Calm Wolf": 5000.0,
     "Novus Ordo": 4200.0,
-    "Okami Wolf": 1368.0,
+    "Okami Wolf": 1999.0,
     "Dagger": 2500.0,
+    "Fenrir": 2400.0,
     "Moon": 12000.0,
     "Crescent": 2990.0,
-    "Fenrir": 1700.0,
     "Axe": 7777.0,
-    "Egg": 2690.0,
+    "Egg": 2590.0,
     "Sakura Flower": 2888.0,
-    "Nordic Wolf": 2549.99,
+    "Nordic Wolf": 1998.0,
     "Twin Koi": 1700.0
   },
   "models": {
     "Silver": 2288.88,
-    "Gold": 20400.0,
-    "Bronze": 1425.96
+    "Bronze": 1425.96,
+    "Gold": 20400.0
   },
-  "last_updated": 1793071610
+  "last_updated": 1793140867
 }
