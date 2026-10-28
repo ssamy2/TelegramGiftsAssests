@@ -40,10 +40,6 @@
     "rarity_percent": 0.5
   },
   {
-    "name": "Coonskin Cap",
-    "rarity_percent": 0.4
-  },
-  {
     "name": "Bloody Axe",
     "rarity_percent": 0.8
   },
@@ -53,6 +49,10 @@
   },
   {
     "name": "Spooky Cat",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Cauldron",
     "rarity_percent": 0.8
   },
   {
@@ -156,10 +156,6 @@
     "rarity_percent": 0.4
   },
   {
-    "name": "Leprechaun",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Conical Hat",
     "rarity_percent": 0.4
   },
@@ -196,6 +192,10 @@
     "rarity_percent": 0.4
   },
   {
+    "name": "Star Crown",
+    "rarity_percent": 0.4
+  },
+  {
     "name": "Car",
     "rarity_percent": 0.5
   },
@@ -204,8 +204,8 @@
     "rarity_percent": 0.5
   },
   {
-    "name": "Dessert",
-    "rarity_percent": 0.2
+    "name": "Calm Wolf",
+    "rarity_percent": 0.4
   },
   {
     "name": "Palette",
@@ -284,6 +284,10 @@
     "rarity_percent": 0.4
   },
   {
+    "name": "Grenade",
+    "rarity_percent": 0.5
+  },
+  {
     "name": "Moon",
     "rarity_percent": 0.8
   },
@@ -305,10 +309,6 @@
   },
   {
     "name": "Jumbo Pencil",
-    "rarity_percent": 0.4
-  },
-  {
-    "name": "Rain Drop",
     "rarity_percent": 0.4
   },
   {
@@ -392,6 +392,10 @@
     "rarity_percent": 0.4
   },
   {
+    "name": "Red Deer",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Trinity Knot",
     "rarity_percent": 0.4
   },
@@ -448,6 +452,10 @@
     "rarity_percent": 0.8
   },
   {
+    "name": "Porrige",
+    "rarity_percent": 0.4
+  },
+  {
     "name": "Winged Helm",
     "rarity_percent": 0.4
   },
@@ -458,6 +466,10 @@
   {
     "name": "Witch Hat",
     "rarity_percent": 0.8
+  },
+  {
+    "name": "Chick",
+    "rarity_percent": 0.2
   },
   {
     "name": "Spellbook",
@@ -501,6 +513,10 @@
   },
   {
     "name": "Snail",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Paw Print",
     "rarity_percent": 0.5
   },
   {
@@ -592,8 +608,16 @@
     "rarity_percent": 1.0
   },
   {
+    "name": "Heraldic Lily",
+    "rarity_percent": 0.5
+  },
+  {
     "name": "Pumpkin Coach",
     "rarity_percent": 1.0
+  },
+  {
+    "name": "Doberman",
+    "rarity_percent": 0.2
   },
   {
     "name": "Baphomet",
@@ -621,6 +645,10 @@
   },
   {
     "name": "Arabian Horse",
+    "rarity_percent": 0.4
+  },
+  {
+    "name": "Golden Scarab",
     "rarity_percent": 0.4
   }
 ]
