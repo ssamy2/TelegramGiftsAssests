@@ -16,6 +16,10 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Magic Wand",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Rocket",
     "rarity_percent": 0.2
   },
@@ -26,6 +30,10 @@
   {
     "name": "Cap",
     "rarity_percent": 1.0
+  },
+  {
+    "name": "Pencil",
+    "rarity_percent": 0.2
   },
   {
     "name": "Chest",
@@ -44,8 +52,20 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Bunny Ears",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Top Hat",
     "rarity_percent": 0.8
+  },
+  {
+    "name": "Thief",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Axe",
+    "rarity_percent": 0.2
   },
   {
     "name": "Pickaxe",
@@ -84,7 +104,7 @@
     "rarity_percent": 0.2
   },
   {
-    "name": "Pear",
+    "name": "Garden Pot",
     "rarity_percent": 0.2
   },
   {
@@ -112,8 +132,24 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Coffee Bean",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Calm Wolf",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Dessert",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Wolf Rage",
     "rarity_percent": 1.0
+  },
+  {
+    "name": "Handset",
+    "rarity_percent": 0.2
   },
   {
     "name": "Coat of Arms",
@@ -121,6 +157,10 @@
   },
   {
     "name": "Ghost",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Flower Tulip",
     "rarity_percent": 0.2
   },
   {
@@ -180,11 +220,15 @@
     "rarity_percent": 1.0
   },
   {
-    "name": "Shooting Star",
+    "name": "Plum",
     "rarity_percent": 0.2
   },
   {
     "name": "Ice Pop",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Sprout",
     "rarity_percent": 0.2
   },
   {
@@ -196,16 +240,20 @@
     "rarity_percent": 0.2
   },
   {
-    "name": "Flipper",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Ink Pen",
     "rarity_percent": 0.5
   },
   {
+    "name": "Carrot",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "High Heels",
     "rarity_percent": 0.8
+  },
+  {
+    "name": "Sharp Sword",
+    "rarity_percent": 0.2
   },
   {
     "name": "Sakura",
@@ -233,6 +281,10 @@
   },
   {
     "name": "Cupcake",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Chili Pepper",
     "rarity_percent": 0.2
   },
   {
@@ -266,6 +318,10 @@
   {
     "name": "Royal Crown",
     "rarity_percent": 0.8
+  },
+  {
+    "name": "Spider Web",
+    "rarity_percent": 0.2
   },
   {
     "name": "Knight",
@@ -332,10 +388,6 @@
     "rarity_percent": 1.0
   },
   {
-    "name": "Monstera",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Unicorn Head",
     "rarity_percent": 1.0
   },
@@ -345,6 +397,10 @@
   },
   {
     "name": "Hammerhead",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Jumbo Pencil",
     "rarity_percent": 0.2
   },
   {
@@ -372,6 +428,10 @@
     "rarity_percent": 0.5
   },
   {
+    "name": "Flashlight",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Mushroom",
     "rarity_percent": 0.2
   },
@@ -381,10 +441,6 @@
   },
   {
     "name": "Cactus",
-    "rarity_percent": 0.2
-  },
-  {
-    "name": "Diamonds",
     "rarity_percent": 0.2
   },
   {
@@ -398,6 +454,10 @@
   {
     "name": "Genie Lamp",
     "rarity_percent": 0.8
+  },
+  {
+    "name": "Sunflower",
+    "rarity_percent": 0.2
   },
   {
     "name": "Champagne",
@@ -430,6 +490,10 @@
   {
     "name": "Diamond",
     "rarity_percent": 0.8
+  },
+  {
+    "name": "Love Lock",
+    "rarity_percent": 0.2
   },
   {
     "name": "Viking",
@@ -489,6 +553,14 @@
   },
   {
     "name": "Smartphone",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Hamburger",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Red Deer",
     "rarity_percent": 0.2
   },
   {
