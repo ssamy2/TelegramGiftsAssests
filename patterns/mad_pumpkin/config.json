@@ -196,10 +196,6 @@
     "rarity_percent": 2.4
   },
   {
-    "name": "Bone",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Flower",
     "rarity_percent": 0.2
   },
@@ -357,6 +353,14 @@
   },
   {
     "name": "Monstera",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Unicorn Head",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Like",
     "rarity_percent": 0.2
   },
   {
