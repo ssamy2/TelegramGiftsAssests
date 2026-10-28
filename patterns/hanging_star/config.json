@@ -236,6 +236,10 @@
     "rarity_percent": 1.6
   },
   {
+    "name": "Guitar",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Potion",
     "rarity_percent": 0.2
   },
@@ -473,6 +477,10 @@
   },
   {
     "name": "Bubbles",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Smartphone",
     "rarity_percent": 0.2
   },
   {
