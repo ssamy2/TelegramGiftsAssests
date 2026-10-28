@@ -112,7 +112,19 @@
     "rarity_percent": 1.6
   },
   {
+    "name": "Pencil",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Chest",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Bottle",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Cocktail",
     "rarity_percent": 0.2
   },
   {
@@ -128,7 +140,23 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Spanner",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Garden Pot",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Piñata",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Hermit Shell",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Wolf Rage",
     "rarity_percent": 0.2
   },
   {
@@ -156,7 +184,23 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Hand of God",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Sauron",
+    "rarity_percent": 2.4
+  },
+  {
+    "name": "Dolphin",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Shooting Star",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Plum",
     "rarity_percent": 0.2
   },
   {
@@ -173,6 +217,14 @@
   },
   {
     "name": "Ink Pen",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Polar Bear",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Pizza Slice",
     "rarity_percent": 0.2
   },
   {
@@ -200,12 +252,24 @@
     "rarity_percent": 2.4
   },
   {
+    "name": "Grenade",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Book",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Moon",
     "rarity_percent": 1.6
   },
   {
     "name": "Crystal Ball",
     "rarity_percent": 2.0
+  },
+  {
+    "name": "Bunny",
+    "rarity_percent": 0.2
   },
   {
     "name": "Illuminati",
@@ -236,15 +300,27 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Mushroom",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Ball",
     "rarity_percent": 0.2
   },
   {
-    "name": "Cactus",
+    "name": "Tie",
     "rarity_percent": 0.2
   },
   {
-    "name": "Sunflower",
+    "name": "Pomegranate",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Bandage",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Viking",
     "rarity_percent": 0.2
   },
   {
@@ -272,6 +348,10 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Hamburger",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Okami Wolf",
     "rarity_percent": 0.2
   },
@@ -292,7 +372,11 @@
     "rarity_percent": 0.2
   },
   {
-    "name": "Pegasus",
+    "name": "Tree of Life",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Eikthyrnir",
     "rarity_percent": 0.2
   },
   {
@@ -301,6 +385,10 @@
   },
   {
     "name": "Sun Mountain",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Totem Bear",
     "rarity_percent": 0.2
   },
   {
