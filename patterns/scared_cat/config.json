@@ -156,7 +156,7 @@
     "rarity_percent": 0.2
   },
   {
-    "name": "Carambola",
+    "name": "Handset",
     "rarity_percent": 0.2
   },
   {
@@ -164,15 +164,7 @@
     "rarity_percent": 2.0
   },
   {
-    "name": "Cat Mask",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Flower Tulip",
-    "rarity_percent": 0.2
-  },
-  {
-    "name": "Avocado",
     "rarity_percent": 0.2
   },
   {
@@ -200,19 +192,11 @@
     "rarity_percent": 0.2
   },
   {
-    "name": "Shark Knife",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Dolphin",
     "rarity_percent": 0.2
   },
   {
     "name": "Eggplant",
-    "rarity_percent": 0.2
-  },
-  {
-    "name": "Tooth",
     "rarity_percent": 0.2
   },
   {
@@ -257,6 +241,10 @@
   },
   {
     "name": "High Heels",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Sharp Sword",
     "rarity_percent": 0.2
   },
   {
@@ -308,20 +296,16 @@
     "rarity_percent": 0.2
   },
   {
-    "name": "Grenade",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Book",
-    "rarity_percent": 0.2
-  },
-  {
-    "name": "Sword",
     "rarity_percent": 0.2
   },
   {
     "name": "Moon",
     "rarity_percent": 2.0
+  },
+  {
+    "name": "UFO",
+    "rarity_percent": 0.2
   },
   {
     "name": "Crystal Ball",
@@ -352,7 +336,7 @@
     "rarity_percent": 0.2
   },
   {
-    "name": "Cash",
+    "name": "Lemon Slice",
     "rarity_percent": 0.2
   },
   {
@@ -432,15 +416,7 @@
     "rarity_percent": 0.2
   },
   {
-    "name": "Inguz Rune",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Fire",
-    "rarity_percent": 0.2
-  },
-  {
-    "name": "Shell",
     "rarity_percent": 0.2
   },
   {
@@ -460,6 +436,10 @@
     "rarity_percent": 1.6
   },
   {
+    "name": "Bastet",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Celtic Wolf",
     "rarity_percent": 0.2
   },
@@ -476,15 +456,11 @@
     "rarity_percent": 0.2
   },
   {
-    "name": "Moon Eagle",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Kitsune",
     "rarity_percent": 0.2
   },
   {
-    "name": "Pegasus",
+    "name": "Tribal Shield",
     "rarity_percent": 0.2
   },
   {
@@ -493,10 +469,6 @@
   },
   {
     "name": "Oxen of Fire",
-    "rarity_percent": 0.2
-  },
-  {
-    "name": "Ram of Amun",
     "rarity_percent": 0.2
   }
 ]
