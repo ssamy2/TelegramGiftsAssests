@@ -1,9 +1,9 @@
 {
   "backdrops": {
-    "Onyx Black": 1630.9902,
+    "Onyx Black": 1734.0,
     "Neon Blue": 3.99,
+    "Platinum": 3.99,
     "Gunmetal": 4.22,
-    "Platinum": 3.98,
     "Midnight Blue": 1776.993,
     "Ivory White": 3.97,
     "Satin Gold": 4.0,
@@ -51,7 +51,7 @@
   "models": {
     "Gold": 8160.0,
     "Silver": 2040.0,
-    "Bronze": 1630.9902
+    "Bronze": 1677.9
   },
-  "last_updated": 1793146356
+  "last_updated": 1793149060
 }
