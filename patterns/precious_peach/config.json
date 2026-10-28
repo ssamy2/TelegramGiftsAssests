@@ -1,27 +1,23 @@
 [
   {
+    "name": "Butterfly",
+    "rarity_percent": 0.4
+  },
+  {
     "name": "Passion Latte",
     "rarity_percent": 0.6
-  },
-  {
-    "name": "Loving Heart",
-    "rarity_percent": 0.6
-  },
-  {
-    "name": "Lips",
-    "rarity_percent": 0.4
   },
   {
     "name": "Lovebirds",
     "rarity_percent": 0.4
   },
   {
-    "name": "Flirty Message",
-    "rarity_percent": 0.4
-  },
-  {
     "name": "Aubergine",
     "rarity_percent": 0.6
+  },
+  {
+    "name": "Romantic Cake",
+    "rarity_percent": 0.4
   },
   {
     "name": "Sweets Box",
@@ -32,11 +28,15 @@
     "rarity_percent": 0.4
   },
   {
+    "name": "Broken Heart",
+    "rarity_percent": 0.6
+  },
+  {
     "name": "Padlock",
     "rarity_percent": 0.6
   },
   {
-    "name": "Lovely Key",
+    "name": "Double Bed",
     "rarity_percent": 0.4
   },
   {
@@ -44,20 +44,20 @@
     "rarity_percent": 0.6
   },
   {
-    "name": "Heart Balloon",
+    "name": "Loveberry",
     "rarity_percent": 0.6
   },
   {
-    "name": "Loveberry",
-    "rarity_percent": 0.6
+    "name": "Patched Heart",
+    "rarity_percent": 0.2
   },
   {
     "name": "Stilettos",
     "rarity_percent": 0.4
   },
   {
-    "name": "Cute Bear",
-    "rarity_percent": 0.4
+    "name": "Lingerie",
+    "rarity_percent": 0.2
   },
   {
     "name": "Kitty Cat",
@@ -68,16 +68,16 @@
     "rarity_percent": 0.6
   },
   {
-    "name": "Lovely Bra",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Lovely Rain",
     "rarity_percent": 0.4
   },
   {
-    "name": "Cupid’s Arrow",
-    "rarity_percent": 0.2
+    "name": "Shiny Heart",
+    "rarity_percent": 0.6
+  },
+  {
+    "name": "Napkins",
+    "rarity_percent": 0.6
   },
   {
     "name": "Cunning Fox",
@@ -88,23 +88,51 @@
     "rarity_percent": 0.2
   },
   {
-    "name": "Star",
-    "rarity_percent": 0.2
+    "name": "Trophy",
+    "rarity_percent": 0.5
   },
   {
-    "name": "Skull",
-    "rarity_percent": 0.2
+    "name": "Candy",
+    "rarity_percent": 0.4
   },
   {
-    "name": "Magic Wand",
-    "rarity_percent": 0.2
+    "name": "Fleur-de-lis",
+    "rarity_percent": 0.5
   },
   {
     "name": "Strawberry",
     "rarity_percent": 0.6
   },
   {
+    "name": "Chest",
+    "rarity_percent": 0.4
+  },
+  {
+    "name": "Crab",
+    "rarity_percent": 0.4
+  },
+  {
     "name": "Top Hat",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Thief",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Venetian Mask",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Flamingo",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Toilet",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Dice",
     "rarity_percent": 0.5
   },
   {
@@ -124,8 +152,12 @@
     "rarity_percent": 0.6
   },
   {
-    "name": "Garden Pot",
-    "rarity_percent": 0.2
+    "name": "Bow Tie",
+    "rarity_percent": 0.4
+  },
+  {
+    "name": "Pear",
+    "rarity_percent": 0.4
   },
   {
     "name": "Paw",
@@ -133,6 +165,10 @@
   },
   {
     "name": "Star Crown",
+    "rarity_percent": 0.4
+  },
+  {
+    "name": "Scarab",
     "rarity_percent": 0.4
   },
   {
@@ -144,11 +180,27 @@
     "rarity_percent": 0.4
   },
   {
+    "name": "Hermit Shell",
+    "rarity_percent": 0.4
+  },
+  {
     "name": "Calm Wolf",
     "rarity_percent": 0.5
   },
   {
+    "name": "Dessert",
+    "rarity_percent": 0.6
+  },
+  {
+    "name": "Wolf Rage",
+    "rarity_percent": 0.4
+  },
+  {
     "name": "Palette",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Ghost",
     "rarity_percent": 0.2
   },
   {
@@ -156,11 +208,15 @@
     "rarity_percent": 0.4
   },
   {
+    "name": "Flower",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Avocado",
     "rarity_percent": 0.2
   },
   {
-    "name": "Dragonfly",
+    "name": "Bee",
     "rarity_percent": 0.2
   },
   {
@@ -168,16 +224,20 @@
     "rarity_percent": 0.2
   },
   {
-    "name": "Chili",
-    "rarity_percent": 0.4
+    "name": "Coin Purse",
+    "rarity_percent": 0.5
   },
   {
-    "name": "Acorn",
+    "name": "Manta Ray",
     "rarity_percent": 0.2
   },
   {
-    "name": "Coin Purse",
-    "rarity_percent": 0.5
+    "name": "Apple",
+    "rarity_percent": 0.4
+  },
+  {
+    "name": "Sauron",
+    "rarity_percent": 0.4
   },
   {
     "name": "Cheese",
@@ -190,10 +250,6 @@
   {
     "name": "Burger",
     "rarity_percent": 0.2
-  },
-  {
-    "name": "Eggplant",
-    "rarity_percent": 0.4
   },
   {
     "name": "Piggy Bank",
@@ -216,12 +272,24 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Potion",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Melon",
     "rarity_percent": 0.6
   },
   {
+    "name": "Flipper",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Ink Pen",
     "rarity_percent": 0.4
+  },
+  {
+    "name": "Vortex",
+    "rarity_percent": 0.2
   },
   {
     "name": "Fish",
@@ -230,14 +298,6 @@
   {
     "name": "Carrot",
     "rarity_percent": 0.6
-  },
-  {
-    "name": "Sakura",
-    "rarity_percent": 0.5
-  },
-  {
-    "name": "Polar Bear",
-    "rarity_percent": 0.2
   },
   {
     "name": "Hippo",
@@ -260,20 +320,24 @@
     "rarity_percent": 0.6
   },
   {
+    "name": "Ladybug",
+    "rarity_percent": 0.4
+  },
+  {
     "name": "Cupcake",
     "rarity_percent": 0.2
   },
   {
-    "name": "Cobra",
-    "rarity_percent": 0.4
+    "name": "Turtle",
+    "rarity_percent": 0.2
   },
   {
     "name": "Grape",
     "rarity_percent": 0.4
   },
   {
-    "name": "Glasses",
-    "rarity_percent": 0.4
+    "name": "Croissant",
+    "rarity_percent": 0.2
   },
   {
     "name": "Light Bulb",
@@ -288,6 +352,10 @@
     "rarity_percent": 0.6
   },
   {
+    "name": "Pyramid",
+    "rarity_percent": 0.5
+  },
+  {
     "name": "Lion Head",
     "rarity_percent": 0.4
   },
@@ -296,8 +364,16 @@
     "rarity_percent": 0.5
   },
   {
+    "name": "Knight",
+    "rarity_percent": 0.4
+  },
+  {
     "name": "Crusader",
     "rarity_percent": 0.5
+  },
+  {
+    "name": "Sword",
+    "rarity_percent": 0.6
   },
   {
     "name": "Narcissus",
@@ -308,16 +384,28 @@
     "rarity_percent": 0.4
   },
   {
+    "name": "Crystal Ball",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Crown",
+    "rarity_percent": 0.4
+  },
+  {
     "name": "Pearl",
     "rarity_percent": 0.5
+  },
+  {
+    "name": "Illuminati",
+    "rarity_percent": 0.4
   },
   {
     "name": "Bishop",
     "rarity_percent": 0.5
   },
   {
-    "name": "Eagle",
-    "rarity_percent": 0.4
+    "name": "Scissors",
+    "rarity_percent": 0.2
   },
   {
     "name": "Mannaz Rune",
@@ -328,7 +416,19 @@
     "rarity_percent": 0.5
   },
   {
-    "name": "Clubs",
+    "name": "Gold",
+    "rarity_percent": 0.4
+  },
+  {
+    "name": "Hammerhead",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Octopus",
+    "rarity_percent": 0.6
+  },
+  {
+    "name": "Rain Drop",
     "rarity_percent": 0.2
   },
   {
@@ -348,7 +448,15 @@
     "rarity_percent": 0.5
   },
   {
+    "name": "PC Mouse",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Beetle",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Ball",
     "rarity_percent": 0.2
   },
   {
@@ -356,19 +464,27 @@
     "rarity_percent": 0.4
   },
   {
-    "name": "Pomegranate",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Sunflower",
     "rarity_percent": 0.6
   },
   {
-    "name": "Champagne",
+    "name": "Drug",
     "rarity_percent": 0.2
   },
   {
-    "name": "Twin Peaks",
+    "name": "Lemon",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Ring",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Diamond",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Love Lock",
     "rarity_percent": 0.2
   },
   {
@@ -396,16 +512,16 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Blood Drop",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Owl",
     "rarity_percent": 0.5
   },
   {
     "name": "Unicorn",
     "rarity_percent": 0.4
-  },
-  {
-    "name": "Sun",
-    "rarity_percent": 0.2
   },
   {
     "name": "Inguz Rune",
@@ -428,6 +544,26 @@
     "rarity_percent": 0.4
   },
   {
+    "name": "Bubbles",
+    "rarity_percent": 0.4
+  },
+  {
+    "name": "Red Deer",
+    "rarity_percent": 0.4
+  },
+  {
+    "name": "Baphomet",
+    "rarity_percent": 0.4
+  },
+  {
+    "name": "Bastet",
+    "rarity_percent": 0.4
+  },
+  {
+    "name": "Celtic Wolf",
+    "rarity_percent": 0.5
+  },
+  {
     "name": "Sun Lion",
     "rarity_percent": 0.4
   },
@@ -436,7 +572,7 @@
     "rarity_percent": 0.5
   },
   {
-    "name": "Fenrir",
+    "name": "Inca Sun",
     "rarity_percent": 0.5
   },
   {
@@ -444,7 +580,7 @@
     "rarity_percent": 0.5
   },
   {
-    "name": "Kitsune",
+    "name": "Lion King",
     "rarity_percent": 0.4
   },
   {
@@ -456,16 +592,20 @@
     "rarity_percent": 0.4
   },
   {
+    "name": "Tribal Shield",
+    "rarity_percent": 0.4
+  },
+  {
     "name": "White Deer",
     "rarity_percent": 0.4
   },
   {
-    "name": "Sumerian Bird",
-    "rarity_percent": 0.5
-  },
-  {
     "name": "Mafdet",
     "rarity_percent": 0.2
+  },
+  {
+    "name": "Yogi Shaman",
+    "rarity_percent": 0.4
   },
   {
     "name": "Spirit Impala",
@@ -476,15 +616,11 @@
     "rarity_percent": 0.4
   },
   {
-    "name": "Mountain Lion",
-    "rarity_percent": 0.5
-  },
-  {
-    "name": "Bull of Heaven",
+    "name": "Oxen of Fire",
     "rarity_percent": 0.4
   },
   {
-    "name": "Alkonost",
-    "rarity_percent": 0.2
+    "name": "Mountain Lion",
+    "rarity_percent": 0.5
   }
 ]
