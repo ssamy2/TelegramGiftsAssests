@@ -1,802 +1,1002 @@
 [
   {
-    "name": "frosted_mint",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/frosted_mint.tgs",
-    "webp_path": "models/homemade_cake/frosted_mint.webp",
-    "custom_emoji_id": "5879814871083654180",
-    "model_id": "5418299911911269895"
-  },
-  {
-    "name": "chocolate",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/chocolate.tgs",
-    "webp_path": "models/homemade_cake/chocolate.webp",
-    "custom_emoji_id": "5877546020249804560",
-    "model_id": "5379927076360969946"
-  },
-  {
-    "name": "midsummer",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/homemade_cake/midsummer.tgs",
-    "webp_path": "models/homemade_cake/midsummer.webp",
-    "custom_emoji_id": "5879815588343193711",
-    "model_id": "5379910837089625876"
-  },
-  {
-    "name": "sunset",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/sunset.tgs",
-    "webp_path": "models/homemade_cake/sunset.webp",
-    "custom_emoji_id": "5879915132800212908",
-    "model_id": "5379602411193129378"
-  },
-  {
-    "name": "tender_peach",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/tender_peach.tgs",
-    "webp_path": "models/homemade_cake/tender_peach.webp",
-    "custom_emoji_id": "5879966908630966126",
-    "model_id": "5379673260973647142"
-  },
-  {
-    "name": "cocoa_cloud",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/homemade_cake/cocoa_cloud.tgs",
-    "webp_path": "models/homemade_cake/cocoa_cloud.webp",
-    "custom_emoji_id": "5879777663781969606",
-    "model_id": "5415627140878065104"
-  },
-  {
-    "name": "sugar_bows",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/sugar_bows.tgs",
-    "webp_path": "models/homemade_cake/sugar_bows.webp",
-    "custom_emoji_id": "5879646504070684640",
-    "model_id": "5417963916619702759"
-  },
-  {
-    "name": "fantasy",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/fantasy.tgs",
-    "webp_path": "models/homemade_cake/fantasy.webp",
-    "custom_emoji_id": "5879975047593991110",
-    "model_id": "5420514130761115006"
-  },
-  {
-    "name": "pastel",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/pastel.tgs",
-    "webp_path": "models/homemade_cake/pastel.webp",
-    "custom_emoji_id": "5879449468151014893",
-    "model_id": "5420108234876805460"
-  },
-  {
-    "name": "pistachio",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/pistachio.tgs",
-    "webp_path": "models/homemade_cake/pistachio.webp",
-    "custom_emoji_id": "5879837535626076257",
-    "model_id": "5420584804447968646"
-  },
-  {
-    "name": "starry_sky",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/starry_sky.tgs",
-    "webp_path": "models/homemade_cake/starry_sky.webp",
-    "custom_emoji_id": "5879744725677779753",
-    "model_id": "5429163022369185009"
-  },
-  {
-    "name": "bonecake",
-    "rarity_permille": 0.2,
-    "tgs_path": "models/homemade_cake/bonecake.tgs",
-    "webp_path": "models/homemade_cake/bonecake.webp",
-    "custom_emoji_id": "5879828992936124161",
-    "model_id": "5429303626713556094"
-  },
-  {
-    "name": "caramel_joy",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/caramel_joy.tgs",
-    "webp_path": "models/homemade_cake/caramel_joy.webp",
-    "custom_emoji_id": "5877532418088378634",
-    "model_id": "5393421910849643770"
-  },
-  {
-    "name": "spring_bloom",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/spring_bloom.tgs",
-    "webp_path": "models/homemade_cake/spring_bloom.webp",
-    "custom_emoji_id": "5879500213189614911",
-    "model_id": "5393497300410589377"
-  },
-  {
-    "name": "fire_blast",
-    "rarity_permille": 0.2,
-    "tgs_path": "models/homemade_cake/fire_blast.tgs",
-    "webp_path": "models/homemade_cake/fire_blast.webp",
-    "custom_emoji_id": "5879701075925147840",
-    "model_id": "5418200285849874319"
-  },
-  {
-    "name": "interstellar",
-    "rarity_permille": 0.2,
-    "tgs_path": "models/homemade_cake/interstellar.tgs",
-    "webp_path": "models/homemade_cake/interstellar.webp",
-    "custom_emoji_id": "5879484794257021984",
-    "model_id": "5415862741309090732"
-  },
-  {
-    "name": "berry_сrown",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/berry_сrown.tgs",
-    "webp_path": "models/homemade_cake/berry_сrown.webp",
-    "custom_emoji_id": "5879884376539405687",
-    "model_id": "5415900494071619314"
-  },
-  {
-    "name": "sweet_bite",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/sweet_bite.tgs",
-    "webp_path": "models/homemade_cake/sweet_bite.webp",
-    "custom_emoji_id": "5879457997956065447",
-    "model_id": "5420338651282302360"
-  },
-  {
-    "name": "cream_pie",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/cream_pie.tgs",
-    "webp_path": "models/homemade_cake/cream_pie.webp",
-    "custom_emoji_id": "5879467287970323535",
-    "model_id": "5426931640830025217"
-  },
-  {
-    "name": "just_a_slice",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/just_a_slice.tgs",
-    "webp_path": "models/homemade_cake/just_a_slice.webp",
-    "custom_emoji_id": "5877263750704144106",
-    "model_id": "5429159955762536332"
-  },
-  {
-    "name": "ice_cream",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/ice_cream.tgs",
-    "webp_path": "models/homemade_cake/ice_cream.webp",
-    "custom_emoji_id": "5879847379691117972",
-    "model_id": "5429470679466535732"
-  },
-  {
-    "name": "honey_cake",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/honey_cake.tgs",
-    "webp_path": "models/homemade_cake/honey_cake.webp",
-    "custom_emoji_id": "5879594234318691430",
-    "model_id": "5429618550895568390"
-  },
-  {
-    "name": "pinkie_pie",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/homemade_cake/pinkie_pie.tgs",
-    "webp_path": "models/homemade_cake/pinkie_pie.webp",
-    "custom_emoji_id": "5879781267259533600",
-    "model_id": "5429514406528575059"
-  },
-  {
-    "name": "choco_dream",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/choco_dream.tgs",
-    "webp_path": "models/homemade_cake/choco_dream.webp",
-    "custom_emoji_id": "5879570852516733975",
-    "model_id": "5379641551230099137"
-  },
-  {
-    "name": "candy_parade",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/candy_parade.tgs",
-    "webp_path": "models/homemade_cake/candy_parade.webp",
-    "custom_emoji_id": "5879961943648771209",
-    "model_id": "5418272900861944282"
-  },
-  {
-    "name": "sprinkles",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/homemade_cake/sprinkles.tgs",
-    "webp_path": "models/homemade_cake/sprinkles.webp",
-    "custom_emoji_id": "5879673961796606848",
-    "model_id": "5415905678097145162"
-  },
-  {
-    "name": "toxicake",
-    "rarity_permille": 0.2,
-    "tgs_path": "models/homemade_cake/toxicake.tgs",
-    "webp_path": "models/homemade_cake/toxicake.webp",
-    "custom_emoji_id": "5879931054243978890",
-    "model_id": "5418274734812981149"
-  },
-  {
-    "name": "сitrus_matcha",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/сitrus_matcha.tgs",
-    "webp_path": "models/homemade_cake/сitrus_matcha.webp",
-    "custom_emoji_id": "5879736591009717056",
-    "model_id": "5420584177382745821"
-  },
-  {
-    "name": "frosty_mocha",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/frosty_mocha.tgs",
-    "webp_path": "models/homemade_cake/frosty_mocha.webp",
-    "custom_emoji_id": "5879988293273132376",
-    "model_id": "5420231861215454649"
-  },
-  {
-    "name": "paradise",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/paradise.tgs",
-    "webp_path": "models/homemade_cake/paradise.webp",
-    "custom_emoji_id": "5879550846559067889",
-    "model_id": "5429542456959984704"
-  },
-  {
-    "name": "yours_only",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/yours_only.tgs",
-    "webp_path": "models/homemade_cake/yours_only.webp",
-    "custom_emoji_id": "5879509202556165612",
-    "model_id": "5429331818878886084"
-  },
-  {
-    "name": "mistletoe",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/mistletoe.tgs",
-    "webp_path": "models/homemade_cake/mistletoe.webp",
-    "custom_emoji_id": "5879788079077664255",
-    "model_id": "5429250936054770297"
-  },
-  {
-    "name": "mellow_gold",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/mellow_gold.tgs",
-    "webp_path": "models/homemade_cake/mellow_gold.webp",
-    "custom_emoji_id": "5879868614009429651",
-    "model_id": "5420616698875109527"
-  },
-  {
-    "name": "jam_layer",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/homemade_cake/jam_layer.tgs",
-    "webp_path": "models/homemade_cake/jam_layer.webp",
-    "custom_emoji_id": "5879792588793324122",
-    "model_id": "5416088940056700153"
-  },
-  {
-    "name": "luigi_cake",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/luigi_cake.tgs",
-    "webp_path": "models/homemade_cake/luigi_cake.webp",
-    "custom_emoji_id": "5879829426727821446",
-    "model_id": "5415620870225815386"
-  },
-  {
-    "name": "sand_castle",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/sand_castle.tgs",
-    "webp_path": "models/homemade_cake/sand_castle.webp",
-    "custom_emoji_id": "5879801372001442538",
-    "model_id": "5415823704351333277"
-  },
-  {
-    "name": "golden_hour",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/golden_hour.tgs",
-    "webp_path": "models/homemade_cake/golden_hour.webp",
-    "custom_emoji_id": "5879765019398249826",
-    "model_id": "5420468891870586289"
-  },
-  {
-    "name": "tropical_mist",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/tropical_mist.tgs",
-    "webp_path": "models/homemade_cake/tropical_mist.webp",
-    "custom_emoji_id": "5879760063005990282",
-    "model_id": "5380006705054640042"
-  },
-  {
-    "name": "meringue",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/meringue.tgs",
-    "webp_path": "models/homemade_cake/meringue.webp",
-    "custom_emoji_id": "5879739021961207970",
-    "model_id": "5395828552824283174"
-  },
-  {
-    "name": "vanilla_sky",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/vanilla_sky.tgs",
-    "webp_path": "models/homemade_cake/vanilla_sky.webp",
-    "custom_emoji_id": "5879567880399363780",
-    "model_id": "5379737402015245292"
-  },
-  {
-    "name": "rainbow_glow",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/rainbow_glow.tgs",
-    "webp_path": "models/homemade_cake/rainbow_glow.webp",
-    "custom_emoji_id": "5879773922865454970",
-    "model_id": "5415954572004843455"
-  },
-  {
-    "name": "pink_whirl",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/homemade_cake/pink_whirl.tgs",
-    "webp_path": "models/homemade_cake/pink_whirl.webp",
-    "custom_emoji_id": "5879959199164670534",
-    "model_id": "5427076711940384574"
-  },
-  {
-    "name": "wishlist",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/homemade_cake/wishlist.tgs",
-    "webp_path": "models/homemade_cake/wishlist.webp",
-    "custom_emoji_id": "5879930508783132380",
-    "model_id": "5429499833704537580"
-  },
-  {
-    "name": "ocean_wave",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/ocean_wave.tgs",
-    "webp_path": "models/homemade_cake/ocean_wave.webp",
-    "custom_emoji_id": "5879795152888801640",
-    "model_id": "5379637200428228088"
-  },
-  {
-    "name": "cinnamon",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/cinnamon.tgs",
-    "webp_path": "models/homemade_cake/cinnamon.webp",
-    "custom_emoji_id": "5879780206402608489",
-    "model_id": "5379800529444557281"
-  },
-  {
-    "name": "red_velvet",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/red_velvet.tgs",
-    "webp_path": "models/homemade_cake/red_velvet.webp",
-    "custom_emoji_id": "5879851150672403351",
-    "model_id": "5415699897624060705"
-  },
-  {
-    "name": "jelly_fantasy",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/jelly_fantasy.tgs",
-    "webp_path": "models/homemade_cake/jelly_fantasy.webp",
-    "custom_emoji_id": "5879512209033273847",
-    "model_id": "5418019467726708971"
-  },
-  {
-    "name": "strawberry",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/strawberry.tgs",
-    "webp_path": "models/homemade_cake/strawberry.webp",
-    "custom_emoji_id": "5879942276993523482",
-    "model_id": "5415973749033821996"
-  },
-  {
-    "name": "candy_cane",
-    "rarity_permille": 0.2,
-    "tgs_path": "models/homemade_cake/candy_cane.tgs",
-    "webp_path": "models/homemade_cake/candy_cane.webp",
-    "custom_emoji_id": "5879993069276766623",
-    "model_id": "5415788481324538964"
-  },
-  {
-    "name": "pink_velvet",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/pink_velvet.tgs",
-    "webp_path": "models/homemade_cake/pink_velvet.webp",
-    "custom_emoji_id": "5877226053776187080",
-    "model_id": "5420578022694609686"
-  },
-  {
-    "name": "blush",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/blush.tgs",
-    "webp_path": "models/homemade_cake/blush.webp",
-    "custom_emoji_id": "5879613033390545994",
-    "model_id": "5420605218427529559"
-  },
-  {
-    "name": "sponge_cake",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/sponge_cake.tgs",
-    "webp_path": "models/homemade_cake/sponge_cake.webp",
-    "custom_emoji_id": "5879875262618804053",
-    "model_id": "5420198021168129274"
-  },
-  {
-    "name": "pistachio_sky",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/pistachio_sky.tgs",
-    "webp_path": "models/homemade_cake/pistachio_sky.webp",
-    "custom_emoji_id": "5879664555818229126",
-    "model_id": "5420233974339364195"
-  },
-  {
-    "name": "nutty_joy",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/nutty_joy.tgs",
-    "webp_path": "models/homemade_cake/nutty_joy.webp",
-    "custom_emoji_id": "5879492130061163427",
-    "model_id": "5379838007329187884"
-  },
-  {
-    "name": "naughty",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/naughty.tgs",
-    "webp_path": "models/homemade_cake/naughty.webp",
-    "custom_emoji_id": "5879530441169444035",
-    "model_id": "5415870253206887807"
-  },
-  {
-    "name": "mickey_mousse",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/homemade_cake/mickey_mousse.tgs",
-    "webp_path": "models/homemade_cake/mickey_mousse.webp",
-    "custom_emoji_id": "5879589479789895204",
-    "model_id": "5429439661212722533"
-  },
-  {
-    "name": "french_yogurt",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/french_yogurt.tgs",
-    "webp_path": "models/homemade_cake/french_yogurt.webp",
-    "custom_emoji_id": "5879576788161536543",
-    "model_id": "5420192231552212025"
-  },
-  {
-    "name": "noir_night",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/homemade_cake/noir_night.tgs",
-    "webp_path": "models/homemade_cake/noir_night.webp",
-    "custom_emoji_id": "5879745795124634183",
-    "model_id": "5416092891426613532"
-  },
-  {
-    "name": "velvet_cocoa",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/velvet_cocoa.tgs",
-    "webp_path": "models/homemade_cake/velvet_cocoa.webp",
-    "custom_emoji_id": "5879465823386476264",
-    "model_id": "5420148281151872463"
-  },
-  {
-    "name": "mint_kiss",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/mint_kiss.tgs",
-    "webp_path": "models/homemade_cake/mint_kiss.webp",
-    "custom_emoji_id": "5880011563405942237",
-    "model_id": "5420529884701155456"
-  },
-  {
-    "name": "cherry_kiss",
-    "rarity_permille": 0.2,
-    "tgs_path": "models/homemade_cake/cherry_kiss.tgs",
-    "webp_path": "models/homemade_cake/cherry_kiss.webp",
-    "custom_emoji_id": "5879507059367486061",
-    "model_id": "5429472122575544380"
-  },
-  {
-    "name": "сhoco_сhips",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/homemade_cake/сhoco_сhips.tgs",
-    "webp_path": "models/homemade_cake/сhoco_сhips.webp",
-    "custom_emoji_id": "5879975893702548645",
-    "model_id": "5427113897767232215"
-  },
-  {
-    "name": "toffee",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/homemade_cake/toffee.tgs",
-    "webp_path": "models/homemade_cake/toffee.webp",
-    "custom_emoji_id": "5877372615240195851",
-    "model_id": "5429121636064323757"
-  },
-  {
-    "name": "mario_cake",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/mario_cake.tgs",
-    "webp_path": "models/homemade_cake/mario_cake.webp",
-    "custom_emoji_id": "5879465806206614559",
-    "model_id": "5417948574996521531"
-  },
-  {
-    "name": "premium",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/premium.tgs",
-    "webp_path": "models/homemade_cake/premium.webp",
-    "custom_emoji_id": "5879835654430399958",
-    "model_id": "5429138270472661336"
-  },
-  {
-    "name": "it’s_my_party",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/homemade_cake/it’s_my_party.tgs",
-    "webp_path": "models/homemade_cake/it’s_my_party.webp",
-    "custom_emoji_id": "5879727455614279813",
-    "model_id": "5429205886142803541"
+    "name": "cream_dream",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/cream_dream.tgs",
+    "webp_path": "models/homemade_cake/cream_dream.webp",
+    "custom_emoji_id": "5983058948507312506",
+    "model_id": "5377724733095698929",
+    "telegram_document_id": "5377724733095698929",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9VGBNLW4tRvEdwS-bjewxI_AALxYQACJ4ShSurZJj6xotyoHgQ"
   },
   {
     "name": "sugarstorm",
-    "rarity_permille": 1.5,
+    "rarity_percent": 1.5,
     "tgs_path": "models/homemade_cake/sugarstorm.tgs",
     "webp_path": "models/homemade_cake/sugarstorm.webp",
-    "custom_emoji_id": "5879872505249800040",
-    "model_id": "5377823650487491572"
+    "custom_emoji_id": "5983190992981860556",
+    "model_id": "5377823650487491572",
+    "telegram_document_id": "5377823650487491572",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9VlDRH4pfkOMwgg7snZG2SsAAL0WwACHt6hSvtXmb8TSzN4HgQ"
   },
   {
-    "name": "meadow",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/meadow.tgs",
-    "webp_path": "models/homemade_cake/meadow.webp",
-    "custom_emoji_id": "5879667751273896899",
-    "model_id": "5417838945956292829"
+    "name": "sunset",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/sunset.tgs",
+    "webp_path": "models/homemade_cake/sunset.webp",
+    "custom_emoji_id": "5985319501464346499",
+    "model_id": "5379602411193129378",
+    "telegram_document_id": "5379602411193129378",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9WgHFUpb4PmxZpW2IMcxOmkAAKiWQAC5C-oSpokvP-fyo7NHgQ"
   },
   {
-    "name": "telegram",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/telegram.tgs",
-    "webp_path": "models/homemade_cake/telegram.webp",
-    "custom_emoji_id": "5879512561220591362",
-    "model_id": "5417990523942101179"
+    "name": "ocean_wave",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/ocean_wave.tgs",
+    "webp_path": "models/homemade_cake/ocean_wave.webp",
+    "custom_emoji_id": "5983297886127922993",
+    "model_id": "5379637200428228088",
+    "telegram_document_id": "5379637200428228088",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9WzfJ7ylS3aDZrBumKC9MTUAAL4XQACiE-oSi0GlGWiNQ-2HgQ"
   },
   {
-    "name": "birthday",
-    "rarity_permille": 0.2,
-    "tgs_path": "models/homemade_cake/birthday.tgs",
-    "webp_path": "models/homemade_cake/birthday.webp",
-    "custom_emoji_id": "5879920303940837598",
-    "model_id": "5417987856767410078"
+    "name": "choco_dream",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/choco_dream.tgs",
+    "webp_path": "models/homemade_cake/choco_dream.webp",
+    "custom_emoji_id": "5983424226885902958",
+    "model_id": "5379641551230099137",
+    "telegram_document_id": "5379641551230099137",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9U9AAE2l10fhYm8cDstFCfB4wACwV4AAn1TqEqQchfP4YRQoB4E"
   },
   {
-    "name": "angel_cake",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/angel_cake.tgs",
-    "webp_path": "models/homemade_cake/angel_cake.webp",
-    "custom_emoji_id": "5879921540891418090",
-    "model_id": "5420155973438298900"
-  },
-  {
-    "name": "best_wishes",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/best_wishes.tgs",
-    "webp_path": "models/homemade_cake/best_wishes.webp",
-    "custom_emoji_id": "5879736526585208802",
-    "model_id": "5429239472787059412"
+    "name": "tender_peach",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/tender_peach.tgs",
+    "webp_path": "models/homemade_cake/tender_peach.webp",
+    "custom_emoji_id": "5985434327415005849",
+    "model_id": "5379673260973647142",
+    "telegram_document_id": "5379673260973647142",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9VJ5LA99u74IbEIkuMt8tZjAAImZQACVHCoSkEYXsg-O_-UHgQ"
   },
   {
     "name": "lil_princess",
-    "rarity_permille": 1.5,
+    "rarity_percent": 1.5,
     "tgs_path": "models/homemade_cake/lil_princess.tgs",
     "webp_path": "models/homemade_cake/lil_princess.webp",
-    "custom_emoji_id": "5879793366182404823",
-    "model_id": "5379730585902143461"
+    "custom_emoji_id": "5983578454866535176",
+    "model_id": "5379730585902143461",
+    "telegram_document_id": "5379730585902143461",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9Vz3yp291xYl6RSWQrm0LbTAALlVwACd6SoSuGqJWF_-NiIHgQ"
   },
   {
-    "name": "lemon_mint",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/lemon_mint.tgs",
-    "webp_path": "models/homemade_cake/lemon_mint.webp",
-    "custom_emoji_id": "5879581053064059905",
-    "model_id": "5420375811339346770"
-  },
-  {
-    "name": "sweet_dawn",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/sweet_dawn.tgs",
-    "webp_path": "models/homemade_cake/sweet_dawn.webp",
-    "custom_emoji_id": "5879775988744724628",
-    "model_id": "5420480617131302631"
-  },
-  {
-    "name": "frosty",
-    "rarity_permille": 0.2,
-    "tgs_path": "models/homemade_cake/frosty.tgs",
-    "webp_path": "models/homemade_cake/frosty.webp",
-    "custom_emoji_id": "5879790694712745070",
-    "model_id": "5415718400343171006"
-  },
-  {
-    "name": "lilac_splash",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/lilac_splash.tgs",
-    "webp_path": "models/homemade_cake/lilac_splash.webp",
-    "custom_emoji_id": "5879658942295974084",
-    "model_id": "5420543963603953073"
-  },
-  {
-    "name": "blue_depth",
-    "rarity_permille": 0.2,
-    "tgs_path": "models/homemade_cake/blue_depth.tgs",
-    "webp_path": "models/homemade_cake/blue_depth.webp",
-    "custom_emoji_id": "5879810344188124291",
-    "model_id": "5429320707798491938"
-  },
-  {
-    "name": "carrot_cake",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/carrot_cake.tgs",
-    "webp_path": "models/homemade_cake/carrot_cake.webp",
-    "custom_emoji_id": "5879605246614838490",
-    "model_id": "5393328804548603155"
-  },
-  {
-    "name": "diamond",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/diamond.tgs",
-    "webp_path": "models/homemade_cake/diamond.webp",
-    "custom_emoji_id": "5879854526516698720",
-    "model_id": "5418037188761771634"
+    "name": "vanilla_sky",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/vanilla_sky.tgs",
+    "webp_path": "models/homemade_cake/vanilla_sky.webp",
+    "custom_emoji_id": "5985629207261094212",
+    "model_id": "5379737402015245292",
+    "telegram_document_id": "5379737402015245292",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9VRZoBnAAGQisabUcndUULqKgAC7GMAAqqqqEqJ2Jv-3kPtjh4E"
   },
   {
     "name": "red_layer",
-    "rarity_permille": 1.5,
+    "rarity_percent": 1.5,
     "tgs_path": "models/homemade_cake/red_layer.tgs",
     "webp_path": "models/homemade_cake/red_layer.webp",
-    "custom_emoji_id": "5879777268644978568",
-    "model_id": "5379756686418402175"
+    "custom_emoji_id": "5983266734730125728",
+    "model_id": "5379756686418402175",
+    "telegram_document_id": "5379756686418402175",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9WOWXE11RZLG92F1OJm6GJYAAJ_WwACNLyoSnjOag1QBtFEHgQ"
   },
   {
-    "name": "jellycious",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/jellycious.tgs",
-    "webp_path": "models/homemade_cake/jellycious.webp",
-    "custom_emoji_id": "5879503150947245572",
-    "model_id": "5416061130143457570"
+    "name": "cinnamon",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/cinnamon.tgs",
+    "webp_path": "models/homemade_cake/cinnamon.webp",
+    "custom_emoji_id": "5985520200991120381",
+    "model_id": "5379800529444557281",
+    "telegram_document_id": "5379800529444557281",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9Xk9JoQUj9dukxFO8mQR54YAALhUQACFOSoSn3ScXYyPG8THgQ"
   },
   {
-    "name": "candy_candle",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/homemade_cake/candy_candle.tgs",
-    "webp_path": "models/homemade_cake/candy_candle.webp",
-    "custom_emoji_id": "5879909291644690065",
-    "model_id": "5427056581428666802"
+    "name": "nutty_joy",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/nutty_joy.tgs",
+    "webp_path": "models/homemade_cake/nutty_joy.webp",
+    "custom_emoji_id": "5983160202361315834",
+    "model_id": "5379838007329187884",
+    "telegram_document_id": "5379838007329187884",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9Vc2qHhQ9e8tORvmOAcQM6QAAIsaAACKgapShgl3Lq8HvqQHgQ"
   },
   {
-    "name": "cream_dream",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/cream_dream.tgs",
-    "webp_path": "models/homemade_cake/cream_dream.webp",
-    "custom_emoji_id": "5879687662742281217",
-    "model_id": "5377724733095698929"
+    "name": "midsummer",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/homemade_cake/midsummer.tgs",
+    "webp_path": "models/homemade_cake/midsummer.webp",
+    "custom_emoji_id": "5985619187102393041",
+    "model_id": "5379910837089625876",
+    "telegram_document_id": "5379910837089625876",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9WL4_bRxyM7ORXyZDBLtCawAAIUZwACZ0ipSh99Hb6QsxLkHgQ"
   },
   {
-    "name": "peachy_bloom",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/peachy_bloom.tgs",
-    "webp_path": "models/homemade_cake/peachy_bloom.webp",
-    "custom_emoji_id": "5879584695196327857",
-    "model_id": "5420609861287176337"
+    "name": "chocolate",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/chocolate.tgs",
+    "webp_path": "models/homemade_cake/chocolate.webp",
+    "custom_emoji_id": "5983118811761484912",
+    "model_id": "5379927076360969946",
+    "telegram_document_id": "5379927076360969946",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9Wg88cCnlVohWTZ0CSs3oAUAALaXgACLFepSojCdI6vnuUIHgQ"
   },
   {
-    "name": "sweet__lilac",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/sweet__lilac.tgs",
-    "webp_path": "models/homemade_cake/sweet__lilac.webp",
-    "custom_emoji_id": "5879726957398073400",
-    "model_id": "5429120330394263149"
-  },
-  {
-    "name": "cherry_cake",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/cherry_cake.tgs",
-    "webp_path": "models/homemade_cake/cherry_cake.webp",
-    "custom_emoji_id": "5879689475218481678",
-    "model_id": "5429380493743253275"
-  },
-  {
-    "name": "pumpkin_pie",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/pumpkin_pie.tgs",
-    "webp_path": "models/homemade_cake/pumpkin_pie.webp",
-    "custom_emoji_id": "5879886622807302663",
-    "model_id": "5420210227465184551"
-  },
-  {
-    "name": "cotton_candy",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/homemade_cake/cotton_candy.tgs",
-    "webp_path": "models/homemade_cake/cotton_candy.webp",
-    "custom_emoji_id": "5879568077967859163",
-    "model_id": "5426879658840843206"
-  },
-  {
-    "name": "rosy_frost",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/rosy_frost.tgs",
-    "webp_path": "models/homemade_cake/rosy_frost.webp",
-    "custom_emoji_id": "5879976778465812249",
-    "model_id": "5420321651801745156"
-  },
-  {
-    "name": "cold_heaven",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/cold_heaven.tgs",
-    "webp_path": "models/homemade_cake/cold_heaven.webp",
-    "custom_emoji_id": "5879485159329242643",
-    "model_id": "5418246452453333981"
+    "name": "tropical_mist",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/tropical_mist.tgs",
+    "webp_path": "models/homemade_cake/tropical_mist.webp",
+    "custom_emoji_id": "5983448751149163325",
+    "model_id": "5380006705054640042",
+    "telegram_document_id": "5380006705054640042",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9XhpZywCtwWg8MV8jjAnKJYAAKqZwACmJ-pSjVoGYvcGyiFHgQ"
   },
   {
     "name": "opera_cake",
-    "rarity_permille": 1.5,
+    "rarity_percent": 1.5,
     "tgs_path": "models/homemade_cake/opera_cake.tgs",
     "webp_path": "models/homemade_cake/opera_cake.webp",
-    "custom_emoji_id": "5880004124522586787",
-    "model_id": "5393104156284184467"
+    "custom_emoji_id": "5983123055189171781",
+    "model_id": "5393104156284184467",
+    "telegram_document_id": "5393104156284184467",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9VDoR98-slXuKxChctjDX0vAAKTZwACqCfYSpDIbdefc6OMHgQ"
   },
   {
-    "name": "valentine",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/valentine.tgs",
-    "webp_path": "models/homemade_cake/valentine.webp",
-    "custom_emoji_id": "5879955054521228211",
-    "model_id": "5418087908030571070"
+    "name": "carrot_cake",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/carrot_cake.tgs",
+    "webp_path": "models/homemade_cake/carrot_cake.webp",
+    "custom_emoji_id": "5983051728667287389",
+    "model_id": "5393328804548603155",
+    "telegram_document_id": "5393328804548603155",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9VL1Ri_3sKmRkTvxqn9IOdnAAITbQAC-fPYSuLtRLpfs9fhHgQ"
   },
   {
-    "name": "red_pearl",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/homemade_cake/red_pearl.tgs",
-    "webp_path": "models/homemade_cake/red_pearl.webp",
-    "custom_emoji_id": "5879708703787064119",
-    "model_id": "5427255627393035667"
+    "name": "caramel_joy",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/caramel_joy.tgs",
+    "webp_path": "models/homemade_cake/caramel_joy.webp",
+    "custom_emoji_id": "5983459308178775965",
+    "model_id": "5393421910849643770",
+    "telegram_document_id": "5393421910849643770",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9XA4I7vewJeVYIZmwx6KwZKAAL6ZAACp0jZSiXQDutQCax7HgQ"
   },
   {
-    "name": "lilac_slice",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/lilac_slice.tgs",
-    "webp_path": "models/homemade_cake/lilac_slice.webp",
-    "custom_emoji_id": "5879475461293088760",
-    "model_id": "5420279990618976210"
+    "name": "spring_bloom",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/spring_bloom.tgs",
+    "webp_path": "models/homemade_cake/spring_bloom.webp",
+    "custom_emoji_id": "5983524252379259400",
+    "model_id": "5393497300410589377",
+    "telegram_document_id": "5393497300410589377",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9UotRAWlQ2Kjf0S0S5nkTaYAALBYAACOI3ZShxvTuiMeqUJHgQ"
   },
   {
-    "name": "fondant_fancy",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/homemade_cake/fondant_fancy.tgs",
-    "webp_path": "models/homemade_cake/fondant_fancy.webp",
-    "custom_emoji_id": "5879772033079845969",
-    "model_id": "5417936166836003480"
+    "name": "meringue",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/meringue.tgs",
+    "webp_path": "models/homemade_cake/meringue.webp",
+    "custom_emoji_id": "5983045097237782951",
+    "model_id": "5395828552824283174",
+    "telegram_document_id": "5395828552824283174",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9U3_IlshcK0knKkqi7FYsVBAAImYAACe9XhSm0jIUhXByfJHgQ"
   },
   {
-    "name": "choco_twist",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/homemade_cake/choco_twist.tgs",
-    "webp_path": "models/homemade_cake/choco_twist.webp",
-    "custom_emoji_id": "5877492732590563859",
-    "model_id": "5420576755679258093"
+    "name": "luigi_cake",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/luigi_cake.tgs",
+    "webp_path": "models/homemade_cake/luigi_cake.webp",
+    "custom_emoji_id": "5983298715056612806",
+    "model_id": "5415620870225815386",
+    "telegram_document_id": "5415620870225815386",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9XfpzopWFfKNxlLdqS6pTZCAAJaZwACfSYoSyUAAXhFdPoUkR4E"
   },
   {
-    "name": "volcano",
-    "rarity_permille": 0.2,
-    "tgs_path": "models/homemade_cake/volcano.tgs",
-    "webp_path": "models/homemade_cake/volcano.webp",
-    "custom_emoji_id": "5880010979290390021",
-    "model_id": "5415830756687636125"
+    "name": "cocoa_cloud",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/homemade_cake/cocoa_cloud.tgs",
+    "webp_path": "models/homemade_cake/cocoa_cloud.webp",
+    "custom_emoji_id": "5983402034789883650",
+    "model_id": "5415627140878065104",
+    "telegram_document_id": "5415627140878065104",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9WZv2G4XYtefTaV5wqJuaQxAALQXQACMSwoS2CySL_zd8lIHgQ"
   },
   {
     "name": "cheesecake",
-    "rarity_permille": 0.5,
+    "rarity_percent": 0.5,
     "tgs_path": "models/homemade_cake/cheesecake.tgs",
     "webp_path": "models/homemade_cake/cheesecake.webp",
-    "custom_emoji_id": "5879698825362284106",
-    "model_id": "5415649436053299927"
+    "custom_emoji_id": "5983162727802084720",
+    "model_id": "5415649436053299927",
+    "telegram_document_id": "5415649436053299927",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9X4K0XIV6gWYYepQ6fhBALsAALXYgACeEAoS6FNkDLAA5xdHgQ"
+  },
+  {
+    "name": "red_velvet",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/red_velvet.tgs",
+    "webp_path": "models/homemade_cake/red_velvet.webp",
+    "custom_emoji_id": "5985311388271124163",
+    "model_id": "5415699897624060705",
+    "telegram_document_id": "5415699897624060705",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9VGJvaHtAnxGnEkD_9-ASAlAAIhYwACXW4oS1D_dMLlke0DHgQ"
+  },
+  {
+    "name": "frosty",
+    "rarity_percent": 0.2,
+    "tgs_path": "models/homemade_cake/frosty.tgs",
+    "webp_path": "models/homemade_cake/frosty.webp",
+    "custom_emoji_id": "5983425940577853130",
+    "model_id": "5415718400343171006",
+    "telegram_document_id": "5415718400343171006",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9X5FxyvRLHLIJ58wiMCkth5AAK-XwACMX8oS_j-DN9nzkruHgQ"
+  },
+  {
+    "name": "candy_cane",
+    "rarity_percent": 0.2,
+    "tgs_path": "models/homemade_cake/candy_cane.tgs",
+    "webp_path": "models/homemade_cake/candy_cane.webp",
+    "custom_emoji_id": "5985504953857220186",
+    "model_id": "5415788481324538964",
+    "telegram_document_id": "5415788481324538964",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9XuiUDIztJ7K_2EuZlwm07yAAJUXAAC7r4oS5AlU6hnY6kjHgQ"
+  },
+  {
+    "name": "sand_castle",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/sand_castle.tgs",
+    "webp_path": "models/homemade_cake/sand_castle.webp",
+    "custom_emoji_id": "5983379335887724078",
+    "model_id": "5415823704351333277",
+    "telegram_document_id": "5415823704351333277",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9VX0m5vjMuo1wJaNUyW1uhWAAKdWwAC994oS1rvtLAnGe-dHgQ"
+  },
+  {
+    "name": "volcano",
+    "rarity_percent": 0.2,
+    "tgs_path": "models/homemade_cake/volcano.tgs",
+    "webp_path": "models/homemade_cake/volcano.webp",
+    "custom_emoji_id": "5985682847107654189",
+    "model_id": "5415830756687636125",
+    "telegram_document_id": "5415830756687636125",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9W3BRdyGgNJwSXSD_zQc0gYAAKdZgACYeUoS04HN9qa7F2sHgQ"
+  },
+  {
+    "name": "interstellar",
+    "rarity_percent": 0.2,
+    "tgs_path": "models/homemade_cake/interstellar.tgs",
+    "webp_path": "models/homemade_cake/interstellar.webp",
+    "custom_emoji_id": "5983217827937528260",
+    "model_id": "5415862741309090732",
+    "telegram_document_id": "5415862741309090732",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9WDQaAQxHY-rsrsnnZnUWUdAAKsawACeAIpS4t-tiuhKl4kHgQ"
+  },
+  {
+    "name": "naughty",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/naughty.tgs",
+    "webp_path": "models/homemade_cake/naughty.webp",
+    "custom_emoji_id": "5983250061667083092",
+    "model_id": "5415870253206887807",
+    "telegram_document_id": "5415870253206887807",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9XslvBvEkAKOYIOArlaudaLAAJ_XQACTQkpSyJuINImYEI5HgQ"
+  },
+  {
+    "name": "berry_сrown",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/berry_сrown.tgs",
+    "webp_path": "models/homemade_cake/berry_сrown.webp",
+    "custom_emoji_id": "5985718211868367459",
+    "model_id": "5415900494071619314",
+    "telegram_document_id": "5415900494071619314",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9XkDNmy96F0SKBIh6FIGk2UAALyXgACziQpS7FRloGbPPYQHgQ"
+  },
+  {
+    "name": "sprinkles",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/homemade_cake/sprinkles.tgs",
+    "webp_path": "models/homemade_cake/sprinkles.webp",
+    "custom_emoji_id": "5983098298997678091",
+    "model_id": "5415905678097145162",
+    "telegram_document_id": "5415905678097145162",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9VSt_TrhjhmjcevWD2MqtkAA0pdAAKFKSlLY-TTSSQBMgoeBA"
+  },
+  {
+    "name": "rainbow_glow",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/rainbow_glow.tgs",
+    "webp_path": "models/homemade_cake/rainbow_glow.webp",
+    "custom_emoji_id": "5985601891269091624",
+    "model_id": "5415954572004843455",
+    "telegram_document_id": "5415954572004843455",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9UTUzWFW3IOxGM2S9JDI4ffAAK_XwAC_VUpS2RpVllrS5POHgQ"
+  },
+  {
+    "name": "strawberry",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/strawberry.tgs",
+    "webp_path": "models/homemade_cake/strawberry.webp",
+    "custom_emoji_id": "5983294677787353058",
+    "model_id": "5415973749033821996",
+    "telegram_document_id": "5415973749033821996",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9XjFiamfHpi7m-sMZ88b08rAAIsZwACbmcpS6AvMLKYhtqvHgQ"
+  },
+  {
+    "name": "jellycious",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/jellycious.tgs",
+    "webp_path": "models/homemade_cake/jellycious.webp",
+    "custom_emoji_id": "5983043632653934208",
+    "model_id": "5416061130143457570",
+    "telegram_document_id": "5416061130143457570",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9U5bgpFJA_AXMSBafciuOYgAAIiYQAC57YpS5Pl7k00GPIWHgQ"
+  },
+  {
+    "name": "jam_layer",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/homemade_cake/jam_layer.tgs",
+    "webp_path": "models/homemade_cake/jam_layer.webp",
+    "custom_emoji_id": "5985576301853941551",
+    "model_id": "5416088940056700153",
+    "telegram_document_id": "5416088940056700153",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9VIQXj9CRra6RcD8ki6FB7uAAL5ZAACMtApSx8yu-URx4x6HgQ"
+  },
+  {
+    "name": "noir_night",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/homemade_cake/noir_night.tgs",
+    "webp_path": "models/homemade_cake/noir_night.webp",
+    "custom_emoji_id": "5983155422062715314",
+    "model_id": "5416092891426613532",
+    "telegram_document_id": "5416092891426613532",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9XCbbMu19WMY9Z9NCbWYdJWAAIcaQACytMpS4ZnxPQJWmWsHgQ"
+  },
+  {
+    "name": "meadow",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/meadow.tgs",
+    "webp_path": "models/homemade_cake/meadow.webp",
+    "custom_emoji_id": "5985498464161636287",
+    "model_id": "5417838945956292829",
+    "telegram_document_id": "5417838945956292829",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9WQ14Tff7saC7WLjxMKqslNAALdaAAC0QcwS7o6K3QzmvlcHgQ"
+  },
+  {
+    "name": "fondant_fancy",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/homemade_cake/fondant_fancy.tgs",
+    "webp_path": "models/homemade_cake/fondant_fancy.webp",
+    "custom_emoji_id": "5983113859664191413",
+    "model_id": "5417936166836003480",
+    "telegram_document_id": "5417936166836003480",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9XBBj6F4w97BwABdm3knhaX8gACmGIAAj1gMEvOT3ZNoXxnix4E"
+  },
+  {
+    "name": "mario_cake",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/mario_cake.tgs",
+    "webp_path": "models/homemade_cake/mario_cake.webp",
+    "custom_emoji_id": "5985624113429880237",
+    "model_id": "5417948574996521531",
+    "telegram_document_id": "5417948574996521531",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9UVCmJRZX615Ufz2xY3E8PQAAI7YgAChmswSzp_RR6GYK3HHgQ"
+  },
+  {
+    "name": "sugar_bows",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/sugar_bows.tgs",
+    "webp_path": "models/homemade_cake/sugar_bows.webp",
+    "custom_emoji_id": "5985617537834949837",
+    "model_id": "5417963916619702759",
+    "telegram_document_id": "5417963916619702759",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9Vh1WQqe1XCE_kaxBFaqIZGAALnYQACenkwS9TG5PpwS3qKHgQ"
+  },
+  {
+    "name": "birthday",
+    "rarity_percent": 0.2,
+    "tgs_path": "models/homemade_cake/birthday.tgs",
+    "webp_path": "models/homemade_cake/birthday.webp",
+    "custom_emoji_id": "5983541342054131004",
+    "model_id": "5417987856767410078",
+    "telegram_document_id": "5417987856767410078",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9Vvq-iwwLF_s6d_acHLiVKMAAKeXwACQI8wSyaLewyTvBe6HgQ"
+  },
+  {
+    "name": "telegram",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/telegram.tgs",
+    "webp_path": "models/homemade_cake/telegram.webp",
+    "custom_emoji_id": "5983487118092017247",
+    "model_id": "5417990523942101179",
+    "telegram_document_id": "5417990523942101179",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9UvjYBD-UpTSPAvvVH9g9vyAAK7YAACrZEwS7EcxYe4svTBHgQ"
+  },
+  {
+    "name": "jelly_fantasy",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/jelly_fantasy.tgs",
+    "webp_path": "models/homemade_cake/jelly_fantasy.webp",
+    "custom_emoji_id": "5983553745919681783",
+    "model_id": "5418019467726708971",
+    "telegram_document_id": "5418019467726708971",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9VFk_YYIRmexXswVNA-s04aAALrYAADrDBLKSWORYKAAbUeBA"
+  },
+  {
+    "name": "diamond",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/diamond.tgs",
+    "webp_path": "models/homemade_cake/diamond.webp",
+    "custom_emoji_id": "5985528696436432759",
+    "model_id": "5418037188761771634",
+    "telegram_document_id": "5418037188761771634",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9WDTMVc70sPBBPsMMG6iu2oAAJyXgACHrwwS_QlUVPHamXKHgQ"
+  },
+  {
+    "name": "valentine",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/valentine.tgs",
+    "webp_path": "models/homemade_cake/valentine.webp",
+    "custom_emoji_id": "5983052321372775878",
+    "model_id": "5418087908030571070",
+    "telegram_document_id": "5418087908030571070",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9UoDqh6JP4KbVBGA7xumSXfAAI-YgACP-owS_t4j55AZWYZHgQ"
+  },
+  {
+    "name": "fire_blast",
+    "rarity_percent": 0.2,
+    "tgs_path": "models/homemade_cake/fire_blast.tgs",
+    "webp_path": "models/homemade_cake/fire_blast.webp",
+    "custom_emoji_id": "5983494166133350069",
+    "model_id": "5418200285849874319",
+    "telegram_document_id": "5418200285849874319",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9XB5H9BDMEiZ6wtqSnQg_LfAAKPbwACdFAxS3Ax9IPdk6i0HgQ"
+  },
+  {
+    "name": "cold_heaven",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/cold_heaven.tgs",
+    "webp_path": "models/homemade_cake/cold_heaven.webp",
+    "custom_emoji_id": "5985652580473118090",
+    "model_id": "5418246452453333981",
+    "telegram_document_id": "5418246452453333981",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9XTYJBxkXdgunXKIpnDd4GBAALdWwACcXoxS304zRylppbiHgQ"
+  },
+  {
+    "name": "candy_parade",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/candy_parade.tgs",
+    "webp_path": "models/homemade_cake/candy_parade.webp",
+    "custom_emoji_id": "5983178073720234087",
+    "model_id": "5418272900861944282",
+    "telegram_document_id": "5418272900861944282",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9Ua2-1guXYQLhAejkns_ISwAALaYQACf5IxS_0Rbv3batzYHgQ"
+  },
+  {
+    "name": "toxicake",
+    "rarity_percent": 0.2,
+    "tgs_path": "models/homemade_cake/toxicake.tgs",
+    "webp_path": "models/homemade_cake/toxicake.webp",
+    "custom_emoji_id": "5983544365711105529",
+    "model_id": "5418274734812981149",
+    "telegram_document_id": "5418274734812981149",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9V9WMUyJ_eMkMI7GrgGj2OBAAKdZwACKpQxSxovWxJw2e0mHgQ"
+  },
+  {
+    "name": "frosted_mint",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/frosted_mint.tgs",
+    "webp_path": "models/homemade_cake/frosted_mint.webp",
+    "custom_emoji_id": "5983249614990484340",
+    "model_id": "5418299911911269895",
+    "telegram_document_id": "5418299911911269895",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9UKRnYpw81FDFmWbGJs7rCkAAIHZgACEKsxSyUtFNodUzjzHgQ"
+  },
+  {
+    "name": "pastel",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/pastel.tgs",
+    "webp_path": "models/homemade_cake/pastel.webp",
+    "custom_emoji_id": "5983511191383713075",
+    "model_id": "5420108234876805460",
+    "telegram_document_id": "5420108234876805460",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9WX5-msJZMJrLQi7-v07-P0AAJUYQACuRc4S9kBFDZmR3sDHgQ"
+  },
+  {
+    "name": "velvet_cocoa",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/velvet_cocoa.tgs",
+    "webp_path": "models/homemade_cake/velvet_cocoa.webp",
+    "custom_emoji_id": "5983087750557999195",
+    "model_id": "5420148281151872463",
+    "telegram_document_id": "5420148281151872463",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9XTH23exJkqCtihKueWZ0mrAALPXQACJTw4S05zp9OVagVlHgQ"
+  },
+  {
+    "name": "angel_cake",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/angel_cake.tgs",
+    "webp_path": "models/homemade_cake/angel_cake.webp",
+    "custom_emoji_id": "5983039200247685018",
+    "model_id": "5420155973438298900",
+    "telegram_document_id": "5420155973438298900",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9X6kF9Qnmyje_o3fofAyN5ZAAIUWwACJEM4S34lzreK6EuYHgQ"
+  },
+  {
+    "name": "french_yogurt",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/french_yogurt.tgs",
+    "webp_path": "models/homemade_cake/french_yogurt.webp",
+    "custom_emoji_id": "5983198367440708851",
+    "model_id": "5420192231552212025",
+    "telegram_document_id": "5420192231552212025",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9XITmA-0HDImu0uI2tGW9eUAAI5XAACHmQ4S29Pv_qioS09HgQ"
+  },
+  {
+    "name": "sponge_cake",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/sponge_cake.tgs",
+    "webp_path": "models/homemade_cake/sponge_cake.webp",
+    "custom_emoji_id": "5983545319193846114",
+    "model_id": "5420198021168129274",
+    "telegram_document_id": "5420198021168129274",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9UN2TYijMnw-nMwB9ousOlbAAL6ZAACYmk4S8t8WVk0WxeyHgQ"
+  },
+  {
+    "name": "pumpkin_pie",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/pumpkin_pie.tgs",
+    "webp_path": "models/homemade_cake/pumpkin_pie.webp",
+    "custom_emoji_id": "5985695281037977096",
+    "model_id": "5420210227465184551",
+    "telegram_document_id": "5420210227465184551",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9UmtsaDYkHonnTfqwasRkfqAAInZQACfHQ4SzO_OWI4cEibHgQ"
+  },
+  {
+    "name": "frosty_mocha",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/frosty_mocha.tgs",
+    "webp_path": "models/homemade_cake/frosty_mocha.webp",
+    "custom_emoji_id": "5985289054441185318",
+    "model_id": "5420231861215454649",
+    "telegram_document_id": "5420231861215454649",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9XIhmLOZDgjAAHnBdlrWP4kcwACuWUAAimIOEvVva7rD4X_ER4E"
+  },
+  {
+    "name": "pistachio_sky",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/pistachio_sky.tgs",
+    "webp_path": "models/homemade_cake/pistachio_sky.webp",
+    "custom_emoji_id": "5983354390717669539",
+    "model_id": "5420233974339364195",
+    "telegram_document_id": "5420233974339364195",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9W5JVXSkh_R5jrEViefXTNGAAJjZQACFYo4S_o83RATp4SyHgQ"
+  },
+  {
+    "name": "lilac_slice",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/lilac_slice.tgs",
+    "webp_path": "models/homemade_cake/lilac_slice.webp",
+    "custom_emoji_id": "5985510322566340200",
+    "model_id": "5420279990618976210",
+    "telegram_document_id": "5420279990618976210",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9WfW3ForLMMTbCzEJiE_Gx5AALSbwAC77M4S88IdW3Xqz3vHgQ"
+  },
+  {
+    "name": "rosy_frost",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/rosy_frost.tgs",
+    "webp_path": "models/homemade_cake/rosy_frost.webp",
+    "custom_emoji_id": "5983446732514533890",
+    "model_id": "5420321651801745156",
+    "telegram_document_id": "5420321651801745156",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9W8eMbJv-nGA6KIHkuwx3ZBAAIEZwAC09k4SzPbbqaRO_mKHgQ"
+  },
+  {
+    "name": "sweet_bite",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/sweet_bite.tgs",
+    "webp_path": "models/homemade_cake/sweet_bite.webp",
+    "custom_emoji_id": "5983118171811356632",
+    "model_id": "5420338651282302360",
+    "telegram_document_id": "5420338651282302360",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9Xy9ROGldHxLWOOQnHsT80ZAAKYZQACSek4S_RNNGBGRM1RHgQ"
+  },
+  {
+    "name": "lemon_mint",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/lemon_mint.tgs",
+    "webp_path": "models/homemade_cake/lemon_mint.webp",
+    "custom_emoji_id": "5983475766493454442",
+    "model_id": "5420375811339346770",
+    "telegram_document_id": "5420375811339346770",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9U4NEgnKGV8yvd1Y4A99iC4AAJSYwACFQs5S-Ec7Z2lwNVCHgQ"
+  },
+  {
+    "name": "golden_hour",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/golden_hour.tgs",
+    "webp_path": "models/homemade_cake/golden_hour.webp",
+    "custom_emoji_id": "5983556825411230428",
+    "model_id": "5420468891870586289",
+    "telegram_document_id": "5420468891870586289",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9VyS8dnfpnGna7266VDpgABlwACsWUAAr1fOUuNJ1yu6IYnux4E"
+  },
+  {
+    "name": "sweet_dawn",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/sweet_dawn.tgs",
+    "webp_path": "models/homemade_cake/sweet_dawn.webp",
+    "custom_emoji_id": "5983311007253012042",
+    "model_id": "5420480617131302631",
+    "telegram_document_id": "5420480617131302631",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9Vj03NxXCjwZiUaxTJEOecSAALnXgACZ2o5S0AWLYty6BqZHgQ"
+  },
+  {
+    "name": "fantasy",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/fantasy.tgs",
+    "webp_path": "models/homemade_cake/fantasy.webp",
+    "custom_emoji_id": "5983345461480660670",
+    "model_id": "5420514130761115006",
+    "telegram_document_id": "5420514130761115006",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9V6wvg4ce4myoIwKMWGoGESAAJ-ZQAC4og5SxtPoHQnuTHUHgQ"
+  },
+  {
+    "name": "mint_kiss",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/mint_kiss.tgs",
+    "webp_path": "models/homemade_cake/mint_kiss.webp",
+    "custom_emoji_id": "5983229669162359763",
+    "model_id": "5420529884701155456",
+    "telegram_document_id": "5420529884701155456",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9XoEqSnIP6sLQNfgFJCo3oxAAKAYAACNpc5S6Fkh7S5q4-vHgQ"
+  },
+  {
+    "name": "lilac_splash",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/lilac_splash.tgs",
+    "webp_path": "models/homemade_cake/lilac_splash.webp",
+    "custom_emoji_id": "5985665396655529362",
+    "model_id": "5420543963603953073",
+    "telegram_document_id": "5420543963603953073",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9X8lGD__6vLKSfudtgcJuvPAAKxZQACBKQ5S9sihtJCyHwHHgQ"
+  },
+  {
+    "name": "choco_twist",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/choco_twist.tgs",
+    "webp_path": "models/homemade_cake/choco_twist.webp",
+    "custom_emoji_id": "5983137524933992536",
+    "model_id": "5420576755679258093",
+    "telegram_document_id": "5420576755679258093",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9VxwYxr0iW4_ejuk4UtQogEAALtZQAC18E5SzjuDyhWOLYLHgQ"
+  },
+  {
+    "name": "pink_velvet",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/pink_velvet.tgs",
+    "webp_path": "models/homemade_cake/pink_velvet.webp",
+    "custom_emoji_id": "5983166331279646476",
+    "model_id": "5420578022694609686",
+    "telegram_document_id": "5420578022694609686",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9XliFyukb9Pvcw8PNv2nLA2AAIWYwAC_sI5S6HxS-X4ddSeHgQ"
+  },
+  {
+    "name": "сitrus_matcha",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/сitrus_matcha.tgs",
+    "webp_path": "models/homemade_cake/сitrus_matcha.webp",
+    "custom_emoji_id": "5985491124062527880",
+    "model_id": "5420584177382745821",
+    "telegram_document_id": "5420584177382745821",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9XQkAWe967V46gD2u8PDqnwAALdZgACl8g5Sz814IHzZL1qHgQ"
+  },
+  {
+    "name": "pistachio",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/pistachio.tgs",
+    "webp_path": "models/homemade_cake/pistachio.webp",
+    "custom_emoji_id": "5983107769400565248",
+    "model_id": "5420584804447968646",
+    "telegram_document_id": "5420584804447968646",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9WUd71uLrwhI_tKTjmIUydAAAKGXQACKck5S37Di37f3Cq1HgQ"
+  },
+  {
+    "name": "blush",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/blush.tgs",
+    "webp_path": "models/homemade_cake/blush.webp",
+    "custom_emoji_id": "5983395343230836859",
+    "model_id": "5420605218427529559",
+    "telegram_document_id": "5420605218427529559",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9Xpwb4c-AGbytlPJk0N2hPQAAJXaQACuts5Sw4AAacFzVToNR4E"
+  },
+  {
+    "name": "peachy_bloom",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/peachy_bloom.tgs",
+    "webp_path": "models/homemade_cake/peachy_bloom.webp",
+    "custom_emoji_id": "5983323144830591407",
+    "model_id": "5420609861287176337",
+    "telegram_document_id": "5420609861287176337",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9XPJ5ckU0vd0EkV47b4m6-WAAKRaAAC8985S5e9R7Bh9ouuHgQ"
+  },
+  {
+    "name": "mellow_gold",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/homemade_cake/mellow_gold.tgs",
+    "webp_path": "models/homemade_cake/mellow_gold.webp",
+    "custom_emoji_id": "5985590964872290209",
+    "model_id": "5420616698875109527",
+    "telegram_document_id": "5420616698875109527",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9VAmbRqhiPzq3kXj-l3RJ-cAAKXYAACK-Y5S4OSh4_TVV4sHgQ"
+  },
+  {
+    "name": "cotton_candy",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/homemade_cake/cotton_candy.tgs",
+    "webp_path": "models/homemade_cake/cotton_candy.webp",
+    "custom_emoji_id": "5983323260794708144",
+    "model_id": "5426879658840843206",
+    "telegram_document_id": "5426879658840843206",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9X0HGPRN7xQGt40eQqzbkXiAALGYwACTCZQS-yS8KiA8hSpHgQ"
+  },
+  {
+    "name": "cream_pie",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/cream_pie.tgs",
+    "webp_path": "models/homemade_cake/cream_pie.webp",
+    "custom_emoji_id": "5985593644931881746",
+    "model_id": "5426931640830025217",
+    "telegram_document_id": "5426931640830025217",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9Xl8UWveczGb_Jf5dcB0dOOAAIBXgACk1VQS3daxXhDnbc8HgQ"
+  },
+  {
+    "name": "candy_candle",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/homemade_cake/candy_candle.tgs",
+    "webp_path": "models/homemade_cake/candy_candle.webp",
+    "custom_emoji_id": "5985782657852644818",
+    "model_id": "5427056581428666802",
+    "telegram_document_id": "5427056581428666802",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9XMFW72vE_zwAeOLBK-SkTKAAKyYQACNcdQS0oYS5x2leYJHgQ"
+  },
+  {
+    "name": "pink_whirl",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/homemade_cake/pink_whirl.tgs",
+    "webp_path": "models/homemade_cake/pink_whirl.webp",
+    "custom_emoji_id": "5983381187018629597",
+    "model_id": "5427076711940384574",
+    "telegram_document_id": "5427076711940384574",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9XYKR7jbodVbqBE-MPOfCxwAAI-ZwAChNlQS7ZuuYw0sYH1HgQ"
+  },
+  {
+    "name": "сhoco_сhips",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/homemade_cake/сhoco_сhips.tgs",
+    "webp_path": "models/homemade_cake/сhoco_сhips.webp",
+    "custom_emoji_id": "5983350581081678359",
+    "model_id": "5427113897767232215",
+    "telegram_document_id": "5427113897767232215",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9Xkk91FRekUUX9ZDRNtDj7OAALXYgACVvtQS7rtInr4mf-aHgQ"
+  },
+  {
+    "name": "red_pearl",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/red_pearl.tgs",
+    "webp_path": "models/homemade_cake/red_pearl.webp",
+    "custom_emoji_id": "5983056736599154091",
+    "model_id": "5427255627393035667",
+    "telegram_document_id": "5427255627393035667",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9WxYz1NJP5orvRlnPFaLXODAAKTbQACPXxRS_XzYVg0AoGfHgQ"
+  },
+  {
+    "name": "sweet__lilac",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/sweet__lilac.tgs",
+    "webp_path": "models/homemade_cake/sweet__lilac.webp",
+    "custom_emoji_id": "5985535194721951808",
+    "model_id": "5429120330394263149",
+    "telegram_document_id": "5429120330394263149",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9X2BT8sYymPnTBAhH-m9qc_AAJtXgACLRxYS8rY5fEEZ96iHgQ"
+  },
+  {
+    "name": "toffee",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/homemade_cake/toffee.tgs",
+    "webp_path": "models/homemade_cake/toffee.webp",
+    "custom_emoji_id": "5983577381124710163",
+    "model_id": "5429121636064323757",
+    "telegram_document_id": "5429121636064323757",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9W2cRM2_IAOoU3_qgTqz3EnAAKtaAACXR1YS1IYl1L4MEvfHgQ"
+  },
+  {
+    "name": "premium",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/premium.tgs",
+    "webp_path": "models/homemade_cake/premium.webp",
+    "custom_emoji_id": "5985408879733776044",
+    "model_id": "5429138270472661336",
+    "telegram_document_id": "5429138270472661336",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9VqhkvyLCY2UvbCrHalQLcuAAJYaQACfixYSwij4CEMrnyAHgQ"
+  },
+  {
+    "name": "just_a_slice",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/just_a_slice.tgs",
+    "webp_path": "models/homemade_cake/just_a_slice.webp",
+    "custom_emoji_id": "5983592654028414277",
+    "model_id": "5429159955762536332",
+    "telegram_document_id": "5429159955762536332",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9W7_tEM6RrUX1WYe51QDdduAAKMXwACN0BYS2L3n7PJlVJZHgQ"
+  },
+  {
+    "name": "starry_sky",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/starry_sky.tgs",
+    "webp_path": "models/homemade_cake/starry_sky.webp",
+    "custom_emoji_id": "5985778319935676942",
+    "model_id": "5429163022369185009",
+    "telegram_document_id": "5429163022369185009",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9WkEmU9Hws5Nnt0m9eIxcGJAALxXAACAUNYS8yLSuj1dfHJHgQ"
+  },
+  {
+    "name": "it’s_my_party",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/homemade_cake/it’s_my_party.tgs",
+    "webp_path": "models/homemade_cake/it’s_my_party.webp",
+    "custom_emoji_id": "5985833686359088869",
+    "model_id": "5429205886142803541",
+    "telegram_document_id": "5429205886142803541",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9UrEpLCHYRd7wefyhVD9cezAAJVbgAC_WlYSznaa8A-uIU6HgQ"
+  },
+  {
+    "name": "best_wishes",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/best_wishes.tgs",
+    "webp_path": "models/homemade_cake/best_wishes.webp",
+    "custom_emoji_id": "5983260395358397408",
+    "model_id": "5429239472787059412",
+    "telegram_document_id": "5429239472787059412",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9Uvk5SqQz0jSKKqdqhZaOuiAALUcgACiYhYS8ajN44Zzut2HgQ"
+  },
+  {
+    "name": "mistletoe",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/mistletoe.tgs",
+    "webp_path": "models/homemade_cake/mistletoe.webp",
+    "custom_emoji_id": "5983444065339842105",
+    "model_id": "5429250936054770297",
+    "telegram_document_id": "5429250936054770297",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9WgeqeQ7nsm9D_gH6L7vefVAAJ5agAC9pJYS1CIgR4siHw0HgQ"
+  },
+  {
+    "name": "bonecake",
+    "rarity_percent": 0.2,
+    "tgs_path": "models/homemade_cake/bonecake.tgs",
+    "webp_path": "models/homemade_cake/bonecake.webp",
+    "custom_emoji_id": "5983164634767564247",
+    "model_id": "5429303626713556094",
+    "telegram_document_id": "5429303626713556094",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9VeGqnUOl7BOu11ZRtDx3JBAAJ-ZAAC4sJYSwtZJusf1a7yHgQ"
+  },
+  {
+    "name": "blue_depth",
+    "rarity_percent": 0.2,
+    "tgs_path": "models/homemade_cake/blue_depth.tgs",
+    "webp_path": "models/homemade_cake/blue_depth.webp",
+    "custom_emoji_id": "5983289880308882782",
+    "model_id": "5429320707798491938",
+    "telegram_document_id": "5429320707798491938",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9UZw7LEnsYa2a8M2dG0aflVAAIiYwACa9JYS4EX169symk1HgQ"
+  },
+  {
+    "name": "yours_only",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/yours_only.tgs",
+    "webp_path": "models/homemade_cake/yours_only.webp",
+    "custom_emoji_id": "5983438662270983001",
+    "model_id": "5429331818878886084",
+    "telegram_document_id": "5429331818878886084",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9XFpLQAAbCckjdLhEz_EvT-aQACxGAAAobcWEutevk1Q96HDR4E"
+  },
+  {
+    "name": "cherry_cake",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/cherry_cake.tgs",
+    "webp_path": "models/homemade_cake/cherry_cake.webp",
+    "custom_emoji_id": "5983283463627742424",
+    "model_id": "5429380493743253275",
+    "telegram_document_id": "5429380493743253275",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9Uc0UCiV6KI6Zqo2bSF86hkAAIbZwACywhZS20WK8HTeJA-HgQ"
   },
   {
     "name": "festive_mint",
-    "rarity_permille": 1.0,
+    "rarity_percent": 1.0,
     "tgs_path": "models/homemade_cake/festive_mint.tgs",
     "webp_path": "models/homemade_cake/festive_mint.webp",
-    "custom_emoji_id": "5879518522635197249",
-    "model_id": "5429421665299753346"
+    "custom_emoji_id": "5983308743805247399",
+    "model_id": "5429421665299753346",
+    "telegram_document_id": "5429421665299753346",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9Ur4DQ6mjLk-ycM-BvTkT8CAAKCaQACPS5ZSxjHTFSbRcKfHgQ"
+  },
+  {
+    "name": "mickey_mousse",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/homemade_cake/mickey_mousse.tgs",
+    "webp_path": "models/homemade_cake/mickey_mousse.webp",
+    "custom_emoji_id": "5985756583106191773",
+    "model_id": "5429439661212722533",
+    "telegram_document_id": "5429439661212722533",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9VeAah7UlMujI4ThDCnPlfhAAJlZQACmz5ZS5-WCRbueWNuHgQ"
+  },
+  {
+    "name": "ice_cream",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/ice_cream.tgs",
+    "webp_path": "models/homemade_cake/ice_cream.webp",
+    "custom_emoji_id": "5983493289960022798",
+    "model_id": "5429470679466535732",
+    "telegram_document_id": "5429470679466535732",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9UofVTLPyWpyH_yZgTYBbBVAAI0awAC0VpZS0N5ULQd-CZEHgQ"
+  },
+  {
+    "name": "cherry_kiss",
+    "rarity_percent": 0.2,
+    "tgs_path": "models/homemade_cake/cherry_kiss.tgs",
+    "webp_path": "models/homemade_cake/cherry_kiss.webp",
+    "custom_emoji_id": "5983232490955874428",
+    "model_id": "5429472122575544380",
+    "telegram_document_id": "5429472122575544380",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9WX9LrgArNnDkR-WeaEuCqMAAI8YAACIVxZS90lqsY51469HgQ"
+  },
+  {
+    "name": "wishlist",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/homemade_cake/wishlist.tgs",
+    "webp_path": "models/homemade_cake/wishlist.webp",
+    "custom_emoji_id": "5983339388396903345",
+    "model_id": "5429499833704537580",
+    "telegram_document_id": "5429499833704537580",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9V9AiTcGSwstqZE5MoAAXxgfAAC7F0AAlV1WUv-zdsqQyU_xx4E"
+  },
+  {
+    "name": "pinkie_pie",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/homemade_cake/pinkie_pie.tgs",
+    "webp_path": "models/homemade_cake/pinkie_pie.webp",
+    "custom_emoji_id": "5429514406528575059",
+    "model_id": "5429514406528575059",
+    "telegram_document_id": "5429514406528575059",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9VvD16MjKfwwGz7_wymwEaEAAJTZgACloJZS7SfHy-mwy5lHgQ"
+  },
+  {
+    "name": "paradise",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/paradise.tgs",
+    "webp_path": "models/homemade_cake/paradise.webp",
+    "custom_emoji_id": "5429542456959984704",
+    "model_id": "5429542456959984704",
+    "telegram_document_id": "5429542456959984704",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9WlQFy2ergHwIDaJqIItVP_AAJAZAACGZxZS2MF7Zv45V6_HgQ"
+  },
+  {
+    "name": "honey_cake",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/homemade_cake/honey_cake.tgs",
+    "webp_path": "models/homemade_cake/honey_cake.webp",
+    "custom_emoji_id": "5429618550895568390",
+    "model_id": "5429618550895568390",
+    "telegram_document_id": "5429618550895568390",
+    "telegram_file_id": "BQACAgIAAxUAAWrhU9VMTD4tzsmGmdsqpLEXYvYYAAIGZgACTuFZSz6k841pbsgOHgQ"
   }
 ]
