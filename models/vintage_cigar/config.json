@@ -1,442 +1,552 @@
 [
   {
     "name": "the_gentleman",
-    "rarity_permille": 1.0,
+    "rarity_percent": 1.0,
     "tgs_path": "models/vintage_cigar/the_gentleman.tgs",
     "webp_path": "models/vintage_cigar/the_gentleman.webp",
-    "custom_emoji_id": "5881955585863195880",
-    "model_id": "5426839204543881501"
+    "custom_emoji_id": "5985493378920359900",
+    "model_id": "5426839204543881501",
+    "telegram_document_id": "5426839204543881501",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxos-JYIjKHXGvmkWJlSlQVxAAIdYQACgQFQS_NUmtmh59xpHgQ"
   },
   {
     "name": "el_classico",
-    "rarity_permille": 0.3,
+    "rarity_percent": 0.3,
     "tgs_path": "models/vintage_cigar/el_classico.tgs",
     "webp_path": "models/vintage_cigar/el_classico.webp",
-    "custom_emoji_id": "5882111012139704152",
-    "model_id": "5426856766665154421"
+    "custom_emoji_id": "5983154030493310777",
+    "model_id": "5426856766665154421",
+    "telegram_document_id": "5426856766665154421",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxpy1C0ITGAMa0K4U97lzm5UAAJ1XwACehFQS_ohEgXAwwaRHgQ"
   },
   {
     "name": "ashtray",
-    "rarity_permille": 1.0,
+    "rarity_percent": 1.0,
     "tgs_path": "models/vintage_cigar/ashtray.tgs",
     "webp_path": "models/vintage_cigar/ashtray.webp",
-    "custom_emoji_id": "5881767298791905785",
-    "model_id": "5426867027342025513"
+    "custom_emoji_id": "5983320653749560856",
+    "model_id": "5426867027342025513",
+    "telegram_document_id": "5426867027342025513",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxpy79qnhwelkpAWtTroUOsZAAIpYwACzxpQS_pvRCgTWzAnHgQ"
   },
   {
     "name": "silver_bullet",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/vintage_cigar/silver_bullet.tgs",
     "webp_path": "models/vintage_cigar/silver_bullet.webp",
-    "custom_emoji_id": "5881710450604776701",
-    "model_id": "5426868564940320318"
+    "custom_emoji_id": "5985813328214106985",
+    "model_id": "5426868564940320318",
+    "telegram_document_id": "5426868564940320318",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxos7AcgSscfwLCwNbopatijAAI-bgACNRxQS9Xsf_o9-zj5HgQ"
   },
   {
     "name": "blue_hue",
-    "rarity_permille": 3.0,
+    "rarity_percent": 3.0,
     "tgs_path": "models/vintage_cigar/blue_hue.tgs",
     "webp_path": "models/vintage_cigar/blue_hue.webp",
-    "custom_emoji_id": "5882225382823829555",
-    "model_id": "5426871476928142193"
+    "custom_emoji_id": "5983171751528373926",
+    "model_id": "5426871476928142193",
+    "telegram_document_id": "5426871476928142193",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxry6qNHxzlIdKQweyMsyhEfAAJxWwAC2x5QS5F1Rmku-YQ7HgQ"
   },
   {
     "name": "oil_baron",
-    "rarity_permille": 0.5,
+    "rarity_percent": 0.5,
     "tgs_path": "models/vintage_cigar/oil_baron.tgs",
     "webp_path": "models/vintage_cigar/oil_baron.webp",
-    "custom_emoji_id": "5884225531913706398",
-    "model_id": "5426897912451851256"
+    "custom_emoji_id": "5983132890664280911",
+    "model_id": "5426897912451851256",
+    "telegram_document_id": "5426897912451851256",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxq-N1pwceWXWdTVwCEcQKplAAL4YwAC5jZQS8X5aeuPwDqMHgQ"
   },
   {
     "name": "spectral_smoke",
-    "rarity_permille": 0.3,
+    "rarity_percent": 0.3,
     "tgs_path": "models/vintage_cigar/spectral_smoke.tgs",
     "webp_path": "models/vintage_cigar/spectral_smoke.webp",
-    "custom_emoji_id": "5881730615476231476",
-    "model_id": "5426918614194218658"
+    "custom_emoji_id": "5985438695396745544",
+    "model_id": "5426918614194218658",
+    "telegram_document_id": "5426918614194218658",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxoh4A9nH_AoV49k04MkR4tVAAKiZgACuklQS2HsnVWWHLIAAR4E"
   },
   {
     "name": "secret_santa",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/vintage_cigar/secret_santa.tgs",
     "webp_path": "models/vintage_cigar/secret_santa.webp",
-    "custom_emoji_id": "5882146522929307480",
-    "model_id": "5426935794063401878"
+    "custom_emoji_id": "5983112957721059381",
+    "model_id": "5426935794063401878",
+    "telegram_document_id": "5426935794063401878",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxpnWwKrGKTu3jWxElCVHsghAAKWYwACWllQS48TWy7lifjiHgQ"
   },
   {
     "name": "warm_glow",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/vintage_cigar/warm_glow.tgs",
     "webp_path": "models/vintage_cigar/warm_glow.webp",
-    "custom_emoji_id": "5881974337690412076",
-    "model_id": "5426987385210560596"
+    "custom_emoji_id": "5985420433195802436",
+    "model_id": "5426987385210560596",
+    "telegram_document_id": "5426987385210560596",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxo5du7Bj5W5qxEqUsjAXn_wAAJUYAACRohQS_ZlLvYkRzoYHgQ"
   },
   {
     "name": "jazz_cigarette",
-    "rarity_permille": 0.5,
+    "rarity_percent": 0.5,
     "tgs_path": "models/vintage_cigar/jazz_cigarette.tgs",
     "webp_path": "models/vintage_cigar/jazz_cigarette.webp",
-    "custom_emoji_id": "5881776356877933803",
-    "model_id": "5427001764761068721"
+    "custom_emoji_id": "5983425047224655949",
+    "model_id": "5427001764761068721",
+    "telegram_document_id": "5427001764761068721",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxq2ttxHIvkP1gbutogpewthAAKxZAACWpVQSzXHzr3Hmi6OHgQ"
   },
   {
     "name": "foundry",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/vintage_cigar/foundry.tgs",
     "webp_path": "models/vintage_cigar/foundry.webp",
-    "custom_emoji_id": "5882143610941480645",
-    "model_id": "5427007713290775577"
+    "custom_emoji_id": "5983268341047893304",
+    "model_id": "5427007713290775577",
+    "telegram_document_id": "5427007713290775577",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxp_ynUVHotGWLV_W4KXkC6wAAIZbAACw5pQS12cmkiZdGf7HgQ"
   },
   {
     "name": "aquaviolet",
-    "rarity_permille": 3.0,
+    "rarity_percent": 3.0,
     "tgs_path": "models/vintage_cigar/aquaviolet.tgs",
     "webp_path": "models/vintage_cigar/aquaviolet.webp",
-    "custom_emoji_id": "5881951681737924034",
-    "model_id": "5427079263150956097"
+    "custom_emoji_id": "5985771508117544492",
+    "model_id": "5427079263150956097",
+    "telegram_document_id": "5427079263150956097",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxrUBwABN2oMw7dURDCO0Ky1FQACQV4AAtbbUEtMGWwm76015h4E"
   },
   {
     "name": "dark_clouds",
-    "rarity_permille": 1.0,
+    "rarity_percent": 1.0,
     "tgs_path": "models/vintage_cigar/dark_clouds.tgs",
     "webp_path": "models/vintage_cigar/dark_clouds.webp",
-    "custom_emoji_id": "5881837379773275198",
-    "model_id": "5427220606229701464"
+    "custom_emoji_id": "5985592558305157052",
+    "model_id": "5427220606229701464",
+    "telegram_document_id": "5427220606229701464",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxo54c_R0rsz4XSgd9feF06HAAJYYwACY1xRS1BmSctOfT4PHgQ"
   },
   {
     "name": "golden_hour",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/vintage_cigar/golden_hour.tgs",
     "webp_path": "models/vintage_cigar/golden_hour.webp",
-    "custom_emoji_id": "5881767947331968430",
-    "model_id": "5427256847163745021"
+    "custom_emoji_id": "5985467566166909396",
+    "model_id": "5427256847163745021",
+    "telegram_document_id": "5427256847163745021",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxoaw5H2tk03O4vDnYDVLECEAAL9YgACWX1RS1hKEJwt9cXnHgQ"
   },
   {
     "name": "the_shocker",
-    "rarity_permille": 0.3,
+    "rarity_percent": 0.3,
     "tgs_path": "models/vintage_cigar/the_shocker.tgs",
     "webp_path": "models/vintage_cigar/the_shocker.webp",
-    "custom_emoji_id": "5882002456841297399",
-    "model_id": "5427277540316177618"
+    "custom_emoji_id": "5985508269571973071",
+    "model_id": "5427277540316177618",
+    "telegram_document_id": "5427277540316177618",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxqH-LJj6FZOn7YFYozeHJR9AALSZAACK5BRS4K-W1JumEMOHgQ"
   },
   {
     "name": "green_gas",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/vintage_cigar/green_gas.tgs",
     "webp_path": "models/vintage_cigar/green_gas.webp",
-    "custom_emoji_id": "5884450004084470436",
-    "model_id": "5427378716860768448"
+    "custom_emoji_id": "5985727849774980089",
+    "model_id": "5427378716860768448",
+    "telegram_document_id": "5427378716860768448",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxqu9hvyf_SY1G7NLKXKla_0AALAYAACMOxRS8MmHluJe8trHgQ"
   },
   {
     "name": "purple_haze",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/vintage_cigar/purple_haze.tgs",
     "webp_path": "models/vintage_cigar/purple_haze.webp",
-    "custom_emoji_id": "5882006081793696148",
-    "model_id": "5427381070502847183"
+    "custom_emoji_id": "5985747525020164366",
+    "model_id": "5427381070502847183",
+    "telegram_document_id": "5427381070502847183",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxpoc7tvjy9i4UHhojdKVJ2tAALPYgACVO5RS67Ko7r06HetHgQ"
   },
   {
     "name": "pink_tint",
-    "rarity_permille": 3.0,
+    "rarity_percent": 3.0,
     "tgs_path": "models/vintage_cigar/pink_tint.tgs",
     "webp_path": "models/vintage_cigar/pink_tint.webp",
-    "custom_emoji_id": "5881874909197508178",
-    "model_id": "5429115193613377895"
+    "custom_emoji_id": "5983075986642576303",
+    "model_id": "5429115193613377895",
+    "telegram_document_id": "5429115193613377895",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxrFJm4movbBi8XU-B-nh7baAAJnYQACgRdYSwIl64jBMgH8HgQ"
   },
   {
     "name": "rainbow_road",
-    "rarity_permille": 1.0,
+    "rarity_percent": 1.0,
     "tgs_path": "models/vintage_cigar/rainbow_road.tgs",
     "webp_path": "models/vintage_cigar/rainbow_road.webp",
-    "custom_emoji_id": "5882154700547038960",
-    "model_id": "5429152349375454998"
+    "custom_emoji_id": "5985464581164638264",
+    "model_id": "5429152349375454998",
+    "telegram_document_id": "5429152349375454998",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxpn__Rg2C-VlhP1dSxZZ584AAIWXwACTDlYSwjM8jcS2QnNHgQ"
   },
   {
     "name": "pink_panther",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/vintage_cigar/pink_panther.tgs",
     "webp_path": "models/vintage_cigar/pink_panther.webp",
-    "custom_emoji_id": "5881878504085135214",
-    "model_id": "5429168026006086400"
+    "custom_emoji_id": "5983260794790354592",
+    "model_id": "5429168026006086400",
+    "telegram_document_id": "5429168026006086400",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxpfDU5-Fj-s9MWrq9hcV9yoAANjAAKOR1hL_75_xpEMsVkeBA"
   },
   {
     "name": "high_tide",
-    "rarity_permille": 1.5,
+    "rarity_percent": 1.5,
     "tgs_path": "models/vintage_cigar/high_tide.tgs",
     "webp_path": "models/vintage_cigar/high_tide.webp",
-    "custom_emoji_id": "5884211719298883242",
-    "model_id": "5429188401330937877"
+    "custom_emoji_id": "5983459321063677586",
+    "model_id": "5429188401330937877",
+    "telegram_document_id": "5429188401330937877",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxrk16bCgdYeI8NiKT0fi06NAAIVYAACFlpYS_8uThVM8_QXHgQ"
   },
   {
     "name": "ice_cold",
-    "rarity_permille": 0.3,
+    "rarity_percent": 0.3,
     "tgs_path": "models/vintage_cigar/ice_cold.tgs",
     "webp_path": "models/vintage_cigar/ice_cold.webp",
-    "custom_emoji_id": "5882029180127813499",
-    "model_id": "5429190342656156088"
+    "custom_emoji_id": "5985804042494811606",
+    "model_id": "5429190342656156088",
+    "telegram_document_id": "5429190342656156088",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxp6a5ng_vvBXjTtAAGSZj5TBAACuGEAAtpbWEunIYW1yya5jR4E"
   },
   {
     "name": "mirror_finish",
-    "rarity_permille": 3.0,
+    "rarity_percent": 3.0,
     "tgs_path": "models/vintage_cigar/mirror_finish.tgs",
     "webp_path": "models/vintage_cigar/mirror_finish.webp",
-    "custom_emoji_id": "5881736645610315697",
-    "model_id": "5429259985550861359"
+    "custom_emoji_id": "5983078134126223025",
+    "model_id": "5429259985550861359",
+    "telegram_document_id": "5429259985550861359",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxq-kjWJ0wViCJfufzqBk1pUAAIvZAACMZtYS3q8Ls9p0MRcHgQ"
   },
   {
     "name": "black_plume",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/vintage_cigar/black_plume.tgs",
     "webp_path": "models/vintage_cigar/black_plume.webp",
-    "custom_emoji_id": "5881729168072252808",
-    "model_id": "5429265105151879015"
+    "custom_emoji_id": "5983256035966590327",
+    "model_id": "5429265105151879015",
+    "telegram_document_id": "5429265105151879015",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxpVgunCpoxq1kRONx6P8v_LAAJnZwAC2Z9YS5-vpEuYFpmKHgQ"
   },
   {
     "name": "short_fuse",
-    "rarity_permille": 0.3,
+    "rarity_percent": 0.3,
     "tgs_path": "models/vintage_cigar/short_fuse.tgs",
     "webp_path": "models/vintage_cigar/short_fuse.webp",
-    "custom_emoji_id": "5884154158147181816",
-    "model_id": "5429269365759435574"
+    "custom_emoji_id": "5983205389712238691",
+    "model_id": "5429269365759435574",
+    "telegram_document_id": "5429269365759435574",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxobLByPaPndHCyrrku2vwhQAAI2YwACuaNYS7quMS_z7jLjHgQ"
   },
   {
     "name": "saturn_v",
-    "rarity_permille": 0.3,
+    "rarity_percent": 0.3,
     "tgs_path": "models/vintage_cigar/saturn_v.tgs",
     "webp_path": "models/vintage_cigar/saturn_v.webp",
-    "custom_emoji_id": "5884158856841405435",
-    "model_id": "5429272947762161421"
+    "custom_emoji_id": "5985325282490326497",
+    "model_id": "5429272947762161421",
+    "telegram_document_id": "5429272947762161421",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxo3XFVMX8fAFq9Mj3ZdpN6XAAINZwAC-6ZYS2MCcSZZ8UPmHgQ"
   },
   {
     "name": "cool_blue",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/vintage_cigar/cool_blue.tgs",
     "webp_path": "models/vintage_cigar/cool_blue.webp",
-    "custom_emoji_id": "5881831693236575870",
-    "model_id": "5429281103905055004"
+    "custom_emoji_id": "5983516766251261136",
+    "model_id": "5429281103905055004",
+    "telegram_document_id": "5429281103905055004",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxogFXJEApvR-yCeTySM1C6tAAIcYQACZq5YSzJYzZtYdKeCHgQ"
   },
   {
     "name": "pink_ghost",
-    "rarity_permille": 3.0,
+    "rarity_percent": 3.0,
     "tgs_path": "models/vintage_cigar/pink_ghost.tgs",
     "webp_path": "models/vintage_cigar/pink_ghost.webp",
-    "custom_emoji_id": "5881874093153721904",
-    "model_id": "5429289706724551163"
+    "custom_emoji_id": "5985653864668339136",
+    "model_id": "5429289706724551163",
+    "telegram_document_id": "5429289706724551163",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxpvIvVUhm7Fp2d8awN2gOgHAAL7aQACObZYS86GRdhgdKjYHgQ"
   },
   {
     "name": "purple_patron",
-    "rarity_permille": 3.0,
+    "rarity_percent": 3.0,
     "tgs_path": "models/vintage_cigar/purple_patron.tgs",
     "webp_path": "models/vintage_cigar/purple_patron.webp",
-    "custom_emoji_id": "5882183159000342008",
-    "model_id": "5429317426443477425"
+    "custom_emoji_id": "5985666831174605906",
+    "model_id": "5429317426443477425",
+    "telegram_document_id": "5429317426443477425",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxorkrqQiTlwFEIkYnByupG5AAKxYQACb89YSwb-pR-uRAoPHgQ"
   },
   {
     "name": "rose_wrapper",
-    "rarity_permille": 3.0,
+    "rarity_percent": 3.0,
     "tgs_path": "models/vintage_cigar/rose_wrapper.tgs",
     "webp_path": "models/vintage_cigar/rose_wrapper.webp",
-    "custom_emoji_id": "5884152238296801314",
-    "model_id": "5429338557682574446"
+    "custom_emoji_id": "5985459040656827314",
+    "model_id": "5429338557682574446",
+    "telegram_document_id": "5429338557682574446",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxp_cE_irXGQj47Quc9mx8uUAAJuZAACp-JYS1djYltSlOeTHgQ"
   },
   {
     "name": "blue_ghoul",
-    "rarity_permille": 3.0,
+    "rarity_percent": 3.0,
     "tgs_path": "models/vintage_cigar/blue_ghoul.tgs",
     "webp_path": "models/vintage_cigar/blue_ghoul.webp",
-    "custom_emoji_id": "5882041820216565191",
-    "model_id": "5429339326481719309"
+    "custom_emoji_id": "5983056221203079291",
+    "model_id": "5429339326481719309",
+    "telegram_document_id": "5429339326481719309",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxrCWQIO5wIjEmrKmLQgFGIwAAINYAACWuNYS123c2UdXjFJHgQ"
   },
   {
     "name": "green_goblin",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/vintage_cigar/green_goblin.tgs",
     "webp_path": "models/vintage_cigar/green_goblin.webp",
-    "custom_emoji_id": "5882228260451919591",
-    "model_id": "5429405662251607935"
+    "custom_emoji_id": "5983237782355583308",
+    "model_id": "5429405662251607935",
+    "telegram_document_id": "5429405662251607935",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxpum2pF9zPnd6-LSeOGzk5FAAJ_ZwACrx9ZS1fp25wusQm-HgQ"
   },
   {
     "name": "psychonaut",
-    "rarity_permille": 0.5,
+    "rarity_percent": 0.5,
     "tgs_path": "models/vintage_cigar/psychonaut.tgs",
     "webp_path": "models/vintage_cigar/psychonaut.webp",
-    "custom_emoji_id": "5882092436406148764",
-    "model_id": "5429433515114522812"
+    "custom_emoji_id": "5985843843956744264",
+    "model_id": "5429433515114522812",
+    "telegram_document_id": "5429433515114522812",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxpOuWAOEHOOwjzoQ_W-HzSxAAK8aAACBDlZS1MvhKXhIMh6HgQ"
   },
   {
     "name": "premium_blend",
-    "rarity_permille": 4.0,
+    "rarity_percent": 4.0,
     "tgs_path": "models/vintage_cigar/premium_blend.tgs",
     "webp_path": "models/vintage_cigar/premium_blend.webp",
-    "custom_emoji_id": "5884333868168780407",
-    "model_id": "5429436762109798599"
+    "custom_emoji_id": "5985712018525528373",
+    "model_id": "5429436762109798599",
+    "telegram_document_id": "5429436762109798599",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxrD7ahcrdFpvrTtJTTht37IAALHaAAC-DtZS7HN1U8QRaQTHgQ"
   },
   {
     "name": "cobalt",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/vintage_cigar/cobalt.tgs",
     "webp_path": "models/vintage_cigar/cobalt.webp",
-    "custom_emoji_id": "5881723425700978515",
-    "model_id": "5429451068645860401"
+    "custom_emoji_id": "5983090855819353541",
+    "model_id": "5429451068645860401",
+    "telegram_document_id": "5429451068645860401",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxriY1eyX0HqOw0hlfp7JW8-AAIxZAAC-0hZS6hVKafubM-8HgQ"
   },
   {
     "name": "far_out",
-    "rarity_permille": 0.4,
+    "rarity_percent": 0.4,
     "tgs_path": "models/vintage_cigar/far_out.tgs",
     "webp_path": "models/vintage_cigar/far_out.webp",
-    "custom_emoji_id": "5882229183869886330",
-    "model_id": "5429472380273585177"
+    "custom_emoji_id": "5983388222175061192",
+    "model_id": "5429472380273585177",
+    "telegram_document_id": "5429472380273585177",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxrjk1NZ-xGcxRiH5hbhZc9SAAIZbAACXVxZSyyQdmXDeWlHHgQ"
   },
   {
     "name": "seeing_red",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/vintage_cigar/seeing_red.tgs",
     "webp_path": "models/vintage_cigar/seeing_red.webp",
-    "custom_emoji_id": "5882030133610553343",
-    "model_id": "5429483341030128553"
+    "custom_emoji_id": "5985673595748098932",
+    "model_id": "5429483341030128553",
+    "telegram_document_id": "5429483341030128553",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxopxgbSXHEZfDkZwcmWonSjAAKpewACVWZZS7NZpu3oG-SBHgQ"
   },
   {
     "name": "vaporwave",
-    "rarity_permille": 3.0,
+    "rarity_percent": 3.0,
     "tgs_path": "models/vintage_cigar/vaporwave.tgs",
     "webp_path": "models/vintage_cigar/vaporwave.webp",
-    "custom_emoji_id": "5884204568178335166",
-    "model_id": "5429495925284296642"
+    "custom_emoji_id": "5983545662791231961",
+    "model_id": "5429495925284296642",
+    "telegram_document_id": "5429495925284296642",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxqzQN8xyGbps31RdeTgcaWzAALCVwACx3FZS5dn3ZmX4-01HgQ"
   },
   {
     "name": "pickle_rick",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/vintage_cigar/pickle_rick.tgs",
     "webp_path": "models/vintage_cigar/pickle_rick.webp",
-    "custom_emoji_id": "5884247358937504910",
-    "model_id": "5429520273453901166"
+    "custom_emoji_id": "5985550313006834445",
+    "model_id": "5429520273453901166",
+    "telegram_document_id": "5429520273453901166",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxqqAAGyTZxMvcoZV9nDani8OwACbmUAAuyHWUvp20c-N9AOpx4E"
   },
   {
     "name": "mellow_yellow",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/vintage_cigar/mellow_yellow.tgs",
     "webp_path": "models/vintage_cigar/mellow_yellow.webp",
-    "custom_emoji_id": "5881789993399098015",
-    "model_id": "5429523748082441581"
+    "custom_emoji_id": "5983501093915598736",
+    "model_id": "5429523748082441581",
+    "telegram_document_id": "5429523748082441581",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxpqnIIYrxzLcQOMWL0y-Df0AAJtXQACFYtZSxICFbmTMnoEHgQ"
   },
   {
     "name": "saturation",
-    "rarity_permille": 3.0,
+    "rarity_percent": 3.0,
     "tgs_path": "models/vintage_cigar/saturation.tgs",
     "webp_path": "models/vintage_cigar/saturation.webp",
-    "custom_emoji_id": "5882117660749077858",
-    "model_id": "5429524723040018703"
+    "custom_emoji_id": "5983483424420143189",
+    "model_id": "5429524723040018703",
+    "telegram_document_id": "5429524723040018703",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxrDISu7kXyeD8Gl5oHJXKOKAAIPYQAC-ItZS9ZtJc4acu37HgQ"
   },
   {
     "name": "pearl_puff",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/vintage_cigar/pearl_puff.tgs",
     "webp_path": "models/vintage_cigar/pearl_puff.webp",
-    "custom_emoji_id": "5882016136312135365",
-    "model_id": "5429526363717526130"
+    "custom_emoji_id": "5983221010508291460",
+    "model_id": "5429526363717526130",
+    "telegram_document_id": "5429526363717526130",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxr7TZGXb6ItNIMKHaq9hfGfAAJyYgACdo1ZSxpYvclxtIRvHgQ"
   },
   {
     "name": "long_draw",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/vintage_cigar/long_draw.tgs",
     "webp_path": "models/vintage_cigar/long_draw.webp",
-    "custom_emoji_id": "5882115826798043111",
-    "model_id": "5429528223438367408"
+    "custom_emoji_id": "5985699606070042074",
+    "model_id": "5429528223438367408",
+    "telegram_document_id": "5429528223438367408",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxoYZSb_DMf40FsB3a752GdFAAKwagACJ49ZS4ftIsvRBA_FHgQ"
   },
   {
     "name": "red_devil",
-    "rarity_permille": 4.0,
+    "rarity_percent": 4.0,
     "tgs_path": "models/vintage_cigar/red_devil.tgs",
     "webp_path": "models/vintage_cigar/red_devil.webp",
-    "custom_emoji_id": "5882036661960843841",
-    "model_id": "5429554723386585967"
+    "custom_emoji_id": "5985575610364206320",
+    "model_id": "5429554723386585967",
+    "telegram_document_id": "5429554723386585967",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxobjv3SQcoW4X6X9TuX0sk3AAJvcwACQadZS0vlEJv_qmJeHgQ"
   },
   {
     "name": "gray_matter",
-    "rarity_permille": 1.0,
+    "rarity_percent": 1.0,
     "tgs_path": "models/vintage_cigar/gray_matter.tgs",
     "webp_path": "models/vintage_cigar/gray_matter.webp",
-    "custom_emoji_id": "5882001773941497140",
-    "model_id": "5429599622974694135"
+    "custom_emoji_id": "5985405194651836354",
+    "model_id": "5429599622974694135",
+    "telegram_document_id": "5429599622974694135",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxpetV5Xri8r0s3Tq1QuwLyjAAL3YgACF9BZSz8UQpABKpcdHgQ"
   },
   {
     "name": "rudolph",
-    "rarity_permille": 3.0,
+    "rarity_percent": 3.0,
     "tgs_path": "models/vintage_cigar/rudolph.tgs",
     "webp_path": "models/vintage_cigar/rudolph.webp",
-    "custom_emoji_id": "5881946081100569996",
-    "model_id": "5429601121918281198"
+    "custom_emoji_id": "5983499852670050018",
+    "model_id": "5429601121918281198",
+    "telegram_document_id": "5429601121918281198",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxpsqPSBm2_58JOa9G9CC-cFAALuZQACdNFZS3hGKUdnATuOHgQ"
   },
   {
     "name": "sunset_orange",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/vintage_cigar/sunset_orange.tgs",
     "webp_path": "models/vintage_cigar/sunset_orange.webp",
-    "custom_emoji_id": "5882217982595178924",
-    "model_id": "5429601160572988542"
+    "custom_emoji_id": "5985755801422146109",
+    "model_id": "5429601160572988542",
+    "telegram_document_id": "5429601160572988542",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxq_IMyBC1fWkVdot-jsW9e_AAJ-bAACfdFZSzUb-HcYnfS6HgQ"
   },
   {
     "name": "super_swirls",
-    "rarity_permille": 0.3,
+    "rarity_percent": 0.3,
     "tgs_path": "models/vintage_cigar/super_swirls.tgs",
     "webp_path": "models/vintage_cigar/super_swirls.webp",
-    "custom_emoji_id": "5881808878370299459",
-    "model_id": "5429605386820803851"
+    "custom_emoji_id": "5985532329978765509",
+    "model_id": "5429605386820803851",
+    "telegram_document_id": "5429605386820803851",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxo3xnCaYVi23rkeXhVXZKIsAAILXQACVdVZS4DTzbFaHQE9HgQ"
   },
   {
     "name": "stained_glass",
-    "rarity_permille": 3.0,
+    "rarity_percent": 3.0,
     "tgs_path": "models/vintage_cigar/stained_glass.tgs",
     "webp_path": "models/vintage_cigar/stained_glass.webp",
-    "custom_emoji_id": "5881730576821527581",
-    "model_id": "5429615784936627979"
+    "custom_emoji_id": "5985670928573408054",
+    "model_id": "5429615784936627979",
+    "telegram_document_id": "5429615784936627979",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxqdU_zSeEyUWSSxJViCIMzzAAILXwACyt5ZSx8kZC84Q41eHgQ"
   },
   {
     "name": "thermal",
-    "rarity_permille": 1.0,
+    "rarity_percent": 1.0,
     "tgs_path": "models/vintage_cigar/thermal.tgs",
     "webp_path": "models/vintage_cigar/thermal.webp",
-    "custom_emoji_id": "5884345473170415749",
-    "model_id": "5429624838727690024"
+    "custom_emoji_id": "5985396815170641376",
+    "model_id": "5429624838727690024",
+    "telegram_document_id": "5429624838727690024",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxqLTjmY0Fp-WpeBAAGw3Bi5ZQACKGcAAgbnWUsa5Wh3yGYpHB4E"
   },
   {
     "name": "silver_fox",
-    "rarity_permille": 1.0,
+    "rarity_percent": 1.0,
     "tgs_path": "models/vintage_cigar/silver_fox.tgs",
     "webp_path": "models/vintage_cigar/silver_fox.webp",
-    "custom_emoji_id": "5881887699610115435",
-    "model_id": "5429631783689807001"
+    "custom_emoji_id": "5983047596908747857",
+    "model_id": "5429631783689807001",
+    "telegram_document_id": "5429631783689807001",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxrm0tONsuJaMTHs4HPx39HtAAKZZAACV-1ZS0Ixt3dwejxYHgQ"
   },
   {
     "name": "subtle_purple",
-    "rarity_permille": 3.0,
+    "rarity_percent": 3.0,
     "tgs_path": "models/vintage_cigar/subtle_purple.tgs",
     "webp_path": "models/vintage_cigar/subtle_purple.webp",
-    "custom_emoji_id": "5881958416246645699",
-    "model_id": "5429634188871492860"
+    "custom_emoji_id": "5985484247819886380",
+    "model_id": "5429634188871492860",
+    "telegram_document_id": "5429634188871492860",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxpP-FXqUDgrlzOfcVk1hQ4oAAL8ZAACh-9ZSwKS_4fxz0tuHgQ"
   },
   {
     "name": "pink_plume",
-    "rarity_permille": 0.5,
+    "rarity_percent": 0.5,
     "tgs_path": "models/vintage_cigar/pink_plume.tgs",
     "webp_path": "models/vintage_cigar/pink_plume.webp",
-    "custom_emoji_id": "5881716489328796583",
-    "model_id": "5429640648502306892"
+    "custom_emoji_id": "5985662304279076028",
+    "model_id": "5429640648502306892",
+    "telegram_document_id": "5429640648502306892",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxolM9CaAS-D9L8LkoZ0rGH3AAJMaAACZ_VZS9Y31bUcT9o2HgQ"
   },
   {
     "name": "centurion",
-    "rarity_permille": 1.0,
+    "rarity_percent": 1.0,
     "tgs_path": "models/vintage_cigar/centurion.tgs",
     "webp_path": "models/vintage_cigar/centurion.webp",
-    "custom_emoji_id": "5884302630871637570",
-    "model_id": "5429649393055720320"
+    "custom_emoji_id": "5983071300833255705",
+    "model_id": "5429649393055720320",
+    "telegram_document_id": "5429649393055720320",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxo3HJPUtnSmbPDHjNCbE7XuAAKAYwACW_1ZS_85RzELN6XhHgQ"
   },
   {
     "name": "desert_night",
-    "rarity_permille": 3.0,
+    "rarity_percent": 3.0,
     "tgs_path": "models/vintage_cigar/desert_night.tgs",
     "webp_path": "models/vintage_cigar/desert_night.webp",
-    "custom_emoji_id": "5882021414826941658",
-    "model_id": "5429649689408463436"
+    "custom_emoji_id": "5983461107770085075",
+    "model_id": "5429649689408463436",
+    "telegram_document_id": "5429649689408463436",
+    "telegram_file_id": "BQACAgIAAxUAAWrhdxrQaFu8-6yBvhAcFLeii8yIAAJMYgACoP1ZS9wRz0Ucx8atHgQ"
   }
 ]
