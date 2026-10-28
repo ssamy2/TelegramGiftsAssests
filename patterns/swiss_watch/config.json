@@ -64,6 +64,10 @@
     "rarity_percent": 1.0
   },
   {
+    "name": "Thief",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Axe",
     "rarity_percent": 0.2
   },
@@ -152,10 +156,6 @@
     "rarity_percent": 0.2
   },
   {
-    "name": "Oak Leaf",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Bone",
     "rarity_percent": 0.2
   },
@@ -228,11 +228,11 @@
     "rarity_percent": 0.5
   },
   {
-    "name": "Shooting Star",
+    "name": "Bubble Tea",
     "rarity_percent": 0.2
   },
   {
-    "name": "Birthday Cake",
+    "name": "Shooting Star",
     "rarity_percent": 0.2
   },
   {
@@ -253,10 +253,6 @@
   },
   {
     "name": "Potion",
-    "rarity_percent": 0.2
-  },
-  {
-    "name": "Sea Horse",
     "rarity_percent": 0.2
   },
   {
@@ -586,10 +582,6 @@
   {
     "name": "Money Bag",
     "rarity_percent": 0.8
-  },
-  {
-    "name": "Maple",
-    "rarity_percent": 0.2
   },
   {
     "name": "Moose Head",
