@@ -244,6 +244,10 @@
     "rarity_percent": 0.6
   },
   {
+    "name": "Hermit Shell",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Coffee Bean",
     "rarity_percent": 0.4
   },
@@ -514,10 +518,6 @@
   {
     "name": "Gear",
     "rarity_percent": 0.5
-  },
-  {
-    "name": "Illuminati",
-    "rarity_percent": 0.2
   },
   {
     "name": "Eagle",
