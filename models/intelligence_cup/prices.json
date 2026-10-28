@@ -6,12 +6,12 @@
     "Gunmetal": 4.2,
     "Midnight Blue": 1776.993,
     "Ivory White": 3.97,
-    "Satin Gold": 4.03,
+    "Satin Gold": 4.0394135,
     "Black": 2599.98,
     "Navy Blue": 3.89,
     "Pure Gold": 3.99,
     "Silver Blue": 3.85,
-    "Steel Grey": 4.03,
+    "Steel Grey": 4.0,
     "Copper": 3.7,
     "Roman Silver": 3.35
   },
@@ -45,8 +45,8 @@
     "Evil Dragon": 1799.0,
     "Bastet": 2198.99,
     "Trinity Knot": 1649.0,
-    "Cobra": 1777.0,
     "Pegasus": 6000.0,
+    "Cobra": 1777.0,
     "Scorpion": 1500.0,
     "Easter Egg": 2450.0
   },
@@ -55,5 +55,5 @@
     "Silver": 2040.0,
     "Bronze": 1677.9
   },
-  "last_updated": 1793201115
+  "last_updated": 1793203846
 }
