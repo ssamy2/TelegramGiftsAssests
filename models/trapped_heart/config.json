@@ -1,402 +1,502 @@
 [
   {
     "name": "grey_ember",
-    "rarity_permille": 2.6,
+    "rarity_percent": 2.6,
     "tgs_path": "models/trapped_heart/grey_ember.tgs",
     "webp_path": "models/trapped_heart/grey_ember.webp",
-    "custom_emoji_id": "5881813306481583782",
-    "model_id": "5393319677743098489"
+    "custom_emoji_id": "5983351444370105606",
+    "model_id": "5393319677743098489",
+    "telegram_document_id": "5393319677743098489",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpdUPL7KMlCpzpmcSV6Cme1gAAJ5agACrOvYStrqs_d5e7WyHgQ"
   },
   {
     "name": "purple_haze",
-    "rarity_permille": 2.6,
+    "rarity_percent": 2.6,
     "tgs_path": "models/trapped_heart/purple_haze.tgs",
     "webp_path": "models/trapped_heart/purple_haze.webp",
-    "custom_emoji_id": "5882070016676863216",
-    "model_id": "5395542370563418680"
+    "custom_emoji_id": "5985559233653908000",
+    "model_id": "5395542370563418680",
+    "telegram_document_id": "5395542370563418680",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpc__oEayNUqpF_tUTyxG8H4AAI4agACM9HgSkI3Uyviw4VNHgQ"
   },
   {
     "name": "sandy_red",
-    "rarity_permille": 2.6,
+    "rarity_percent": 2.6,
     "tgs_path": "models/trapped_heart/sandy_red.tgs",
     "webp_path": "models/trapped_heart/sandy_red.webp",
-    "custom_emoji_id": "5881751858384477144",
-    "model_id": "5395578246425242394"
+    "custom_emoji_id": "5983481659188584283",
+    "model_id": "5395578246425242394",
+    "telegram_document_id": "5395578246425242394",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpe40Z8NXEu9tJJVnHzfkddRAAIaawAC1PHgSuSaK4BHHuvbHgQ"
   },
   {
     "name": "meadow",
-    "rarity_permille": 2.6,
+    "rarity_percent": 2.6,
     "tgs_path": "models/trapped_heart/meadow.tgs",
     "webp_path": "models/trapped_heart/meadow.webp",
-    "custom_emoji_id": "5881871473223671454",
-    "model_id": "5395597784231471158"
+    "custom_emoji_id": "5985605602120834857",
+    "model_id": "5395597784231471158",
+    "telegram_document_id": "5395597784231471158",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpdvDkHi8LPBKcXzKUaCk46nAAI2aAACmQPhSoTMvB5hMpiBHgQ"
   },
   {
     "name": "orange_blaze",
-    "rarity_permille": 2.6,
+    "rarity_percent": 2.6,
     "tgs_path": "models/trapped_heart/orange_blaze.tgs",
     "webp_path": "models/trapped_heart/orange_blaze.webp",
-    "custom_emoji_id": "5882260558605983059",
-    "model_id": "5395603492243007577"
+    "custom_emoji_id": "5983329819209769790",
+    "model_id": "5395603492243007577",
+    "telegram_document_id": "5395603492243007577",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpdtxl81Pdzd0FTGeshauATBAAJZaAACygjhSgaHScvZfFV5HgQ"
   },
   {
     "name": "pink_twilight",
-    "rarity_permille": 2.6,
+    "rarity_percent": 2.6,
     "tgs_path": "models/trapped_heart/pink_twilight.tgs",
     "webp_path": "models/trapped_heart/pink_twilight.webp",
-    "custom_emoji_id": "5881992870474295080",
-    "model_id": "5397605337844966674"
+    "custom_emoji_id": "5983043284761583710",
+    "model_id": "5397605337844966674",
+    "telegram_document_id": "5397605337844966674",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpeHo6-Hr8zLqxeoebiEK6I9AAISZQACdSXoSg637lgIPqRAHgQ"
   },
   {
     "name": "blue_whisper",
-    "rarity_permille": 2.6,
+    "rarity_percent": 2.6,
     "tgs_path": "models/trapped_heart/blue_whisper.tgs",
     "webp_path": "models/trapped_heart/blue_whisper.webp",
-    "custom_emoji_id": "5881942846990197010",
-    "model_id": "5397729144572239666"
+    "custom_emoji_id": "5985519689890012726",
+    "model_id": "5397729144572239666",
+    "telegram_document_id": "5397729144572239666",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpd8x41c6p3YcxOqxT8Fu0oRAAIyXwACD5boSl-9KkuB-Bd4HgQ"
   },
   {
     "name": "violet_shadow",
-    "rarity_permille": 2.6,
+    "rarity_percent": 2.6,
     "tgs_path": "models/trapped_heart/violet_shadow.tgs",
     "webp_path": "models/trapped_heart/violet_shadow.webp",
-    "custom_emoji_id": "5881901799987747108",
-    "model_id": "5397797421667345830"
+    "custom_emoji_id": "5985812473515614655",
+    "model_id": "5397797421667345830",
+    "telegram_document_id": "5397797421667345830",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpeDPrDVTgtcmCsxWUqIJsjQAAKmZQACKNToSoA_dipm28tyHgQ"
   },
   {
     "name": "phantom",
-    "rarity_permille": 2.6,
+    "rarity_percent": 2.6,
     "tgs_path": "models/trapped_heart/phantom.tgs",
     "webp_path": "models/trapped_heart/phantom.webp",
-    "custom_emoji_id": "5881787416418722089",
-    "model_id": "5397890918810408993"
+    "custom_emoji_id": "5983532107874443468",
+    "model_id": "5397890918810408993",
+    "telegram_document_id": "5397890918810408993",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpc-P6t0WCfPSZp_K9m1okpJAAIhWAACMSnpSmI0K6_5IBqOHgQ"
   },
   {
     "name": "silver",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/trapped_heart/silver.tgs",
     "webp_path": "models/trapped_heart/silver.webp",
-    "custom_emoji_id": "5881961465673424451",
-    "model_id": "5399853946497952040"
+    "custom_emoji_id": "5983538168073297438",
+    "model_id": "5399853946497952040",
+    "telegram_document_id": "5399853946497952040",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpdouHuevkiRoLfIiEV2wfVxAAIoaQACjiLwSlkUDqaGXoweHgQ"
   },
   {
     "name": "abyss_heart",
-    "rarity_permille": 2.6,
+    "rarity_percent": 2.6,
     "tgs_path": "models/trapped_heart/abyss_heart.tgs",
     "webp_path": "models/trapped_heart/abyss_heart.webp",
-    "custom_emoji_id": "5882080844289424448",
-    "model_id": "5399863421195802452"
+    "custom_emoji_id": "5983108963401476700",
+    "model_id": "5399863421195802452",
+    "telegram_document_id": "5399863421195802452",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpc2apT3AAFwLOs4B_YyChLe3AACVFcAAiwr8Eq2QrBqBgHpNh4E"
   },
   {
     "name": "colorful_beats",
-    "rarity_permille": 2.6,
+    "rarity_percent": 2.6,
     "tgs_path": "models/trapped_heart/colorful_beats.tgs",
     "webp_path": "models/trapped_heart/colorful_beats.webp",
-    "custom_emoji_id": "5881988373643533930",
-    "model_id": "5399874253103326889"
+    "custom_emoji_id": "5985541680122568894",
+    "model_id": "5399874253103326889",
+    "telegram_document_id": "5399874253103326889",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpcP-4Nef6RgMp6SVDD6vr7-AAKpZgACBjXwSqnwIdN4rjy3HgQ"
   },
   {
     "name": "bejeweled",
-    "rarity_permille": 2.6,
+    "rarity_percent": 2.6,
     "tgs_path": "models/trapped_heart/bejeweled.tgs",
     "webp_path": "models/trapped_heart/bejeweled.webp",
-    "custom_emoji_id": "5881888090452140555",
-    "model_id": "5402332748218133219"
+    "custom_emoji_id": "5983095941060633507",
+    "model_id": "5402332748218133219",
+    "telegram_document_id": "5402332748218133219",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpfKgnSJ271qjJ_Iyn0I--bfAALjagACA_H4SsihDC9FYtRUHgQ"
   },
   {
     "name": "silver_luxe",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/trapped_heart/silver_luxe.tgs",
     "webp_path": "models/trapped_heart/silver_luxe.webp",
-    "custom_emoji_id": "5881976446519352786",
-    "model_id": "5402510413835302585"
+    "custom_emoji_id": "5985396974084431459",
+    "model_id": "5402510413835302585",
+    "telegram_document_id": "5402510413835302585",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpeA0yIVLEFcnBtD7X5pcqulAAK5dgACmZL5Sn0k0aohyrimHgQ"
   },
   {
     "name": "patchwork",
-    "rarity_permille": 2.6,
+    "rarity_percent": 2.6,
     "tgs_path": "models/trapped_heart/patchwork.tgs",
     "webp_path": "models/trapped_heart/patchwork.webp",
-    "custom_emoji_id": "5881930580563599825",
-    "model_id": "5404320596521674310"
+    "custom_emoji_id": "5985605395962404411",
+    "model_id": "5404320596521674310",
+    "telegram_document_id": "5404320596521674310",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpchTClYh371pSZxAAE_zNOABAACRmYAAvMAAktannRGoQL9Xh4E"
   },
   {
     "name": "undead_beat",
-    "rarity_permille": 2.6,
+    "rarity_percent": 2.6,
     "tgs_path": "models/trapped_heart/undead_beat.tgs",
     "webp_path": "models/trapped_heart/undead_beat.webp",
-    "custom_emoji_id": "5881719439971327738",
-    "model_id": "5404614509723679116"
+    "custom_emoji_id": "5983236648484215808",
+    "model_id": "5404614509723679116",
+    "telegram_document_id": "5404614509723679116",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpeJ__kM92eJ2fXyKseCVCxMAAKMeQACQwwBS2G9MZGWmgSUHgQ"
   },
   {
     "name": "goldie",
-    "rarity_permille": 1.0,
+    "rarity_percent": 1.0,
     "tgs_path": "models/trapped_heart/goldie.tgs",
     "webp_path": "models/trapped_heart/goldie.webp",
-    "custom_emoji_id": "5882107936943119956",
-    "model_id": "5404631453369651700"
+    "custom_emoji_id": "5983482458052502872",
+    "model_id": "5404631453369651700",
+    "telegram_document_id": "5404631453369651700",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpdCYx7mFK255Q-YGTBVFlIiAAL0UQACrBsBSxow6GqGNPA7HgQ"
   },
   {
     "name": "mended_love",
-    "rarity_permille": 2.6,
+    "rarity_percent": 2.6,
     "tgs_path": "models/trapped_heart/mended_love.tgs",
     "webp_path": "models/trapped_heart/mended_love.webp",
-    "custom_emoji_id": "5882153639690117218",
-    "model_id": "5404839110743447604"
+    "custom_emoji_id": "5985686029678419107",
+    "model_id": "5404839110743447604",
+    "telegram_document_id": "5404839110743447604",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpc9gYS-wmIXLaChX-hXHhwaAAI0WAACidgBS2d0A8dUwZFVHgQ"
   },
   {
     "name": "jinx",
-    "rarity_permille": 0.6,
+    "rarity_percent": 0.6,
     "tgs_path": "models/trapped_heart/jinx.tgs",
     "webp_path": "models/trapped_heart/jinx.webp",
-    "custom_emoji_id": "5881992982143443131",
-    "model_id": "5406668264300371905"
+    "custom_emoji_id": "5985438102691257558",
+    "model_id": "5406668264300371905",
+    "telegram_document_id": "5406668264300371905",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpcvPuUhhxly2_moyruXbQiqAALBXwACJFgISzufUvAKsPZJHgQ"
   },
   {
     "name": "empty_silent",
-    "rarity_permille": 2.6,
+    "rarity_percent": 2.6,
     "tgs_path": "models/trapped_heart/empty_silent.tgs",
     "webp_path": "models/trapped_heart/empty_silent.webp",
-    "custom_emoji_id": "5881772242299264394",
-    "model_id": "5407014954060502408"
+    "custom_emoji_id": "5985706147305235143",
+    "model_id": "5407014954060502408",
+    "telegram_document_id": "5407014954060502408",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpdErSZqhaQmLcUY2T4z0e-GAAKIVQACdJMJS7BlK_nc3CmBHgQ"
   },
   {
     "name": "bloodvine",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/trapped_heart/bloodvine.tgs",
     "webp_path": "models/trapped_heart/bloodvine.webp",
-    "custom_emoji_id": "5881951754752368108",
-    "model_id": "5407041831965846165"
+    "custom_emoji_id": "5985563481376564297",
+    "model_id": "5407041831965846165",
+    "telegram_document_id": "5407041831965846165",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpeBYtCp1V9UxQjoypkVd1enAAKVagAC5qsJS9RwcfryBybLHgQ"
   },
   {
     "name": "cold-hearted",
-    "rarity_permille": 2.6,
+    "rarity_percent": 2.6,
     "tgs_path": "models/trapped_heart/cold-hearted.tgs",
     "webp_path": "models/trapped_heart/cold-hearted.webp",
-    "custom_emoji_id": "5881924232601935790",
-    "model_id": "5411601687074858818"
+    "custom_emoji_id": "5983341931017544939",
+    "model_id": "5411601687074858818",
+    "telegram_document_id": "5411601687074858818",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpeAN033MN3Iqc69Ba_MLVQdAAJCZwACEN8ZS4nMSakI8-9cHgQ"
   },
   {
     "name": "sweetheart",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/trapped_heart/sweetheart.tgs",
     "webp_path": "models/trapped_heart/sweetheart.webp",
-    "custom_emoji_id": "5882046012104646552",
-    "model_id": "5413495797717162241"
+    "custom_emoji_id": "5985563305282903125",
+    "model_id": "5413495797717162241",
+    "telegram_document_id": "5413495797717162241",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpfQFWHzi2tuZSp51GnpBJdQAAIBWQACv5kgSwf24CV0eJ5kHgQ"
   },
   {
     "name": "blood_stains",
-    "rarity_permille": 2.6,
+    "rarity_percent": 2.6,
     "tgs_path": "models/trapped_heart/blood_stains.tgs",
     "webp_path": "models/trapped_heart/blood_stains.webp",
-    "custom_emoji_id": "5883967275530199298",
-    "model_id": "5415736005414118123"
+    "custom_emoji_id": "5985398047826255637",
+    "model_id": "5415736005414118123",
+    "telegram_document_id": "5415736005414118123",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpfIV56agpKoaTIcWfojmvPgAALrYgACNI8oS-dJYv8ofNiRHgQ"
   },
   {
     "name": "stardust",
-    "rarity_permille": 0.6,
+    "rarity_percent": 0.6,
     "tgs_path": "models/trapped_heart/stardust.tgs",
     "webp_path": "models/trapped_heart/stardust.webp",
-    "custom_emoji_id": "5881789061391195309",
-    "model_id": "5420381772753948836"
+    "custom_emoji_id": "5985479351557171977",
+    "model_id": "5420381772753948836",
+    "telegram_document_id": "5420381772753948836",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpc_DKWVtfhD4rnwekJFL2KxAAKkUAACgRA5S1PW4SJCw_CDHgQ"
   },
   {
     "name": "fire_and_ice",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/trapped_heart/fire_and_ice.tgs",
     "webp_path": "models/trapped_heart/fire_and_ice.webp",
-    "custom_emoji_id": "5882013507792151283",
-    "model_id": "5420488781864136855"
+    "custom_emoji_id": "5983050831019123152",
+    "model_id": "5420488781864136855",
+    "telegram_document_id": "5420488781864136855",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpcgOkb-m9a20w-0kZv6SNTWAAKXcAAC1HE5S39LT1ljIFZhHgQ"
   },
   {
     "name": "magic_kiss",
-    "rarity_permille": 1.0,
+    "rarity_percent": 1.0,
     "tgs_path": "models/trapped_heart/magic_kiss.tgs",
     "webp_path": "models/trapped_heart/magic_kiss.webp",
-    "custom_emoji_id": "5882097998388796607",
-    "model_id": "5422809880975141811"
+    "custom_emoji_id": "5985662076645810131",
+    "model_id": "5422809880975141811",
+    "telegram_document_id": "5422809880975141811",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpeAJLQCrOs9YJy4ZwpwOvJTAAKzawAC27BBS7-FCAdHMgQIHgQ"
   },
   {
     "name": "jack-o-love",
-    "rarity_permille": 0.6,
+    "rarity_percent": 0.6,
     "tgs_path": "models/trapped_heart/jack-o-love.tgs",
     "webp_path": "models/trapped_heart/jack-o-love.webp",
-    "custom_emoji_id": "5881786153698336031",
-    "model_id": "5422871891712960418"
+    "custom_emoji_id": "5985293912049196845",
+    "model_id": "5422871891712960418",
+    "telegram_document_id": "5422871891712960418",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpcjYIKQGPLq63pKFpjQPLUyAAKiZwACQelBS-sOM_QtgFj0HgQ"
   },
   {
     "name": "vampie",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/trapped_heart/vampie.tgs",
     "webp_path": "models/trapped_heart/vampie.webp",
-    "custom_emoji_id": "5882106562553585254",
-    "model_id": "5425011103253946714"
+    "custom_emoji_id": "5983242880481763342",
+    "model_id": "5425011103253946714",
+    "telegram_document_id": "5425011103253946714",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpcTNyb7ckTsqbqf9VkOO8RPAAJaYQAC24JJS_AJC3uyxSuQHgQ"
   },
   {
     "name": "premium",
-    "rarity_permille": 1.0,
+    "rarity_percent": 1.0,
     "tgs_path": "models/trapped_heart/premium.tgs",
     "webp_path": "models/trapped_heart/premium.webp",
-    "custom_emoji_id": "5882034909614186231",
-    "model_id": "5426992792574387212"
+    "custom_emoji_id": "5983243726590324623",
+    "model_id": "5426992792574387212",
+    "telegram_document_id": "5426992792574387212",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpe5SaW3CibgzW-74h6AjWB5AAIMZAACMY1QS-KuZN-IQuV7HgQ"
   },
   {
     "name": "valentine",
-    "rarity_permille": 2.6,
+    "rarity_percent": 2.6,
     "tgs_path": "models/trapped_heart/valentine.tgs",
     "webp_path": "models/trapped_heart/valentine.webp",
-    "custom_emoji_id": "5882132847753437306",
-    "model_id": "5427053759635153537"
+    "custom_emoji_id": "5985822549508889755",
+    "model_id": "5427053759635153537",
+    "telegram_document_id": "5427053759635153537",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpci_OZn5ZxSIFXfyamtzD6aAAKBYgACpMRQSxEu6H9HsHCzHgQ"
   },
   {
     "name": "sweet_wrap",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/trapped_heart/sweet_wrap.tgs",
     "webp_path": "models/trapped_heart/sweet_wrap.webp",
-    "custom_emoji_id": "5882197315212550278",
-    "model_id": "5427081908850815085"
+    "custom_emoji_id": "5985829825183489181",
+    "model_id": "5427081908850815085",
+    "telegram_document_id": "5427081908850815085",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpcAAQFpgEeSfHHkvm0-KtF2DQACbXAAAj7eUEtJ8zdhr3kGvR4E"
   },
   {
     "name": "cozy_season",
-    "rarity_permille": 1.0,
+    "rarity_percent": 1.0,
     "tgs_path": "models/trapped_heart/cozy_season.tgs",
     "webp_path": "models/trapped_heart/cozy_season.webp",
-    "custom_emoji_id": "5881710055467785084",
-    "model_id": "5427282234715434860"
+    "custom_emoji_id": "5983067486902296722",
+    "model_id": "5427282234715434860",
+    "telegram_document_id": "5427282234715434860",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpdLHrGCbra7GzdHdb1SyJbEAAJsbwACcJRRS3X0f8bXmaaWHgQ"
   },
   {
     "name": "pxl_pnk",
-    "rarity_permille": 0.6,
+    "rarity_percent": 0.6,
     "tgs_path": "models/trapped_heart/pxl_pnk.tgs",
     "webp_path": "models/trapped_heart/pxl_pnk.webp",
-    "custom_emoji_id": "5882062603563311749",
-    "model_id": "5429335581270240097"
+    "custom_emoji_id": "5985805403999444419",
+    "model_id": "5429335581270240097",
+    "telegram_document_id": "5429335581270240097",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpcWzg0gMD8DTtEKQaqFRSAJAAJhawAC8t9YSzOTTH51-sn8HgQ"
   },
   {
     "name": "faded_relic",
-    "rarity_permille": 2.6,
+    "rarity_percent": 2.6,
     "tgs_path": "models/trapped_heart/faded_relic.tgs",
     "webp_path": "models/trapped_heart/faded_relic.webp",
-    "custom_emoji_id": "5882132014529781454",
-    "model_id": "5429370082742527793"
+    "custom_emoji_id": "5983375693755458137",
+    "model_id": "5429370082742527793",
+    "telegram_document_id": "5429370082742527793",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpfbENHvH5caSjy_X6XwEd6mAAIxZwACU_9YS7F3g1ysROjsHgQ"
   },
   {
     "name": "iron_pulse",
-    "rarity_permille": 1.0,
+    "rarity_percent": 1.0,
     "tgs_path": "models/trapped_heart/iron_pulse.tgs",
     "webp_path": "models/trapped_heart/iron_pulse.webp",
-    "custom_emoji_id": "5881798609103494880",
-    "model_id": "5431359314025536280"
+    "custom_emoji_id": "5983509834174046605",
+    "model_id": "5431359314025536280",
+    "telegram_document_id": "5431359314025536280",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpe4Z3BwBB83eWUGsLlb_ba1AAIYWwAChRBgS1W8mrIDFdz6HgQ"
   },
   {
     "name": "patched_up",
-    "rarity_permille": 2.6,
+    "rarity_percent": 2.6,
     "tgs_path": "models/trapped_heart/patched_up.tgs",
     "webp_path": "models/trapped_heart/patched_up.webp",
-    "custom_emoji_id": "5881987480290336296",
-    "model_id": "5431690275615430674"
+    "custom_emoji_id": "5983135884256484849",
+    "model_id": "5431690275615430674",
+    "telegram_document_id": "5431690275615430674",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpcelWpweHuezzapcKwxIDnDAAISWAAChz1hS4WS0iCG_HGsHgQ"
   },
   {
     "name": "toxic_love",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/trapped_heart/toxic_love.tgs",
     "webp_path": "models/trapped_heart/toxic_love.webp",
-    "custom_emoji_id": "5882243911312743966",
-    "model_id": "5431783394801378383"
+    "custom_emoji_id": "5983451968079667673",
+    "model_id": "5431783394801378383",
+    "telegram_document_id": "5431783394801378383",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpeOcNerwvoHv8rgIPkJYWdRAAJPZAACOJJhS7bnU8NPpcpDHgQ"
   },
   {
     "name": "crime_scene",
-    "rarity_permille": 2.6,
+    "rarity_percent": 2.6,
     "tgs_path": "models/trapped_heart/crime_scene.tgs",
     "webp_path": "models/trapped_heart/crime_scene.webp",
-    "custom_emoji_id": "5882193548526232092",
-    "model_id": "5431854107142939974"
+    "custom_emoji_id": "5985288792448180539",
+    "model_id": "5431854107142939974",
+    "telegram_document_id": "5431854107142939974",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpdOEl8CeIWqxpgOrsIC8dYsAAJGZQACiNJhS86OfOMro87VHgQ"
   },
   {
     "name": "feline_fury",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/trapped_heart/feline_fury.tgs",
     "webp_path": "models/trapped_heart/feline_fury.webp",
-    "custom_emoji_id": "5881894343924522540",
-    "model_id": "5433596291907083078"
+    "custom_emoji_id": "5983088545126950719",
+    "model_id": "5433596291907083078",
+    "telegram_document_id": "5433596291907083078",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpdV-6a9K7jTz1Cj8DFEyuJrAAJGWwACCgNoS5_kMmfjzjXsHgQ"
   },
   {
     "name": "bandaged",
-    "rarity_permille": 2.6,
+    "rarity_percent": 2.6,
     "tgs_path": "models/trapped_heart/bandaged.tgs",
     "webp_path": "models/trapped_heart/bandaged.webp",
-    "custom_emoji_id": "5881858343508647325",
-    "model_id": "5433627877096579974"
+    "custom_emoji_id": "5983230279047717831",
+    "model_id": "5433627877096579974",
+    "telegram_document_id": "5433627877096579974",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpdQ2m-KAZC8GsGhePw0lauKAAKGYwACxB9oS6aQ1vzXbISWHgQ"
   },
   {
     "name": "lovesick",
-    "rarity_permille": 2.6,
+    "rarity_percent": 2.6,
     "tgs_path": "models/trapped_heart/lovesick.tgs",
     "webp_path": "models/trapped_heart/lovesick.webp",
-    "custom_emoji_id": "5882110007117356777",
-    "model_id": "5433734722997999958"
+    "custom_emoji_id": "5985540825424076432",
+    "model_id": "5433734722997999958",
+    "telegram_document_id": "5433734722997999958",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpdJvcWiGAdoVr2AWV7e9wwsAAJWWQAC8YBoSyePnGQAAVGxwR4E"
   },
   {
     "name": "love_bomb",
-    "rarity_permille": 1.0,
+    "rarity_percent": 1.0,
     "tgs_path": "models/trapped_heart/love_bomb.tgs",
     "webp_path": "models/trapped_heart/love_bomb.webp",
-    "custom_emoji_id": "5882248137560563639",
-    "model_id": "5433812904287692618"
+    "custom_emoji_id": "5985548002314429994",
+    "model_id": "5433812904287692618",
+    "telegram_document_id": "5433812904287692618",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpcH7YWX467ehUEPK7V-4SzgAAJKZwACDMhoS3Mg1Rc7olySHgQ"
   },
   {
     "name": "heartworm",
-    "rarity_permille": 2.6,
+    "rarity_percent": 2.6,
     "tgs_path": "models/trapped_heart/heartworm.tgs",
     "webp_path": "models/trapped_heart/heartworm.webp",
-    "custom_emoji_id": "5881925675710946477",
-    "model_id": "5433874395334467238"
+    "custom_emoji_id": "5985542393087139524",
+    "model_id": "5433874395334467238",
+    "telegram_document_id": "5433874395334467238",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpdrY0UhmZibe9hPryE4nbmMAAKmXgAC-f9oS_fNIv94SZncHgQ"
   },
   {
     "name": "comic_book",
-    "rarity_permille": 0.6,
+    "rarity_percent": 0.6,
     "tgs_path": "models/trapped_heart/comic_book.tgs",
     "webp_path": "models/trapped_heart/comic_book.webp",
-    "custom_emoji_id": "5882040312683043955",
-    "model_id": "5433878063236538256"
+    "custom_emoji_id": "5985718993552415915",
+    "model_id": "5433878063236538256",
+    "telegram_document_id": "5433878063236538256",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpe2qFTtEnpGawUBDcMgWGI1AAKQXwACTwNpS7oQ_NPL64r9HgQ"
   },
   {
     "name": "mystic_mark",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/trapped_heart/mystic_mark.tgs",
     "webp_path": "models/trapped_heart/mystic_mark.webp",
-    "custom_emoji_id": "5881855332736573383",
-    "model_id": "5433884183564937859"
+    "custom_emoji_id": "5985530831035178027",
+    "model_id": "5433884183564937859",
+    "telegram_document_id": "5433884183564937859",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpc2hCTB1J30WKv7pcsVCT3EAAKDagAC4AhpSyD7Zg-zvfVfHgQ"
   },
   {
     "name": "zap_core",
-    "rarity_permille": 1.0,
+    "rarity_percent": 1.0,
     "tgs_path": "models/trapped_heart/zap_core.tgs",
     "webp_path": "models/trapped_heart/zap_core.webp",
-    "custom_emoji_id": "5882207983911312160",
-    "model_id": "5433894255263242787"
+    "custom_emoji_id": "5983498083143524339",
+    "model_id": "5433894255263242787",
+    "telegram_document_id": "5433894255263242787",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpcSF1o1Vof3jxHuNenqcJWrAAIjWgACCRJpSyo81r5KS7zQHgQ"
   },
   {
     "name": "tattoo",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/trapped_heart/tattoo.tgs",
     "webp_path": "models/trapped_heart/tattoo.webp",
-    "custom_emoji_id": "5882032590331846794",
-    "model_id": "5433986648599714618"
+    "custom_emoji_id": "5983430836840572212",
+    "model_id": "5433986648599714618",
+    "telegram_document_id": "5433986648599714618",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpfdAp4kaVH94-aS74aNDrBCAAI6WwACEWZpS06clFD5Xv8MHgQ"
   },
   {
     "name": "glitch",
-    "rarity_permille": 1.0,
+    "rarity_percent": 1.0,
     "tgs_path": "models/trapped_heart/glitch.tgs",
     "webp_path": "models/trapped_heart/glitch.webp",
-    "custom_emoji_id": "5435874574489120031",
-    "model_id": "5435874574489120031"
+    "custom_emoji_id": "5985777336388166848",
+    "model_id": "5435874574489120031",
+    "telegram_document_id": "5435874574489120031",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpeRUgABmYokS-i4r9h8QB-qpgACH20AAiAbcEuyVc7628cWsh4E"
   },
   {
     "name": "love_potion",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/trapped_heart/love_potion.tgs",
     "webp_path": "models/trapped_heart/love_potion.webp",
-    "custom_emoji_id": "5436229484816657104",
-    "model_id": "5436229484816657104"
+    "custom_emoji_id": "5985803973775335673",
+    "model_id": "5436229484816657104",
+    "telegram_document_id": "5436229484816657104",
+    "telegram_file_id": "BQACAgIAAxUAAWrhZpcsGZPyGwv8rVdZPpAvdOXpAALQagAC6l1xS0lRKJwhDaZiHgQ"
   }
 ]

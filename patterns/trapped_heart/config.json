@@ -276,6 +276,10 @@
     "rarity_percent": 0.8
   },
   {
+    "name": "Fleur-de-lis",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Cap",
     "rarity_percent": 0.2
   },
@@ -289,10 +293,6 @@
   },
   {
     "name": "Cocktail",
-    "rarity_percent": 0.2
-  },
-  {
-    "name": "Crab",
     "rarity_percent": 0.2
   },
   {
@@ -330,6 +330,10 @@
   {
     "name": "Bow Tie",
     "rarity_percent": 0.6
+  },
+  {
+    "name": "Garden Pot",
+    "rarity_percent": 0.2
   },
   {
     "name": "Piñata",
@@ -497,6 +501,10 @@
   },
   {
     "name": "Toilet Paper",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Ink Pen",
     "rarity_percent": 0.2
   },
   {
@@ -744,10 +752,6 @@
     "rarity_percent": 0.2
   },
   {
-    "name": "Twin Peaks",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Ring",
     "rarity_percent": 0.6
   },
@@ -777,10 +781,6 @@
   },
   {
     "name": "Money Bag",
-    "rarity_percent": 0.2
-  },
-  {
-    "name": "Maple",
     "rarity_percent": 0.2
   },
   {
@@ -881,10 +881,6 @@
   },
   {
     "name": "Bull of Heaven",
-    "rarity_percent": 0.2
-  },
-  {
-    "name": "Arabian Horse",
     "rarity_percent": 0.2
   },
   {
