@@ -60,6 +60,10 @@
     "rarity_percent": 0.3
   },
   {
+    "name": "Police Hat",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Turban",
     "rarity_percent": 0.4
   },
@@ -328,11 +332,19 @@
     "rarity_percent": 0.5
   },
   {
+    "name": "Flower",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Avocado",
     "rarity_percent": 0.3
   },
   {
     "name": "Sea Jelly",
+    "rarity_percent": 0.4
+  },
+  {
+    "name": "Cherry",
     "rarity_percent": 0.4
   },
   {
@@ -514,6 +526,10 @@
   {
     "name": "Mannaz Rune",
     "rarity_percent": 0.4
+  },
+  {
+    "name": "Monstera",
+    "rarity_percent": 0.5
   },
   {
     "name": "Unicorn Head",
@@ -772,10 +788,6 @@
     "rarity_percent": 0.3
   },
   {
-    "name": "Porrige",
-    "rarity_percent": 0.1
-  },
-  {
     "name": "Kudu Totem",
     "rarity_percent": 0.5
   },
@@ -850,10 +862,6 @@
   {
     "name": "Ice Cream",
     "rarity_percent": 0.5
-  },
-  {
-    "name": "Rooster",
-    "rarity_percent": 0.1
   },
   {
     "name": "Viper",
