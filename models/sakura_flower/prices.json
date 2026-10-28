@@ -341,7 +341,7 @@
   },
   "models": {
     "Aetheris": 25.5,
-    "Dahlia": 11.118,
+    "Dahlia": 11.4954,
     "Carnation": 40.8,
     "Clivia": 12.24,
     "Geranium": 14.892,
@@ -353,7 +353,7 @@
     "Meower": 67.32,
     "Bubblia": 25.4898,
     "Brunnera": 20.4,
-    "Floris": 11.118,
+    "Floris": 11.9646,
     "Lanceolata": 12.4848,
     "Bull's Eye": 21.0,
     "Flowey": 413.1,
@@ -364,7 +364,7 @@
     "Hawaii": 11.118,
     "Monsoon": 13.2498,
     "Hollyhock": 11.5362,
-    "Lemon Queen": 11.118,
+    "Lemon Queen": 11.4138,
     "Oxalis": 11.22,
     "Nightshade": 14.892,
     "Hibiscus": 14.28,
@@ -407,7 +407,7 @@
     "Sylvaris": 13.26,
     "Twilight": 11.118,
     "Venus Flytrap": 16.83,
-    "Heartbeat": 14.4942,
+    "Heartbeat": 14.484,
     "Gerbera": 12.5562,
     "Hydrangea": 11.832,
     "Peach Perfect": 12.393,
@@ -442,5 +442,5 @@
     "Orchidra": 19.38,
     "Primrose": 11.934
   },
-  "last_updated": 1793228620
+  "last_updated": 1793231636
 }

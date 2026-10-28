@@ -340,11 +340,11 @@
     "Sea Horse": 5.0
   },
   "models": {
-    "Meadow": 4.335,
+    "Meadow": 4.5798,
     "Crown Prince": 4.4778,
     "Egghead": 5.1,
     "Deep Freeze": 5.049,
-    "Koshchei": 5.5488,
+    "Koshchei": 5.355,
     "Cryptid": 43.86,
     "Little Dino": 6.426,
     "Unicorn": 12.2298,
@@ -354,7 +354,7 @@
     "Pearl": 5.814,
     "Magic Key": 4.488,
     "Omeletron": 4.2738,
-    "Khokhloma": 4.1922,
+    "Khokhloma": 4.59,
     "Little Doge": 6.885,
     "Easter Bunny": 9.1698,
     "Pure Gold": 6.4158,
@@ -364,7 +364,7 @@
     "OS Shell": 4.5798,
     "Pastel Candy": 4.488,
     "Dragon": 4.539,
-    "Ladybird": 4.5594,
+    "Ladybird": 4.2636,
     "Meowling": 13.464,
     "Protein Lamp": 4.3656,
     "Bronze": 4.2228,
@@ -374,7 +374,7 @@
     "Fish Pod": 4.4778,
     "3D Render": 7.956,
     "Faberge": 198.9,
-    "Frosted": 4.488,
+    "Frosted": 4.437,
     "Foliage": 5.406,
     "Free Flight": 4.59,
     "Flower Bed": 4.2024,
@@ -391,7 +391,7 @@
     "Treasure Map": 4.2636,
     "Scrambull": 4.3452,
     "Eggburger": 4.488,
-    "Ball of Steel": 4.845,
+    "Ball of Steel": 4.7838,
     "Brick Wall": 4.233,
     "Matryoshka": 4.386,
     "Baby Chick": 7.038,
@@ -403,5 +403,5 @@
     "Creeper": 11.8932,
     "Moon Watch": 4.2228
   },
-  "last_updated": 1793228620
+  "last_updated": 1793231636
 }
