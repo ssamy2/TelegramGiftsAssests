@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Satin Gold": 4.06,
+    "Satin Gold": 4.1,
     "Feldgrau": 3.99,
     "Platinum": 4.1,
     "Navy Blue": 4.0,
@@ -11,16 +11,16 @@
     "Gunmetal": 4.2,
     "Amber": 3.78,
     "Black": 5334.6,
-    "Old Gold": 4.0,
     "Steel Grey": 4.01,
-    "Pure Gold": 4.03
+    "Pure Gold": 3.99,
+    "Old Gold": 4.0
   },
   "symbols": {
-    "Flag": 1800.0,
+    "Flag": 2222.0,
     "Nemean Lion": 4000.0,
     "Light Bulb": 7000.0,
     "Firebird": 6450.0,
-    "Pyramid": 1840.0,
+    "Pyramid": 1740.0,
     "Coat of Arms": 4500.0,
     "Trickster Fox": 3450.0,
     "Telescope": 4700.0,
@@ -56,9 +56,9 @@
     "Twin Koi": 1700.0
   },
   "models": {
-    "Silver": 2288.88,
     "Bronze": 2140.0007,
+    "Silver": 2288.88,
     "Gold": 20400.0
   },
-  "last_updated": 1793214890
+  "last_updated": 1793217662
 }
