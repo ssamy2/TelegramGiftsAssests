@@ -136,6 +136,10 @@
     "rarity_percent": 0.4
   },
   {
+    "name": "Romantic Cake",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Sweets Box",
     "rarity_percent": 0.4
   },
@@ -244,6 +248,10 @@
     "rarity_percent": 0.6
   },
   {
+    "name": "Trophy",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Skull",
     "rarity_percent": 1.2
   },
@@ -266,6 +274,10 @@
   {
     "name": "Fleur-de-lis",
     "rarity_percent": 0.6
+  },
+  {
+    "name": "Cap",
+    "rarity_percent": 0.2
   },
   {
     "name": "Strawberry",
@@ -360,6 +372,10 @@
     "rarity_percent": 0.4
   },
   {
+    "name": "Hermit Shell",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Calm Wolf",
     "rarity_percent": 0.2
   },
@@ -406,6 +422,10 @@
   {
     "name": "Cherry",
     "rarity_percent": 0.6
+  },
+  {
+    "name": "Cursor",
+    "rarity_percent": 0.2
   },
   {
     "name": "Chili",
@@ -536,6 +556,10 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Cicada",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Pizza Slice",
     "rarity_percent": 0.2
   },
@@ -656,15 +680,15 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Mannaz Rune",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Monstera",
     "rarity_percent": 0.2
   },
   {
     "name": "Like",
-    "rarity_percent": 0.2
-  },
-  {
-    "name": "Hammerhead",
     "rarity_percent": 0.2
   },
   {
@@ -684,19 +708,11 @@
     "rarity_percent": 0.2
   },
   {
-    "name": "Sparks",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Lily",
     "rarity_percent": 0.2
   },
   {
     "name": "PC Mouse",
-    "rarity_percent": 0.2
-  },
-  {
-    "name": "Flashlight",
     "rarity_percent": 0.2
   },
   {
@@ -726,10 +742,6 @@
   {
     "name": "Champagne",
     "rarity_percent": 0.6
-  },
-  {
-    "name": "Scorpion",
-    "rarity_percent": 0.2
   },
   {
     "name": "Spades",
@@ -824,10 +836,6 @@
     "rarity_percent": 0.2
   },
   {
-    "name": "Lion King",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Kitsune",
     "rarity_percent": 0.2
   },
@@ -860,7 +868,11 @@
     "rarity_percent": 0.2
   },
   {
-    "name": "Alkonost",
+    "name": "Bull of Heaven",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Ram of Amun",
     "rarity_percent": 0.2
   }
 ]
