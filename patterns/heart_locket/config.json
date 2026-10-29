@@ -8,10 +8,6 @@
     "rarity_percent": 0.4
   },
   {
-    "name": "Twin Koi",
-    "rarity_percent": 0.4
-  },
-  {
     "name": "Police Hat",
     "rarity_percent": 0.2
   },
@@ -28,19 +24,11 @@
     "rarity_percent": 0.6
   },
   {
-    "name": "Party Popper",
-    "rarity_percent": 0.6
-  },
-  {
-    "name": "Visor",
-    "rarity_percent": 0.4
-  },
-  {
     "name": "Pith Helmet",
     "rarity_percent": 0.4
   },
   {
-    "name": "High Hat",
+    "name": "Bellflower",
     "rarity_percent": 0.5
   },
   {
@@ -48,32 +36,28 @@
     "rarity_percent": 0.6
   },
   {
-    "name": "Candy",
-    "rarity_percent": 0.5
-  },
-  {
-    "name": "Lovely Kiss",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Fleur-de-lis",
     "rarity_percent": 0.5
   },
   {
-    "name": "Thief",
+    "name": "Coat of Arms",
     "rarity_percent": 0.4
   },
   {
-    "name": "Tulip",
-    "rarity_percent": 0.2
-  },
-  {
-    "name": "Cat Mask",
-    "rarity_percent": 0.4
+    "name": "Ghost",
+    "rarity_percent": 0.5
   },
   {
     "name": "Cone",
     "rarity_percent": 0.2
+  },
+  {
+    "name": "Bottlenose",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Melon",
+    "rarity_percent": 0.5
   },
   {
     "name": "Cicada",
@@ -84,52 +68,44 @@
     "rarity_percent": 0.5
   },
   {
-    "name": "Key",
-    "rarity_percent": 0.5
-  },
-  {
     "name": "Pearl",
     "rarity_percent": 0.6
-  },
-  {
-    "name": "Like",
-    "rarity_percent": 0.5
-  },
-  {
-    "name": "Diamonds",
-    "rarity_percent": 0.4
   },
   {
     "name": "Pomegranate",
     "rarity_percent": 0.2
   },
   {
-    "name": "Sunflower",
-    "rarity_percent": 0.4
-  },
-  {
-    "name": "Twin Peaks",
-    "rarity_percent": 0.5
-  },
-  {
     "name": "Coconut",
     "rarity_percent": 0.6
   },
   {
-    "name": "Tiki Mask",
-    "rarity_percent": 0.4
+    "name": "Bubbles",
+    "rarity_percent": 0.6
+  },
+  {
+    "name": "Battle Axe",
+    "rarity_percent": 0.5
   },
   {
     "name": "Trickster Fox",
     "rarity_percent": 0.5
   },
   {
+    "name": "Piranha",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Spider",
+    "rarity_percent": 0.4
+  },
+  {
     "name": "Ancient Urn",
     "rarity_percent": 0.5
   },
   {
-    "name": "Jewel",
-    "rarity_percent": 0.6
+    "name": "Horn",
+    "rarity_percent": 0.4
   },
   {
     "name": "Cow Skull",
@@ -148,12 +124,16 @@
     "rarity_percent": 0.2
   },
   {
-    "name": "Sea Dragon",
-    "rarity_percent": 0.5
+    "name": "Nordic Wolf",
+    "rarity_percent": 0.2
   },
   {
     "name": "White Deer",
     "rarity_percent": 0.5
+  },
+  {
+    "name": "Mountain Lion",
+    "rarity_percent": 0.4
   },
   {
     "name": "Ram of Amun",
