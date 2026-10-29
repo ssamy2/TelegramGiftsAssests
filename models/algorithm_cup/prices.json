@@ -8,12 +8,12 @@
     "Midnight Blue": 3264.0,
     "Onyx Black": 2550.0,
     "Silver Blue": 3.44,
-    "Gunmetal": 4.29,
+    "Gunmetal": 4.3,
     "Amber": 3.78,
     "Black": 5334.6,
-    "Steel Grey": 4.02,
-    "Old Gold": 4.01,
-    "Pure Gold": 4.01
+    "Pure Gold": 4.0,
+    "Old Gold": 4.0,
+    "Steel Grey": 4.02
   },
   "symbols": {
     "Flag": 2222.0,
@@ -45,9 +45,9 @@
     "Calm Wolf": 5000.0,
     "Moon": 12000.0,
     "Crescent": 2990.0,
-    "Okami Wolf": 1740.0,
-    "Novus Ordo": 4200.0,
     "Dagger": 2390.0,
+    "Novus Ordo": 4200.0,
+    "Okami Wolf": 1740.0,
     "Fenrir": 2400.0,
     "Axe": 7777.0,
     "Egg": 2490.0,
@@ -60,5 +60,5 @@
     "Bronze": 2140.0007,
     "Gold": 20400.0
   },
-  "last_updated": 1793267648
+  "last_updated": 1793270385
 }
