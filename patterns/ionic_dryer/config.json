@@ -388,6 +388,10 @@
     "rarity_percent": 0.5
   },
   {
+    "name": "Thief",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Pickaxe",
     "rarity_percent": 0.4
   },
@@ -466,6 +470,10 @@
   {
     "name": "Cheese",
     "rarity_percent": 0.4
+  },
+  {
+    "name": "Piggy Bank",
+    "rarity_percent": 0.2
   },
   {
     "name": "Bubble Tea",
@@ -894,10 +902,6 @@
   {
     "name": "Pumpkin Coach",
     "rarity_percent": 0.5
-  },
-  {
-    "name": "Baphomet",
-    "rarity_percent": 0.2
   },
   {
     "name": "Mountain Goat",
