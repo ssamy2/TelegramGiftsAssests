@@ -1,402 +1,502 @@
 [
   {
-    "name": "frosty_night",
-    "rarity_permille": 2.5,
-    "tgs_path": "models/faith_amulet/frosty_night.tgs",
-    "webp_path": "models/faith_amulet/frosty_night.webp",
-    "custom_emoji_id": "5877712712225530662",
-    "model_id": "5377488144822205237"
-  },
-  {
-    "name": "radiance",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/faith_amulet/radiance.tgs",
-    "webp_path": "models/faith_amulet/radiance.webp",
-    "custom_emoji_id": "5879614824391911072",
-    "model_id": "5373041719799477658"
+    "name": "dark_night",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/faith_amulet/dark_night.tgs",
+    "webp_path": "models/faith_amulet/dark_night.webp",
+    "custom_emoji_id": "5988020189784973059",
+    "model_id": "5300760456749683399",
+    "telegram_document_id": "5300760456749683399",
+    "telegram_file_id": "BQACAgIAAxUAAWri2uvIPGU97pyhWwZ6-MhGEfNAAALHkgACjRWQSat2jFbeUDQ7HgQ"
   },
   {
     "name": "luminous",
-    "rarity_permille": 2.5,
+    "rarity_percent": 2.5,
     "tgs_path": "models/faith_amulet/luminous.tgs",
     "webp_path": "models/faith_amulet/luminous.webp",
-    "custom_emoji_id": "5879833872018972559",
-    "model_id": "5300807091504579084"
-  },
-  {
-    "name": "morning_dew",
-    "rarity_permille": 2.5,
-    "tgs_path": "models/faith_amulet/morning_dew.tgs",
-    "webp_path": "models/faith_amulet/morning_dew.webp",
-    "custom_emoji_id": "5879623186693236182",
-    "model_id": "5305685852230286836"
-  },
-  {
-    "name": "greenstone",
-    "rarity_permille": 2.5,
-    "tgs_path": "models/faith_amulet/greenstone.tgs",
-    "webp_path": "models/faith_amulet/greenstone.webp",
-    "custom_emoji_id": "5879463439679627001",
-    "model_id": "5379557442885552212"
-  },
-  {
-    "name": "aurora",
-    "rarity_permille": 2.5,
-    "tgs_path": "models/faith_amulet/aurora.tgs",
-    "webp_path": "models/faith_amulet/aurora.webp",
-    "custom_emoji_id": "5879950385891778194",
-    "model_id": "5377400716467933295"
-  },
-  {
-    "name": "lightwoven",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/faith_amulet/lightwoven.tgs",
-    "webp_path": "models/faith_amulet/lightwoven.webp",
-    "custom_emoji_id": "5879679025563049071",
-    "model_id": "5332404117929230678"
-  },
-  {
-    "name": "shiny_silk",
-    "rarity_permille": 2.5,
-    "tgs_path": "models/faith_amulet/shiny_silk.tgs",
-    "webp_path": "models/faith_amulet/shiny_silk.webp",
-    "custom_emoji_id": "5879512153198697753",
-    "model_id": "5332752620165563101"
-  },
-  {
-    "name": "royal_green",
-    "rarity_permille": 2.5,
-    "tgs_path": "models/faith_amulet/royal_green.tgs",
-    "webp_path": "models/faith_amulet/royal_green.webp",
-    "custom_emoji_id": "5877206202437344199",
-    "model_id": "5332306613581676702"
-  },
-  {
-    "name": "secret_bloom",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/faith_amulet/secret_bloom.tgs",
-    "webp_path": "models/faith_amulet/secret_bloom.webp",
-    "custom_emoji_id": "5879529826989123419",
-    "model_id": "5359664837997659378"
-  },
-  {
-    "name": "twilight_rose",
-    "rarity_permille": 2.5,
-    "tgs_path": "models/faith_amulet/twilight_rose.tgs",
-    "webp_path": "models/faith_amulet/twilight_rose.webp",
-    "custom_emoji_id": "5879838725332016279",
-    "model_id": "5359430169574541321"
-  },
-  {
-    "name": "celestial_gem",
-    "rarity_permille": 2.5,
-    "tgs_path": "models/faith_amulet/celestial_gem.tgs",
-    "webp_path": "models/faith_amulet/celestial_gem.webp",
-    "custom_emoji_id": "5879920097782406831",
-    "model_id": "5361909701439160830"
-  },
-  {
-    "name": "golden_lace",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/faith_amulet/golden_lace.tgs",
-    "webp_path": "models/faith_amulet/golden_lace.webp",
-    "custom_emoji_id": "5879957532717358306",
-    "model_id": "5303543724406501226"
-  },
-  {
-    "name": "starry_eve",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/faith_amulet/starry_eve.tgs",
-    "webp_path": "models/faith_amulet/starry_eve.webp",
-    "custom_emoji_id": "5879937415090544117",
-    "model_id": "5301087917941229139"
-  },
-  {
-    "name": "winter",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/faith_amulet/winter.tgs",
-    "webp_path": "models/faith_amulet/winter.webp",
-    "custom_emoji_id": "5879922133596905510",
-    "model_id": "5371036872015382959"
-  },
-  {
-    "name": "rose_pearl",
-    "rarity_permille": 3.0,
-    "tgs_path": "models/faith_amulet/rose_pearl.tgs",
-    "webp_path": "models/faith_amulet/rose_pearl.webp",
-    "custom_emoji_id": "5879965959443193849",
-    "model_id": "5305295740350791920"
-  },
-  {
-    "name": "ethereal",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/faith_amulet/ethereal.tgs",
-    "webp_path": "models/faith_amulet/ethereal.webp",
-    "custom_emoji_id": "5879467528488494238",
-    "model_id": "5332686095417114362"
-  },
-  {
-    "name": "emerald",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/faith_amulet/emerald.tgs",
-    "webp_path": "models/faith_amulet/emerald.webp",
-    "custom_emoji_id": "5879583883447510874",
-    "model_id": "5373227039048371114"
-  },
-  {
-    "name": "obsidian",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/faith_amulet/obsidian.tgs",
-    "webp_path": "models/faith_amulet/obsidian.webp",
-    "custom_emoji_id": "5879890346543947062",
-    "model_id": "5361897258918904665"
-  },
-  {
-    "name": "miracle",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/faith_amulet/miracle.tgs",
-    "webp_path": "models/faith_amulet/miracle.webp",
-    "custom_emoji_id": "5879467429704245082",
-    "model_id": "5370610407532693976"
-  },
-  {
-    "name": "gold_night",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/faith_amulet/gold_night.tgs",
-    "webp_path": "models/faith_amulet/gold_night.webp",
-    "custom_emoji_id": "5879516078798808416",
-    "model_id": "5366049465796952129"
+    "custom_emoji_id": "5987717811202432291",
+    "model_id": "5300807091504579084",
+    "telegram_document_id": "5300807091504579084",
+    "telegram_file_id": "BQACAgIAAxUAAWri2uu1z2kT8XQjKYRAF9YkNL1vAAIMggAC9z-QSZlxs5DqyMH4HgQ"
   },
   {
     "name": "silver_charm",
-    "rarity_permille": 2.5,
+    "rarity_percent": 2.5,
     "tgs_path": "models/faith_amulet/silver_charm.tgs",
     "webp_path": "models/faith_amulet/silver_charm.webp",
-    "custom_emoji_id": "5877576806575382531",
-    "model_id": "5300807211763665265"
+    "custom_emoji_id": "5988044881551957464",
+    "model_id": "5300807211763665265",
+    "telegram_document_id": "5300807211763665265",
+    "telegram_file_id": "BQACAgIAAxUAAWri2utAO9OjWGktxfUKp696zrTwAAJxiQACE0CQSa97DQWsRqcNHgQ"
   },
   {
-    "name": "lunar_veil",
-    "rarity_permille": 3.0,
-    "tgs_path": "models/faith_amulet/lunar_veil.tgs",
-    "webp_path": "models/faith_amulet/lunar_veil.webp",
-    "custom_emoji_id": "5879928378479353914",
-    "model_id": "5305480793311706201"
-  },
-  {
-    "name": "eternal_light",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/faith_amulet/eternal_light.tgs",
-    "webp_path": "models/faith_amulet/eternal_light.webp",
-    "custom_emoji_id": "5879820050814212991",
-    "model_id": "5332289480957134755"
-  },
-  {
-    "name": "crystal_leaf",
-    "rarity_permille": 3.0,
-    "tgs_path": "models/faith_amulet/crystal_leaf.tgs",
-    "webp_path": "models/faith_amulet/crystal_leaf.webp",
-    "custom_emoji_id": "5879741195214659335",
-    "model_id": "5359819735993190208"
-  },
-  {
-    "name": "soft_whisper",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/faith_amulet/soft_whisper.tgs",
-    "webp_path": "models/faith_amulet/soft_whisper.webp",
-    "custom_emoji_id": "5879807530984546172",
-    "model_id": "5372925588178764496"
-  },
-  {
-    "name": "dark_night",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/faith_amulet/dark_night.tgs",
-    "webp_path": "models/faith_amulet/dark_night.webp",
-    "custom_emoji_id": "5879995066436559375",
-    "model_id": "5300760456749683399"
-  },
-  {
-    "name": "sunny_mosaic",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/faith_amulet/sunny_mosaic.tgs",
-    "webp_path": "models/faith_amulet/sunny_mosaic.webp",
-    "custom_emoji_id": "5879979862252330561",
-    "model_id": "5303136613046453034"
-  },
-  {
-    "name": "constellation",
-    "rarity_permille": 3.0,
-    "tgs_path": "models/faith_amulet/constellation.tgs",
-    "webp_path": "models/faith_amulet/constellation.webp",
-    "custom_emoji_id": "5879756206125358850",
-    "model_id": "5305677142036609732"
-  },
-  {
-    "name": "azure_glow",
-    "rarity_permille": 2.5,
-    "tgs_path": "models/faith_amulet/azure_glow.tgs",
-    "webp_path": "models/faith_amulet/azure_glow.webp",
-    "custom_emoji_id": "5879680700600294960",
-    "model_id": "5332740516947721595"
-  },
-  {
-    "name": "moon_gem",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/faith_amulet/moon_gem.tgs",
-    "webp_path": "models/faith_amulet/moon_gem.webp",
-    "custom_emoji_id": "5877729771835630524",
-    "model_id": "5372975242295674790"
-  },
-  {
-    "name": "ocean_glass",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/faith_amulet/ocean_glass.tgs",
-    "webp_path": "models/faith_amulet/ocean_glass.webp",
-    "custom_emoji_id": "5877312219410080383",
-    "model_id": "5357319038529733672"
-  },
-  {
-    "name": "starlace",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/faith_amulet/starlace.tgs",
-    "webp_path": "models/faith_amulet/starlace.webp",
-    "custom_emoji_id": "5877457032822397539",
-    "model_id": "5363876152215637939"
-  },
-  {
-    "name": "lavender",
-    "rarity_permille": 2.5,
-    "tgs_path": "models/faith_amulet/lavender.tgs",
-    "webp_path": "models/faith_amulet/lavender.webp",
-    "custom_emoji_id": "5879714892834938644",
-    "model_id": "5373224217254856522"
-  },
-  {
-    "name": "velvet_dusk",
-    "rarity_permille": 2.5,
-    "tgs_path": "models/faith_amulet/velvet_dusk.tgs",
-    "webp_path": "models/faith_amulet/velvet_dusk.webp",
-    "custom_emoji_id": "5877646582614073691",
-    "model_id": "5332651426441101127"
-  },
-  {
-    "name": "mystic_tide",
-    "rarity_permille": 3.0,
-    "tgs_path": "models/faith_amulet/mystic_tide.tgs",
-    "webp_path": "models/faith_amulet/mystic_tide.webp",
-    "custom_emoji_id": "5879647534862836071",
-    "model_id": "5334981094011865509"
-  },
-  {
-    "name": "moonlight",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/faith_amulet/moonlight.tgs",
-    "webp_path": "models/faith_amulet/moonlight.webp",
-    "custom_emoji_id": "5879478862907187232",
-    "model_id": "5359408733392766437"
-  },
-  {
-    "name": "serenity",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/faith_amulet/serenity.tgs",
-    "webp_path": "models/faith_amulet/serenity.webp",
-    "custom_emoji_id": "5880002866097167513",
-    "model_id": "5303012445541921649"
+    "name": "starry_eve",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/faith_amulet/starry_eve.tgs",
+    "webp_path": "models/faith_amulet/starry_eve.webp",
+    "custom_emoji_id": "5985799648743268792",
+    "model_id": "5301087917941229139",
+    "telegram_document_id": "5301087917941229139",
+    "telegram_file_id": "BQACAgIAAxUAAWri2utrfb_1dZr97WyxZmepCQJbAAJThgACYD-RSbLFWoczGNtAHgQ"
   },
   {
     "name": "sunset_gem",
-    "rarity_permille": 1.5,
+    "rarity_percent": 1.5,
     "tgs_path": "models/faith_amulet/sunset_gem.tgs",
     "webp_path": "models/faith_amulet/sunset_gem.webp",
-    "custom_emoji_id": "5877463458093473925",
-    "model_id": "5301148936541601376"
+    "custom_emoji_id": "5987648099588250884",
+    "model_id": "5301148936541601376",
+    "telegram_document_id": "5301148936541601376",
+    "telegram_file_id": "BQACAgIAAxUAAWri2utLha3g-Jd5qgFG8isdDZZAAAJgfgAC33aRSeGN8sNw10HqHgQ"
   },
   {
-    "name": "silver_gold",
-    "rarity_permille": 2.5,
-    "tgs_path": "models/faith_amulet/silver_gold.tgs",
-    "webp_path": "models/faith_amulet/silver_gold.webp",
-    "custom_emoji_id": "5879511002147462106",
-    "model_id": "5310065632245484943"
+    "name": "serenity",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/faith_amulet/serenity.tgs",
+    "webp_path": "models/faith_amulet/serenity.webp",
+    "custom_emoji_id": "5987975311671697261",
+    "model_id": "5303012445541921649",
+    "telegram_document_id": "5303012445541921649",
+    "telegram_file_id": "BQACAgIAAxUAAWri2usaNY-MCNneO7Ahm1wMvIfKAAJxcwACuRWYSUefU2zX5RKpHgQ"
   },
   {
-    "name": "rose_gold",
-    "rarity_permille": 3.0,
-    "tgs_path": "models/faith_amulet/rose_gold.tgs",
-    "webp_path": "models/faith_amulet/rose_gold.webp",
-    "custom_emoji_id": "5879463014477864789",
-    "model_id": "5305256196586896388"
-  },
-  {
-    "name": "princess",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/faith_amulet/princess.tgs",
-    "webp_path": "models/faith_amulet/princess.webp",
-    "custom_emoji_id": "5879839081814302865",
-    "model_id": "5373250820282289331"
-  },
-  {
-    "name": "ruby_drop",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/faith_amulet/ruby_drop.tgs",
-    "webp_path": "models/faith_amulet/ruby_drop.webp",
-    "custom_emoji_id": "5879662498528895218",
-    "model_id": "5377566059823924116"
-  },
-  {
-    "name": "lilac_dream",
-    "rarity_permille": 2.5,
-    "tgs_path": "models/faith_amulet/lilac_dream.tgs",
-    "webp_path": "models/faith_amulet/lilac_dream.webp",
-    "custom_emoji_id": "5879460961483496825",
-    "model_id": "5332504542854545693"
-  },
-  {
-    "name": "purple_dunes",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/faith_amulet/purple_dunes.tgs",
-    "webp_path": "models/faith_amulet/purple_dunes.webp",
-    "custom_emoji_id": "5879487001870212456",
-    "model_id": "5377825952589975594"
-  },
-  {
-    "name": "midnight",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/faith_amulet/midnight.tgs",
-    "webp_path": "models/faith_amulet/midnight.webp",
-    "custom_emoji_id": "5879478764122941441",
-    "model_id": "5377441016146067867"
-  },
-  {
-    "name": "stained_glass",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/faith_amulet/stained_glass.tgs",
-    "webp_path": "models/faith_amulet/stained_glass.webp",
-    "custom_emoji_id": "5877743081939279424",
-    "model_id": "5310098974076599227"
-  },
-  {
-    "name": "bronze_tower",
-    "rarity_permille": 3.0,
-    "tgs_path": "models/faith_amulet/bronze_tower.tgs",
-    "webp_path": "models/faith_amulet/bronze_tower.webp",
-    "custom_emoji_id": "5877732739658031227",
-    "model_id": "5372976453476449440"
+    "name": "sunny_mosaic",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/faith_amulet/sunny_mosaic.tgs",
+    "webp_path": "models/faith_amulet/sunny_mosaic.webp",
+    "custom_emoji_id": "5987828294941154952",
+    "model_id": "5303136613046453034",
+    "telegram_document_id": "5303136613046453034",
+    "telegram_file_id": "BQACAgIAAxUAAWri2uuJB7uze3xQpigJpJN6if50AAIqgwACp4aYSUpEDbH4hqxnHgQ"
   },
   {
     "name": "cool_breeze",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/faith_amulet/cool_breeze.tgs",
     "webp_path": "models/faith_amulet/cool_breeze.webp",
-    "custom_emoji_id": "5879793215858548297",
-    "model_id": "5303154750693343453"
+    "custom_emoji_id": "5987926611037528100",
+    "model_id": "5303154750693343453",
+    "telegram_document_id": "5303154750693343453",
+    "telegram_file_id": "BQACAgIAAxUAAWri2uvhk9dBPJKomhijPzTL6KrAAALdgAACJpeYSfSvjrGggC5pHgQ"
+  },
+  {
+    "name": "golden_lace",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/faith_amulet/golden_lace.tgs",
+    "webp_path": "models/faith_amulet/golden_lace.webp",
+    "custom_emoji_id": "5985403936226419279",
+    "model_id": "5303543724406501226",
+    "telegram_document_id": "5303543724406501226",
+    "telegram_file_id": "BQACAgIAAxUAAWri2usdkVZJR5kdA_ZMBdvB8G5-AAJqbwAC6_iZSYNchlNrAAHTah4E"
+  },
+  {
+    "name": "rose_gold",
+    "rarity_percent": 3.0,
+    "tgs_path": "models/faith_amulet/rose_gold.tgs",
+    "webp_path": "models/faith_amulet/rose_gold.webp",
+    "custom_emoji_id": "5987548529361427447",
+    "model_id": "5305256196586896388",
+    "telegram_document_id": "5305256196586896388",
+    "telegram_file_id": "BQACAgIAAxUAAWri2usNwojOw3Q3bCTsfLKK6TtSAAIEfAACZw6gSUayXCk4sKuSHgQ"
+  },
+  {
+    "name": "rose_pearl",
+    "rarity_percent": 3.0,
+    "tgs_path": "models/faith_amulet/rose_pearl.tgs",
+    "webp_path": "models/faith_amulet/rose_pearl.webp",
+    "custom_emoji_id": "5987774749583877095",
+    "model_id": "5305295740350791920",
+    "telegram_document_id": "5305295740350791920",
+    "telegram_file_id": "BQACAgIAAxUAAWri2uudY2c0BvJFo8mnW4PVEcB4AALwgAACXjKgSd4GZ126TCaqHgQ"
+  },
+  {
+    "name": "lunar_veil",
+    "rarity_percent": 3.0,
+    "tgs_path": "models/faith_amulet/lunar_veil.tgs",
+    "webp_path": "models/faith_amulet/lunar_veil.webp",
+    "custom_emoji_id": "5987957272809053923",
+    "model_id": "5305480793311706201",
+    "telegram_document_id": "5305480793311706201",
+    "telegram_file_id": "BQACAgIAAxUAAWri2utEVcH5SYSkC99HQX3YMaKUAAJZfAACrNqgSY1w1KxxWeQoHgQ"
+  },
+  {
+    "name": "constellation",
+    "rarity_percent": 3.0,
+    "tgs_path": "models/faith_amulet/constellation.tgs",
+    "webp_path": "models/faith_amulet/constellation.webp",
+    "custom_emoji_id": "5985489865637110301",
+    "model_id": "5305677142036609732",
+    "telegram_document_id": "5305677142036609732",
+    "telegram_file_id": "BQACAgIAAxUAAWri2usCxMIfeZgHS_gfI4jJvINiAALEegACQI2hSYqYj4zBjJSGHgQ"
+  },
+  {
+    "name": "morning_dew",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/faith_amulet/morning_dew.tgs",
+    "webp_path": "models/faith_amulet/morning_dew.webp",
+    "custom_emoji_id": "5987898912793435266",
+    "model_id": "5305685852230286836",
+    "telegram_document_id": "5305685852230286836",
+    "telegram_file_id": "BQACAgIAAxUAAWri2us1bymEB6gVQboTObppgoknAAL0fQACLJWhScO2o6tOleMRHgQ"
+  },
+  {
+    "name": "silver_gold",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/faith_amulet/silver_gold.tgs",
+    "webp_path": "models/faith_amulet/silver_gold.webp",
+    "custom_emoji_id": "5985637818670523047",
+    "model_id": "5310065632245484943",
+    "telegram_document_id": "5310065632245484943",
+    "telegram_file_id": "BQACAgIAAxUAAWri2uvD0iyCI1a_WDg0olKRxv4UAAKPjQACjySxSWIdHB_kR2vuHgQ"
+  },
+  {
+    "name": "stained_glass",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/faith_amulet/stained_glass.tgs",
+    "webp_path": "models/faith_amulet/stained_glass.webp",
+    "custom_emoji_id": "5987573775179195036",
+    "model_id": "5310098974076599227",
+    "telegram_document_id": "5310098974076599227",
+    "telegram_file_id": "BQACAgIAAxUAAWri2uuznP_WPI7ghkQN3ucSnsCEAAK7ewAC4kKxSSa-0UoQdMUvHgQ"
+  },
+  {
+    "name": "eternal_light",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/faith_amulet/eternal_light.tgs",
+    "webp_path": "models/faith_amulet/eternal_light.webp",
+    "custom_emoji_id": "5988067975591107797",
+    "model_id": "5332289480957134755",
+    "telegram_document_id": "5332289480957134755",
+    "telegram_file_id": "BQACAgIAAxUAAWri2utToDFUhGxBFf9I2EBq6DfXAAKjhwACCBkAAUplgX2bvnQHAR4E"
+  },
+  {
+    "name": "royal_green",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/faith_amulet/royal_green.tgs",
+    "webp_path": "models/faith_amulet/royal_green.webp",
+    "custom_emoji_id": "5988011612735284286",
+    "model_id": "5332306613581676702",
+    "telegram_document_id": "5332306613581676702",
+    "telegram_file_id": "BQACAgIAAxUAAWri2utUNfYu75rSRunyVr1OqObLAAKegAACnSgAAUqbfHUiL38YJx4E"
+  },
+  {
+    "name": "lightwoven",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/faith_amulet/lightwoven.tgs",
+    "webp_path": "models/faith_amulet/lightwoven.webp",
+    "custom_emoji_id": "5985480352284549452",
+    "model_id": "5332404117929230678",
+    "telegram_document_id": "5332404117929230678",
+    "telegram_file_id": "BQACAgIAAxUAAWri2usXSGjIDTQP8187aRRXH61kAAJWgQACS4EAAUro_6u_jiuUvB4E"
+  },
+  {
+    "name": "lilac_dream",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/faith_amulet/lilac_dream.tgs",
+    "webp_path": "models/faith_amulet/lilac_dream.webp",
+    "custom_emoji_id": "5987976320989011902",
+    "model_id": "5332504542854545693",
+    "telegram_document_id": "5332504542854545693",
+    "telegram_file_id": "BQACAgIAAxUAAWri2uuJkmnxMQaFURJqqB6zk9VFAAIdgQACodwAAUqfBnci8RFNJx4E"
+  },
+  {
+    "name": "velvet_dusk",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/faith_amulet/velvet_dusk.tgs",
+    "webp_path": "models/faith_amulet/velvet_dusk.webp",
+    "custom_emoji_id": "5987555238100344867",
+    "model_id": "5332651426441101127",
+    "telegram_document_id": "5332651426441101127",
+    "telegram_file_id": "BQACAgIAAxUAAWri2uvZpY_iUdRwwjOED0N1pSVjAAJHfwACOGIBSkNUDW77yAo5HgQ"
+  },
+  {
+    "name": "ethereal",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/faith_amulet/ethereal.tgs",
+    "webp_path": "models/faith_amulet/ethereal.webp",
+    "custom_emoji_id": "5985299791859425992",
+    "model_id": "5332686095417114362",
+    "telegram_document_id": "5332686095417114362",
+    "telegram_file_id": "BQACAgIAAxUAAWri2uuRkzpwDZXrDyI0SinXFIKTAAL6fgACwIEBSnD_iL6eRbzoHgQ"
+  },
+  {
+    "name": "azure_glow",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/faith_amulet/azure_glow.tgs",
+    "webp_path": "models/faith_amulet/azure_glow.webp",
+    "custom_emoji_id": "5987916981720849925",
+    "model_id": "5332740516947721595",
+    "telegram_document_id": "5332740516947721595",
+    "telegram_file_id": "BQACAgIAAxUAAWri2utwG6PckS_Z6cHKVC0P3yCcAAJ7fQACP7MBSuP5aeH9h9nkHgQ"
+  },
+  {
+    "name": "shiny_silk",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/faith_amulet/shiny_silk.tgs",
+    "webp_path": "models/faith_amulet/shiny_silk.webp",
+    "custom_emoji_id": "5987807863781728138",
+    "model_id": "5332752620165563101",
+    "telegram_document_id": "5332752620165563101",
+    "telegram_file_id": "BQACAgIAAxUAAWri2usjMYcvZVMWU8A1THvsc9hXAALdggACQb4BSjbwFBNGQGcmHgQ"
+  },
+  {
+    "name": "mystic_tide",
+    "rarity_percent": 3.0,
+    "tgs_path": "models/faith_amulet/mystic_tide.tgs",
+    "webp_path": "models/faith_amulet/mystic_tide.webp",
+    "custom_emoji_id": "5988025339450760166",
+    "model_id": "5334981094011865509",
+    "telegram_document_id": "5334981094011865509",
+    "telegram_file_id": "BQACAgIAAxUAAWri2usLI6kvavxBXk6qMPBqzWSaAAKliQACCqkJSoLpiWbkCHiMHgQ"
+  },
+  {
+    "name": "ocean_glass",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/faith_amulet/ocean_glass.tgs",
+    "webp_path": "models/faith_amulet/ocean_glass.webp",
+    "custom_emoji_id": "5987772142538727693",
+    "model_id": "5357319038529733672",
+    "telegram_document_id": "5357319038529733672",
+    "telegram_file_id": "BQACAgIAAxUAAWri2utJzqKA8v2ivZ18pQaFEiJ_AAIohAACSAVZSnzOtDU5ElOIHgQ"
   },
   {
     "name": "sunrise",
-    "rarity_permille": 2.5,
+    "rarity_percent": 2.5,
     "tgs_path": "models/faith_amulet/sunrise.tgs",
     "webp_path": "models/faith_amulet/sunrise.webp",
-    "custom_emoji_id": "5877700909655399742",
-    "model_id": "5359306779459093549"
+    "custom_emoji_id": "5987746110741946061",
+    "model_id": "5359306779459093549",
+    "telegram_document_id": "5359306779459093549",
+    "telegram_file_id": "BQACAgIAAxUAAWri2uum78Ud0b8Vkk_0o4q6wGSDAAIthAACHxVgSmWrCkuwT4M8HgQ"
+  },
+  {
+    "name": "moonlight",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/faith_amulet/moonlight.tgs",
+    "webp_path": "models/faith_amulet/moonlight.webp",
+    "custom_emoji_id": "5987810638330603199",
+    "model_id": "5359408733392766437",
+    "telegram_document_id": "5359408733392766437",
+    "telegram_file_id": "BQACAgIAAxUAAWri2uvo8JFIMdQdkOndncHsSj7hAALlhQAC2XFgSmf2OBmb4dRnHgQ"
+  },
+  {
+    "name": "twilight_rose",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/faith_amulet/twilight_rose.tgs",
+    "webp_path": "models/faith_amulet/twilight_rose.webp",
+    "custom_emoji_id": "5987830803202055732",
+    "model_id": "5359430169574541321",
+    "telegram_document_id": "5359430169574541321",
+    "telegram_file_id": "BQACAgIAAxUAAWri2utLriidHiHnluhpTY3jLummAAIJiAACWIVgShcsKVdmlyVtHgQ"
+  },
+  {
+    "name": "secret_bloom",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/faith_amulet/secret_bloom.tgs",
+    "webp_path": "models/faith_amulet/secret_bloom.webp",
+    "custom_emoji_id": "5985390488683814333",
+    "model_id": "5359664837997659378",
+    "telegram_document_id": "5359664837997659378",
+    "telegram_file_id": "BQACAgIAAxUAAWri2uub_wTOoKdFGoenT1FDga_wAALyhAACxlphSkHYEM52N7pkHgQ"
+  },
+  {
+    "name": "crystal_leaf",
+    "rarity_percent": 3.0,
+    "tgs_path": "models/faith_amulet/crystal_leaf.tgs",
+    "webp_path": "models/faith_amulet/crystal_leaf.webp",
+    "custom_emoji_id": "5987706090236682298",
+    "model_id": "5359819735993190208",
+    "telegram_document_id": "5359819735993190208",
+    "telegram_file_id": "BQACAgIAAxUAAWri2uuHmfbKVAtU2s9jKP2BckPIAAJAhwACp-dhSgnVTxDTs5EOHgQ"
+  },
+  {
+    "name": "obsidian",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/faith_amulet/obsidian.tgs",
+    "webp_path": "models/faith_amulet/obsidian.webp",
+    "custom_emoji_id": "5988089751075298974",
+    "model_id": "5361897258918904665",
+    "telegram_document_id": "5361897258918904665",
+    "telegram_file_id": "BQACAgIAAxUAAWri2uu2YXfKFHPXBMykGJm1E1tIAAJZgwACJklpShnfUmI9rnsqHgQ"
+  },
+  {
+    "name": "celestial_gem",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/faith_amulet/celestial_gem.tgs",
+    "webp_path": "models/faith_amulet/celestial_gem.webp",
+    "custom_emoji_id": "5987575785223888234",
+    "model_id": "5361909701439160830",
+    "telegram_document_id": "5361909701439160830",
+    "telegram_file_id": "BQACAgIAAxUAAWri2uuQQvT38G0dC87a8QncaXIOAAL-gQACd1RpSrFwX7c5UyDAHgQ"
+  },
+  {
+    "name": "starlace",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/faith_amulet/starlace.tgs",
+    "webp_path": "models/faith_amulet/starlace.webp",
+    "custom_emoji_id": "5987882179600850379",
+    "model_id": "5363876152215637939",
+    "telegram_document_id": "5363876152215637939",
+    "telegram_file_id": "BQACAgIAAxUAAWri2utBeMqHveG07Rn-8ZX8gu6VAAKzjwAC8VBwSvtvYA-hCFxtHgQ"
+  },
+  {
+    "name": "gold_night",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/faith_amulet/gold_night.tgs",
+    "webp_path": "models/faith_amulet/gold_night.webp",
+    "custom_emoji_id": "5987727603727869618",
+    "model_id": "5366049465796952129",
+    "telegram_document_id": "5366049465796952129",
+    "telegram_file_id": "BQACAgIAAxUAAWri2uv04lgmvw5IY3bohfce1TYGAAJBgAACjwl4SgABZH2QK4XMLB4E"
+  },
+  {
+    "name": "miracle",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/faith_amulet/miracle.tgs",
+    "webp_path": "models/faith_amulet/miracle.webp",
+    "custom_emoji_id": "5987858892288171518",
+    "model_id": "5370610407532693976",
+    "telegram_document_id": "5370610407532693976",
+    "telegram_file_id": "BQACAgIAAxUAAWri2utPQW8P5kqJWmkTkJe8DfS2AALYiQACtj2ISoXfi0XXzWehHgQ"
+  },
+  {
+    "name": "winter",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/faith_amulet/winter.tgs",
+    "webp_path": "models/faith_amulet/winter.webp",
+    "custom_emoji_id": "5987836171911175339",
+    "model_id": "5371036872015382959",
+    "telegram_document_id": "5371036872015382959",
+    "telegram_file_id": "BQACAgIAAxUAAWri2utxkexcwJmUjzqd8A3JJn7pAAKviQAClMGJSjfIjntYsMceHgQ"
+  },
+  {
+    "name": "soft_whisper",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/faith_amulet/soft_whisper.tgs",
+    "webp_path": "models/faith_amulet/soft_whisper.webp",
+    "custom_emoji_id": "5985735795464478703",
+    "model_id": "5372925588178764496",
+    "telegram_document_id": "5372925588178764496",
+    "telegram_file_id": "BQACAgIAAxUAAWri2uuZI4zWlgOsaPhTyq_M3yU0AALQggACW3eQSmWBjvX8lOQyHgQ"
+  },
+  {
+    "name": "moon_gem",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/faith_amulet/moon_gem.tgs",
+    "webp_path": "models/faith_amulet/moon_gem.webp",
+    "custom_emoji_id": "5985581752167439885",
+    "model_id": "5372975242295674790",
+    "telegram_document_id": "5372975242295674790",
+    "telegram_file_id": "BQACAgIAAxUAAWri2uvWvv07XOqlw6UTUSvyP0ncAAKmhwAChKSQSmNQkhD8ni_fHgQ"
+  },
+  {
+    "name": "bronze_tower",
+    "rarity_percent": 3.0,
+    "tgs_path": "models/faith_amulet/bronze_tower.tgs",
+    "webp_path": "models/faith_amulet/bronze_tower.webp",
+    "custom_emoji_id": "5988077952800138303",
+    "model_id": "5372976453476449440",
+    "telegram_document_id": "5372976453476449440",
+    "telegram_file_id": "BQACAgIAAxUAAWri2usKmN-RtImT4Smqrt-tISVgAAKgfAACnqWQSnElUV7ex5qTHgQ"
+  },
+  {
+    "name": "radiance",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/faith_amulet/radiance.tgs",
+    "webp_path": "models/faith_amulet/radiance.webp",
+    "custom_emoji_id": "5985493993100681693",
+    "model_id": "5373041719799477658",
+    "telegram_document_id": "5373041719799477658",
+    "telegram_file_id": "BQACAgIAAxUAAWri2uuZJ2lZpDoJC6phwSDQgA8UAAKadQAC-uCQStafxKFaAkP3HgQ"
+  },
+  {
+    "name": "lavender",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/faith_amulet/lavender.tgs",
+    "webp_path": "models/faith_amulet/lavender.webp",
+    "custom_emoji_id": "5987640574805549681",
+    "model_id": "5373224217254856522",
+    "telegram_document_id": "5373224217254856522",
+    "telegram_file_id": "BQACAgIAAxUAAWri2usv-L6yMXqOZJ9lt4TnjvAyAAJKhwAC9YaRShupddyYxvgRHgQ"
+  },
+  {
+    "name": "emerald",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/faith_amulet/emerald.tgs",
+    "webp_path": "models/faith_amulet/emerald.webp",
+    "custom_emoji_id": "5373227039048371114",
+    "model_id": "5373227039048371114",
+    "telegram_document_id": "5373227039048371114",
+    "telegram_file_id": "BQACAgIAAxUAAWri2uvlEuKGwYsKpSly2VtZ1Wf9AAKqiwAChomRSqiuuvkgezGPHgQ"
+  },
+  {
+    "name": "princess",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/faith_amulet/princess.tgs",
+    "webp_path": "models/faith_amulet/princess.webp",
+    "custom_emoji_id": "5373250820282289331",
+    "model_id": "5373250820282289331",
+    "telegram_document_id": "5373250820282289331",
+    "telegram_file_id": "BQACAgIAAxUAAWri2ut5bjXAGHUrvNIamtekFwjrAAKzjAACJ5-RSh4iUnrJJqgrHgQ"
+  },
+  {
+    "name": "aurora",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/faith_amulet/aurora.tgs",
+    "webp_path": "models/faith_amulet/aurora.webp",
+    "custom_emoji_id": "5377400716467933295",
+    "model_id": "5377400716467933295",
+    "telegram_document_id": "5377400716467933295",
+    "telegram_file_id": "BQACAgIAAxUAAWri2uveDsDyE1uPgycaKKRUIfDCAAJvkAACdl2gShd46tz8hnhSHgQ"
+  },
+  {
+    "name": "midnight",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/faith_amulet/midnight.tgs",
+    "webp_path": "models/faith_amulet/midnight.webp",
+    "custom_emoji_id": "5377441016146067867",
+    "model_id": "5377441016146067867",
+    "telegram_document_id": "5377441016146067867",
+    "telegram_file_id": "BQACAgIAAxUAAWri2usNU_gwk-F2edWPBKR2XnkeAAKbgQACHYKgSvX7K__ZaphIHgQ"
+  },
+  {
+    "name": "frosty_night",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/faith_amulet/frosty_night.tgs",
+    "webp_path": "models/faith_amulet/frosty_night.webp",
+    "custom_emoji_id": "5377488144822205237",
+    "model_id": "5377488144822205237",
+    "telegram_document_id": "5377488144822205237",
+    "telegram_file_id": "BQACAgIAAxUAAWri2ut0Pw5d2uWrXhnBIs9SCUuNAAI1ewAC-qygShy1tMsCOTO5HgQ"
+  },
+  {
+    "name": "ruby_drop",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/faith_amulet/ruby_drop.tgs",
+    "webp_path": "models/faith_amulet/ruby_drop.webp",
+    "custom_emoji_id": "5377566059823924116",
+    "model_id": "5377566059823924116",
+    "telegram_document_id": "5377566059823924116",
+    "telegram_file_id": "BQACAgIAAxUAAWri2uvO_1wxHsndOdTCI0XhA0xjAAKUgwAC1_OgSpCa8x2gw5qmHgQ"
+  },
+  {
+    "name": "purple_dunes",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/faith_amulet/purple_dunes.tgs",
+    "webp_path": "models/faith_amulet/purple_dunes.webp",
+    "custom_emoji_id": "5377825952589975594",
+    "model_id": "5377825952589975594",
+    "telegram_document_id": "5377825952589975594",
+    "telegram_file_id": "BQACAgIAAxUAAWri2uvc5NkMO8iTOKdtmeGPDM4AAyqQAAI24KFKx4GaTWlzRpMeBA"
+  },
+  {
+    "name": "greenstone",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/faith_amulet/greenstone.tgs",
+    "webp_path": "models/faith_amulet/greenstone.webp",
+    "custom_emoji_id": "5379557442885552212",
+    "model_id": "5379557442885552212",
+    "telegram_document_id": "5379557442885552212",
+    "telegram_file_id": "BQACAgIAAxUAAWri2usj8j159Dp6yUy3ZXJCu2KKAAJUiAAC_gaoSrHDyHkHmtlZHgQ"
   }
 ]
