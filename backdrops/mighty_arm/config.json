@@ -100,6 +100,10 @@
     "rarity_percent": 1.0
   },
   {
+    "name": "Persimmon",
+    "rarity_percent": 1.2
+  },
+  {
     "name": "Strawberry",
     "rarity_percent": 1.5
   },
@@ -208,10 +212,6 @@
     "rarity_percent": 1.0
   },
   {
-    "name": "French Blue",
-    "rarity_percent": 1.0
-  },
-  {
     "name": "Turquoise",
     "rarity_percent": 1.5
   },
@@ -226,6 +226,10 @@
   {
     "name": "Chestnut",
     "rarity_percent": 1.2
+  },
+  {
+    "name": "Chocolate",
+    "rarity_percent": 1.0
   },
   {
     "name": "Marine Blue",
@@ -274,10 +278,6 @@
   {
     "name": "Mexican Pink",
     "rarity_percent": 1.5
-  },
-  {
-    "name": "Tomato",
-    "rarity_percent": 1.0
   },
   {
     "name": "Fire Engine",

@@ -1,9 +1,5 @@
 [
   {
-    "name": "Two Katanas",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Shinto Shrine",
     "rarity_percent": 0.7
   },
@@ -18,6 +14,10 @@
   {
     "name": "Tetsubin",
     "rarity_percent": 0.4
+  },
+  {
+    "name": "Onigiri",
+    "rarity_percent": 0.7
   },
   {
     "name": "Bamboo",
@@ -60,10 +60,6 @@
     "rarity_percent": 0.7
   },
   {
-    "name": "Planet",
-    "rarity_percent": 0.7
-  },
-  {
     "name": "Trophy",
     "rarity_percent": 0.7
   },
@@ -76,8 +72,8 @@
     "rarity_percent": 0.7
   },
   {
-    "name": "Pencil",
-    "rarity_percent": 0.2
+    "name": "Cap",
+    "rarity_percent": 0.4
   },
   {
     "name": "Strawberry",
@@ -108,10 +104,6 @@
     "rarity_percent": 0.2
   },
   {
-    "name": "The Eye",
-    "rarity_percent": 0.4
-  },
-  {
     "name": "Scarab",
     "rarity_percent": 0.4
   },
@@ -130,6 +122,10 @@
   {
     "name": "Cursor",
     "rarity_percent": 0.2
+  },
+  {
+    "name": "Hand of God",
+    "rarity_percent": 0.7
   },
   {
     "name": "Cone",
@@ -164,6 +160,10 @@
     "rarity_percent": 0.7
   },
   {
+    "name": "Melon",
+    "rarity_percent": 0.4
+  },
+  {
     "name": "Pineapple",
     "rarity_percent": 0.4
   },
@@ -186,6 +186,14 @@
   {
     "name": "Sakura",
     "rarity_percent": 0.4
+  },
+  {
+    "name": "Cobra",
+    "rarity_percent": 0.7
+  },
+  {
+    "name": "Rook",
+    "rarity_percent": 0.2
   },
   {
     "name": "Glasses",
@@ -220,10 +228,6 @@
     "rarity_percent": 0.7
   },
   {
-    "name": "Pearl",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Illuminati",
     "rarity_percent": 0.7
   },
@@ -244,11 +248,19 @@
     "rarity_percent": 0.5
   },
   {
+    "name": "Jumbo Pencil",
+    "rarity_percent": 0.4
+  },
+  {
     "name": "Cash",
     "rarity_percent": 0.7
   },
   {
     "name": "Anchor",
+    "rarity_percent": 0.7
+  },
+  {
+    "name": "Sparks",
     "rarity_percent": 0.7
   },
   {
@@ -300,10 +312,6 @@
     "rarity_percent": 0.2
   },
   {
-    "name": "Ouroboros",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Money Bag",
     "rarity_percent": 0.2
   },
@@ -316,8 +324,16 @@
     "rarity_percent": 0.4
   },
   {
+    "name": "Owl",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Candle",
     "rarity_percent": 0.4
+  },
+  {
+    "name": "Bubbles",
+    "rarity_percent": 0.5
   },
   {
     "name": "Trinity Knot",
@@ -328,12 +344,12 @@
     "rarity_percent": 0.7
   },
   {
-    "name": "Anubis",
+    "name": "Aztec Totem",
     "rarity_percent": 0.7
   },
   {
-    "name": "Crusader Cross",
-    "rarity_percent": 0.2
+    "name": "Griffon",
+    "rarity_percent": 0.4
   },
   {
     "name": "All-Seeing Eye",
@@ -350,6 +366,10 @@
   {
     "name": "Novus Ordo",
     "rarity_percent": 0.7
+  },
+  {
+    "name": "Aztec Falcon",
+    "rarity_percent": 0.2
   },
   {
     "name": "Eye of Horus",
@@ -394,6 +414,10 @@
   {
     "name": "Imperial Lion",
     "rarity_percent": 0.7
+  },
+  {
+    "name": "Jörmungandr",
+    "rarity_percent": 0.4
   },
   {
     "name": "Trickster Fox",
@@ -460,11 +484,19 @@
     "rarity_percent": 0.4
   },
   {
+    "name": "Heater Shield",
+    "rarity_percent": 0.4
+  },
+  {
     "name": "Crystal",
     "rarity_percent": 0.7
   },
   {
     "name": "Telescope",
+    "rarity_percent": 0.7
+  },
+  {
+    "name": "Tsunami",
     "rarity_percent": 0.7
   },
   {
@@ -484,16 +516,12 @@
     "rarity_percent": 0.4
   },
   {
-    "name": "Pumpkin Coach",
-    "rarity_percent": 0.7
-  },
-  {
-    "name": "Baphomet",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Bastet",
     "rarity_percent": 0.4
+  },
+  {
+    "name": "Celtic Wolf",
+    "rarity_percent": 0.7
   },
   {
     "name": "Flower Cross",
@@ -564,8 +592,8 @@
     "rarity_percent": 0.7
   },
   {
-    "name": "Mayan Moth",
-    "rarity_percent": 0.5
+    "name": "Yogi Shaman",
+    "rarity_percent": 0.7
   },
   {
     "name": "Spirit Impala",
@@ -584,6 +612,10 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Oxen of Fire",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Mountain Lion",
     "rarity_percent": 0.7
   },
@@ -598,6 +630,10 @@
   {
     "name": "Celtic Cross",
     "rarity_percent": 0.7
+  },
+  {
+    "name": "Golden Scarab",
+    "rarity_percent": 0.5
   },
   {
     "name": "Alkonost",
