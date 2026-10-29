@@ -56,6 +56,14 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Earflap Hat",
+    "rarity_percent": 0.4
+  },
+  {
+    "name": "Turban",
+    "rarity_percent": 0.5
+  },
+  {
     "name": "Tricorne",
     "rarity_percent": 0.4
   },
@@ -66,10 +74,6 @@
   {
     "name": "Bobby Helmet",
     "rarity_percent": 0.2
-  },
-  {
-    "name": "Pirate Hat",
-    "rarity_percent": 0.5
   },
   {
     "name": "Moto Helmet",
@@ -120,8 +124,8 @@
     "rarity_percent": 0.4
   },
   {
-    "name": "Cavalier Hat",
-    "rarity_percent": 0.4
+    "name": "Bicorne",
+    "rarity_percent": 0.5
   },
   {
     "name": "Royal Turban",
@@ -141,10 +145,6 @@
   },
   {
     "name": "Star",
-    "rarity_percent": 0.4
-  },
-  {
-    "name": "Skull",
     "rarity_percent": 0.4
   },
   {
@@ -224,10 +224,6 @@
     "rarity_percent": 0.4
   },
   {
-    "name": "Carambola",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Calm Wolf",
     "rarity_percent": 0.4
   },
@@ -260,12 +256,20 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Jellyfish",
+    "rarity_percent": 0.4
+  },
+  {
     "name": "Hand of God",
     "rarity_percent": 0.2
   },
   {
     "name": "Sauron",
     "rarity_percent": 0.5
+  },
+  {
+    "name": "Cheese",
+    "rarity_percent": 0.2
   },
   {
     "name": "Shark Knife",
@@ -368,6 +372,10 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Mask",
+    "rarity_percent": 0.5
+  },
+  {
     "name": "Police Badge",
     "rarity_percent": 0.2
   },
@@ -404,15 +412,15 @@
     "rarity_percent": 0.4
   },
   {
+    "name": "Bishop",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Unicorn Head",
     "rarity_percent": 0.4
   },
   {
     "name": "Like",
-    "rarity_percent": 0.4
-  },
-  {
-    "name": "Jumbo Pencil",
     "rarity_percent": 0.4
   },
   {
@@ -500,12 +508,16 @@
     "rarity_percent": 0.5
   },
   {
-    "name": "Clover",
-    "rarity_percent": 0.5
+    "name": "Shield",
+    "rarity_percent": 0.2
   },
   {
     "name": "Money Bag",
     "rarity_percent": 0.5
+  },
+  {
+    "name": "Moose Head",
+    "rarity_percent": 0.2
   },
   {
     "name": "Heart",
@@ -545,10 +557,6 @@
   },
   {
     "name": "Bubbles",
-    "rarity_percent": 0.2
-  },
-  {
-    "name": "Smartphone",
     "rarity_percent": 0.2
   },
   {
@@ -592,8 +600,8 @@
     "rarity_percent": 0.5
   },
   {
-    "name": "Alert Serpent",
-    "rarity_percent": 0.2
+    "name": "Greek Sun",
+    "rarity_percent": 0.4
   },
   {
     "name": "Novus Ordo",
@@ -602,10 +610,6 @@
   {
     "name": "Aztec Falcon",
     "rarity_percent": 0.5
-  },
-  {
-    "name": "Eye of Horus",
-    "rarity_percent": 0.2
   },
   {
     "name": "Mustang",
@@ -624,24 +628,12 @@
     "rarity_percent": 0.5
   },
   {
-    "name": "Thunderbird",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Thor Hammer",
-    "rarity_percent": 0.5
-  },
-  {
-    "name": "Jolly Roger",
     "rarity_percent": 0.5
   },
   {
     "name": "Battle Axe",
     "rarity_percent": 0.5
-  },
-  {
-    "name": "Viking Shield",
-    "rarity_percent": 0.2
   },
   {
     "name": "War Tiger",
@@ -656,16 +648,16 @@
     "rarity_percent": 0.5
   },
   {
+    "name": "Imperial Lion",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Jörmungandr",
     "rarity_percent": 0.5
   },
   {
     "name": "French Fries",
     "rarity_percent": 0.5
-  },
-  {
-    "name": "Shortsword",
-    "rarity_percent": 0.2
   },
   {
     "name": "Trickster Fox",
@@ -690,6 +682,10 @@
   {
     "name": "Crescent",
     "rarity_percent": 0.5
+  },
+  {
+    "name": "Bascinet",
+    "rarity_percent": 0.4
   },
   {
     "name": "Baby Bottle",
@@ -732,6 +728,10 @@
     "rarity_percent": 0.5
   },
   {
+    "name": "Paw Print",
+    "rarity_percent": 0.4
+  },
+  {
     "name": "Puzzle",
     "rarity_percent": 0.5
   },
@@ -754,6 +754,10 @@
   {
     "name": "Viper",
     "rarity_percent": 0.5
+  },
+  {
+    "name": "Doghouse",
+    "rarity_percent": 0.4
   },
   {
     "name": "Heater Shield",
@@ -780,6 +784,10 @@
     "rarity_percent": 0.4
   },
   {
+    "name": "Beer",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Neptune",
     "rarity_percent": 0.2
   },
@@ -789,6 +797,10 @@
   },
   {
     "name": "Heraldic Lily",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Sleepy Unicorn",
     "rarity_percent": 0.2
   },
   {
@@ -874,10 +886,6 @@
   {
     "name": "Yogi Shaman",
     "rarity_percent": 0.4
-  },
-  {
-    "name": "Mayan Moth",
-    "rarity_percent": 0.2
   },
   {
     "name": "Spirit Impala",
