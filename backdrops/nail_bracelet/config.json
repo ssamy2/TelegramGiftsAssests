@@ -112,6 +112,10 @@
     "rarity_percent": 1.2
   },
   {
+    "name": "Raspberry",
+    "rarity_percent": 1.5
+  },
+  {
     "name": "Mystic Pearl",
     "rarity_percent": 1.2
   },
@@ -190,10 +194,6 @@
   {
     "name": "Midnight Blue",
     "rarity_percent": 1.5
-  },
-  {
-    "name": "Onyx Black",
-    "rarity_percent": 1.2
   },
   {
     "name": "Battleship Grey",
@@ -310,5 +310,9 @@
   {
     "name": "Mustard",
     "rarity_percent": 1.5
+  },
+  {
+    "name": "French Violet",
+    "rarity_percent": 1.0
   }
 ]
