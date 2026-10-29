@@ -1,5 +1,9 @@
 [
   {
+    "name": "Black",
+    "rarity_percent": 1.5
+  },
+  {
     "name": "Electric Purple",
     "rarity_percent": 1.5
   },
@@ -248,6 +252,10 @@
     "rarity_percent": 1.5
   },
   {
+    "name": "Dark Green",
+    "rarity_percent": 1.0
+  },
+  {
     "name": "Rifle Green",
     "rarity_percent": 1.5
   },
@@ -302,5 +310,9 @@
   {
     "name": "Mustard",
     "rarity_percent": 1.2
+  },
+  {
+    "name": "French Violet",
+    "rarity_percent": 1.0
   }
 ]
