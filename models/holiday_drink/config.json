@@ -1,402 +1,502 @@
 [
   {
-    "name": "citrus",
-    "rarity_permille": 3.7,
-    "tgs_path": "models/holiday_drink/citrus.tgs",
-    "webp_path": "models/holiday_drink/citrus.webp",
-    "custom_emoji_id": "5879829894879255530",
-    "model_id": "5359652764844582520"
-  },
-  {
-    "name": "matcha",
-    "rarity_permille": 3.2,
-    "tgs_path": "models/holiday_drink/matcha.tgs",
-    "webp_path": "models/holiday_drink/matcha.webp",
-    "custom_emoji_id": "5879640177583857578",
-    "model_id": "5361761976039006940"
-  },
-  {
-    "name": "cotton_candy",
-    "rarity_permille": 2.7,
-    "tgs_path": "models/holiday_drink/cotton_candy.tgs",
-    "webp_path": "models/holiday_drink/cotton_candy.webp",
-    "custom_emoji_id": "5879897626513514374",
-    "model_id": "5343554656188526764"
-  },
-  {
-    "name": "orange_ghost",
-    "rarity_permille": 2.4,
-    "tgs_path": "models/holiday_drink/orange_ghost.tgs",
-    "webp_path": "models/holiday_drink/orange_ghost.webp",
-    "custom_emoji_id": "5879964537809019594",
-    "model_id": "5344069425198820306"
-  },
-  {
-    "name": "peach_latte",
-    "rarity_permille": 1.7,
-    "tgs_path": "models/holiday_drink/peach_latte.tgs",
-    "webp_path": "models/holiday_drink/peach_latte.webp",
-    "custom_emoji_id": "5879759689343835474",
-    "model_id": "5341420581428425994"
-  },
-  {
-    "name": "crystal_shot",
-    "rarity_permille": 1.4,
-    "tgs_path": "models/holiday_drink/crystal_shot.tgs",
-    "webp_path": "models/holiday_drink/crystal_shot.webp",
-    "custom_emoji_id": "5879631596239200801",
-    "model_id": "5361730811756308694"
-  },
-  {
-    "name": "fire_chariot",
-    "rarity_permille": 1.4,
-    "tgs_path": "models/holiday_drink/fire_chariot.tgs",
-    "webp_path": "models/holiday_drink/fire_chariot.webp",
-    "custom_emoji_id": "5879666385474298231",
-    "model_id": "5337077948585372003"
-  },
-  {
-    "name": "flaming_b-52",
-    "rarity_permille": 1.4,
-    "tgs_path": "models/holiday_drink/flaming_b-52.tgs",
-    "webp_path": "models/holiday_drink/flaming_b-52.webp",
-    "custom_emoji_id": "5879827343668682229",
-    "model_id": "5381883056007180389"
-  },
-  {
-    "name": "toxic_waste",
-    "rarity_permille": 1.2,
-    "tgs_path": "models/holiday_drink/toxic_waste.tgs",
-    "webp_path": "models/holiday_drink/toxic_waste.webp",
-    "custom_emoji_id": "5879895955771235796",
-    "model_id": "5422834379468596219"
-  },
-  {
-    "name": "lizard_blood",
-    "rarity_permille": 0.6,
-    "tgs_path": "models/holiday_drink/lizard_blood.tgs",
-    "webp_path": "models/holiday_drink/lizard_blood.webp",
-    "custom_emoji_id": "5879959087495519949",
-    "model_id": "5382210946695457960"
-  },
-  {
-    "name": "brain_gum",
-    "rarity_permille": 0.4,
-    "tgs_path": "models/holiday_drink/brain_gum.tgs",
-    "webp_path": "models/holiday_drink/brain_gum.webp",
-    "custom_emoji_id": "5879529655190429235",
-    "model_id": "5422779760369494367"
-  },
-  {
-    "name": "cyber_mix",
-    "rarity_permille": 0.2,
-    "tgs_path": "models/holiday_drink/cyber_mix.tgs",
-    "webp_path": "models/holiday_drink/cyber_mix.webp",
-    "custom_emoji_id": "5879908376816655739",
-    "model_id": "5420325431372967572"
-  },
-  {
-    "name": "choco_mint",
-    "rarity_permille": 4.5,
-    "tgs_path": "models/holiday_drink/choco_mint.tgs",
-    "webp_path": "models/holiday_drink/choco_mint.webp",
-    "custom_emoji_id": "5879565956254014186",
-    "model_id": "5359696530561328419"
-  },
-  {
-    "name": "marigold",
-    "rarity_permille": 3.6,
-    "tgs_path": "models/holiday_drink/marigold.tgs",
-    "webp_path": "models/holiday_drink/marigold.webp",
-    "custom_emoji_id": "5879978908769591028",
-    "model_id": "5357426610280624516"
-  },
-  {
-    "name": "moonberry",
-    "rarity_permille": 3.5,
-    "tgs_path": "models/holiday_drink/moonberry.tgs",
-    "webp_path": "models/holiday_drink/moonberry.webp",
-    "custom_emoji_id": "5879892399538315201",
-    "model_id": "5359297433610249260"
-  },
-  {
-    "name": "hot_fuchsia",
-    "rarity_permille": 2.6,
-    "tgs_path": "models/holiday_drink/hot_fuchsia.tgs",
-    "webp_path": "models/holiday_drink/hot_fuchsia.webp",
-    "custom_emoji_id": "5879704967165517647",
-    "model_id": "5314789748378726724"
-  },
-  {
-    "name": "area_51",
-    "rarity_permille": 1.3,
-    "tgs_path": "models/holiday_drink/area_51.tgs",
-    "webp_path": "models/holiday_drink/area_51.webp",
-    "custom_emoji_id": "5879957683041214256",
-    "model_id": "5364086279195615750"
-  },
-  {
-    "name": "emo_drip",
-    "rarity_permille": 0.9,
-    "tgs_path": "models/holiday_drink/emo_drip.tgs",
-    "webp_path": "models/holiday_drink/emo_drip.webp",
-    "custom_emoji_id": "5879980579511868410",
-    "model_id": "5314301084179654129"
-  },
-  {
-    "name": "milky_way",
-    "rarity_permille": 0.6,
-    "tgs_path": "models/holiday_drink/milky_way.tgs",
-    "webp_path": "models/holiday_drink/milky_way.webp",
-    "custom_emoji_id": "5879494200235401256",
-    "model_id": "5420166161100730339"
-  },
-  {
-    "name": "mermaid",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/holiday_drink/mermaid.tgs",
-    "webp_path": "models/holiday_drink/mermaid.webp",
-    "custom_emoji_id": "5879537931592410047",
-    "model_id": "5381855211734199618"
+    "name": "mango_blast",
+    "rarity_percent": 4.9,
+    "tgs_path": "models/holiday_drink/mango_blast.tgs",
+    "webp_path": "models/holiday_drink/mango_blast.webp",
+    "custom_emoji_id": "5987626525967525098",
+    "model_id": "5285512549754759576",
+    "telegram_document_id": "5285512549754759576",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ3zoCdJTpzmeYovTnR2kHPpAAKYaQACqelZSddlxzAyyDxtHgQ"
   },
   {
     "name": "banana_split",
-    "rarity_permille": 4.9,
+    "rarity_percent": 4.9,
     "tgs_path": "models/holiday_drink/banana_split.tgs",
     "webp_path": "models/holiday_drink/banana_split.webp",
-    "custom_emoji_id": "5879701599911156301",
-    "model_id": "5296291981364848707"
-  },
-  {
-    "name": "rose_velvet",
-    "rarity_permille": 4.8,
-    "tgs_path": "models/holiday_drink/rose_velvet.tgs",
-    "webp_path": "models/holiday_drink/rose_velvet.webp",
-    "custom_emoji_id": "5879876319180758315",
-    "model_id": "5312165854073350362"
-  },
-  {
-    "name": "black_russian",
-    "rarity_permille": 4.7,
-    "tgs_path": "models/holiday_drink/black_russian.tgs",
-    "webp_path": "models/holiday_drink/black_russian.webp",
-    "custom_emoji_id": "5879974210075369412",
-    "model_id": "5357440865277074304"
-  },
-  {
-    "name": "lavender_tea",
-    "rarity_permille": 3.4,
-    "tgs_path": "models/holiday_drink/lavender_tea.tgs",
-    "webp_path": "models/holiday_drink/lavender_tea.webp",
-    "custom_emoji_id": "5879679833016907521",
-    "model_id": "5357549781352739689"
-  },
-  {
-    "name": "hibiscus_tea",
-    "rarity_permille": 3.3,
-    "tgs_path": "models/holiday_drink/hibiscus_tea.tgs",
-    "webp_path": "models/holiday_drink/hibiscus_tea.webp",
-    "custom_emoji_id": "5880008406604981128",
-    "model_id": "5422485782742985596"
-  },
-  {
-    "name": "low_poly",
-    "rarity_permille": 1.8,
-    "tgs_path": "models/holiday_drink/low_poly.tgs",
-    "webp_path": "models/holiday_drink/low_poly.webp",
-    "custom_emoji_id": "5879735109246000542",
-    "model_id": "5341758780038213240"
-  },
-  {
-    "name": "berry_pixel",
-    "rarity_permille": 1.6,
-    "tgs_path": "models/holiday_drink/berry_pixel.tgs",
-    "webp_path": "models/holiday_drink/berry_pixel.webp",
-    "custom_emoji_id": "5879788173566942389",
-    "model_id": "5344079518371972522"
-  },
-  {
-    "name": "blue_taser",
-    "rarity_permille": 1.3,
-    "tgs_path": "models/holiday_drink/blue_taser.tgs",
-    "webp_path": "models/holiday_drink/blue_taser.webp",
-    "custom_emoji_id": "5879916777772687890",
-    "model_id": "5337006948481002929"
-  },
-  {
-    "name": "bowser_brew",
-    "rarity_permille": 1.3,
-    "tgs_path": "models/holiday_drink/bowser_brew.tgs",
-    "webp_path": "models/holiday_drink/bowser_brew.webp",
-    "custom_emoji_id": "5879799937482366620",
-    "model_id": "5337078206283410883"
-  },
-  {
-    "name": "darkside",
-    "rarity_permille": 0.6,
-    "tgs_path": "models/holiday_drink/darkside.tgs",
-    "webp_path": "models/holiday_drink/darkside.webp",
-    "custom_emoji_id": "5879885823943384820",
-    "model_id": "5380044513651747395"
+    "custom_emoji_id": "5987676777084886638",
+    "model_id": "5296291981364848707",
+    "telegram_document_id": "5296291981364848707",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ1Mg8hIyoRgUIcZPkq-tcaZAAJDaAACfzWAScvGnUqSiwbjHgQ"
   },
   {
     "name": "apple_mousse",
-    "rarity_permille": 5.0,
+    "rarity_percent": 5.0,
     "tgs_path": "models/holiday_drink/apple_mousse.tgs",
     "webp_path": "models/holiday_drink/apple_mousse.webp",
-    "custom_emoji_id": "5879937376435839536",
-    "model_id": "5296503594403522366"
-  },
-  {
-    "name": "honeyfire",
-    "rarity_permille": 3.0,
-    "tgs_path": "models/holiday_drink/honeyfire.tgs",
-    "webp_path": "models/holiday_drink/honeyfire.webp",
-    "custom_emoji_id": "5879783122685402588",
-    "model_id": "5343684394265634975"
-  },
-  {
-    "name": "leprechaun",
-    "rarity_permille": 0.9,
-    "tgs_path": "models/holiday_drink/leprechaun.tgs",
-    "webp_path": "models/holiday_drink/leprechaun.webp",
-    "custom_emoji_id": "5879528263621025625",
-    "model_id": "5422382389995268674"
-  },
-  {
-    "name": "pumpkin_juice",
-    "rarity_permille": 0.4,
-    "tgs_path": "models/holiday_drink/pumpkin_juice.tgs",
-    "webp_path": "models/holiday_drink/pumpkin_juice.webp",
-    "custom_emoji_id": "5879885287072473419",
-    "model_id": "5415786832057100423"
-  },
-  {
-    "name": "honolulu",
-    "rarity_permille": 0.4,
-    "tgs_path": "models/holiday_drink/honolulu.tgs",
-    "webp_path": "models/holiday_drink/honolulu.webp",
-    "custom_emoji_id": "5879977302451823952",
-    "model_id": "5418181890504942960"
-  },
-  {
-    "name": "fish_basket",
-    "rarity_permille": 0.6,
-    "tgs_path": "models/holiday_drink/fish_basket.tgs",
-    "webp_path": "models/holiday_drink/fish_basket.webp",
-    "custom_emoji_id": "5879941748712547348",
-    "model_id": "5422490558746619137"
+    "custom_emoji_id": "5987658136926821706",
+    "model_id": "5296503594403522366",
+    "telegram_document_id": "5296503594403522366",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ39aKpyfqcLwS06TLaqXVsmAAI-ZwAC9fWASX6K0hFXEN87HgQ"
   },
   {
     "name": "depresso",
-    "rarity_permille": 0.4,
+    "rarity_percent": 0.4,
     "tgs_path": "models/holiday_drink/depresso.tgs",
     "webp_path": "models/holiday_drink/depresso.webp",
-    "custom_emoji_id": "5879848625231633763",
-    "model_id": "5311997834952733755"
+    "custom_emoji_id": "5987683962565173749",
+    "model_id": "5311997834952733755",
+    "telegram_document_id": "5311997834952733755",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ0pBjtRkJBe_O5jZjix1b3kAAI7dAAC4wG4SdrQqQQ5-Zb0HgQ"
   },
   {
-    "name": "bubblegum",
-    "rarity_permille": 3.9,
-    "tgs_path": "models/holiday_drink/bubblegum.tgs",
-    "webp_path": "models/holiday_drink/bubblegum.webp",
-    "custom_emoji_id": "5879694225452313212",
-    "model_id": "5357121143616598083"
+    "name": "rose_velvet",
+    "rarity_percent": 4.8,
+    "tgs_path": "models/holiday_drink/rose_velvet.tgs",
+    "webp_path": "models/holiday_drink/rose_velvet.webp",
+    "custom_emoji_id": "5987680427807088746",
+    "model_id": "5312165854073350362",
+    "telegram_document_id": "5312165854073350362",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ1cOD93qT0AAeowpftCAidruwAC2mgAArOauElIjpAabc-Kdx4E"
   },
   {
-    "name": "candyman",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/holiday_drink/candyman.tgs",
-    "webp_path": "models/holiday_drink/candyman.webp",
-    "custom_emoji_id": "5879722005300780663",
-    "model_id": "5364280166904261793"
-  },
-  {
-    "name": "stickers",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/holiday_drink/stickers.tgs",
-    "webp_path": "models/holiday_drink/stickers.webp",
-    "custom_emoji_id": "5879936530327281025",
-    "model_id": "5341789557773858236"
-  },
-  {
-    "name": "gold_dust",
-    "rarity_permille": 0.1,
-    "tgs_path": "models/holiday_drink/gold_dust.tgs",
-    "webp_path": "models/holiday_drink/gold_dust.webp",
-    "custom_emoji_id": "5879873209624436636",
-    "model_id": "5420376906556009028"
+    "name": "emo_drip",
+    "rarity_percent": 0.9,
+    "tgs_path": "models/holiday_drink/emo_drip.tgs",
+    "webp_path": "models/holiday_drink/emo_drip.webp",
+    "custom_emoji_id": "5987745354827703139",
+    "model_id": "5314301084179654129",
+    "telegram_document_id": "5314301084179654129",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ1D6tXyn318JTFExNAUKGsfAALxZQACrjDASROyy_zW8BRYHgQ"
   },
   {
     "name": "lucid_roast",
-    "rarity_permille": 1.4,
+    "rarity_percent": 1.4,
     "tgs_path": "models/holiday_drink/lucid_roast.tgs",
     "webp_path": "models/holiday_drink/lucid_roast.webp",
-    "custom_emoji_id": "5879653088255549317",
-    "model_id": "5314387146734333093"
+    "custom_emoji_id": "5985534679325875510",
+    "model_id": "5314387146734333093",
+    "telegram_document_id": "5314387146734333093",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ37KLRb28ktNTT2pRWSWp5QAAKlbAAC9H7ASZBZRpTO2P1aHgQ"
   },
   {
-    "name": "mr._freeze",
-    "rarity_permille": 1.3,
-    "tgs_path": "models/holiday_drink/mr._freeze.tgs",
-    "webp_path": "models/holiday_drink/mr._freeze.webp",
-    "custom_emoji_id": "5879768511206661798",
-    "model_id": "5368682924994489692"
+    "name": "hot_fuchsia",
+    "rarity_percent": 2.6,
+    "tgs_path": "models/holiday_drink/hot_fuchsia.tgs",
+    "webp_path": "models/holiday_drink/hot_fuchsia.webp",
+    "custom_emoji_id": "5987694549659557373",
+    "model_id": "5314789748378726724",
+    "telegram_document_id": "5314789748378726724",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ3JPSaN2FVHPUym592gwNuPAAJEcQACHu3BSS0ps3sD-aUqHgQ"
   },
   {
-    "name": "ginger_joker",
-    "rarity_permille": 3.1,
-    "tgs_path": "models/holiday_drink/ginger_joker.tgs",
-    "webp_path": "models/holiday_drink/ginger_joker.webp",
-    "custom_emoji_id": "5879715674518987105",
-    "model_id": "5422802377667276145"
+    "name": "blue_taser",
+    "rarity_percent": 1.3,
+    "tgs_path": "models/holiday_drink/blue_taser.tgs",
+    "webp_path": "models/holiday_drink/blue_taser.webp",
+    "custom_emoji_id": "5985662647876461135",
+    "model_id": "5337006948481002929",
+    "telegram_document_id": "5337006948481002929",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ0EJ6gwvtyQG1WXILiD7xdmAAKxbQACi9sQSrBBlOIy36c-HgQ"
   },
   {
-    "name": "ogre_latte",
-    "rarity_permille": 0.4,
-    "tgs_path": "models/holiday_drink/ogre_latte.tgs",
-    "webp_path": "models/holiday_drink/ogre_latte.webp",
-    "custom_emoji_id": "5879700697968025306",
-    "model_id": "5415804123595433223"
+    "name": "fire_chariot",
+    "rarity_percent": 1.4,
+    "tgs_path": "models/holiday_drink/fire_chariot.tgs",
+    "webp_path": "models/holiday_drink/fire_chariot.webp",
+    "custom_emoji_id": "5985413445284012615",
+    "model_id": "5337077948585372003",
+    "telegram_document_id": "5337077948585372003",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ3obYBCMcurkadooxQD1udgAAJjaQACHhwRSiM7K1N-NseOHgQ"
+  },
+  {
+    "name": "bowser_brew",
+    "rarity_percent": 1.3,
+    "tgs_path": "models/holiday_drink/bowser_brew.tgs",
+    "webp_path": "models/holiday_drink/bowser_brew.webp",
+    "custom_emoji_id": "5985688778457490107",
+    "model_id": "5337078206283410883",
+    "telegram_document_id": "5337078206283410883",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ3jOxWvcDkH2nqQiMatk-UmAALDbQACWhwRSnc0pauJgy_RHgQ"
+  },
+  {
+    "name": "peach_latte",
+    "rarity_percent": 1.7,
+    "tgs_path": "models/holiday_drink/peach_latte.tgs",
+    "webp_path": "models/holiday_drink/peach_latte.webp",
+    "custom_emoji_id": "5987678615330888322",
+    "model_id": "5341420581428425994",
+    "telegram_document_id": "5341420581428425994",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ3w4KT0IvJF1oPrIOYgTRAXAAIKdQACuIkgSjI3UnNk0KvKHgQ"
+  },
+  {
+    "name": "low_poly",
+    "rarity_percent": 1.8,
+    "tgs_path": "models/holiday_drink/low_poly.tgs",
+    "webp_path": "models/holiday_drink/low_poly.webp",
+    "custom_emoji_id": "5987828393725403065",
+    "model_id": "5341758780038213240",
+    "telegram_document_id": "5341758780038213240",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ3nF4i1_XQrIqKeyGgdLYVzAAJ4bgACT70hSuENBSa8ZSuIHgQ"
+  },
+  {
+    "name": "stickers",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/holiday_drink/stickers.tgs",
+    "webp_path": "models/holiday_drink/stickers.webp",
+    "custom_emoji_id": "5987715616474145126",
+    "model_id": "5341789557773858236",
+    "telegram_document_id": "5341789557773858236",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ3cFiMgW5C6meU5JeSvlxjZAAK8dQACTdkhSqizhEhRLGO-HgQ"
+  },
+  {
+    "name": "cotton_candy",
+    "rarity_percent": 2.7,
+    "tgs_path": "models/holiday_drink/cotton_candy.tgs",
+    "webp_path": "models/holiday_drink/cotton_candy.webp",
+    "custom_emoji_id": "5985337454427644162",
+    "model_id": "5343554656188526764",
+    "telegram_document_id": "5343554656188526764",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ0VleRn080784hF7unVjqqDAAKscAACph4oShEtOa6tyApcHgQ"
+  },
+  {
+    "name": "honeyfire",
+    "rarity_percent": 3.0,
+    "tgs_path": "models/holiday_drink/honeyfire.tgs",
+    "webp_path": "models/holiday_drink/honeyfire.webp",
+    "custom_emoji_id": "5985747009624088131",
+    "model_id": "5343684394265634975",
+    "telegram_document_id": "5343684394265634975",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ19dm9MHCdAQtMNx1uih8tPAAKfaAACpZQoSuWaRlnX4kyFHgQ"
   },
   {
     "name": "kiwi_box",
-    "rarity_permille": 1.9,
+    "rarity_percent": 1.9,
     "tgs_path": "models/holiday_drink/kiwi_box.tgs",
     "webp_path": "models/holiday_drink/kiwi_box.webp",
-    "custom_emoji_id": "5879871732155686591",
-    "model_id": "5343728404795519157"
+    "custom_emoji_id": "5988001158784884054",
+    "model_id": "5343728404795519157",
+    "telegram_document_id": "5343728404795519157",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ2MDUVM4kpSsDYcuETdNNnzAAK1cAACrLwoSgkd5O-YcvxrHgQ"
   },
   {
-    "name": "checkmate",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/holiday_drink/checkmate.tgs",
-    "webp_path": "models/holiday_drink/checkmate.webp",
-    "custom_emoji_id": "5880010893391044116",
-    "model_id": "5382348587512392264"
+    "name": "orange_ghost",
+    "rarity_percent": 2.4,
+    "tgs_path": "models/holiday_drink/orange_ghost.tgs",
+    "webp_path": "models/holiday_drink/orange_ghost.webp",
+    "custom_emoji_id": "5985724929197219736",
+    "model_id": "5344069425198820306",
+    "telegram_document_id": "5344069425198820306",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ25YgABXoCL_sN8hjMtuyYzyAAC0msAAtTyKUoNzkB2MTq3Px4E"
   },
   {
-    "name": "mango_blast",
-    "rarity_permille": 4.9,
-    "tgs_path": "models/holiday_drink/mango_blast.tgs",
-    "webp_path": "models/holiday_drink/mango_blast.webp",
-    "custom_emoji_id": "5879703253473566361",
-    "model_id": "5285512549754759576"
+    "name": "berry_pixel",
+    "rarity_percent": 1.6,
+    "tgs_path": "models/holiday_drink/berry_pixel.tgs",
+    "webp_path": "models/holiday_drink/berry_pixel.webp",
+    "custom_emoji_id": "5985640962586582595",
+    "model_id": "5344079518371972522",
+    "telegram_document_id": "5344079518371972522",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ0CuYT48qBV9HcseB9VkHquAAKqhQACAvwpStNy70fg68rOHgQ"
   },
   {
-    "name": "love_potion",
-    "rarity_permille": 1.4,
-    "tgs_path": "models/holiday_drink/love_potion.tgs",
-    "webp_path": "models/holiday_drink/love_potion.webp",
-    "custom_emoji_id": "5879989083547115275",
-    "model_id": "5422649575615785993"
+    "name": "bubblegum",
+    "rarity_percent": 3.9,
+    "tgs_path": "models/holiday_drink/bubblegum.tgs",
+    "webp_path": "models/holiday_drink/bubblegum.webp",
+    "custom_emoji_id": "5987803427080511092",
+    "model_id": "5357121143616598083",
+    "telegram_document_id": "5357121143616598083",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ1B9B5d4OwQtan7W2vrn3R6AAJDcAACTFFYSoP8vXtYIaaVHgQ"
+  },
+  {
+    "name": "marigold",
+    "rarity_percent": 3.6,
+    "tgs_path": "models/holiday_drink/marigold.tgs",
+    "webp_path": "models/holiday_drink/marigold.webp",
+    "custom_emoji_id": "5987677399855144248",
+    "model_id": "5357426610280624516",
+    "telegram_document_id": "5357426610280624516",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ3c66zS3GgEKveYk2U6xWOMAAKEcQACHmdZSmcPg1GasrHqHgQ"
+  },
+  {
+    "name": "black_russian",
+    "rarity_percent": 4.7,
+    "tgs_path": "models/holiday_drink/black_russian.tgs",
+    "webp_path": "models/holiday_drink/black_russian.webp",
+    "custom_emoji_id": "5987820619834597020",
+    "model_id": "5357440865277074304",
+    "telegram_document_id": "5357440865277074304",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ1p5pTlN85geDq-hsWhULlOAAKAWwACFXRZSiVn5MRJzOgKHgQ"
+  },
+  {
+    "name": "lavender_tea",
+    "rarity_percent": 3.4,
+    "tgs_path": "models/holiday_drink/lavender_tea.tgs",
+    "webp_path": "models/holiday_drink/lavender_tea.webp",
+    "custom_emoji_id": "5987772155423628809",
+    "model_id": "5357549781352739689",
+    "telegram_document_id": "5357549781352739689",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ14yd3W9n8wAwE4PVxajYqqAAJpcwACJNdZSsB-yFxMEUxuHgQ"
+  },
+  {
+    "name": "moonberry",
+    "rarity_percent": 3.5,
+    "tgs_path": "models/holiday_drink/moonberry.tgs",
+    "webp_path": "models/holiday_drink/moonberry.webp",
+    "custom_emoji_id": "5987646287112052321",
+    "model_id": "5359297433610249260",
+    "telegram_document_id": "5359297433610249260",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ3MQpCsF8j-l4dKhr9LZQ_EAAIsZAACnwxgSs5fLiY3x1pLHgQ"
+  },
+  {
+    "name": "citrus",
+    "rarity_percent": 3.7,
+    "tgs_path": "models/holiday_drink/citrus.tgs",
+    "webp_path": "models/holiday_drink/citrus.webp",
+    "custom_emoji_id": "5987794661052259667",
+    "model_id": "5359652764844582520",
+    "telegram_document_id": "5359652764844582520",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ2kxg55n-OngG5ahaNwLpsDAAJ4ZgACy09hSjppTvDPoiC7HgQ"
+  },
+  {
+    "name": "choco_mint",
+    "rarity_percent": 4.5,
+    "tgs_path": "models/holiday_drink/choco_mint.tgs",
+    "webp_path": "models/holiday_drink/choco_mint.webp",
+    "custom_emoji_id": "5987559545952542909",
+    "model_id": "5359696530561328419",
+    "telegram_document_id": "5359696530561328419",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ0UoixHk9u_Wql2r9ySg_TpAAIjZQACmXdhSjc-PDGHvNbdHgQ"
+  },
+  {
+    "name": "crystal_shot",
+    "rarity_percent": 1.4,
+    "tgs_path": "models/holiday_drink/crystal_shot.tgs",
+    "webp_path": "models/holiday_drink/crystal_shot.webp",
+    "custom_emoji_id": "5987821242604853390",
+    "model_id": "5361730811756308694",
+    "telegram_document_id": "5361730811756308694",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ24y6EfnfevzHO3NFE6_vnjAALWaAACxLFoSg9PgRM9gywUHgQ"
+  },
+  {
+    "name": "matcha",
+    "rarity_percent": 3.2,
+    "tgs_path": "models/holiday_drink/matcha.tgs",
+    "webp_path": "models/holiday_drink/matcha.webp",
+    "custom_emoji_id": "5987902275752827988",
+    "model_id": "5361761976039006940",
+    "telegram_document_id": "5361761976039006940",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ2_mCWJ1fvypDeCztvneRb4AALcYgACHM5oStxp3O6NgfPbHgQ"
+  },
+  {
+    "name": "area_51",
+    "rarity_percent": 1.3,
+    "tgs_path": "models/holiday_drink/area_51.tgs",
+    "webp_path": "models/holiday_drink/area_51.webp",
+    "custom_emoji_id": "5985380159287467683",
+    "model_id": "5364086279195615750",
+    "telegram_document_id": "5364086279195615750",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ1pCVBJClBJepiTYz8oIbbkAAIGYgACDRBxSvGprT4ptzT7HgQ"
+  },
+  {
+    "name": "candyman",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/holiday_drink/candyman.tgs",
+    "webp_path": "models/holiday_drink/candyman.webp",
+    "custom_emoji_id": "5985716734399619539",
+    "model_id": "5364280166904261793",
+    "telegram_document_id": "5364280166904261793",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ212FWwxAT_IM8uem0ZQwEUAAKhbAACZMBxSl-5j1PKzO6qHgQ"
   },
   {
     "name": "cubism",
-    "rarity_permille": 1.4,
+    "rarity_percent": 1.4,
     "tgs_path": "models/holiday_drink/cubism.tgs",
     "webp_path": "models/holiday_drink/cubism.webp",
-    "custom_emoji_id": "5879910872192654289",
-    "model_id": "5368403249609076827"
+    "custom_emoji_id": "5987778627939347470",
+    "model_id": "5368403249609076827",
+    "telegram_document_id": "5368403249609076827",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ0eBWPTRTGsY4IsB4hgZRA-AAJbcAACUGaASj0b4SXQA1raHgQ"
+  },
+  {
+    "name": "mr._freeze",
+    "rarity_percent": 1.3,
+    "tgs_path": "models/holiday_drink/mr._freeze.tgs",
+    "webp_path": "models/holiday_drink/mr._freeze.webp",
+    "custom_emoji_id": "5988065746503081413",
+    "model_id": "5368682924994489692",
+    "telegram_document_id": "5368682924994489692",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ3R3amHyC70kZhlNXvLRqVTAAJcbQACrWSBSmffvtw61L5QHgQ"
+  },
+  {
+    "name": "darkside",
+    "rarity_percent": 0.6,
+    "tgs_path": "models/holiday_drink/darkside.tgs",
+    "webp_path": "models/holiday_drink/darkside.webp",
+    "custom_emoji_id": "5988054867350919805",
+    "model_id": "5380044513651747395",
+    "telegram_document_id": "5380044513651747395",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ0CQP0IpbVQspJyWdOfcLBjAAJDagAC-8GpSnn4t_fwK1H0HgQ"
+  },
+  {
+    "name": "mermaid",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/holiday_drink/mermaid.tgs",
+    "webp_path": "models/holiday_drink/mermaid.webp",
+    "custom_emoji_id": "5987628553192087779",
+    "model_id": "5381855211734199618",
+    "telegram_document_id": "5381855211734199618",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ3aoxELBv7P3sluL4ATNdaNAAJCbQACzTCwStsszxWqRxgRHgQ"
+  },
+  {
+    "name": "flaming_b-52",
+    "rarity_percent": 1.4,
+    "tgs_path": "models/holiday_drink/flaming_b-52.tgs",
+    "webp_path": "models/holiday_drink/flaming_b-52.webp",
+    "custom_emoji_id": "5987845947256744111",
+    "model_id": "5381883056007180389",
+    "telegram_document_id": "5381883056007180389",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ2l1Qssk649wzZjKk6SS_anAAJlcAACIEqwSlnzHgxFT5CNHgQ"
+  },
+  {
+    "name": "lizard_blood",
+    "rarity_percent": 0.6,
+    "tgs_path": "models/holiday_drink/lizard_blood.tgs",
+    "webp_path": "models/holiday_drink/lizard_blood.webp",
+    "custom_emoji_id": "5987855035407540596",
+    "model_id": "5382210946695457960",
+    "telegram_document_id": "5382210946695457960",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ0sdyKuCwZJuKMBYWJwKlEbAAKobAACV3SxSoAI5g8qckabHgQ"
+  },
+  {
+    "name": "checkmate",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/holiday_drink/checkmate.tgs",
+    "webp_path": "models/holiday_drink/checkmate.webp",
+    "custom_emoji_id": "5987804359088416428",
+    "model_id": "5382348587512392264",
+    "telegram_document_id": "5382348587512392264",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ1RB9nU56BLjKAd8YwIKk7dAAJIagAChvGxSvwAAZH1qGuMhx4E"
+  },
+  {
+    "name": "pumpkin_juice",
+    "rarity_percent": 0.4,
+    "tgs_path": "models/holiday_drink/pumpkin_juice.tgs",
+    "webp_path": "models/holiday_drink/pumpkin_juice.webp",
+    "custom_emoji_id": "5988010483158883942",
+    "model_id": "5415786832057100423",
+    "telegram_document_id": "5415786832057100423",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ2JrH8a59HqEOPCgUhvCNS9AAKHaAACbr0oS9aHPPHGdZbtHgQ"
+  },
+  {
+    "name": "ogre_latte",
+    "rarity_percent": 0.4,
+    "tgs_path": "models/holiday_drink/ogre_latte.tgs",
+    "webp_path": "models/holiday_drink/ogre_latte.webp",
+    "custom_emoji_id": "5987882132356209893",
+    "model_id": "5415804123595433223",
+    "telegram_document_id": "5415804123595433223",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ2tcLHUX0DjIVREDvyhYW6zAAIHZQACKM0oSws6_saiTHXwHgQ"
+  },
+  {
+    "name": "honolulu",
+    "rarity_percent": 0.4,
+    "tgs_path": "models/holiday_drink/honolulu.tgs",
+    "webp_path": "models/holiday_drink/honolulu.webp",
+    "custom_emoji_id": "5985621562219310099",
+    "model_id": "5418181890504942960",
+    "telegram_document_id": "5418181890504942960",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ2LvIjwFK84FoD2jZiMwoTEAAJwZQACuT8xS9y53CuBV2WTHgQ"
+  },
+  {
+    "name": "milky_way",
+    "rarity_percent": 0.6,
+    "tgs_path": "models/holiday_drink/milky_way.tgs",
+    "webp_path": "models/holiday_drink/milky_way.webp",
+    "custom_emoji_id": "5988045152134898613",
+    "model_id": "5420166161100730339",
+    "telegram_document_id": "5420166161100730339",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ0vlnSP_a10jWAo8eWUU0w_AALjbwACaEw4S9KiLUmu3MrPHgQ"
+  },
+  {
+    "name": "cyber_mix",
+    "rarity_percent": 0.2,
+    "tgs_path": "models/holiday_drink/cyber_mix.tgs",
+    "webp_path": "models/holiday_drink/cyber_mix.webp",
+    "custom_emoji_id": "5985774755112821907",
+    "model_id": "5420325431372967572",
+    "telegram_document_id": "5420325431372967572",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ3RWxomq7sP9SYf2EbTEvfSAAKUbgACQ904SySMnVJZk6keHgQ"
+  },
+  {
+    "name": "gold_dust",
+    "rarity_percent": 0.1,
+    "tgs_path": "models/holiday_drink/gold_dust.tgs",
+    "webp_path": "models/holiday_drink/gold_dust.webp",
+    "custom_emoji_id": "5988049670440492155",
+    "model_id": "5420376906556009028",
+    "telegram_document_id": "5420376906556009028",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ0MC9W_GDXIeu_AeZHTBitAAAJEagACFAw5SzJXwyqtSzqLHgQ"
+  },
+  {
+    "name": "leprechaun",
+    "rarity_percent": 0.9,
+    "tgs_path": "models/holiday_drink/leprechaun.tgs",
+    "webp_path": "models/holiday_drink/leprechaun.webp",
+    "custom_emoji_id": "5987914649553608324",
+    "model_id": "5422382389995268674",
+    "telegram_document_id": "5422382389995268674",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ09kfRapAwHUvg8AVB8n4ANAAJCagACDixAS06w0tvqZfiOHgQ"
+  },
+  {
+    "name": "hibiscus_tea",
+    "rarity_percent": 3.3,
+    "tgs_path": "models/holiday_drink/hibiscus_tea.tgs",
+    "webp_path": "models/holiday_drink/hibiscus_tea.webp",
+    "custom_emoji_id": "5987997005551509517",
+    "model_id": "5422485782742985596",
+    "telegram_document_id": "5422485782742985596",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ2s6A5-kWBLS28tOkYW07YDAAJ8awACF4pAS1xLucmNle6tHgQ"
+  },
+  {
+    "name": "fish_basket",
+    "rarity_percent": 0.6,
+    "tgs_path": "models/holiday_drink/fish_basket.tgs",
+    "webp_path": "models/holiday_drink/fish_basket.webp",
+    "custom_emoji_id": "5985743178513260098",
+    "model_id": "5422490558746619137",
+    "telegram_document_id": "5422490558746619137",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ0o8yPZzfFgJNVPig70PtfSAAIBbQACb45ASxwjDDy1dk_MHgQ"
+  },
+  {
+    "name": "love_potion",
+    "rarity_percent": 1.4,
+    "tgs_path": "models/holiday_drink/love_potion.tgs",
+    "webp_path": "models/holiday_drink/love_potion.webp",
+    "custom_emoji_id": "5985618538562330952",
+    "model_id": "5422649575615785993",
+    "telegram_document_id": "5422649575615785993",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ3O28b6oewxprYcbNGDcV8HAAIJbAACDx9BS5Urlp6gQ-zoHgQ"
+  },
+  {
+    "name": "brain_gum",
+    "rarity_percent": 0.4,
+    "tgs_path": "models/holiday_drink/brain_gum.tgs",
+    "webp_path": "models/holiday_drink/brain_gum.webp",
+    "custom_emoji_id": "5985363700972789600",
+    "model_id": "5422779760369494367",
+    "telegram_document_id": "5422779760369494367",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ23H9hRlL2Uo3F1TGyYxw67AAJfaQACdpVBS5Ogn-5Vsbj3HgQ"
+  },
+  {
+    "name": "ginger_joker",
+    "rarity_percent": 3.1,
+    "tgs_path": "models/holiday_drink/ginger_joker.tgs",
+    "webp_path": "models/holiday_drink/ginger_joker.webp",
+    "custom_emoji_id": "5987628763645485825",
+    "model_id": "5422802377667276145",
+    "telegram_document_id": "5422802377667276145",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ2gnidiLSqhG1Hd2GekutOiAAJxbQACCKpBS-wquhl84NogHgQ"
+  },
+  {
+    "name": "toxic_waste",
+    "rarity_percent": 1.2,
+    "tgs_path": "models/holiday_drink/toxic_waste.tgs",
+    "webp_path": "models/holiday_drink/toxic_waste.webp",
+    "custom_emoji_id": "5987971965892173222",
+    "model_id": "5422834379468596219",
+    "telegram_document_id": "5422834379468596219",
+    "telegram_file_id": "BQACAgIAAxUAAWrioZ0qe3ambptl3mokzpOGNELeAAL7YwACI8dBS23KXXhP93vcHgQ"
   }
 ]
