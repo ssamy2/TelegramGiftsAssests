@@ -20,10 +20,6 @@
     "rarity_percent": 0.2
   },
   {
-    "name": "Tetsubin",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Hot Matcha",
     "rarity_percent": 0.4
   },
@@ -102,10 +98,6 @@
   {
     "name": "Bucket Hat",
     "rarity_percent": 0.7
-  },
-  {
-    "name": "Winter Hat",
-    "rarity_percent": 0.2
   },
   {
     "name": "Plume Shako",
@@ -790,6 +782,10 @@
   {
     "name": "Arabian Horse",
     "rarity_percent": 0.7
+  },
+  {
+    "name": "Celtic Cross",
+    "rarity_percent": 0.2
   },
   {
     "name": "Golden Scarab",
