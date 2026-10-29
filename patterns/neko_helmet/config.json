@@ -444,6 +444,10 @@
     "rarity_percent": 0.4
   },
   {
+    "name": "Puffball",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Blooms",
     "rarity_percent": 0.4
   },
@@ -566,6 +570,10 @@
   {
     "name": "Paw",
     "rarity_percent": 0.5
+  },
+  {
+    "name": "Star Crown",
+    "rarity_percent": 0.2
   },
   {
     "name": "Conch",
@@ -798,10 +806,6 @@
   {
     "name": "Diamond",
     "rarity_percent": 0.4
-  },
-  {
-    "name": "Love Lock",
-    "rarity_percent": 0.2
   },
   {
     "name": "Viking",
