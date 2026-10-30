@@ -1,402 +1,502 @@
 [
   {
+    "name": "take_it_easy",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/swag_bag/take_it_easy.tgs",
+    "webp_path": "models/swag_bag/take_it_easy.webp",
+    "custom_emoji_id": "5989799882498514809",
+    "model_id": "5375324580816651772",
+    "telegram_document_id": "5375324580816651772",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hgFXt2Jev1ur4jqJhsxqmxXAAL8hQACOv2YSjiT4JVXVt68HgQ"
+  },
+  {
     "name": "dogg_treats",
-    "rarity_permille": 3.0,
+    "rarity_percent": 3.0,
     "tgs_path": "models/swag_bag/dogg_treats.tgs",
     "webp_path": "models/swag_bag/dogg_treats.webp",
-    "custom_emoji_id": "5877333359239110153",
-    "model_id": "5375540170995038843"
-  },
-  {
-    "name": "platinum_drip",
-    "rarity_permille": 3.0,
-    "tgs_path": "models/swag_bag/platinum_drip.tgs",
-    "webp_path": "models/swag_bag/platinum_drip.webp",
-    "custom_emoji_id": "5879690372866645355",
-    "model_id": "5434066943013320423"
-  },
-  {
-    "name": "cookie_dude",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/swag_bag/cookie_dude.tgs",
-    "webp_path": "models/swag_bag/cookie_dude.webp",
-    "custom_emoji_id": "5879872406465551433",
-    "model_id": "5433791700034157721"
-  },
-  {
-    "name": "gin_and_juice",
-    "rarity_permille": 3.0,
-    "tgs_path": "models/swag_bag/gin_and_juice.tgs",
-    "webp_path": "models/swag_bag/gin_and_juice.webp",
-    "custom_emoji_id": "5877284946367750072",
-    "model_id": "5386604608044957141"
-  },
-  {
-    "name": "west_toast",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/swag_bag/west_toast.tgs",
-    "webp_path": "models/swag_bag/west_toast.webp",
-    "custom_emoji_id": "5877423549257358559",
-    "model_id": "5436228917880978264"
-  },
-  {
-    "name": "boiling_hot",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/swag_bag/boiling_hot.tgs",
-    "webp_path": "models/swag_bag/boiling_hot.webp",
-    "custom_emoji_id": "5879785308823756183",
-    "model_id": "5433656245355576796"
-  },
-  {
-    "name": "snoop_life",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/swag_bag/snoop_life.tgs",
-    "webp_path": "models/swag_bag/snoop_life.webp",
-    "custom_emoji_id": "5877244509250658130",
-    "model_id": "5434134176431371567"
-  },
-  {
-    "name": "the_last_meal",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/swag_bag/the_last_meal.tgs",
-    "webp_path": "models/swag_bag/the_last_meal.webp",
-    "custom_emoji_id": "5877653523281222392",
-    "model_id": "5438382113835482141"
-  },
-  {
-    "name": "doll_buttons",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/swag_bag/doll_buttons.tgs",
-    "webp_path": "models/swag_bag/doll_buttons.webp",
-    "custom_emoji_id": "5877298737507736350",
-    "model_id": "5433743944292795171"
-  },
-  {
-    "name": "leopard",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/swag_bag/leopard.tgs",
-    "webp_path": "models/swag_bag/leopard.webp",
-    "custom_emoji_id": "5879512140313796129",
-    "model_id": "5433839086408334992"
-  },
-  {
-    "name": "hop_corn",
-    "rarity_permille": 3.0,
-    "tgs_path": "models/swag_bag/hop_corn.tgs",
-    "webp_path": "models/swag_bag/hop_corn.webp",
-    "custom_emoji_id": "5877481724589384639",
-    "model_id": "5435923713209957642"
-  },
-  {
-    "name": "darkness",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/swag_bag/darkness.tgs",
-    "webp_path": "models/swag_bag/darkness.webp",
-    "custom_emoji_id": "5877726460415845048",
-    "model_id": "5415584431723276319"
-  },
-  {
-    "name": "happy_herbs",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/swag_bag/happy_herbs.tgs",
-    "webp_path": "models/swag_bag/happy_herbs.webp",
-    "custom_emoji_id": "5877232204169354486",
-    "model_id": "5382217586714902322"
-  },
-  {
-    "name": "lollipops",
-    "rarity_permille": 3.0,
-    "tgs_path": "models/swag_bag/lollipops.tgs",
-    "webp_path": "models/swag_bag/lollipops.webp",
-    "custom_emoji_id": "5877498170019159930",
-    "model_id": "5420241606496251273"
-  },
-  {
-    "name": "fish_hat",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/swag_bag/fish_hat.tgs",
-    "webp_path": "models/swag_bag/fish_hat.webp",
-    "custom_emoji_id": "5879703163279254526",
-    "model_id": "5384597471043287277"
-  },
-  {
-    "name": "rastafari",
-    "rarity_permille": 2.5,
-    "tgs_path": "models/swag_bag/rastafari.tgs",
-    "webp_path": "models/swag_bag/rastafari.webp",
-    "custom_emoji_id": "5877253172199694700",
-    "model_id": "5433852701454660699"
-  },
-  {
-    "name": "shuffle",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/swag_bag/shuffle.tgs",
-    "webp_path": "models/swag_bag/shuffle.webp",
-    "custom_emoji_id": "5880009802469351516",
-    "model_id": "5434050068086815377"
-  },
-  {
-    "name": "baggy_bag",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/swag_bag/baggy_bag.tgs",
-    "webp_path": "models/swag_bag/baggy_bag.webp",
-    "custom_emoji_id": "5879499135152824030",
-    "model_id": "5433780593248728385"
-  },
-  {
-    "name": "gin_&_jewels",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/swag_bag/gin_&_jewels.tgs",
-    "webp_path": "models/swag_bag/gin_&_jewels.webp",
-    "custom_emoji_id": "5879555682692242178",
-    "model_id": "5434146421383133665"
-  },
-  {
-    "name": "blind_bag",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/swag_bag/blind_bag.tgs",
-    "webp_path": "models/swag_bag/blind_bag.webp",
-    "custom_emoji_id": "5877659012249427431",
-    "model_id": "5409218895053616111"
-  },
-  {
-    "name": "doggy_doggs",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/swag_bag/doggy_doggs.tgs",
-    "webp_path": "models/swag_bag/doggy_doggs.webp",
-    "custom_emoji_id": "5879845116243352755",
-    "model_id": "5438513767468007189"
-  },
-  {
-    "name": "serious_dude",
-    "rarity_permille": 2.5,
-    "tgs_path": "models/swag_bag/serious_dude.tgs",
-    "webp_path": "models/swag_bag/serious_dude.webp",
-    "custom_emoji_id": "5879457731668090718",
-    "model_id": "5413408137434656606"
-  },
-  {
-    "name": "dogg’s_loot",
-    "rarity_permille": 3.0,
-    "tgs_path": "models/swag_bag/dogg’s_loot.tgs",
-    "webp_path": "models/swag_bag/dogg’s_loot.webp",
-    "custom_emoji_id": "5879914591634333137",
-    "model_id": "5434144626086805202"
-  },
-  {
-    "name": "tag_bag",
-    "rarity_permille": 2.5,
-    "tgs_path": "models/swag_bag/tag_bag.tgs",
-    "webp_path": "models/swag_bag/tag_bag.webp",
-    "custom_emoji_id": "5877454417187314751",
-    "model_id": "5433885429105455565"
-  },
-  {
-    "name": "platinum_8",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/swag_bag/platinum_8.tgs",
-    "webp_path": "models/swag_bag/platinum_8.webp",
-    "custom_emoji_id": "5877551573642518257",
-    "model_id": "5382064728828835836"
-  },
-  {
-    "name": "muffins",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/swag_bag/muffins.tgs",
-    "webp_path": "models/swag_bag/muffins.webp",
-    "custom_emoji_id": "5877428836362099745",
-    "model_id": "5408881293444281542"
-  },
-  {
-    "name": "missionary",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/swag_bag/missionary.tgs",
-    "webp_path": "models/swag_bag/missionary.webp",
-    "custom_emoji_id": "5877599393808391775",
-    "model_id": "5388912036275058051"
-  },
-  {
-    "name": "doggystyle",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/swag_bag/doggystyle.tgs",
-    "webp_path": "models/swag_bag/doggystyle.webp",
-    "custom_emoji_id": "5879671998996553694",
-    "model_id": "5399947568195080620"
-  },
-  {
-    "name": "candy_shop",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/swag_bag/candy_shop.tgs",
-    "webp_path": "models/swag_bag/candy_shop.webp",
-    "custom_emoji_id": "5877610616557935895",
-    "model_id": "5433596210302712211"
-  },
-  {
-    "name": "bulk_order",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/swag_bag/bulk_order.tgs",
-    "webp_path": "models/swag_bag/bulk_order.webp",
-    "custom_emoji_id": "5877552162053037419",
-    "model_id": "5434074321767135917"
-  },
-  {
-    "name": "crook_to_cook",
-    "rarity_permille": 2.5,
-    "tgs_path": "models/swag_bag/crook_to_cook.tgs",
-    "webp_path": "models/swag_bag/crook_to_cook.webp",
-    "custom_emoji_id": "5879584089605938272",
-    "model_id": "5413480520518499185"
-  },
-  {
-    "name": "money_bag",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/swag_bag/money_bag.tgs",
-    "webp_path": "models/swag_bag/money_bag.webp",
-    "custom_emoji_id": "5877436618842840253",
-    "model_id": "5434121639421837324"
-  },
-  {
-    "name": "snoopcoins",
-    "rarity_permille": 3.0,
-    "tgs_path": "models/swag_bag/snoopcoins.tgs",
-    "webp_path": "models/swag_bag/snoopcoins.webp",
-    "custom_emoji_id": "5877336168147721634",
-    "model_id": "5433878342409423273"
-  },
-  {
-    "name": "cashback",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/swag_bag/cashback.tgs",
-    "webp_path": "models/swag_bag/cashback.webp",
-    "custom_emoji_id": "5879897128297308256",
-    "model_id": "5382138602266327520"
-  },
-  {
-    "name": "aviators",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/swag_bag/aviators.tgs",
-    "webp_path": "models/swag_bag/aviators.webp",
-    "custom_emoji_id": "5877400957729381064",
-    "model_id": "5399818826550371854"
-  },
-  {
-    "name": "walk_of_fame",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/swag_bag/walk_of_fame.tgs",
-    "webp_path": "models/swag_bag/walk_of_fame.webp",
-    "custom_emoji_id": "5877649662105624223",
-    "model_id": "5409233205884644674"
-  },
-  {
-    "name": "purple_smoke",
-    "rarity_permille": 2.5,
-    "tgs_path": "models/swag_bag/purple_smoke.tgs",
-    "webp_path": "models/swag_bag/purple_smoke.webp",
-    "custom_emoji_id": "5877683562282496863",
-    "model_id": "5413469400848171520"
-  },
-  {
-    "name": "choco_kush",
-    "rarity_permille": 3.0,
-    "tgs_path": "models/swag_bag/choco_kush.tgs",
-    "webp_path": "models/swag_bag/choco_kush.webp",
-    "custom_emoji_id": "5879609193689783614",
-    "model_id": "5433936646590464796"
-  },
-  {
-    "name": "p.i.m.p.",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/swag_bag/p.i.m.p..tgs",
-    "webp_path": "models/swag_bag/p.i.m.p..webp",
-    "custom_emoji_id": "5879961411072828775",
-    "model_id": "5381982226802047867"
+    "custom_emoji_id": "5989847359067005059",
+    "model_id": "5375540170995038843",
+    "telegram_document_id": "5375540170995038843",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hjetHDepQzKdgbymCk97oLMAAJ7egACTsGZSlVjaSI8QgABXx4E"
   },
   {
     "name": "lemon_pepper",
-    "rarity_permille": 3.5,
+    "rarity_percent": 3.5,
     "tgs_path": "models/swag_bag/lemon_pepper.tgs",
     "webp_path": "models/swag_bag/lemon_pepper.webp",
-    "custom_emoji_id": "5879672024766356739",
-    "model_id": "5377413266362364650"
-  },
-  {
-    "name": "choco_doggs",
-    "rarity_permille": 3.0,
-    "tgs_path": "models/swag_bag/choco_doggs.tgs",
-    "webp_path": "models/swag_bag/choco_doggs.webp",
-    "custom_emoji_id": "5879526292231036248",
-    "model_id": "5388647431929884850"
-  },
-  {
-    "name": "april_20th",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/swag_bag/april_20th.tgs",
-    "webp_path": "models/swag_bag/april_20th.webp",
-    "custom_emoji_id": "5879503739357764321",
-    "model_id": "5433678630725122804"
-  },
-  {
-    "name": "bark_&_tag",
-    "rarity_permille": 2.5,
-    "tgs_path": "models/swag_bag/bark_&_tag.tgs",
-    "webp_path": "models/swag_bag/bark_&_tag.webp",
-    "custom_emoji_id": "5877676381097172619",
-    "model_id": "5438459036699753632"
-  },
-  {
-    "name": "snoop_s",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/swag_bag/snoop_s.tgs",
-    "webp_path": "models/swag_bag/snoop_s.webp",
-    "custom_emoji_id": "5879593379620200425",
-    "model_id": "5433802398797692656"
-  },
-  {
-    "name": "take_it_easy",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/swag_bag/take_it_easy.tgs",
-    "webp_path": "models/swag_bag/take_it_easy.webp",
-    "custom_emoji_id": "5877309092673888489",
-    "model_id": "5375324580816651772"
+    "custom_emoji_id": "5990114686421442072",
+    "model_id": "5377413266362364650",
+    "telegram_document_id": "5377413266362364650",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hjUn8kzp_M-1a6NjqkDYqe5AALqcgAC4GigSje2qVSeKVnMHgQ"
   },
   {
     "name": "golden_nugs",
-    "rarity_permille": 1.0,
+    "rarity_percent": 1.0,
     "tgs_path": "models/swag_bag/golden_nugs.tgs",
     "webp_path": "models/swag_bag/golden_nugs.webp",
-    "custom_emoji_id": "5879778956567125318",
-    "model_id": "5377746564414467240"
+    "custom_emoji_id": "5990129177641098558",
+    "model_id": "5377746564414467240",
+    "telegram_document_id": "5377746564414467240",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hihjkRrgRYhhL8taWVS90yhAAKobAACApihSgjDHS8hloTMHgQ"
   },
   {
-    "name": "gummies",
-    "rarity_permille": 3.0,
-    "tgs_path": "models/swag_bag/gummies.tgs",
-    "webp_path": "models/swag_bag/gummies.webp",
-    "custom_emoji_id": "5877461082976564602",
-    "model_id": "5433969000579099294"
+    "name": "p.i.m.p.",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/swag_bag/p.i.m.p..tgs",
+    "webp_path": "models/swag_bag/p.i.m.p..webp",
+    "custom_emoji_id": "5990319942908517745",
+    "model_id": "5381982226802047867",
+    "telegram_document_id": "5381982226802047867",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hjr8DWpPCZdtByUG_PwWG7ZAAJ7ewACUqSwSs5txgWmip2kHgQ"
   },
   {
-    "name": "stack_pack",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/swag_bag/stack_pack.tgs",
-    "webp_path": "models/swag_bag/stack_pack.webp",
-    "custom_emoji_id": "5877702945469898833",
-    "model_id": "5435883804373840315"
+    "name": "platinum_8",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/swag_bag/platinum_8.tgs",
+    "webp_path": "models/swag_bag/platinum_8.webp",
+    "custom_emoji_id": "5990312808967839641",
+    "model_id": "5382064728828835836",
+    "telegram_document_id": "5382064728828835836",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hgJLqydO5QkzJA9cjjSjE3aAAL8dwACW--wSqypHeigW5iCHgQ"
   },
   {
-    "name": "spicy_onion",
-    "rarity_permille": 3.0,
-    "tgs_path": "models/swag_bag/spicy_onion.tgs",
-    "webp_path": "models/swag_bag/spicy_onion.webp",
-    "custom_emoji_id": "5877561512196841617",
-    "model_id": "5433763237285886300"
+    "name": "cashback",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/swag_bag/cashback.tgs",
+    "webp_path": "models/swag_bag/cashback.webp",
+    "custom_emoji_id": "5990122078060160492",
+    "model_id": "5382138602266327520",
+    "telegram_document_id": "5382138602266327520",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hgQMfH-Eofpq4lYvenHAin0AALgeQACizKxSsDIW1FF5RHBHgQ"
+  },
+  {
+    "name": "happy_herbs",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/swag_bag/happy_herbs.tgs",
+    "webp_path": "models/swag_bag/happy_herbs.webp",
+    "custom_emoji_id": "5990215631037802807",
+    "model_id": "5382217586714902322",
+    "telegram_document_id": "5382217586714902322",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hiffqPVhBjcMedcjLmkSHQ2AAIyfwACYXqxSu4PonLOf037HgQ"
+  },
+  {
+    "name": "fish_hat",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/swag_bag/fish_hat.tgs",
+    "webp_path": "models/swag_bag/fish_hat.webp",
+    "custom_emoji_id": "5989826305137319416",
+    "model_id": "5384597471043287277",
+    "telegram_document_id": "5384597471043287277",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hgtmeTH4GtZF3L5zuyXspQSAALteAAC3-65Sga3g-rM14hrHgQ"
+  },
+  {
+    "name": "gin_and_juice",
+    "rarity_percent": 3.0,
+    "tgs_path": "models/swag_bag/gin_and_juice.tgs",
+    "webp_path": "models/swag_bag/gin_and_juice.webp",
+    "custom_emoji_id": "5989964968156470563",
+    "model_id": "5386604608044957141",
+    "telegram_document_id": "5386604608044957141",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hiAN1sFdvlEMdEWiDJtlJrjAALVfQACWhDBSi0Rlk8E90vuHgQ"
+  },
+  {
+    "name": "choco_doggs",
+    "rarity_percent": 3.0,
+    "tgs_path": "models/swag_bag/choco_doggs.tgs",
+    "webp_path": "models/swag_bag/choco_doggs.webp",
+    "custom_emoji_id": "5990037020527829043",
+    "model_id": "5388647431929884850",
+    "telegram_document_id": "5388647431929884850",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hgNGj8TMgVCY__Xw9sIrL6nAAKycAACSlLISjlBfURh4IeRHgQ"
+  },
+  {
+    "name": "missionary",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/swag_bag/missionary.tgs",
+    "webp_path": "models/swag_bag/missionary.webp",
+    "custom_emoji_id": "5989837661030850052",
+    "model_id": "5388912036275058051",
+    "telegram_document_id": "5388912036275058051",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hjk8wlImiwWdZ5-aPkyFPRCAAKDdQAC8kLJSmlPj62Osq7aHgQ"
+  },
+  {
+    "name": "aviators",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/swag_bag/aviators.tgs",
+    "webp_path": "models/swag_bag/aviators.webp",
+    "custom_emoji_id": "5990006895627215835",
+    "model_id": "5399818826550371854",
+    "telegram_document_id": "5399818826550371854",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hi5Fbffd_h8Kd0-73goN8omAAIOZgACnQLwSriRvxkHe5VRHgQ"
+  },
+  {
+    "name": "doggystyle",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/swag_bag/doggystyle.tgs",
+    "webp_path": "models/swag_bag/doggystyle.webp",
+    "custom_emoji_id": "5990163855207046766",
+    "model_id": "5399947568195080620",
+    "telegram_document_id": "5399947568195080620",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hiNRQwNyZfKnPIuKKLhgDqHAAKskQACtHfwSiOeJ6G1OMw5HgQ"
+  },
+  {
+    "name": "muffins",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/swag_bag/muffins.tgs",
+    "webp_path": "models/swag_bag/muffins.webp",
+    "custom_emoji_id": "5989817685137955979",
+    "model_id": "5408881293444281542",
+    "telegram_document_id": "5408881293444281542",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hhFwyVCOjEHQnssnbgiCZxhAALGdAAC4TQQSxaVa83aR9-oHgQ"
+  },
+  {
+    "name": "blind_bag",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/swag_bag/blind_bag.tgs",
+    "webp_path": "models/swag_bag/blind_bag.webp",
+    "custom_emoji_id": "5989828577175020202",
+    "model_id": "5409218895053616111",
+    "telegram_document_id": "5409218895053616111",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hjoKG92fwkg5kOKw3Xm9AABtAAC73MAAu1nEUuIJpQ_4jG1Nx4E"
+  },
+  {
+    "name": "walk_of_fame",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/swag_bag/walk_of_fame.tgs",
+    "webp_path": "models/swag_bag/walk_of_fame.webp",
+    "custom_emoji_id": "5989933327132401202",
+    "model_id": "5409233205884644674",
+    "telegram_document_id": "5409233205884644674",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hjDsZs1VmfmAheMrDzrAAFp9gACQm0AAvF0EUvBcg9kwQ-WmR4E"
+  },
+  {
+    "name": "serious_dude",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/swag_bag/serious_dude.tgs",
+    "webp_path": "models/swag_bag/serious_dude.webp",
+    "custom_emoji_id": "5989893650224521486",
+    "model_id": "5413408137434656606",
+    "telegram_document_id": "5413408137434656606",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hgDyfEqGsDtqRjYFN8U4OvVAAJebwACBUogS57gEqv14UdpHgQ"
+  },
+  {
+    "name": "purple_smoke",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/swag_bag/purple_smoke.tgs",
+    "webp_path": "models/swag_bag/purple_smoke.webp",
+    "custom_emoji_id": "5990059255573519773",
+    "model_id": "5413469400848171520",
+    "telegram_document_id": "5413469400848171520",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hizePTch0D6_GpMjNWw2UTLAAOCAAK9gSBLMGHzbY2vN-MeBA"
+  },
+  {
+    "name": "crook_to_cook",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/swag_bag/crook_to_cook.tgs",
+    "webp_path": "models/swag_bag/crook_to_cook.webp",
+    "custom_emoji_id": "5990125943530725484",
+    "model_id": "5413480520518499185",
+    "telegram_document_id": "5413480520518499185",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hj879jPdAWr2a-jWqisPurlAAJxewAC2osgSxPxZ4fqmAHrHgQ"
+  },
+  {
+    "name": "darkness",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/swag_bag/darkness.tgs",
+    "webp_path": "models/swag_bag/darkness.webp",
+    "custom_emoji_id": "5990255359485288382",
+    "model_id": "5415584431723276319",
+    "telegram_document_id": "5415584431723276319",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hhz_ALteRLDkBAyhxHXNEPiAAIfaAACWQUoS889j99oVfwXHgQ"
   },
   {
     "name": "smokefest",
-    "rarity_permille": 3.0,
+    "rarity_percent": 3.0,
     "tgs_path": "models/swag_bag/smokefest.tgs",
     "webp_path": "models/swag_bag/smokefest.webp",
-    "custom_emoji_id": "5877412365162520499",
-    "model_id": "5415973203572976946"
+    "custom_emoji_id": "5989804572602802009",
+    "model_id": "5415973203572976946",
+    "telegram_document_id": "5415973203572976946",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hjvi1VcUgyf7e8z9YN8MYiCAAIybQAC72YpS5IpMX0DprKvHgQ"
+  },
+  {
+    "name": "lollipops",
+    "rarity_percent": 3.0,
+    "tgs_path": "models/swag_bag/lollipops.tgs",
+    "webp_path": "models/swag_bag/lollipops.webp",
+    "custom_emoji_id": "5990249200502185622",
+    "model_id": "5420241606496251273",
+    "telegram_document_id": "5420241606496251273",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hiiyqS8BeI1B80Ih2m_TLebAAKJbQACBpE4Sy2Bf-7-A7tJHgQ"
+  },
+  {
+    "name": "candy_shop",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/swag_bag/candy_shop.tgs",
+    "webp_path": "models/swag_bag/candy_shop.webp",
+    "custom_emoji_id": "5989900187164745890",
+    "model_id": "5433596210302712211",
+    "telegram_document_id": "5433596210302712211",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hjAGm7-5guLrzHw71rf_uYMAAKTeQAC9wJoS_EoCBwM-NRqHgQ"
+  },
+  {
+    "name": "boiling_hot",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/swag_bag/boiling_hot.tgs",
+    "webp_path": "models/swag_bag/boiling_hot.webp",
+    "custom_emoji_id": "5990159092088315129",
+    "model_id": "5433656245355576796",
+    "telegram_document_id": "5433656245355576796",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hj5gpJJgvR6MyeiNv9XeIkRAALcfQACkTloS1xbzZSZcxZRHgQ"
+  },
+  {
+    "name": "april_20th",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/swag_bag/april_20th.tgs",
+    "webp_path": "models/swag_bag/april_20th.webp",
+    "custom_emoji_id": "5990245747348479792",
+    "model_id": "5433678630725122804",
+    "telegram_document_id": "5433678630725122804",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hiqfZQR6SdxQUz0gRw499K8AAL0egAC7U1oS01mGorTm-8ZHgQ"
+  },
+  {
+    "name": "doll_buttons",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/swag_bag/doll_buttons.tgs",
+    "webp_path": "models/swag_bag/doll_buttons.webp",
+    "custom_emoji_id": "5990085128456512226",
+    "model_id": "5433743944292795171",
+    "telegram_document_id": "5433743944292795171",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hjdSjyZNi_hk1ieJ950_VwOAAIjgwACVIloS3FqfF38PKhHHgQ"
+  },
+  {
+    "name": "spicy_onion",
+    "rarity_percent": 3.0,
+    "tgs_path": "models/swag_bag/spicy_onion.tgs",
+    "webp_path": "models/swag_bag/spicy_onion.webp",
+    "custom_emoji_id": "5989829947269585600",
+    "model_id": "5433763237285886300",
+    "telegram_document_id": "5433763237285886300",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hiaBmm-3-4lAAFY51FuZNZj1QACXHkAAuCaaEtxPKs-nfZLJR4E"
+  },
+  {
+    "name": "baggy_bag",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/swag_bag/baggy_bag.tgs",
+    "webp_path": "models/swag_bag/baggy_bag.webp",
+    "custom_emoji_id": "5989988448742678990",
+    "model_id": "5433780593248728385",
+    "telegram_document_id": "5433780593248728385",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hjwg3p5aoZtltM0Torj2dF6AAJBdQACqapoS9dfOQZpoT8aHgQ"
+  },
+  {
+    "name": "cookie_dude",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/swag_bag/cookie_dude.tgs",
+    "webp_path": "models/swag_bag/cookie_dude.webp",
+    "custom_emoji_id": "5989950627260669084",
+    "model_id": "5433791700034157721",
+    "telegram_document_id": "5433791700034157721",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hjjuBhZ_9tNzu38eqhrpQVCAAKZfAACw7RoS01bn6DZeHb2HgQ"
+  },
+  {
+    "name": "snoop_s",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/swag_bag/snoop_s.tgs",
+    "webp_path": "models/swag_bag/snoop_s.webp",
+    "custom_emoji_id": "5990125569868570620",
+    "model_id": "5433802398797692656",
+    "telegram_document_id": "5433802398797692656",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hgjlUkrR2LGQ7THHlZMpAcHAALwfgACfr5oS8limU223kPkHgQ"
+  },
+  {
+    "name": "leopard",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/swag_bag/leopard.tgs",
+    "webp_path": "models/swag_bag/leopard.webp",
+    "custom_emoji_id": "5990036921743580764",
+    "model_id": "5433839086408334992",
+    "telegram_document_id": "5433839086408334992",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hjUBsgR4MUUY_2o_UzdU4QyAAKQfgAC3N9oSwpUVfHs_kbbHgQ"
+  },
+  {
+    "name": "rastafari",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/swag_bag/rastafari.tgs",
+    "webp_path": "models/swag_bag/rastafari.webp",
+    "custom_emoji_id": "5989837386152942838",
+    "model_id": "5433852701454660699",
+    "telegram_document_id": "5433852701454660699",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hgPMnp2Y6NrgRKvRr9vXSFjAAJbdAACPuxoSyqESEkq4PZgHgQ"
+  },
+  {
+    "name": "snoopcoins",
+    "rarity_percent": 3.0,
+    "tgs_path": "models/swag_bag/snoopcoins.tgs",
+    "webp_path": "models/swag_bag/snoopcoins.webp",
+    "custom_emoji_id": "5989812363673478343",
+    "model_id": "5433878342409423273",
+    "telegram_document_id": "5433878342409423273",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hg5x6C2GsD6WUgf1SZUescFAAKpiQACkANpS6nWyOXd9xgJHgQ"
+  },
+  {
+    "name": "tag_bag",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/swag_bag/tag_bag.tgs",
+    "webp_path": "models/swag_bag/tag_bag.webp",
+    "custom_emoji_id": "5989966943841427227",
+    "model_id": "5433885429105455565",
+    "telegram_document_id": "5433885429105455565",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hjKSncGTcRUCDM1KLDFcZpAAALNcQACAgppSxMkTfy25CvNHgQ"
+  },
+  {
+    "name": "choco_kush",
+    "rarity_percent": 3.0,
+    "tgs_path": "models/swag_bag/choco_kush.tgs",
+    "webp_path": "models/swag_bag/choco_kush.webp",
+    "custom_emoji_id": "5990218203723215495",
+    "model_id": "5433936646590464796",
+    "telegram_document_id": "5433936646590464796",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hhiH8Ry212sylluXZbDEDYrAAIcgwAClzhpS_gOudmxJdFKHgQ"
+  },
+  {
+    "name": "gummies",
+    "rarity_percent": 3.0,
+    "tgs_path": "models/swag_bag/gummies.tgs",
+    "webp_path": "models/swag_bag/gummies.webp",
+    "custom_emoji_id": "5990206534297067237",
+    "model_id": "5433969000579099294",
+    "telegram_document_id": "5433969000579099294",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hjeidaLWtv8eLqLfRVSVusJAAKeagACBFZpS3DQxiBcGvSzHgQ"
+  },
+  {
+    "name": "shuffle",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/swag_bag/shuffle.tgs",
+    "webp_path": "models/swag_bag/shuffle.webp",
+    "custom_emoji_id": "5990200224990108959",
+    "model_id": "5434050068086815377",
+    "telegram_document_id": "5434050068086815377",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hitlrJfRtTgmnjQpbkNiba5AAKRegACv59pS4MrcwqikYrIHgQ"
+  },
+  {
+    "name": "platinum_drip",
+    "rarity_percent": 3.0,
+    "tgs_path": "models/swag_bag/platinum_drip.tgs",
+    "webp_path": "models/swag_bag/platinum_drip.webp",
+    "custom_emoji_id": "5989842235171019546",
+    "model_id": "5434066943013320423",
+    "telegram_document_id": "5434066943013320423",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hgni2hNdeGdblPkJXghkJyKAALndgACGK9pS7zxmoNirSIjHgQ"
+  },
+  {
+    "name": "bulk_order",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/swag_bag/bulk_order.tgs",
+    "webp_path": "models/swag_bag/bulk_order.webp",
+    "custom_emoji_id": "5990266152738103159",
+    "model_id": "5434074321767135917",
+    "telegram_document_id": "5434074321767135917",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hjFK1vefliKdq3FPLpaEdZyAAKtegACzrVpS5IOlEeoYzSKHgQ"
+  },
+  {
+    "name": "money_bag",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/swag_bag/money_bag.tgs",
+    "webp_path": "models/swag_bag/money_bag.webp",
+    "custom_emoji_id": "5989919359898758241",
+    "model_id": "5434121639421837324",
+    "telegram_document_id": "5434121639421837324",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hhrgkTuC76lzNS6E2Q4DypJAAIMgAAC1-BpS3h71d8NlX4jHgQ"
+  },
+  {
+    "name": "snoop_life",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/swag_bag/snoop_life.tgs",
+    "webp_path": "models/swag_bag/snoop_life.webp",
+    "custom_emoji_id": "5990115605544445212",
+    "model_id": "5434134176431371567",
+    "telegram_document_id": "5434134176431371567",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hjRTVShdQABBoYqHrmxlJG5QAACL3UAAj7saUspiQ40B6DTqh4E"
+  },
+  {
+    "name": "dogg’s_loot",
+    "rarity_percent": 3.0,
+    "tgs_path": "models/swag_bag/dogg’s_loot.tgs",
+    "webp_path": "models/swag_bag/dogg’s_loot.webp",
+    "custom_emoji_id": "5434144626086805202",
+    "model_id": "5434144626086805202",
+    "telegram_document_id": "5434144626086805202",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hhswOA_mSXaJrk0oR4afRiGAALSfgACv_VpSwObYeKQCno1HgQ"
+  },
+  {
+    "name": "gin_&_jewels",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/swag_bag/gin_&_jewels.tgs",
+    "webp_path": "models/swag_bag/gin_&_jewels.webp",
+    "custom_emoji_id": "5434146421383133665",
+    "model_id": "5434146421383133665",
+    "telegram_document_id": "5434146421383133665",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hijKX-6Ri2nWkL7yS8ZhOrnAALheQACYfdpS5Osf6e1uJ6QHgQ"
+  },
+  {
+    "name": "stack_pack",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/swag_bag/stack_pack.tgs",
+    "webp_path": "models/swag_bag/stack_pack.webp",
+    "custom_emoji_id": "5435883804373840315",
+    "model_id": "5435883804373840315",
+    "telegram_document_id": "5435883804373840315",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hhpqmfyg8zHVwa5ZjwITSHoAAK7cQAChSNwSwKYNn-a4BH9HgQ"
+  },
+  {
+    "name": "hop_corn",
+    "rarity_percent": 3.0,
+    "tgs_path": "models/swag_bag/hop_corn.tgs",
+    "webp_path": "models/swag_bag/hop_corn.webp",
+    "custom_emoji_id": "5435923713209957642",
+    "model_id": "5435923713209957642",
+    "telegram_document_id": "5435923713209957642",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hjpvjGDktsiyVO-jD_6HciwAAIKfQAC0UdwS9FiJZBborW8HgQ"
+  },
+  {
+    "name": "west_toast",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/swag_bag/west_toast.tgs",
+    "webp_path": "models/swag_bag/west_toast.webp",
+    "custom_emoji_id": "5436228917880978264",
+    "model_id": "5436228917880978264",
+    "telegram_document_id": "5436228917880978264",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hgy_TDAppQ8i0nv1RJiu2-vAAJYewACZl1xS21vL9oSu71hHgQ"
+  },
+  {
+    "name": "the_last_meal",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/swag_bag/the_last_meal.tgs",
+    "webp_path": "models/swag_bag/the_last_meal.webp",
+    "custom_emoji_id": "5438382113835482141",
+    "model_id": "5438382113835482141",
+    "telegram_document_id": "5438382113835482141",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hgAAfVw32mpEIn0kBdjs0YvdwACHXwAArgDeUuAUfEkgfoa9x4E"
+  },
+  {
+    "name": "bark_&_tag",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/swag_bag/bark_&_tag.tgs",
+    "webp_path": "models/swag_bag/bark_&_tag.webp",
+    "custom_emoji_id": "5438459036699753632",
+    "model_id": "5438459036699753632",
+    "telegram_document_id": "5438459036699753632",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hhoAWB03jyx6RqMnrU4ZMVeAAKgfAACrkl5S6P5lzabjpXDHgQ"
+  },
+  {
+    "name": "doggy_doggs",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/swag_bag/doggy_doggs.tgs",
+    "webp_path": "models/swag_bag/doggy_doggs.webp",
+    "custom_emoji_id": "5438513767468007189",
+    "model_id": "5438513767468007189",
+    "telegram_document_id": "5438513767468007189",
+    "telegram_file_id": "BQACAgIAAxUAAWrj-hh51jrMnW-VqjRtXQjpxNQuAAIVfwACdXt5S21iK_iGH4rmHgQ"
   }
 ]
