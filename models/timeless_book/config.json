@@ -1,418 +1,522 @@
 [
   {
-    "name": "death_note",
-    "rarity_permille": 0.1,
-    "tgs_path": "models/timeless_book/death_note.tgs",
-    "webp_path": "models/timeless_book/death_note.webp",
-    "custom_emoji_id": "5879886382289133880",
-    "model_id": "5258138317995677843"
-  },
-  {
-    "name": "pirate_tales",
-    "rarity_permille": 2.5,
-    "tgs_path": "models/timeless_book/pirate_tales.tgs",
-    "webp_path": "models/timeless_book/pirate_tales.webp",
-    "custom_emoji_id": "5877235416804893412",
-    "model_id": "5244734781626812258"
-  },
-  {
-    "name": "voodoo",
-    "rarity_permille": 2.5,
-    "tgs_path": "models/timeless_book/voodoo.tgs",
-    "webp_path": "models/timeless_book/voodoo.webp",
-    "custom_emoji_id": "5877554283766881889",
-    "model_id": "5323346882305493484"
-  },
-  {
-    "name": "ice_nine",
-    "rarity_permille": 3.0,
-    "tgs_path": "models/timeless_book/ice_nine.tgs",
-    "webp_path": "models/timeless_book/ice_nine.webp",
-    "custom_emoji_id": "5880005537566825361",
-    "model_id": "5449885573852468231"
-  },
-  {
-    "name": "secret_chapter",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/timeless_book/secret_chapter.tgs",
-    "webp_path": "models/timeless_book/secret_chapter.webp",
-    "custom_emoji_id": "5879698537599474286",
-    "model_id": "5449836645585033545"
-  },
-  {
-    "name": "e-reader",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/timeless_book/e-reader.tgs",
-    "webp_path": "models/timeless_book/e-reader.webp",
-    "custom_emoji_id": "5879453960686804657",
-    "model_id": "5393499254620722876"
-  },
-  {
-    "name": "songbook",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/timeless_book/songbook.tgs",
-    "webp_path": "models/timeless_book/songbook.webp",
-    "custom_emoji_id": "5879663988882546940",
-    "model_id": "5449585591861677063"
-  },
-  {
-    "name": "rocket_science",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/timeless_book/rocket_science.tgs",
-    "webp_path": "models/timeless_book/rocket_science.webp",
-    "custom_emoji_id": "5877468070888350146",
-    "model_id": "5244747627873999685"
-  },
-  {
-    "name": "tom’s_diary",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/timeless_book/tom’s_diary.tgs",
-    "webp_path": "models/timeless_book/tom’s_diary.webp",
-    "custom_emoji_id": "5877453090042420595",
-    "model_id": "5251692066005622307"
-  },
-  {
-    "name": "unipedia",
-    "rarity_permille": 2.5,
-    "tgs_path": "models/timeless_book/unipedia.tgs",
-    "webp_path": "models/timeless_book/unipedia.webp",
-    "custom_emoji_id": "5879963773304839461",
-    "model_id": "5287767119822361737"
-  },
-  {
-    "name": "academic",
-    "rarity_permille": 3.5,
-    "tgs_path": "models/timeless_book/academic.tgs",
-    "webp_path": "models/timeless_book/academic.webp",
-    "custom_emoji_id": "5879542578747022542",
-    "model_id": "5287334436227030398"
-  },
-  {
-    "name": "geometry",
-    "rarity_permille": 3.5,
-    "tgs_path": "models/timeless_book/geometry.tgs",
-    "webp_path": "models/timeless_book/geometry.webp",
-    "custom_emoji_id": "5879832905651330367",
-    "model_id": "5287437798909975878"
-  },
-  {
-    "name": "love_story",
-    "rarity_permille": 2.5,
-    "tgs_path": "models/timeless_book/love_story.tgs",
-    "webp_path": "models/timeless_book/love_story.webp",
-    "custom_emoji_id": "5879892219149688512",
-    "model_id": "5449423998012138743"
-  },
-  {
-    "name": "big_brother",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/timeless_book/big_brother.tgs",
-    "webp_path": "models/timeless_book/big_brother.webp",
-    "custom_emoji_id": "5879591683108118447",
-    "model_id": "5305521075809983116"
-  },
-  {
-    "name": "monster_book",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/timeless_book/monster_book.tgs",
-    "webp_path": "models/timeless_book/monster_book.webp",
-    "custom_emoji_id": "5879655012400898077",
-    "model_id": "5323390407504070048"
-  },
-  {
-    "name": "kamasutra",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/timeless_book/kamasutra.tgs",
-    "webp_path": "models/timeless_book/kamasutra.webp",
-    "custom_emoji_id": "5877325005527720818",
-    "model_id": "5323499310694831163"
-  },
-  {
-    "name": "divine_comedy",
-    "rarity_permille": 2.5,
-    "tgs_path": "models/timeless_book/divine_comedy.tgs",
-    "webp_path": "models/timeless_book/divine_comedy.webp",
-    "custom_emoji_id": "5879784393995722465",
-    "model_id": "5231253304486431901"
-  },
-  {
-    "name": "secret_files",
-    "rarity_permille": 2.5,
-    "tgs_path": "models/timeless_book/secret_files.tgs",
-    "webp_path": "models/timeless_book/secret_files.webp",
-    "custom_emoji_id": "5879892201969820402",
-    "model_id": "5449888490135263403"
-  },
-  {
-    "name": "dragon_age",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/timeless_book/dragon_age.tgs",
-    "webp_path": "models/timeless_book/dragon_age.webp",
-    "custom_emoji_id": "5879740520904794529",
-    "model_id": "5296450684701418622"
-  },
-  {
-    "name": "anatomy",
-    "rarity_permille": 2.5,
-    "tgs_path": "models/timeless_book/anatomy.tgs",
-    "webp_path": "models/timeless_book/anatomy.webp",
-    "custom_emoji_id": "5879746319110642506",
-    "model_id": "5258214695399101101"
-  },
-  {
-    "name": "burn_book",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/timeless_book/burn_book.tgs",
-    "webp_path": "models/timeless_book/burn_book.webp",
-    "custom_emoji_id": "5879745129404702044",
-    "model_id": "5278351963099008923"
-  },
-  {
-    "name": "evidence",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/timeless_book/evidence.tgs",
-    "webp_path": "models/timeless_book/evidence.webp",
-    "custom_emoji_id": "5879965491291758502",
-    "model_id": "5287420095054779073"
-  },
-  {
-    "name": "crazy_book",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/timeless_book/crazy_book.tgs",
-    "webp_path": "models/timeless_book/crazy_book.webp",
-    "custom_emoji_id": "5879588646566239880",
-    "model_id": "5449600203340422880"
-  },
-  {
-    "name": "billy_milligan",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/timeless_book/billy_milligan.tgs",
-    "webp_path": "models/timeless_book/billy_milligan.webp",
-    "custom_emoji_id": "5879586477607755418",
-    "model_id": "5242710280072369164"
-  },
-  {
-    "name": "animator",
-    "rarity_permille": 2.5,
-    "tgs_path": "models/timeless_book/animator.tgs",
-    "webp_path": "models/timeless_book/animator.webp",
-    "custom_emoji_id": "5879656721797885205",
-    "model_id": "5244984929112068573"
-  },
-  {
-    "name": "fairy_tales",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/timeless_book/fairy_tales.tgs",
-    "webp_path": "models/timeless_book/fairy_tales.webp",
-    "custom_emoji_id": "5879480683973319963",
-    "model_id": "5244649938842849296"
-  },
-  {
-    "name": "cookbook",
-    "rarity_permille": 3.5,
-    "tgs_path": "models/timeless_book/cookbook.tgs",
-    "webp_path": "models/timeless_book/cookbook.webp",
-    "custom_emoji_id": "5879722155624635094",
-    "model_id": "5258027056867874336"
-  },
-  {
-    "name": "mystique",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/timeless_book/mystique.tgs",
-    "webp_path": "models/timeless_book/mystique.webp",
-    "custom_emoji_id": "5879548892348947529",
-    "model_id": "5296264987495404686"
-  },
-  {
-    "name": "alphabet",
-    "rarity_permille": 3.5,
-    "tgs_path": "models/timeless_book/alphabet.tgs",
-    "webp_path": "models/timeless_book/alphabet.webp",
-    "custom_emoji_id": "5879512273457782197",
-    "model_id": "5296677201276609772"
-  },
-  {
-    "name": "lovecraft",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/timeless_book/lovecraft.tgs",
-    "webp_path": "models/timeless_book/lovecraft.webp",
-    "custom_emoji_id": "5879878732952379862",
-    "model_id": "5278546233059737841"
-  },
-  {
-    "name": "lord_of_flies",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/timeless_book/lord_of_flies.tgs",
-    "webp_path": "models/timeless_book/lord_of_flies.webp",
-    "custom_emoji_id": "5877638817313201442",
-    "model_id": "5278437733595909100"
-  },
-  {
-    "name": "journal_1",
-    "rarity_permille": 0.5,
-    "tgs_path": "models/timeless_book/journal_1.tgs",
-    "webp_path": "models/timeless_book/journal_1.webp",
-    "custom_emoji_id": "5879563576842133601",
-    "model_id": "5244772676123270471"
-  },
-  {
-    "name": "chemistry",
-    "rarity_permille": 3.0,
-    "tgs_path": "models/timeless_book/chemistry.tgs",
-    "webp_path": "models/timeless_book/chemistry.webp",
-    "custom_emoji_id": "5879460428907551896",
-    "model_id": "5449646971239305476"
-  },
-  {
-    "name": "froges",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/timeless_book/froges.tgs",
-    "webp_path": "models/timeless_book/froges.webp",
-    "custom_emoji_id": "5879865375604089204",
-    "model_id": "5230934149761634099"
-  },
-  {
-    "name": "animal_friends",
-    "rarity_permille": 3.5,
-    "tgs_path": "models/timeless_book/animal_friends.tgs",
-    "webp_path": "models/timeless_book/animal_friends.webp",
-    "custom_emoji_id": "5879653655191232354",
-    "model_id": "5287708231525767121"
-  },
-  {
-    "name": "paleontology",
-    "rarity_permille": 3.5,
-    "tgs_path": "models/timeless_book/paleontology.tgs",
-    "webp_path": "models/timeless_book/paleontology.webp",
-    "custom_emoji_id": "5879599164941148162",
-    "model_id": "5233459564761880014"
-  },
-  {
-    "name": "tiny_kingdom",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/timeless_book/tiny_kingdom.tgs",
-    "webp_path": "models/timeless_book/tiny_kingdom.webp",
-    "custom_emoji_id": "5879895899936660817",
-    "model_id": "5447145792739515951"
-  },
-  {
-    "name": "hitchhiker",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/timeless_book/hitchhiker.tgs",
-    "webp_path": "models/timeless_book/hitchhiker.webp",
-    "custom_emoji_id": "5879672445673152810",
-    "model_id": "5231008886487552880"
-  },
-  {
-    "name": "astrology",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/timeless_book/astrology.tgs",
-    "webp_path": "models/timeless_book/astrology.webp",
-    "custom_emoji_id": "5879852293133704574",
-    "model_id": "5278527945088996503"
-  },
-  {
-    "name": "metro",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/timeless_book/metro.tgs",
-    "webp_path": "models/timeless_book/metro.webp",
-    "custom_emoji_id": "5879680898168790106",
-    "model_id": "5449718190387008347"
-  },
-  {
     "name": "wisdom_scroll",
-    "rarity_permille": 1.5,
+    "rarity_percent": 1.5,
     "tgs_path": "models/timeless_book/wisdom_scroll.tgs",
     "webp_path": "models/timeless_book/wisdom_scroll.webp",
-    "custom_emoji_id": "5879713402481285965",
-    "model_id": "5215446815519841035"
-  },
-  {
-    "name": "unfinished",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/timeless_book/unfinished.tgs",
-    "webp_path": "models/timeless_book/unfinished.webp",
-    "custom_emoji_id": "5877425254359375892",
-    "model_id": "5249381781622267019"
-  },
-  {
-    "name": "liberty_scroll",
-    "rarity_permille": 1.5,
-    "tgs_path": "models/timeless_book/liberty_scroll.tgs",
-    "webp_path": "models/timeless_book/liberty_scroll.webp",
-    "custom_emoji_id": "5879831385232908539",
-    "model_id": "5395516562104945993"
-  },
-  {
-    "name": "clay_tablets",
-    "rarity_permille": 3.0,
-    "tgs_path": "models/timeless_book/clay_tablets.tgs",
-    "webp_path": "models/timeless_book/clay_tablets.webp",
-    "custom_emoji_id": "5879869734995893366",
-    "model_id": "5253468614803100521"
+    "custom_emoji_id": "5990214127799246375",
+    "model_id": "5215446815519841035",
+    "telegram_document_id": "5215446815519841035",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx7TOliuypBN8PngsCIFGP8DAAILmwACP_1gSDaCFDXr-JAtHgQ"
   },
   {
     "name": "ulysses",
-    "rarity_permille": 2.0,
+    "rarity_percent": 2.0,
     "tgs_path": "models/timeless_book/ulysses.tgs",
     "webp_path": "models/timeless_book/ulysses.webp",
-    "custom_emoji_id": "5879759165357826810",
-    "model_id": "5217654716472793124"
+    "custom_emoji_id": "5990042646934985854",
+    "model_id": "5217654716472793124",
+    "telegram_document_id": "5217654716472793124",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx68f5GYVFRcvBfwAmMpNQ0CAAIkmAACUtVoSAIxQlwpCeuuHgQ"
   },
   {
-    "name": "token_vault",
-    "rarity_permille": 0.2,
-    "tgs_path": "models/timeless_book/token_vault.tgs",
-    "webp_path": "models/timeless_book/token_vault.webp",
-    "custom_emoji_id": "5879670349729111151",
-    "model_id": "5296782041428302422"
+    "name": "froges",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/timeless_book/froges.tgs",
+    "webp_path": "models/timeless_book/froges.webp",
+    "custom_emoji_id": "5990057855414181167",
+    "model_id": "5230934149761634099",
+    "telegram_document_id": "5230934149761634099",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx4Py9b5x3bpBCtvD8U0W406AAIzjwAC5QKYSNZ5UzYri8E3HgQ"
   },
   {
-    "name": "crystal_tome",
-    "rarity_permille": 2.0,
-    "tgs_path": "models/timeless_book/crystal_tome.tgs",
-    "webp_path": "models/timeless_book/crystal_tome.webp",
-    "custom_emoji_id": "5877211751535091012",
-    "model_id": "5244863909818571734"
+    "name": "hitchhiker",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/timeless_book/hitchhiker.tgs",
+    "webp_path": "models/timeless_book/hitchhiker.webp",
+    "custom_emoji_id": "5989957086891483300",
+    "model_id": "5231008886487552880",
+    "telegram_document_id": "5231008886487552880",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx5Va26MOLvCPBJR4cAoY_QyAAJwkwAC3kaYSH0acFGhOPWDHgQ"
   },
   {
-    "name": "fahrenheit_451",
-    "rarity_permille": 1.0,
-    "tgs_path": "models/timeless_book/fahrenheit_451.tgs",
-    "webp_path": "models/timeless_book/fahrenheit_451.webp",
-    "custom_emoji_id": "5879927094284133355",
-    "model_id": "5275978963603198403"
+    "name": "divine_comedy",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/timeless_book/divine_comedy.tgs",
+    "webp_path": "models/timeless_book/divine_comedy.webp",
+    "custom_emoji_id": "5990304158903705658",
+    "model_id": "5231253304486431901",
+    "telegram_document_id": "5231253304486431901",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx6e7ZsWKJMYVYIFG1lfs7hgAAKdjAACKiWZSChVGYNKJJQxHgQ"
   },
   {
-    "name": "shakespeare",
-    "rarity_permille": 3.0,
-    "tgs_path": "models/timeless_book/shakespeare.tgs",
-    "webp_path": "models/timeless_book/shakespeare.webp",
-    "custom_emoji_id": "5879989663367700878",
-    "model_id": "5449373033930200440"
-  },
-  {
-    "name": "herbarium",
-    "rarity_permille": 3.5,
-    "tgs_path": "models/timeless_book/herbarium.tgs",
-    "webp_path": "models/timeless_book/herbarium.webp",
-    "custom_emoji_id": "5879641384469668197",
-    "model_id": "5298792738957861012"
+    "name": "paleontology",
+    "rarity_percent": 3.5,
+    "tgs_path": "models/timeless_book/paleontology.tgs",
+    "webp_path": "models/timeless_book/paleontology.webp",
+    "custom_emoji_id": "5989812226234524515",
+    "model_id": "5233459564761880014",
+    "telegram_document_id": "5233459564761880014",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx59JT7POczV3gx3JY82Be1eAALOlQACv_ugSHZCkCFsR7KkHgQ"
   },
   {
     "name": "rebel_dog",
-    "rarity_permille": 0.5,
+    "rarity_percent": 0.5,
     "tgs_path": "models/timeless_book/rebel_dog.tgs",
     "webp_path": "models/timeless_book/rebel_dog.webp",
-    "custom_emoji_id": "5879780549999993971",
-    "model_id": "5242555021299585440"
+    "custom_emoji_id": "5990114673536540820",
+    "model_id": "5242555021299585440",
+    "telegram_document_id": "5242555021299585440",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx6dzA6HyvzAQlp96mciP-gYAAKgkQACBEzBSMMcK6RdmbRHHgQ"
+  },
+  {
+    "name": "billy_milligan",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/timeless_book/billy_milligan.tgs",
+    "webp_path": "models/timeless_book/billy_milligan.webp",
+    "custom_emoji_id": "5990184750222942443",
+    "model_id": "5242710280072369164",
+    "telegram_document_id": "5242710280072369164",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx4GZv9VIUPO3eTH6fOLvhULAAIMlAACOdnBSOeIjj-L0KOQHgQ"
+  },
+  {
+    "name": "fairy_tales",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/timeless_book/fairy_tales.tgs",
+    "webp_path": "models/timeless_book/fairy_tales.webp",
+    "custom_emoji_id": "5990103991952874915",
+    "model_id": "5244649938842849296",
+    "telegram_document_id": "5244649938842849296",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx4JvoYF_JlvNU2C69AMWEeUAAIQkAACVb3ISAs96ywhi1osHgQ"
+  },
+  {
+    "name": "pirate_tales",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/timeless_book/pirate_tales.tgs",
+    "webp_path": "models/timeless_book/pirate_tales.webp",
+    "custom_emoji_id": "5990102583203601870",
+    "model_id": "5244734781626812258",
+    "telegram_document_id": "5244734781626812258",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx64oAtSk4Ddl85epfDDuvYwAAJihwACfwrJSKCFUFe5d_qEHgQ"
+  },
+  {
+    "name": "rocket_science",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/timeless_book/rocket_science.tgs",
+    "webp_path": "models/timeless_book/rocket_science.webp",
+    "custom_emoji_id": "5990286480818314579",
+    "model_id": "5244747627873999685",
+    "telegram_document_id": "5244747627873999685",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx79ZBSU7rjLX8Pis8rwKzheAAJFmwACLhbJSEut4zw8g3yPHgQ"
+  },
+  {
+    "name": "journal_1",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/timeless_book/journal_1.tgs",
+    "webp_path": "models/timeless_book/journal_1.webp",
+    "custom_emoji_id": "5989939614964527071",
+    "model_id": "5244772676123270471",
+    "telegram_document_id": "5244772676123270471",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx6TsBihKz0pD7iIhc7-F01fAAJHnQAC9izJSOXkWj1u_QbgHgQ"
+  },
+  {
+    "name": "crystal_tome",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/timeless_book/crystal_tome.tgs",
+    "webp_path": "models/timeless_book/crystal_tome.webp",
+    "custom_emoji_id": "5990011207774380719",
+    "model_id": "5244863909818571734",
+    "telegram_document_id": "5244863909818571734",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx6vjsZ1VKIPytDPGRDJhh_3AALWmwAC8H_JSCBWX4VrEAlCHgQ"
+  },
+  {
+    "name": "animator",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/timeless_book/animator.tgs",
+    "webp_path": "models/timeless_book/animator.webp",
+    "custom_emoji_id": "5990217946025174043",
+    "model_id": "5244984929112068573",
+    "telegram_document_id": "5244984929112068573",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx5jFc3F9xljJzI1wz75wIfoAALdkQACAe7JSLOJj26G26aDHgQ"
+  },
+  {
+    "name": "unfinished",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/timeless_book/unfinished.tgs",
+    "webp_path": "models/timeless_book/unfinished.webp",
+    "custom_emoji_id": "5990148075497202780",
+    "model_id": "5249381781622267019",
+    "telegram_document_id": "5249381781622267019",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx5LlxfadH3TEYF_r2bRxYtCAAKLnAAC64zZSEDtQDWHBTw6HgQ"
+  },
+  {
+    "name": "tom’s_diary",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/timeless_book/tom’s_diary.tgs",
+    "webp_path": "models/timeless_book/tom’s_diary.webp",
+    "custom_emoji_id": "5990285480090934972",
+    "model_id": "5251692066005622307",
+    "telegram_document_id": "5251692066005622307",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx5KS6hKnjzBzhsqL2gq4BE2AAIjngACHMLhSFZ_a8hJK8u5HgQ"
+  },
+  {
+    "name": "clay_tablets",
+    "rarity_percent": 3.0,
+    "tgs_path": "models/timeless_book/clay_tablets.tgs",
+    "webp_path": "models/timeless_book/clay_tablets.webp",
+    "custom_emoji_id": "5990175949834953063",
+    "model_id": "5253468614803100521",
+    "telegram_document_id": "5253468614803100521",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx5PvUlRZNJin0sH3WoXUYDQAAJpkwAC3xHoSHnMfpz-6zULHgQ"
+  },
+  {
+    "name": "cookbook",
+    "rarity_percent": 3.5,
+    "tgs_path": "models/timeless_book/cookbook.tgs",
+    "webp_path": "models/timeless_book/cookbook.webp",
+    "custom_emoji_id": "5990235456606839292",
+    "model_id": "5258027056867874336",
+    "telegram_document_id": "5258027056867874336",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx5aWdUt3siCBh8RZL82Z2GNAAIglgACwEP4SHW_cMn3Hwj1HgQ"
+  },
+  {
+    "name": "death_note",
+    "rarity_percent": 0.1,
+    "tgs_path": "models/timeless_book/death_note.tgs",
+    "webp_path": "models/timeless_book/death_note.webp",
+    "custom_emoji_id": "5990201315911803285",
+    "model_id": "5258138317995677843",
+    "telegram_document_id": "5258138317995677843",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx5QZ6hgjaAdYJd3Fi4EqwUAA5OYAALxqPhIU2yPVuly8HEeBA"
+  },
+  {
+    "name": "anatomy",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/timeless_book/anatomy.tgs",
+    "webp_path": "models/timeless_book/anatomy.webp",
+    "custom_emoji_id": "5990226918211854411",
+    "model_id": "5258214695399101101",
+    "telegram_document_id": "5258214695399101101",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx6Q2GFnWLXHSO86QgyAlmVNAAKtkgACaO74SN0zlAWhQa8LHgQ"
+  },
+  {
+    "name": "fahrenheit_451",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/timeless_book/fahrenheit_451.tgs",
+    "webp_path": "models/timeless_book/fahrenheit_451.webp",
+    "custom_emoji_id": "5990323365997452463",
+    "model_id": "5275978963603198403",
+    "telegram_document_id": "5275978963603198403",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx4X0JIDXhUet5hwrlWIef_cAALDkQAC6go4SbiLqTxyoYppHgQ"
+  },
+  {
+    "name": "burn_book",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/timeless_book/burn_book.tgs",
+    "webp_path": "models/timeless_book/burn_book.webp",
+    "custom_emoji_id": "5989800346354983254",
+    "model_id": "5278351963099008923",
+    "telegram_document_id": "5278351963099008923",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx6iIrMBdu56xbz-AxJtPFW8AAKbjwACJXlASSoFmkGl6qmMHgQ"
+  },
+  {
+    "name": "lord_of_flies",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/timeless_book/lord_of_flies.tgs",
+    "webp_path": "models/timeless_book/lord_of_flies.webp",
+    "custom_emoji_id": "5989880915646488073",
+    "model_id": "5278437733595909100",
+    "telegram_document_id": "5278437733595909100",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx4s13zs92_mp-KlgKN9IFDbAALsiwACJ8dASUVC90E_QZn4HgQ"
+  },
+  {
+    "name": "astrology",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/timeless_book/astrology.tgs",
+    "webp_path": "models/timeless_book/astrology.webp",
+    "custom_emoji_id": "5989826429691370856",
+    "model_id": "5278527945088996503",
+    "telegram_document_id": "5278527945088996503",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx7smTS54-T1LBR7UeXc1flOAAKXlAACMxlBSQ_iKFciybQpHgQ"
+  },
+  {
+    "name": "lovecraft",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/timeless_book/lovecraft.tgs",
+    "webp_path": "models/timeless_book/lovecraft.webp",
+    "custom_emoji_id": "5989860609041114763",
+    "model_id": "5278546233059737841",
+    "telegram_document_id": "5278546233059737841",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx7imh5QXG9gW_OHHWQaFrSoAALxgAAC1SlBSe_0s5kNV4U5HgQ"
+  },
+  {
+    "name": "academic",
+    "rarity_percent": 3.5,
+    "tgs_path": "models/timeless_book/academic.tgs",
+    "webp_path": "models/timeless_book/academic.webp",
+    "custom_emoji_id": "5989923560376769744",
+    "model_id": "5287334436227030398",
+    "telegram_document_id": "5287334436227030398",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx6E7yEDafHJ-i2bT6q6DNeZAAJ-nQACqGJgSXLJvgtMIbMtHgQ"
+  },
+  {
+    "name": "evidence",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/timeless_book/evidence.tgs",
+    "webp_path": "models/timeless_book/evidence.webp",
+    "custom_emoji_id": "5990203708208587205",
+    "model_id": "5287420095054779073",
+    "telegram_document_id": "5287420095054779073",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx5IEcMdaVLZRddS41FDhvNYAALBkgACkLBgSeImcax7zD6hHgQ"
+  },
+  {
+    "name": "geometry",
+    "rarity_percent": 3.5,
+    "tgs_path": "models/timeless_book/geometry.tgs",
+    "webp_path": "models/timeless_book/geometry.webp",
+    "custom_emoji_id": "5990027756283371835",
+    "model_id": "5287437798909975878",
+    "telegram_document_id": "5287437798909975878",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx75_boRlCnOvt5j0EFPWVHaAAJGnQACqsBgSe0NS7ArHjpfHgQ"
+  },
+  {
+    "name": "animal_friends",
+    "rarity_percent": 3.5,
+    "tgs_path": "models/timeless_book/animal_friends.tgs",
+    "webp_path": "models/timeless_book/animal_friends.webp",
+    "custom_emoji_id": "5990163537379467807",
+    "model_id": "5287708231525767121",
+    "telegram_document_id": "5287708231525767121",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx7GM3py7bMXUhN16OtGnhxJAALRlwACn7ZhSRViCc92dq6SHgQ"
+  },
+  {
+    "name": "unipedia",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/timeless_book/unipedia.tgs",
+    "webp_path": "models/timeless_book/unipedia.webp",
+    "custom_emoji_id": "5989986893964517078",
+    "model_id": "5287767119822361737",
+    "telegram_document_id": "5287767119822361737",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx4WWr-eXLMewJeOZICKfbTxAAKJlAACLuxhScRdkfuu46AmHgQ"
+  },
+  {
+    "name": "mystique",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/timeless_book/mystique.tgs",
+    "webp_path": "models/timeless_book/mystique.webp",
+    "custom_emoji_id": "5990067952882294504",
+    "model_id": "5296264987495404686",
+    "telegram_document_id": "5296264987495404686",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx5YTwfqMt5XHtLnM8jJrV1nAAKOlAAC8hyASR_4ch_bOzqLHgQ"
+  },
+  {
+    "name": "dragon_age",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/timeless_book/dragon_age.tgs",
+    "webp_path": "models/timeless_book/dragon_age.webp",
+    "custom_emoji_id": "5990282632527619022",
+    "model_id": "5296450684701418622",
+    "telegram_document_id": "5296450684701418622",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx6RvgnBbIm6ZVk1Y_UZwcNAAAJ-pAAC1sWASdJuS2G9DNCWHgQ"
+  },
+  {
+    "name": "alphabet",
+    "rarity_percent": 3.5,
+    "tgs_path": "models/timeless_book/alphabet.tgs",
+    "webp_path": "models/timeless_book/alphabet.webp",
+    "custom_emoji_id": "5989988070785557278",
+    "model_id": "5296677201276609772",
+    "telegram_document_id": "5296677201276609772",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx47b8jf8NG2g4OZ_yy06SUGAALspAAC2pOBSVMQZJDWMPY7HgQ"
+  },
+  {
+    "name": "token_vault",
+    "rarity_percent": 0.2,
+    "tgs_path": "models/timeless_book/token_vault.tgs",
+    "webp_path": "models/timeless_book/token_vault.webp",
+    "custom_emoji_id": "5990105117234307787",
+    "model_id": "5296782041428302422",
+    "telegram_document_id": "5296782041428302422",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx5ampW534cyfMtDngjU31U5AAJWmgACNPOBST8CGemxaVGlHgQ"
   },
   {
     "name": "the_ledger",
-    "rarity_permille": 0.2,
+    "rarity_percent": 0.2,
     "tgs_path": "models/timeless_book/the_ledger.tgs",
     "webp_path": "models/timeless_book/the_ledger.webp",
-    "custom_emoji_id": "5879668434173697532",
-    "model_id": "5298610417596140879"
+    "custom_emoji_id": "5990122430247476784",
+    "model_id": "5298610417596140879",
+    "telegram_document_id": "5298610417596140879",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx6dBqVnAAGVcXIrj-TXUJGAnAACT40AAhpyiEkpn-qEPNtX3x4E"
+  },
+  {
+    "name": "herbarium",
+    "rarity_percent": 3.5,
+    "tgs_path": "models/timeless_book/herbarium.tgs",
+    "webp_path": "models/timeless_book/herbarium.webp",
+    "custom_emoji_id": "5990109468036179084",
+    "model_id": "5298792738957861012",
+    "telegram_document_id": "5298792738957861012",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx4mtuJfITmuvnX3n5cflgABzgAClKAAAuwXiUnJdY1SRNauhx4E"
+  },
+  {
+    "name": "big_brother",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/timeless_book/big_brother.tgs",
+    "webp_path": "models/timeless_book/big_brother.webp",
+    "custom_emoji_id": "5990104215291174650",
+    "model_id": "5305521075809983116",
+    "telegram_document_id": "5305521075809983116",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx6a6qBAGeg62-mGt7SPbcoYAAKMmgACT_-gSXL4QOc9HtY-HgQ"
+  },
+  {
+    "name": "voodoo",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/timeless_book/voodoo.tgs",
+    "webp_path": "models/timeless_book/voodoo.webp",
+    "custom_emoji_id": "5990022499243399812",
+    "model_id": "5323346882305493484",
+    "telegram_document_id": "5323346882305493484",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx6EFVkl-96dsA63-FRuvOg-AALsiQACyVPgSWPYGqgmbd29HgQ"
+  },
+  {
+    "name": "monster_book",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/timeless_book/monster_book.tgs",
+    "webp_path": "models/timeless_book/monster_book.webp",
+    "custom_emoji_id": "5989932493908746388",
+    "model_id": "5323390407504070048",
+    "telegram_document_id": "5323390407504070048",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx7jzy6ZoBzHC5KIp3DP2tORAAKghQACX3vgSeW641B8clAbHgQ"
+  },
+  {
+    "name": "kamasutra",
+    "rarity_percent": 0.5,
+    "tgs_path": "models/timeless_book/kamasutra.tgs",
+    "webp_path": "models/timeless_book/kamasutra.webp",
+    "custom_emoji_id": "5989810529722442209",
+    "model_id": "5323499310694831163",
+    "telegram_document_id": "5323499310694831163",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx50zRo9QIQcci-Uhcw1hWJXAAI7lAACa97gSflBg7UAATPsch4E"
+  },
+  {
+    "name": "e-reader",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/timeless_book/e-reader.tgs",
+    "webp_path": "models/timeless_book/e-reader.webp",
+    "custom_emoji_id": "5989903773462437777",
+    "model_id": "5393499254620722876",
+    "telegram_document_id": "5393499254620722876",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx7ucYUNZJ86nHTEXOFUTSnpAAK8lgAC_47ZSsyFleYqhXzIHgQ"
+  },
+  {
+    "name": "liberty_scroll",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/timeless_book/liberty_scroll.tgs",
+    "webp_path": "models/timeless_book/liberty_scroll.webp",
+    "custom_emoji_id": "5989821254255779736",
+    "model_id": "5395516562104945993",
+    "telegram_document_id": "5395516562104945993",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx6Xc77MykjHYcREadTMabJUAAJJjQACurngSqvFEsa0LHSoHgQ"
+  },
+  {
+    "name": "tiny_kingdom",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/timeless_book/tiny_kingdom.tgs",
+    "webp_path": "models/timeless_book/tiny_kingdom.webp",
+    "custom_emoji_id": "5990042707064528500",
+    "model_id": "5447145792739515951",
+    "telegram_document_id": "5447145792739515951",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx5hJkPZ-b_IzD2kjFjDtt_UAAIvngACPSaYSx-rz3wyFreWHgQ"
+  },
+  {
+    "name": "shakespeare",
+    "rarity_percent": 3.0,
+    "tgs_path": "models/timeless_book/shakespeare.tgs",
+    "webp_path": "models/timeless_book/shakespeare.webp",
+    "custom_emoji_id": "5990146370395184460",
+    "model_id": "5449373033930200440",
+    "telegram_document_id": "5449373033930200440",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx5YKrhBK9a6j1ql3rlrEqJ_AAJ4lQAC5w-gS8Vg_1tAt7KmHgQ"
+  },
+  {
+    "name": "love_story",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/timeless_book/love_story.tgs",
+    "webp_path": "models/timeless_book/love_story.webp",
+    "custom_emoji_id": "5990191875573686868",
+    "model_id": "5449423998012138743",
+    "telegram_document_id": "5449423998012138743",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx6bCzXeJVetGRRY_QXHrWboAAL3pAACQT6gS0z6oYTQ-se0HgQ"
+  },
+  {
+    "name": "songbook",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/timeless_book/songbook.tgs",
+    "webp_path": "models/timeless_book/songbook.webp",
+    "custom_emoji_id": "5990004859812716518",
+    "model_id": "5449585591861677063",
+    "telegram_document_id": "5449585591861677063",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx618Y5HeXRxGSexk167YVFCAAIHjAACOdGgSzPBLzvTCm4pHgQ"
+  },
+  {
+    "name": "crazy_book",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/timeless_book/crazy_book.tgs",
+    "webp_path": "models/timeless_book/crazy_book.webp",
+    "custom_emoji_id": "5990002007954433537",
+    "model_id": "5449600203340422880",
+    "telegram_document_id": "5449600203340422880",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx5rfpAEUcPn0sI52kXAaNj1AALgngACg96gS2E7qIEZq1InHgQ"
+  },
+  {
+    "name": "chemistry",
+    "rarity_percent": 3.0,
+    "tgs_path": "models/timeless_book/chemistry.tgs",
+    "webp_path": "models/timeless_book/chemistry.webp",
+    "custom_emoji_id": "5989890927215255508",
+    "model_id": "5449646971239305476",
+    "telegram_document_id": "5449646971239305476",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx6KE1rRoq2HiPe3_eBfQdJCAAIEkQACDAmhS8I3IR4tnjICHgQ"
+  },
+  {
+    "name": "metro",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/timeless_book/metro.tgs",
+    "webp_path": "models/timeless_book/metro.webp",
+    "custom_emoji_id": "5990247409500823902",
+    "model_id": "5449718190387008347",
+    "telegram_document_id": "5449718190387008347",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx5hop0Iyg2vRGGV65cBRYajAAJbkwAC0kmhS6AGcYGUVLPIHgQ"
+  },
+  {
+    "name": "secret_chapter",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/timeless_book/secret_chapter.tgs",
+    "webp_path": "models/timeless_book/secret_chapter.webp",
+    "custom_emoji_id": "5989806672841809270",
+    "model_id": "5449836645585033545",
+    "telegram_document_id": "5449836645585033545",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx7TTm7Zt6gPDpS4YZEW6mKWAAJJmQACjrWhS3vrNg5WXNOdHgQ"
+  },
+  {
+    "name": "ice_nine",
+    "rarity_percent": 3.0,
+    "tgs_path": "models/timeless_book/ice_nine.tgs",
+    "webp_path": "models/timeless_book/ice_nine.webp",
+    "custom_emoji_id": "5990284638277345052",
+    "model_id": "5449885573852468231",
+    "telegram_document_id": "5449885573852468231",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx6W5aU58SM5as9nVqZdu7DdAAIHlAACDuKhS4_kjfhYF9drHgQ"
+  },
+  {
+    "name": "secret_files",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/timeless_book/secret_files.tgs",
+    "webp_path": "models/timeless_book/secret_files.webp",
+    "custom_emoji_id": "5989863108712079314",
+    "model_id": "5449888490135263403",
+    "telegram_document_id": "5449888490135263403",
+    "telegram_file_id": "BQACAgIAAxUAAWrkAx5n4z5Elywrpd5VdiUIHFTgAAKrmAACteShS186x9pyJaWEHgQ"
   }
 ]
