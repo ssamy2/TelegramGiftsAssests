@@ -552,6 +552,10 @@
     "rarity_percent": 0.5
   },
   {
+    "name": "Lemon Slice",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Anchor",
     "rarity_percent": 0.5
   },
@@ -724,6 +728,10 @@
     "rarity_percent": 0.4
   },
   {
+    "name": "War Tiger",
+    "rarity_percent": 0.5
+  },
+  {
     "name": "Ribeye Steak",
     "rarity_percent": 0.5
   },
@@ -890,6 +898,10 @@
   {
     "name": "Dagger",
     "rarity_percent": 0.4
+  },
+  {
+    "name": "Evil Dragon",
+    "rarity_percent": 0.2
   },
   {
     "name": "Magic Vial",
