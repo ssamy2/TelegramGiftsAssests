@@ -208,10 +208,6 @@
     "rarity_percent": 0.5
   },
   {
-    "name": "The Eye",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Scarab",
     "rarity_percent": 0.7
   },
@@ -302,10 +298,6 @@
   {
     "name": "Sea Horse",
     "rarity_percent": 0.7
-  },
-  {
-    "name": "Feather",
-    "rarity_percent": 0.2
   },
   {
     "name": "Seahorse",
@@ -636,6 +628,10 @@
     "rarity_percent": 0.4
   },
   {
+    "name": "Wontons",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Morgenstern",
     "rarity_percent": 0.7
   },
@@ -732,10 +728,6 @@
     "rarity_percent": 0.2
   },
   {
-    "name": "Flower Cross",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Lion King",
     "rarity_percent": 0.2
   },
@@ -749,10 +741,6 @@
   },
   {
     "name": "Eikthyrnir",
-    "rarity_percent": 0.4
-  },
-  {
-    "name": "Pegasus",
     "rarity_percent": 0.4
   },
   {
