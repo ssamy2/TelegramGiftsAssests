@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Satin Gold": 4.1,
+    "Satin Gold": 4.09,
     "Feldgrau": 3.99,
     "Platinum": 4.19,
     "Navy Blue": 4.0,
@@ -57,9 +57,9 @@
     "Twin Koi": 1700.0
   },
   "models": {
-    "Silver": 2288.88,
+    "Gold": 20400.0,
     "Bronze": 2039.9897,
-    "Gold": 20400.0
+    "Silver": 2288.88
   },
-  "last_updated": 1793399597
+  "last_updated": 1793402349
 }
