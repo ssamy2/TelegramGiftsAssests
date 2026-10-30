@@ -104,6 +104,10 @@
     "rarity_percent": 0.7
   },
   {
+    "name": "Ushanka",
+    "rarity_percent": 0.4
+  },
+  {
     "name": "Fleur-de-lis",
     "rarity_percent": 0.5
   },
@@ -344,10 +348,6 @@
     "rarity_percent": 0.5
   },
   {
-    "name": "Ring",
-    "rarity_percent": 0.4
-  },
-  {
     "name": "Coconut",
     "rarity_percent": 0.7
   },
@@ -358,10 +358,6 @@
   {
     "name": "Clover",
     "rarity_percent": 0.7
-  },
-  {
-    "name": "Shield",
-    "rarity_percent": 0.4
   },
   {
     "name": "Money Bag",
