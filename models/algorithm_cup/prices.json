@@ -11,9 +11,9 @@
     "Gunmetal": 4.2,
     "Amber": 3.78,
     "Black": 5334.6,
-    "Pure Gold": 4.1,
     "Old Gold": 4.13,
-    "Steel Grey": 4.1
+    "Steel Grey": 4.1,
+    "Pure Gold": 4.1
   },
   "symbols": {
     "Flag": 2222.0,
@@ -47,19 +47,19 @@
     "Moon": 12000.0,
     "Crescent": 2990.0,
     "Axe": 7777.0,
-    "Fenrir": 2400.0,
-    "Okami Wolf": 1698.0,
     "Dagger": 2390.0,
+    "Fenrir": 2400.0,
     "Novus Ordo": 4200.0,
+    "Okami Wolf": 1698.0,
     "Egg": 2490.0,
     "Sakura Flower": 2888.0,
     "Nordic Wolf": 1909.0,
     "Twin Koi": 1700.0
   },
   "models": {
-    "Silver": 2288.88,
-    "Bronze": 2039.9897,
-    "Gold": 20400.0
+    "Bronze": 1938.0,
+    "Gold": 20400.0,
+    "Silver": 2288.88
   },
-  "last_updated": 1793426857
+  "last_updated": 1793429599
 }
