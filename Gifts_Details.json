@@ -1336,6 +1336,12 @@
       "regular_id": "5832279504491381684",
       "models": "models/digital_rain/prices.json",
       "custom_emoji_id": "5890954405636742597"
+    },
+    {
+      "full_name": "Ghostface",
+      "short_name": "ghostface",
+      "regular_id": "5775966332847654507",
+      "models": "models/ghostface/prices.json"
     }
   ],
   "unupgraded": [
@@ -1345,13 +1351,6 @@
       "id": "5832325860073407546",
       "custom_emoji_id": "5893391945606110355",
       "price_ton": 15.56
-    },
-    {
-      "full_name": "Mood Pack",
-      "short_name": "mood_pack",
-      "id": "5775966332847654507",
-      "custom_emoji_id": "5890917636421721347",
-      "price_ton": 34.65
     },
     {
       "full_name": "1 May",
@@ -1457,13 +1456,6 @@
       "id": "5897607679345427347",
       "price_ton": 7.0,
       "custom_emoji_id": "5890913891210239220"
-    },
-    {
-      "full_name": "Khabib's Papakha",
-      "short_name": "khabibs_papakha",
-      "id": "5839094187366024301",
-      "custom_emoji_id": "5890852395868496901",
-      "price_ton": 178.4895
     }
   ],
   "upgraded_description": "A unique collectible NFT that can be collected, sold, or gifted to friends.",
