@@ -1341,7 +1341,8 @@
       "full_name": "Ghostface",
       "short_name": "ghostface",
       "regular_id": "5775966332847654507",
-      "models": "models/ghostface/prices.json"
+      "models": "models/ghostface/prices.json",
+      "custom_emoji_id": "5890917636421721347"
     }
   ],
   "unupgraded": [
