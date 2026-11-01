@@ -11,9 +11,9 @@
     "Gunmetal": 4.3,
     "Amber": 3.78,
     "Black": 5334.6,
-    "Pure Gold": 4.06,
     "Old Gold": 4.02,
-    "Steel Grey": 4.03
+    "Steel Grey": 4.0,
+    "Pure Gold": 4.05
   },
   "symbols": {
     "Flag": 2222.0,
@@ -61,5 +61,5 @@
     "Silver": 2288.88,
     "Bronze": 1927.8
   },
-  "last_updated": 1793495675
+  "last_updated": 1793498393
 }
