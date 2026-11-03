@@ -46,20 +46,20 @@
     "Calm Wolf": 5000.0,
     "Moon": 12000.0,
     "Crescent": 2990.0,
-    "Dagger": 2270.0,
     "Fenrir": 2200.0,
     "Axe": 7777.0,
     "Novus Ordo": 4200.0,
-    "Okami Wolf": 1900.0,
+    "Okami Wolf": 2100.0,
+    "Dagger": 2270.0,
     "Egg": 2490.0,
     "Sakura Flower": 2888.0,
     "Nordic Wolf": 1909.0,
     "Twin Koi": 1700.0
   },
   "models": {
-    "Bronze": 2140.98,
-    "Gold": 4284.0,
-    "Silver": 2288.88
+    "Gold": 20400.0,
+    "Silver": 2288.88,
+    "Bronze": 2140.98
   },
-  "last_updated": 1793679931
+  "last_updated": 1793682731
 }
