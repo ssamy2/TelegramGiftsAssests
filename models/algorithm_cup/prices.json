@@ -11,8 +11,8 @@
     "Gunmetal": 4.26,
     "Amber": 3.78,
     "Black": 5334.6,
-    "Old Gold": 3.98,
-    "Steel Grey": 3.99,
+    "Old Gold": 4.0,
+    "Steel Grey": 4.0,
     "Pure Gold": 4.0
   },
   "symbols": {
@@ -47,10 +47,10 @@
     "Moon": 12000.0,
     "Crescent": 2990.0,
     "Axe": 7777.0,
-    "Okami Wolf": 2180.0,
-    "Fenrir": 2200.0,
-    "Novus Ordo": 4200.0,
     "Dagger": 2270.0,
+    "Okami Wolf": 2180.0,
+    "Novus Ordo": 4200.0,
+    "Fenrir": 2200.0,
     "Egg": 2490.0,
     "Sakura Flower": 2888.0,
     "Nordic Wolf": 1909.0,
@@ -61,5 +61,5 @@
     "Silver": 2288.88,
     "Bronze": 2140.98
   },
-  "last_updated": 1793726915
+  "last_updated": 1793729934
 }
