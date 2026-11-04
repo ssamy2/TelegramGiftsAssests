@@ -6,13 +6,13 @@
     "Platinum": 3.93,
     "Midnight Blue": 1776.993,
     "Ivory White": 3.97,
-    "Satin Gold": 4.1,
+    "Satin Gold": 4.05,
     "Black": 2599.98,
     "Navy Blue": 3.89,
     "Pure Gold": 4.08,
     "Silver Blue": 3.85,
     "Copper": 3.7,
-    "Steel Grey": 4.0,
+    "Steel Grey": 4.18,
     "Roman Silver": 3.35
   },
   "symbols": {
@@ -46,8 +46,8 @@
     "Evil Dragon": 1799.0,
     "Bastet": 2599.98,
     "Trinity Knot": 1649.0,
-    "Cobra": 1777.0,
     "Pegasus": 6000.0,
+    "Cobra": 1777.0,
     "Scorpion": 1500.0,
     "Easter Egg": 2450.0
   },
@@ -56,5 +56,5 @@
     "Silver": 2244.0,
     "Bronze": 1427.949
   },
-  "last_updated": 1793799484
+  "last_updated": 1793802313
 }
