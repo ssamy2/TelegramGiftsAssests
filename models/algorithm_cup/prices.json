@@ -2,8 +2,8 @@
   "backdrops": {
     "Satin Gold": 4.23,
     "Feldgrau": 3.99,
-    "Platinum": 4.23,
-    "Navy Blue": 4.24,
+    "Platinum": 4.22,
+    "Navy Blue": 4.23,
     "Ivory White": 3.9,
     "Midnight Blue": 3264.0,
     "Onyx Black": 2550.0,
@@ -11,7 +11,7 @@
     "Gunmetal": 4.39,
     "Amber": 3.78,
     "Black": 5334.6,
-    "Steel Grey": 4.25,
+    "Steel Grey": 4.23,
     "Pure Gold": 4.22,
     "Old Gold": 4.2
   },
@@ -52,6 +52,7 @@
     "Okami Wolf": 2180.0,
     "Dagger": 2320.0,
     "Fenrir": 2058.0,
+    "Phoenix": 2450.0,
     "Egg": 2490.0,
     "Sakura Flower": 2888.0,
     "Nordic Wolf": 2169.0,
@@ -62,5 +63,5 @@
     "Silver": 2288.88,
     "Bronze": 1575.9
   },
-  "last_updated": 1793995191
+  "last_updated": 1793997914
 }
