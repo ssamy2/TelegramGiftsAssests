@@ -1,6 +1,6 @@
 {
   "backdrops": {
-    "Satin Gold": 4.369797,
+    "Satin Gold": 4.367714,
     "Feldgrau": 3.99,
     "Platinum": 4.34,
     "Navy Blue": 4.39,
@@ -48,8 +48,8 @@
     "Moon": 12000.0,
     "Crescent": 2990.0,
     "Axe": 7777.0,
-    "Fenrir": 2058.0,
     "Novus Ordo": 4200.0,
+    "Fenrir": 2058.0,
     "Okami Wolf": 2180.0,
     "Dagger": 2350.0,
     "Phoenix": 2450.0,
@@ -59,9 +59,9 @@
     "Twin Koi": 1700.0
   },
   "models": {
-    "Bronze": 1468.8,
     "Silver": 2288.88,
+    "Bronze": 1468.8,
     "Gold": 20400.0
   },
-  "last_updated": 1794194044
+  "last_updated": 1794196725
 }
