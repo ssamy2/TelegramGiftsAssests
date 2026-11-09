@@ -11,7 +11,7 @@
     "Navy Blue": 3.89,
     "Pure Gold": 4.39,
     "Silver Blue": 3.85,
-    "Steel Grey": 4.35,
+    "Steel Grey": 4.39,
     "Copper": 3.7,
     "Roman Silver": 3.35
   },
@@ -24,7 +24,7 @@
     "Glasses": 2888.0,
     "Jewel": 1666.0,
     "Royal Crown": 1450.0,
-    "Academic Cap": 1399.0,
+    "Academic Cap": 1200.0,
     "Wizard Hat": 1800.0,
     "Kitsune": 2000.0,
     "Trophy": 2500.0,
@@ -55,7 +55,7 @@
   "models": {
     "Gold": 8160.0,
     "Silver": 2244.0,
-    "Bronze": 1275.0
+    "Bronze": 1264.8
   },
-  "last_updated": 1794204838
+  "last_updated": 1794207543
 }
