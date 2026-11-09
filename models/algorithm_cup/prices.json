@@ -12,7 +12,7 @@
     "Amber": 3.78,
     "Black": 5334.6,
     "Steel Grey": 4.32,
-    "Pure Gold": 4.3,
+    "Pure Gold": 4.39,
     "Old Gold": 4.2
   },
   "symbols": {
@@ -48,10 +48,10 @@
     "Moon": 12000.0,
     "Crescent": 2990.0,
     "Axe": 7777.0,
-    "Dagger": 2350.0,
     "Fenrir": 2058.0,
     "Novus Ordo": 4200.0,
     "Okami Wolf": 2180.0,
+    "Dagger": 2350.0,
     "Phoenix": 2450.0,
     "Egg": 2490.0,
     "Sakura Flower": 2888.0,
@@ -60,8 +60,8 @@
   },
   "models": {
     "Silver": 2288.88,
-    "Gold": 20400.0,
-    "Bronze": 1468.8
+    "Bronze": 1468.8,
+    "Gold": 20400.0
   },
-  "last_updated": 1794188650
+  "last_updated": 1794191343
 }
