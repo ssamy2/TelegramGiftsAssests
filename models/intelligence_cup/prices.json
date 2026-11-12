@@ -9,7 +9,7 @@
     "Satin Gold": 4.2,
     "Black": 2599.98,
     "Navy Blue": 3.89,
-    "Pure Gold": 4.2,
+    "Pure Gold": 4.2354155,
     "Silver Blue": 3.85,
     "Steel Grey": 4.2,
     "Copper": 3.7,
@@ -55,7 +55,7 @@
   "models": {
     "Gold": 8160.0,
     "Silver": 2244.0,
-    "Bronze": 1120.98
+    "Bronze": 1069.98
   },
-  "last_updated": 1794488983
+  "last_updated": 1794491706
 }
