@@ -1,10 +1,10 @@
 {
   "backdrops": {
-    "Satin Gold": 4.214286,
+    "Satin Gold": 4.23,
     "Feldgrau": 3.99,
-    "Platinum": 4.21,
+    "Platinum": 4.23,
     "Roman Silver": 4.4,
-    "Navy Blue": 4.23,
+    "Navy Blue": 4.229999,
     "Ivory White": 3.9,
     "Midnight Blue": 3264.0,
     "Onyx Black": 2550.0,
@@ -50,8 +50,8 @@
     "Moon": 12000.0,
     "Crescent": 2990.0,
     "Novus Ordo": 4200.0,
-    "Dagger": 2200.0,
     "Okami Wolf": 2180.0,
+    "Dagger": 2200.0,
     "Axe": 1123.0,
     "Fenrir": 2058.0,
     "Phoenix": 2450.0,
@@ -65,5 +65,5 @@
     "Bronze": 1723.8,
     "Gold": 20400.0
   },
-  "last_updated": 1794533359
+  "last_updated": 1794536080
 }
