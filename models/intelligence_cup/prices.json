@@ -3,7 +3,7 @@
     "Onyx Black": 1734.0,
     "Neon Blue": 4.45,
     "Platinum": 4.46,
-    "Gunmetal": 4.5,
+    "Gunmetal": 4.53,
     "Midnight Blue": 1776.993,
     "Ivory White": 4.3751597,
     "Satin Gold": 4.49,
@@ -47,7 +47,7 @@
     "Evil Dragon": 1799.0,
     "Bastet": 2750.0,
     "Heraldic Lily": 1040.0,
-    "Trinity Knot": 1155.0,
+    "Trinity Knot": 1050.0,
     "Cobra": 1550.0,
     "Pegasus": 6000.0,
     "Scorpion": 1500.0,
@@ -56,7 +56,7 @@
   "models": {
     "Gold": 8160.0,
     "Silver": 2244.0,
-    "Bronze": 1111.8
+    "Bronze": 1275.0
   },
-  "last_updated": 1794694984
+  "last_updated": 1794697701
 }
