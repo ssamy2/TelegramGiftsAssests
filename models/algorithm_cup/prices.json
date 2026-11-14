@@ -12,9 +12,9 @@
     "Gunmetal": 4.488,
     "Amber": 3.78,
     "Black": 5334.6,
-    "Steel Grey": 4.42,
     "Pure Gold": 4.43,
-    "Old Gold": 4.2
+    "Old Gold": 4.2,
+    "Steel Grey": 4.42
   },
   "symbols": {
     "Narcissus": 1610.0,
@@ -51,9 +51,9 @@
     "Crescent": 2990.0,
     "Axe": 1123.0,
     "Fenrir": 2058.0,
+    "Okami Wolf": 2180.0,
     "Novus Ordo": 4200.0,
     "Dagger": 2200.0,
-    "Okami Wolf": 2180.0,
     "Phoenix": 2450.0,
     "Lightning": 1605.0,
     "Egg": 2260.0,
@@ -66,5 +66,5 @@
     "Bronze": 1723.8,
     "Gold": 20400.0
   },
-  "last_updated": 1794658885
+  "last_updated": 1794661613
 }
