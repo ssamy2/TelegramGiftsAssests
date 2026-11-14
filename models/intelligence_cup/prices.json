@@ -2,16 +2,16 @@
   "backdrops": {
     "Onyx Black": 1734.0,
     "Neon Blue": 4.45,
-    "Platinum": 4.48,
-    "Gunmetal": 4.49,
+    "Platinum": 4.46,
+    "Gunmetal": 4.5,
     "Midnight Blue": 1776.993,
     "Ivory White": 4.3751597,
-    "Satin Gold": 4.46,
+    "Satin Gold": 4.49,
     "Black": 2754.0,
     "Navy Blue": 4.45,
     "Pure Gold": 4.46,
     "Silver Blue": 3.85,
-    "Steel Grey": 4.48,
+    "Steel Grey": 4.5,
     "Copper": 3.7,
     "Roman Silver": 3.35
   },
@@ -56,7 +56,7 @@
   "models": {
     "Gold": 8160.0,
     "Silver": 2244.0,
-    "Bronze": 1275.0
+    "Bronze": 1111.8
   },
-  "last_updated": 1794692201
+  "last_updated": 1794694984
 }
