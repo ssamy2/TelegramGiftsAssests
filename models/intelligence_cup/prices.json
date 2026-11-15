@@ -6,9 +6,9 @@
     "Gunmetal": 4.7838,
     "Midnight Blue": 1776.993,
     "Ivory White": 4.3751597,
-    "Satin Gold": 4.53,
+    "Satin Gold": 4.59,
     "Black": 2754.0,
-    "Navy Blue": 4.59,
+    "Navy Blue": 4.53,
     "Pure Gold": 4.55,
     "Silver Blue": 3.85,
     "Steel Grey": 4.58,
@@ -36,8 +36,8 @@
     "Tree of Life": 1500.0,
     "Gamepad": 3970.0,
     "Thunderbird": 35000.0,
-    "Rain Drop": 3000.0,
     "Wreath": 1094.0,
+    "Rain Drop": 3000.0,
     "Galaxy": 3750.0,
     "Eagle": 1049.0,
     "Sakura Flower": 2299.0,
@@ -56,7 +56,7 @@
   "models": {
     "Gold": 8160.0,
     "Silver": 2244.0,
-    "Bronze": 1055.7
+    "Bronze": 1020.0
   },
-  "last_updated": 1794766699
+  "last_updated": 1794769502
 }
