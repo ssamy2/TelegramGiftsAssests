@@ -268,12 +268,12 @@
     "rarity_percent": 0.6
   },
   {
-    "name": "Lovely Kiss",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Magic Wand",
     "rarity_percent": 0.8
+  },
+  {
+    "name": "Rocket",
+    "rarity_percent": 0.2
   },
   {
     "name": "Fleur-de-lis",
@@ -293,6 +293,10 @@
   },
   {
     "name": "Cocktail",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Crab",
     "rarity_percent": 0.2
   },
   {
@@ -482,6 +486,10 @@
   {
     "name": "Ice Pop",
     "rarity_percent": 0.6
+  },
+  {
+    "name": "Guitar",
+    "rarity_percent": 0.2
   },
   {
     "name": "Brain",
@@ -692,10 +700,6 @@
     "rarity_percent": 0.6
   },
   {
-    "name": "Fehu Rune",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "PC Mouse",
     "rarity_percent": 0.2
   },
@@ -709,10 +713,6 @@
   },
   {
     "name": "Ball",
-    "rarity_percent": 0.2
-  },
-  {
-    "name": "Diamonds",
     "rarity_percent": 0.2
   },
   {
@@ -781,6 +781,10 @@
   },
   {
     "name": "Money Bag",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Maple",
     "rarity_percent": 0.2
   },
   {
