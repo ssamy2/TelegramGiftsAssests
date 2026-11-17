@@ -32,15 +32,11 @@
     "rarity_percent": 1.0
   },
   {
-    "name": "Pacific Cyan",
-    "rarity_percent": 1.5
-  },
-  {
-    "name": "Pacific Green",
-    "rarity_percent": 1.0
-  },
-  {
     "name": "Emerald",
+    "rarity_percent": 2.0
+  },
+  {
+    "name": "Lemongrass",
     "rarity_percent": 2.0
   },
   {
@@ -49,14 +45,6 @@
   },
   {
     "name": "Satin Gold",
-    "rarity_percent": 2.0
-  },
-  {
-    "name": "Amber",
-    "rarity_percent": 1.5
-  },
-  {
-    "name": "Caramel",
     "rarity_percent": 2.0
   },
   {
@@ -76,11 +64,7 @@
     "rarity_percent": 1.0
   },
   {
-    "name": "Pistachio",
-    "rarity_percent": 1.5
-  },
-  {
-    "name": "Khaki Green",
+    "name": "Pine Green",
     "rarity_percent": 2.0
   },
   {
@@ -96,12 +80,12 @@
     "rarity_percent": 1.5
   },
   {
-    "name": "Roman Silver",
-    "rarity_percent": 1.0
+    "name": "Platinum",
+    "rarity_percent": 2.0
   },
   {
-    "name": "Steel Grey",
-    "rarity_percent": 2.0
+    "name": "Roman Silver",
+    "rarity_percent": 1.0
   },
   {
     "name": "Burgundy",
@@ -114,10 +98,6 @@
   {
     "name": "Midnight Blue",
     "rarity_percent": 1.5
-  },
-  {
-    "name": "Purple",
-    "rarity_percent": 1.0
   },
   {
     "name": "French Blue",

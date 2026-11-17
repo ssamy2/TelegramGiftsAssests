@@ -4,6 +4,10 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Lovebirds",
+    "rarity_percent": 0.5
+  },
+  {
     "name": "Love Dove",
     "rarity_percent": 0.5
   },
@@ -28,19 +32,19 @@
     "rarity_percent": 0.3
   },
   {
-    "name": "Cunning Fox",
-    "rarity_percent": 0.5
+    "name": "Shiny Heart",
+    "rarity_percent": 0.3
   },
   {
     "name": "Planet",
     "rarity_percent": 0.3
   },
   {
-    "name": "Star",
-    "rarity_percent": 0.4
+    "name": "Skull",
+    "rarity_percent": 0.3
   },
   {
-    "name": "Skull",
+    "name": "Rocket",
     "rarity_percent": 0.3
   },
   {
@@ -50,10 +54,6 @@
   {
     "name": "Bottle",
     "rarity_percent": 0.3
-  },
-  {
-    "name": "Watermelon",
-    "rarity_percent": 0.5
   },
   {
     "name": "Pear",
@@ -72,43 +72,15 @@
     "rarity_percent": 0.5
   },
   {
-    "name": "Palette",
+    "name": "Dessert",
     "rarity_percent": 0.3
   },
   {
-    "name": "Hand of God",
+    "name": "Sea Horse",
     "rarity_percent": 0.5
-  },
-  {
-    "name": "Cheese",
-    "rarity_percent": 0.2
-  },
-  {
-    "name": "Plum",
-    "rarity_percent": 0.2
-  },
-  {
-    "name": "Flipper",
-    "rarity_percent": 0.3
-  },
-  {
-    "name": "Pizza Slice",
-    "rarity_percent": 0.2
-  },
-  {
-    "name": "Rook",
-    "rarity_percent": 0.5
-  },
-  {
-    "name": "Pawn",
-    "rarity_percent": 0.2
   },
   {
     "name": "Crusader",
-    "rarity_percent": 0.4
-  },
-  {
-    "name": "Moon",
     "rarity_percent": 0.4
   },
   {
@@ -120,24 +92,24 @@
     "rarity_percent": 0.3
   },
   {
-    "name": "Beetle",
-    "rarity_percent": 0.3
-  },
-  {
-    "name": "Champagne",
-    "rarity_percent": 0.5
-  },
-  {
     "name": "Coconut",
     "rarity_percent": 0.5
   },
   {
-    "name": "Clover",
+    "name": "Shield",
     "rarity_percent": 0.5
+  },
+  {
+    "name": "Money Bag",
+    "rarity_percent": 0.4
   },
   {
     "name": "Boat",
     "rarity_percent": 0.5
+  },
+  {
+    "name": "Wasp",
+    "rarity_percent": 0.3
   },
   {
     "name": "Candle",
@@ -160,28 +132,12 @@
     "rarity_percent": 0.5
   },
   {
-    "name": "Inca Sun",
-    "rarity_percent": 0.4
-  },
-  {
-    "name": "Phoenix",
-    "rarity_percent": 0.4
-  },
-  {
     "name": "Yogi Shaman",
     "rarity_percent": 0.5
   },
   {
     "name": "Rhino Warrior",
     "rarity_percent": 0.5
-  },
-  {
-    "name": "Arabian Horse",
-    "rarity_percent": 0.5
-  },
-  {
-    "name": "Celtic Cross",
-    "rarity_percent": 0.4
   },
   {
     "name": "Golden Scarab",
