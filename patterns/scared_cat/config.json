@@ -156,7 +156,7 @@
     "rarity_percent": 0.2
   },
   {
-    "name": "Handset",
+    "name": "Carambola",
     "rarity_percent": 0.2
   },
   {
@@ -168,7 +168,7 @@
     "rarity_percent": 0.2
   },
   {
-    "name": "Jellyfish",
+    "name": "Avocado",
     "rarity_percent": 0.2
   },
   {
@@ -201,10 +201,6 @@
   },
   {
     "name": "Shooting Star",
-    "rarity_percent": 0.2
-  },
-  {
-    "name": "Birthday Cake",
     "rarity_percent": 0.2
   },
   {
@@ -241,10 +237,6 @@
   },
   {
     "name": "High Heels",
-    "rarity_percent": 0.2
-  },
-  {
-    "name": "Sharp Sword",
     "rarity_percent": 0.2
   },
   {
@@ -336,6 +328,10 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Cash",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Lemon Slice",
     "rarity_percent": 0.2
   },
@@ -384,15 +380,15 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Turkey",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Coin",
     "rarity_percent": 0.2
   },
   {
     "name": "Clover",
-    "rarity_percent": 0.2
-  },
-  {
-    "name": "Shield",
     "rarity_percent": 0.2
   },
   {
@@ -416,7 +412,15 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Inguz Rune",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Fire",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Shell",
     "rarity_percent": 0.2
   },
   {
@@ -453,6 +457,10 @@
   },
   {
     "name": "Inca Sun",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Firebird",
     "rarity_percent": 0.2
   },
   {
