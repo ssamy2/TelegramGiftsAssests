@@ -20,16 +20,16 @@
     "rarity_percent": 1.2
   },
   {
+    "name": "Strawberry",
+    "rarity_percent": 1.0
+  },
+  {
     "name": "Mystic Pearl",
     "rarity_percent": 1.5
   },
   {
     "name": "Dark Lilac",
     "rarity_percent": 1.5
-  },
-  {
-    "name": "Hunter Green",
-    "rarity_percent": 1.2
   },
   {
     "name": "Desert Sand",
@@ -84,6 +84,10 @@
     "rarity_percent": 1.0
   },
   {
+    "name": "Copper",
+    "rarity_percent": 1.2
+  },
+  {
     "name": "Marine Blue",
     "rarity_percent": 1.2
   },
@@ -92,20 +96,12 @@
     "rarity_percent": 1.2
   },
   {
-    "name": "Rifle Green",
-    "rarity_percent": 1.2
-  },
-  {
-    "name": "Ranger Green",
+    "name": "Gunmetal",
     "rarity_percent": 1.5
   },
   {
-    "name": "Feldgrau",
+    "name": "Tomato",
     "rarity_percent": 1.5
-  },
-  {
-    "name": "Deep Cyan",
-    "rarity_percent": 1.0
   },
   {
     "name": "Fire Engine",

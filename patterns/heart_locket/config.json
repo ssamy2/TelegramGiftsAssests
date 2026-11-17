@@ -1,9 +1,5 @@
 [
   {
-    "name": "Obon Lantern",
-    "rarity_percent": 0.5
-  },
-  {
     "name": "Tetsubin",
     "rarity_percent": 0.4
   },
@@ -13,10 +9,6 @@
   },
   {
     "name": "Balloon",
-    "rarity_percent": 0.6
-  },
-  {
-    "name": "Tic-Tac-Toe",
     "rarity_percent": 0.6
   },
   {
@@ -40,10 +32,6 @@
     "rarity_percent": 0.5
   },
   {
-    "name": "Coat of Arms",
-    "rarity_percent": 0.4
-  },
-  {
     "name": "Ghost",
     "rarity_percent": 0.5
   },
@@ -60,8 +48,8 @@
     "rarity_percent": 0.5
   },
   {
-    "name": "Cicada",
-    "rarity_percent": 0.5
+    "name": "Carrot",
+    "rarity_percent": 0.6
   },
   {
     "name": "Royal Crown",
@@ -80,20 +68,20 @@
     "rarity_percent": 0.6
   },
   {
+    "name": "Shell",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Bubbles",
     "rarity_percent": 0.6
   },
   {
-    "name": "Battle Axe",
-    "rarity_percent": 0.5
+    "name": "Jörmungandr",
+    "rarity_percent": 0.6
   },
   {
     "name": "Trickster Fox",
     "rarity_percent": 0.5
-  },
-  {
-    "name": "Piranha",
-    "rarity_percent": 0.2
   },
   {
     "name": "Spider",
@@ -104,16 +92,12 @@
     "rarity_percent": 0.5
   },
   {
-    "name": "Horn",
+    "name": "Heater Shield",
     "rarity_percent": 0.4
   },
   {
     "name": "Cow Skull",
     "rarity_percent": 0.2
-  },
-  {
-    "name": "Duck Face",
-    "rarity_percent": 0.4
   },
   {
     "name": "Dagger",
@@ -122,6 +106,10 @@
   {
     "name": "Sleepy Unicorn",
     "rarity_percent": 0.2
+  },
+  {
+    "name": "Sea Dragon",
+    "rarity_percent": 0.5
   },
   {
     "name": "Nordic Wolf",
