@@ -76,6 +76,10 @@
     "rarity_percent": 2.0
   },
   {
+    "name": "Satin Gold",
+    "rarity_percent": 1.5
+  },
+  {
     "name": "Pure Gold",
     "rarity_percent": 1.0
   },
@@ -116,6 +120,10 @@
     "rarity_percent": 2.0
   },
   {
+    "name": "Fandango",
+    "rarity_percent": 1.5
+  },
+  {
     "name": "Dark Lilac",
     "rarity_percent": 2.0
   },
@@ -126,6 +134,10 @@
   {
     "name": "Moonstone",
     "rarity_percent": 1.5
+  },
+  {
+    "name": "Pine Green",
+    "rarity_percent": 1.0
   },
   {
     "name": "Hunter Green",
