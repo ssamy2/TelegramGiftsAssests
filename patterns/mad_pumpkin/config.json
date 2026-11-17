@@ -196,6 +196,10 @@
     "rarity_percent": 2.4
   },
   {
+    "name": "Bone",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Flower",
     "rarity_percent": 0.2
   },
@@ -377,10 +381,6 @@
   },
   {
     "name": "Rain Drop",
-    "rarity_percent": 0.2
-  },
-  {
-    "name": "Hedgehog",
     "rarity_percent": 0.2
   },
   {
