@@ -644,10 +644,6 @@
     "rarity_percent": 0.8
   },
   {
-    "name": "Bishop",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Scissors",
     "rarity_percent": 0.2
   },
@@ -720,6 +716,10 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Cactus",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Diamonds",
     "rarity_percent": 0.2
   },
@@ -744,11 +744,11 @@
     "rarity_percent": 0.6
   },
   {
-    "name": "Wreath",
+    "name": "Drug",
     "rarity_percent": 0.2
   },
   {
-    "name": "Lemon",
+    "name": "Wreath",
     "rarity_percent": 0.2
   },
   {
