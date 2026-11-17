@@ -180,6 +180,10 @@
     "rarity_percent": 0.6
   },
   {
+    "name": "Flying Heart",
+    "rarity_percent": 0.6
+  },
+  {
     "name": "Patched Heart",
     "rarity_percent": 0.4
   },
@@ -226,10 +230,6 @@
   {
     "name": "Cunning Fox",
     "rarity_percent": 0.6
-  },
-  {
-    "name": "Fluffy Wolf",
-    "rarity_percent": 0.2
   },
   {
     "name": "Trophy",
@@ -324,6 +324,10 @@
     "rarity_percent": 0.6
   },
   {
+    "name": "Scarab",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Conch",
     "rarity_percent": 0.2
   },
@@ -372,6 +376,10 @@
     "rarity_percent": 0.4
   },
   {
+    "name": "Toy Bucket",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Cherry",
     "rarity_percent": 0.4
   },
@@ -401,10 +409,6 @@
   },
   {
     "name": "Shark Knife",
-    "rarity_percent": 0.2
-  },
-  {
-    "name": "Dolphin",
     "rarity_percent": 0.2
   },
   {
@@ -456,11 +460,11 @@
     "rarity_percent": 0.2
   },
   {
-    "name": "Flipper",
+    "name": "Pineapple",
     "rarity_percent": 0.2
   },
   {
-    "name": "Ink Pen",
+    "name": "Flipper",
     "rarity_percent": 0.2
   },
   {
@@ -608,6 +612,10 @@
     "rarity_percent": 0.4
   },
   {
+    "name": "Gear",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Illuminati",
     "rarity_percent": 0.8
   },
@@ -704,10 +712,6 @@
     "rarity_percent": 0.6
   },
   {
-    "name": "Coconut",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Coin",
     "rarity_percent": 0.2
   },
@@ -756,6 +760,10 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Fenrir",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Inca Sun",
     "rarity_percent": 0.2
   },
@@ -800,15 +808,15 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Bull of Heaven",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Ram of Amun",
     "rarity_percent": 0.2
   },
   {
     "name": "Celtic Cross",
-    "rarity_percent": 0.2
-  },
-  {
-    "name": "Alkonost",
     "rarity_percent": 0.2
   }
 ]
