@@ -156,6 +156,10 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Oak Leaf",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Bone",
     "rarity_percent": 0.2
   },
@@ -236,6 +240,10 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Birthday Cake",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Plum",
     "rarity_percent": 0.2
   },
@@ -253,6 +261,10 @@
   },
   {
     "name": "Potion",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Sea Horse",
     "rarity_percent": 0.2
   },
   {
@@ -294,10 +306,6 @@
   {
     "name": "Cicada",
     "rarity_percent": 0.5
-  },
-  {
-    "name": "Maple Leaf",
-    "rarity_percent": 0.2
   },
   {
     "name": "Pizza Slice",
@@ -582,6 +590,10 @@
   {
     "name": "Money Bag",
     "rarity_percent": 0.8
+  },
+  {
+    "name": "Maple",
+    "rarity_percent": 0.2
   },
   {
     "name": "Moose Head",
