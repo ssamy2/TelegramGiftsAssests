@@ -24,10 +24,6 @@
     "rarity_percent": 0.5
   },
   {
-    "name": "Chest",
-    "rarity_percent": 0.5
-  },
-  {
     "name": "Bottle",
     "rarity_percent": 0.2
   },
@@ -40,8 +36,16 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Bunny Ears",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Top Hat",
     "rarity_percent": 0.8
+  },
+  {
+    "name": "Axe",
+    "rarity_percent": 0.2
   },
   {
     "name": "Pickaxe",
@@ -128,14 +132,6 @@
     "rarity_percent": 0.2
   },
   {
-    "name": "Flower Tulip",
-    "rarity_percent": 0.2
-  },
-  {
-    "name": "Jellyfish",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Sea Jelly",
     "rarity_percent": 0.2
   },
@@ -146,6 +142,10 @@
   {
     "name": "Coin Purse",
     "rarity_percent": 1.0
+  },
+  {
+    "name": "Bottlenose",
+    "rarity_percent": 0.2
   },
   {
     "name": "Manta Ray",
@@ -161,6 +161,10 @@
   },
   {
     "name": "Shark Knife",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Tooth",
     "rarity_percent": 0.2
   },
   {
@@ -180,16 +184,16 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Melon",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Pineapple",
     "rarity_percent": 0.2
   },
   {
     "name": "Flipper",
     "rarity_percent": 0.2
-  },
-  {
-    "name": "Ink Pen",
-    "rarity_percent": 0.8
   },
   {
     "name": "Vortex",
@@ -210,10 +214,6 @@
   {
     "name": "Cicada",
     "rarity_percent": 0.8
-  },
-  {
-    "name": "Maple Leaf",
-    "rarity_percent": 0.2
   },
   {
     "name": "Fish Skeleton",
@@ -280,7 +280,19 @@
     "rarity_percent": 0.8
   },
   {
+    "name": "Sword",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Narcissus",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Moon",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Key",
     "rarity_percent": 0.2
   },
   {
@@ -290,6 +302,14 @@
   {
     "name": "Bunny",
     "rarity_percent": 0.2
+  },
+  {
+    "name": "Crown",
+    "rarity_percent": 0.8
+  },
+  {
+    "name": "Pearl",
+    "rarity_percent": 0.8
   },
   {
     "name": "Illuminati",
@@ -320,11 +340,11 @@
     "rarity_percent": 0.2
   },
   {
-    "name": "Jumbo Pencil",
+    "name": "Octopus",
     "rarity_percent": 0.2
   },
   {
-    "name": "Octopus",
+    "name": "Rain Drop",
     "rarity_percent": 0.2
   },
   {
@@ -342,6 +362,14 @@
   {
     "name": "Fehu Rune",
     "rarity_percent": 1.0
+  },
+  {
+    "name": "Flashlight",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Beetle",
+    "rarity_percent": 0.2
   },
   {
     "name": "Tie",
@@ -378,10 +406,6 @@
   {
     "name": "Diamond",
     "rarity_percent": 1.0
-  },
-  {
-    "name": "Viking",
-    "rarity_percent": 0.2
   },
   {
     "name": "Coconut",
@@ -429,6 +453,10 @@
   },
   {
     "name": "Fire",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Smartphone",
     "rarity_percent": 0.2
   },
   {
@@ -496,6 +524,10 @@
     "rarity_percent": 0.8
   },
   {
+    "name": "Tree of Life",
+    "rarity_percent": 0.5
+  },
+  {
     "name": "Eikthyrnir",
     "rarity_percent": 1.0
   },
@@ -506,10 +538,6 @@
   {
     "name": "White Deer",
     "rarity_percent": 0.8
-  },
-  {
-    "name": "Sumerian Bird",
-    "rarity_percent": 1.0
   },
   {
     "name": "Pegasus",
@@ -562,6 +590,10 @@
   {
     "name": "Ram of Amun",
     "rarity_percent": 1.0
+  },
+  {
+    "name": "Arabian Horse",
+    "rarity_percent": 0.8
   },
   {
     "name": "Celtic Cross",
