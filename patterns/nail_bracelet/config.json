@@ -132,6 +132,10 @@
     "rarity_percent": 0.4
   },
   {
+    "name": "Nemes",
+    "rarity_percent": 0.4
+  },
+  {
     "name": "Hard Hat",
     "rarity_percent": 0.4
   },
@@ -196,10 +200,6 @@
     "rarity_percent": 0.5
   },
   {
-    "name": "Car",
-    "rarity_percent": 0.5
-  },
-  {
     "name": "Carambola",
     "rarity_percent": 0.5
   },
@@ -234,10 +234,6 @@
   {
     "name": "Dragonfly",
     "rarity_percent": 0.4
-  },
-  {
-    "name": "Bee",
-    "rarity_percent": 0.2
   },
   {
     "name": "Hand of God",
@@ -280,10 +276,6 @@
     "rarity_percent": 0.4
   },
   {
-    "name": "High Heels",
-    "rarity_percent": 0.5
-  },
-  {
     "name": "Sharp Sword",
     "rarity_percent": 0.5
   },
@@ -298,6 +290,10 @@
   {
     "name": "Bread",
     "rarity_percent": 0.2
+  },
+  {
+    "name": "Chili Pepper",
+    "rarity_percent": 0.4
   },
   {
     "name": "Gingerbread",
@@ -361,10 +357,6 @@
   },
   {
     "name": "Mannaz Rune",
-    "rarity_percent": 0.4
-  },
-  {
-    "name": "Monstera",
     "rarity_percent": 0.4
   },
   {
@@ -436,6 +428,10 @@
     "rarity_percent": 0.4
   },
   {
+    "name": "Love Lock",
+    "rarity_percent": 0.5
+  },
+  {
     "name": "Turkey",
     "rarity_percent": 0.2
   },
@@ -466,6 +462,10 @@
   {
     "name": "Heart",
     "rarity_percent": 0.5
+  },
+  {
+    "name": "Blood Drop",
+    "rarity_percent": 0.2
   },
   {
     "name": "Owl",
@@ -526,6 +526,10 @@
   {
     "name": "Novus Ordo",
     "rarity_percent": 0.5
+  },
+  {
+    "name": "Divine Falcon",
+    "rarity_percent": 0.4
   },
   {
     "name": "Eye of Horus",
@@ -608,10 +612,6 @@
     "rarity_percent": 0.2
   },
   {
-    "name": "Spellbook",
-    "rarity_percent": 0.5
-  },
-  {
     "name": "Flying Dragon",
     "rarity_percent": 0.4
   },
@@ -636,12 +636,12 @@
     "rarity_percent": 0.4
   },
   {
-    "name": "Hazelnut",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Legionary",
     "rarity_percent": 0.4
+  },
+  {
+    "name": "Snail",
+    "rarity_percent": 0.5
   },
   {
     "name": "Paw Print",
@@ -748,15 +748,15 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Inca Sun",
+    "rarity_percent": 0.5
+  },
+  {
     "name": "Firebird",
     "rarity_percent": 0.5
   },
   {
     "name": "Moon Eagle",
-    "rarity_percent": 0.4
-  },
-  {
-    "name": "Lion King",
     "rarity_percent": 0.4
   },
   {
@@ -809,6 +809,10 @@
   },
   {
     "name": "Bull of Heaven",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Arabian Horse",
     "rarity_percent": 0.5
   },
   {
