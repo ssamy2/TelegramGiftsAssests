@@ -92,6 +92,10 @@
     "rarity_percent": 0.5
   },
   {
+    "name": "Keffiyeh",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Conical Hat",
     "rarity_percent": 0.2
   },
@@ -126,6 +130,10 @@
   {
     "name": "Bicorne",
     "rarity_percent": 0.5
+  },
+  {
+    "name": "Cavalier Hat",
+    "rarity_percent": 0.4
   },
   {
     "name": "Royal Turban",
@@ -186,10 +194,6 @@
   {
     "name": "Thief",
     "rarity_percent": 0.5
-  },
-  {
-    "name": "Venetian Mask",
-    "rarity_percent": 0.4
   },
   {
     "name": "Dice",
@@ -264,6 +268,10 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Coin Purse",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Sauron",
     "rarity_percent": 0.5
   },
@@ -285,6 +293,10 @@
   },
   {
     "name": "Tooth",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Piggy Bank",
     "rarity_percent": 0.2
   },
   {
@@ -424,6 +436,10 @@
     "rarity_percent": 0.4
   },
   {
+    "name": "Hammerhead",
+    "rarity_percent": 0.5
+  },
+  {
     "name": "Cash",
     "rarity_percent": 0.5
   },
@@ -505,6 +521,10 @@
   },
   {
     "name": "Coin",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Clover",
     "rarity_percent": 0.5
   },
   {
@@ -628,7 +648,15 @@
     "rarity_percent": 0.5
   },
   {
+    "name": "Thunderbird",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Thor Hammer",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Jolly Roger",
     "rarity_percent": 0.5
   },
   {
@@ -646,10 +674,6 @@
   {
     "name": "Magic Hat",
     "rarity_percent": 0.5
-  },
-  {
-    "name": "Imperial Lion",
-    "rarity_percent": 0.2
   },
   {
     "name": "Jörmungandr",
@@ -724,11 +748,19 @@
     "rarity_percent": 0.5
   },
   {
+    "name": "Hazelnut",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Snail",
     "rarity_percent": 0.5
   },
   {
     "name": "Paw Print",
+    "rarity_percent": 0.4
+  },
+  {
+    "name": "Fishing Hook",
     "rarity_percent": 0.4
   },
   {
