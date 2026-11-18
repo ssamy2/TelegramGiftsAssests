@@ -4,349 +4,499 @@
     "rarity_percent": 3.0,
     "tgs_path": "models/jolly_chimp/farm_girl.tgs",
     "webp_path": "models/jolly_chimp/farm_girl.webp",
-    "custom_emoji_id": "5188673943606688916",
+    "custom_emoji_id": "5987729862880665061",
     "model_id": "5188673943606688916",
     "telegram_document_id": "5188673943606688916",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rBD3-egzuD2j0sHwWoeTqk6AAKUfAACdt8BSHLh9gmHU5wXHgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4oUhyjt_nAaXBueGOBROptwAAKUfAACdt8BSHLh9gmHU5wXHgQ"
   },
   {
     "name": "smash_king",
     "rarity_percent": 0.5,
     "tgs_path": "models/jolly_chimp/smash_king.tgs",
     "webp_path": "models/jolly_chimp/smash_king.webp",
-    "custom_emoji_id": "5192837175665783830",
+    "custom_emoji_id": "5987549955290570230",
     "model_id": "5192837175665783830",
     "telegram_document_id": "5192837175665783830",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rC0Pp3Ede7UxnXR0rTtQ9zwAAIWdAAC5qkQSBDz6WW25fvpHgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4otA9R23N-4TQABVHZjXcnAWwACFnQAAuapEEgQ8-lltuX76R4E"
   },
   {
     "name": "la_baboon",
     "rarity_percent": 1.0,
     "tgs_path": "models/jolly_chimp/la_baboon.tgs",
     "webp_path": "models/jolly_chimp/la_baboon.webp",
-    "custom_emoji_id": "5193181773776842451",
+    "custom_emoji_id": "5987945895440686883",
     "model_id": "5193181773776842451",
     "telegram_document_id": "5193181773776842451",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rBF7H-WuPOtBwpTmGMoO5R9AALTbgACT-MRSEI-tleeknP6HgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4oosneVBWn_CmyhPgdF7baFAALTbgACT-MRSEI-tleeknP6HgQ"
   },
   {
     "name": "howler",
     "rarity_percent": 2.5,
     "tgs_path": "models/jolly_chimp/howler.tgs",
     "webp_path": "models/jolly_chimp/howler.webp",
-    "custom_emoji_id": "5195387965332815678",
+    "custom_emoji_id": "5987639952035290145",
     "model_id": "5195387965332815678",
     "telegram_document_id": "5195387965332815678",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rBDcTxJ3DiFBIsSZ8vnbvklAAI-fwAC1LkZSDKV6Or4Xkn8HgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4r5tw7hiF0pRm5ba5sNTt97AAI-fwAC1LkZSDKV6Or4Xkn8HgQ"
   },
   {
     "name": "jason",
     "rarity_percent": 1.5,
     "tgs_path": "models/jolly_chimp/jason.tgs",
     "webp_path": "models/jolly_chimp/jason.webp",
-    "custom_emoji_id": "5204207135214302733",
+    "custom_emoji_id": "5987809551703874690",
     "model_id": "5204207135214302733",
     "telegram_document_id": "5204207135214302733",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rC8xJWSjA_jEZ41JwVKbsZnAAINdgAC0Q45SIT_j-tzkUjSHgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4pO9gOQWSOufQiXqDcKxmQiAAINdgAC0Q45SIT_j-tzkUjSHgQ"
   },
   {
     "name": "hex_witch",
     "rarity_percent": 2.0,
     "tgs_path": "models/jolly_chimp/hex_witch.tgs",
     "webp_path": "models/jolly_chimp/hex_witch.webp",
-    "custom_emoji_id": "5204213925557600507",
+    "custom_emoji_id": "5987732890832609732",
     "model_id": "5204213925557600507",
     "telegram_document_id": "5204213925557600507",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rDW7q4MO-vu8BdY0mk1i_IlAAL7gAAC_hQ5SAzkuwHytcVAHgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4qe1-JFP39fBkMspwJvqCjNAAL7gAAC_hQ5SAzkuwHytcVAHgQ"
   },
   {
     "name": "knight",
     "rarity_percent": 2.0,
     "tgs_path": "models/jolly_chimp/knight.tgs",
     "webp_path": "models/jolly_chimp/knight.webp",
-    "custom_emoji_id": "5204233927220296379",
+    "custom_emoji_id": "5987811140841775295",
     "model_id": "5204233927220296379",
     "telegram_document_id": "5204233927220296379",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rCUA0fnvh4zmhsYykKvIymXAAK7egACLyc5SPRtThkbiVwfHgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4pNUO4zcBowMwSRxTBPV2nJAAK7egACLyc5SPRtThkbiVwfHgQ"
   },
   {
     "name": "fool_king",
     "rarity_percent": 2.5,
     "tgs_path": "models/jolly_chimp/fool_king.tgs",
     "webp_path": "models/jolly_chimp/fool_king.webp",
-    "custom_emoji_id": "5204337487471737051",
+    "custom_emoji_id": "5985639798650448654",
     "model_id": "5204337487471737051",
     "telegram_document_id": "5204337487471737051",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rC1KYmFGoZgPwTyPoPgSrfbAALbeAACX4U5SNx8NMvyperbHgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4oPyM1Ep09HLw2UHPy98nChAALbeAACX4U5SNx8NMvyperbHgQ"
   },
   {
     "name": "tired_primate",
     "rarity_percent": 0.5,
     "tgs_path": "models/jolly_chimp/tired_primate.tgs",
     "webp_path": "models/jolly_chimp/tired_primate.webp",
-    "custom_emoji_id": "5204351222777150452",
+    "custom_emoji_id": "5987992903857741906",
     "model_id": "5204351222777150452",
     "telegram_document_id": "5204351222777150452",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rBdLSU8nKhyBV07A9-aNz7zAAL0ewAC3ZE5SOzAJ9RHQq4OHgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4row98s8BGV9DFy1pHvpAZrAAL0ewAC3ZE5SOzAJ9RHQq4OHgQ"
   },
   {
     "name": "chimpool",
     "rarity_percent": 0.5,
     "tgs_path": "models/jolly_chimp/chimpool.tgs",
     "webp_path": "models/jolly_chimp/chimpool.webp",
-    "custom_emoji_id": "5204378126452290724",
+    "custom_emoji_id": "5985801276535873337",
     "model_id": "5204378126452290724",
     "telegram_document_id": "5204378126452290724",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rB9sjk4p_0XPHl-PUhLC__WAAKkdAACVao5SKLrNjaVrup-HgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4rTWNL-dx4d5q6WchFyXxFRAAKkdAACVao5SKLrNjaVrup-HgQ"
   },
   {
     "name": "ape_puppet",
     "rarity_percent": 1.5,
     "tgs_path": "models/jolly_chimp/ape_puppet.tgs",
     "webp_path": "models/jolly_chimp/ape_puppet.webp",
-    "custom_emoji_id": "5204402783859540756",
+    "custom_emoji_id": "5987773894885383543",
     "model_id": "5204402783859540756",
     "telegram_document_id": "5204402783859540756",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rAMyAeqDy2SR9e3jTLWFLO3AAIUgwACwsA5SKzX3pf45hlJHgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4qrK51hrj4h-_lWJyAa46dAAAIUgwACwsA5SKzX3pf45hlJHgQ"
   },
   {
     "name": "luminous",
     "rarity_percent": 2.5,
     "tgs_path": "models/jolly_chimp/luminous.tgs",
     "webp_path": "models/jolly_chimp/luminous.webp",
-    "custom_emoji_id": "5204406597790494772",
+    "custom_emoji_id": "5987693557522112407",
     "model_id": "5204406597790494772",
     "telegram_document_id": "5204406597790494772",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rAp0cV-9R2_IfJicbFgxd7LAAI0cAACOsQ5SOvOZYzHJeVWHgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4qlCRzcbXdAL5t1E983QSPWAAI0cAACOsQ5SOvOZYzHJeVWHgQ"
   },
   {
     "name": "busy_mom",
     "rarity_percent": 1.5,
     "tgs_path": "models/jolly_chimp/busy_mom.tgs",
     "webp_path": "models/jolly_chimp/busy_mom.webp",
-    "custom_emoji_id": "5204416789747890720",
+    "custom_emoji_id": "5987673620283923862",
     "model_id": "5204416789747890720",
     "telegram_document_id": "5204416789747890720",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rDLWtPzroSMKGXMv1xJJS__AAIgegACf805SGZMLf_5gdFnHgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4rQRjWL2v2apwS46mgnzo_aAAIgegACf805SGZMLf_5gdFnHgQ"
   },
   {
     "name": "genie",
     "rarity_percent": 2.0,
     "tgs_path": "models/jolly_chimp/genie.tgs",
     "webp_path": "models/jolly_chimp/genie.webp",
-    "custom_emoji_id": "5204450088629335675",
+    "custom_emoji_id": "5987542958788845334",
     "model_id": "5204450088629335675",
     "telegram_document_id": "5204450088629335675",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rBUKWMS2_ulE2WjeA7OxvfwAAJ7dgACyOs5SPgBPToxHEQOHgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4pMlp9kZnrTg_SVFQYDcKvUAAJ7dgACyOs5SPgBPToxHEQOHgQ"
   },
   {
     "name": "crystal",
     "rarity_percent": 2.5,
     "tgs_path": "models/jolly_chimp/crystal.tgs",
     "webp_path": "models/jolly_chimp/crystal.webp",
-    "custom_emoji_id": "5206548906002905527",
+    "custom_emoji_id": "5988082136098282932",
     "model_id": "5206548906002905527",
     "telegram_document_id": "5206548906002905527",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rCMQ5WoTdpbEVa3ZGT9TWKLAAK3eQACpWBBSOWXaF9MoGcxHgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4oz7GBMiV4looNecBYNaIkXAAK3eQACpWBBSOWXaF9MoGcxHgQ"
   },
   {
     "name": "cavegirl",
     "rarity_percent": 2.0,
     "tgs_path": "models/jolly_chimp/cavegirl.tgs",
     "webp_path": "models/jolly_chimp/cavegirl.webp",
-    "custom_emoji_id": "5208463357610326644",
+    "custom_emoji_id": "5987712992249126195",
     "model_id": "5208463357610326644",
     "telegram_document_id": "5208463357610326644",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rCJFqUcB7sKozpuXjvsUMiCAAJ0egAC1C1ISD0rYw1Guv92HgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4qD-bHBBVRg0as4D-BHJBt4AAJ0egAC1C1ISD0rYw1Guv92HgQ"
   },
   {
     "name": "caveman",
     "rarity_percent": 2.0,
     "tgs_path": "models/jolly_chimp/caveman.tgs",
     "webp_path": "models/jolly_chimp/caveman.webp",
-    "custom_emoji_id": "5208907744991542781",
+    "custom_emoji_id": "5988089669470920782",
     "model_id": "5208907744991542781",
     "telegram_document_id": "5208907744991542781",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rC9b5v1v72zhEOiHxs1UtmfAAL9fQAC_8FJSHZqfQfZKZE2HgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4qxTPvCqck1KFsbnt5hRp3kAAL9fQAC_8FJSHZqfQfZKZE2HgQ"
   },
   {
     "name": "bellboy",
     "rarity_percent": 3.0,
     "tgs_path": "models/jolly_chimp/bellboy.tgs",
     "webp_path": "models/jolly_chimp/bellboy.webp",
-    "custom_emoji_id": "5208927639280058307",
+    "custom_emoji_id": "5988034754019075092",
     "model_id": "5208927639280058307",
     "telegram_document_id": "5208927639280058307",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rCaAdbrRCX1G-wVqN8RugRcAALDfwACF9RJSLq5k39GcGMNHgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4qKUelvOIXTa3i3OYh3vHCiAALDfwACF9RJSLq5k39GcGMNHgQ"
   },
   {
     "name": "count_macaqula",
     "rarity_percent": 1.0,
     "tgs_path": "models/jolly_chimp/count_macaqula.tgs",
     "webp_path": "models/jolly_chimp/count_macaqula.webp",
-    "custom_emoji_id": "5210943164352857474",
+    "custom_emoji_id": "5987744319740583665",
     "model_id": "5210943164352857474",
     "telegram_document_id": "5210943164352857474",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rB2QC8L7GUGYFb7NAABPm6P_gACgoUAAjP9UEgua3XSEYpksh4E"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4q8c8Qj2oyE3GsXDI2_Po6sAAKChQACM_1QSC5rddIRimSyHgQ"
   },
   {
     "name": "tourist",
     "rarity_percent": 3.0,
     "tgs_path": "models/jolly_chimp/tourist.tgs",
     "webp_path": "models/jolly_chimp/tourist.webp",
-    "custom_emoji_id": "5212963074587263296",
+    "custom_emoji_id": "5987749538125848663",
     "model_id": "5212963074587263296",
     "telegram_document_id": "5212963074587263296",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rCslLETa116JBQozDnzOLBFAAJAgQACTCpYSE5W9xT0BAylHgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4oCrX21aelGtHON6ZqDqNOAAAJAgQACTCpYSE5W9xT0BAylHgQ"
   },
   {
     "name": "policeman",
     "rarity_percent": 2.5,
     "tgs_path": "models/jolly_chimp/policeman.tgs",
     "webp_path": "models/jolly_chimp/policeman.webp",
-    "custom_emoji_id": "5213197231909275970",
+    "custom_emoji_id": "5987892045140729095",
     "model_id": "5213197231909275970",
     "telegram_document_id": "5213197231909275970",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rDsBuAkPCUJClMvOauBOvK8AAJCiQACQ_9YSO2-UGbzq6D9HgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4r2p7R2OQbPoG4Jh-TDWoRTAAJCiQACQ_9YSO2-UGbzq6D9HgQ"
   },
   {
     "name": "olympia",
     "rarity_percent": 1.0,
     "tgs_path": "models/jolly_chimp/olympia.tgs",
     "webp_path": "models/jolly_chimp/olympia.webp",
-    "custom_emoji_id": "5215512811987304121",
+    "custom_emoji_id": "5987916406195232656",
     "model_id": "5215512811987304121",
     "telegram_document_id": "5215512811987304121",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rDRftSvMo5cDKLMgBpa6NnJAAK5fgACRTlhSCKwGdbCC6ZoHgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4p_AAFmJA6AoMsXJ8loY22dzAACuX4AAkU5YUgisBnWwgumaB4E"
   },
   {
     "name": "silverback",
     "rarity_percent": 1.5,
     "tgs_path": "models/jolly_chimp/silverback.tgs",
     "webp_path": "models/jolly_chimp/silverback.webp",
-    "custom_emoji_id": "5217551435394219557",
+    "custom_emoji_id": "5987792736906910765",
     "model_id": "5217551435394219557",
     "telegram_document_id": "5217551435394219557",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rBUQRolHU2lUzTA9lWQmJyHAAIlfgACY3doSGdeLpPajqpLHgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4oAAYzq6Er60wY2G4qAFD90mgACJX4AAmN3aEhnXi6T2o6qSx4E"
   },
   {
     "name": "artist",
     "rarity_percent": 3.0,
     "tgs_path": "models/jolly_chimp/artist.tgs",
     "webp_path": "models/jolly_chimp/artist.webp",
-    "custom_emoji_id": "5217739232839238401",
+    "custom_emoji_id": "5988050181541601811",
     "model_id": "5217739232839238401",
     "telegram_document_id": "5217739232839238401",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rBEiYVlJ43eSvT8PrN350TsAAIBgwACMCJpSLXkf_qGrcLNHgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4oJ4OVhW4Y0muCuTkC_KAqhAAIBgwACMCJpSLXkf_qGrcLNHgQ"
   },
   {
     "name": "liberation",
     "rarity_percent": 0.5,
     "tgs_path": "models/jolly_chimp/liberation.tgs",
     "webp_path": "models/jolly_chimp/liberation.webp",
-    "custom_emoji_id": "5230935975122727979",
+    "custom_emoji_id": "5988022513362280705",
     "model_id": "5230935975122727979",
     "telegram_document_id": "5230935975122727979",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rDlvRSXNBMpc_XAXxQbWCc9AAIrdAACjgSYSOYoWS3RNJW3HgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4o-xUo_Ae8DhN34ZVBZValGAAIrdAACjgSYSOYoWS3RNJW3HgQ"
   },
   {
     "name": "early_adopter",
     "rarity_percent": 3.0,
     "tgs_path": "models/jolly_chimp/early_adopter.tgs",
     "webp_path": "models/jolly_chimp/early_adopter.webp",
-    "custom_emoji_id": "5231030786525784225",
+    "custom_emoji_id": "5987566349180739779",
     "model_id": "5231030786525784225",
     "telegram_document_id": "5231030786525784225",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rC3QgMBn7ZRfJ55aBDJOOn4AAKhaAACyVqYSLiiHNNHc_xzHgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4q0Tx4JPT9HtwjFzwin9yhqAAKhaAACyVqYSLiiHNNHc_xzHgQ"
   },
   {
     "name": "coco_lime",
     "rarity_percent": 3.0,
     "tgs_path": "models/jolly_chimp/coco_lime.tgs",
     "webp_path": "models/jolly_chimp/coco_lime.webp",
-    "custom_emoji_id": "5231142386956006151",
+    "custom_emoji_id": "5987536078251237432",
     "model_id": "5231142386956006151",
     "telegram_document_id": "5231142386956006151",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rCWup_7vSMLZA1xsRkeofqoAAIHcwACScCYSAAB0z5d2W5CDx4E"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4qlKOQ2vIOqrizuN783IQV2AAIHcwACScCYSAAB0z5d2W5CDx4E"
   },
   {
     "name": "jungle_pop",
     "rarity_percent": 3.0,
     "tgs_path": "models/jolly_chimp/jungle_pop.tgs",
     "webp_path": "models/jolly_chimp/jungle_pop.webp",
-    "custom_emoji_id": "5231306763944355455",
+    "custom_emoji_id": "5987754863885295517",
     "model_id": "5231306763944355455",
     "telegram_document_id": "5231306763944355455",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rAMv0dJiitBudlBWDSc9Gk0AAJ_ZgACyVWZSF9NzBKzCp5GHgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4qdTQPSDt5ua5Waxb7PXVnnAAJ_ZgACyVWZSF9NzBKzCp5GHgQ"
   },
   {
     "name": "golden_monkey",
     "rarity_percent": 0.5,
     "tgs_path": "models/jolly_chimp/golden_monkey.tgs",
     "webp_path": "models/jolly_chimp/golden_monkey.webp",
-    "custom_emoji_id": "5238048161792027690",
+    "custom_emoji_id": "5987606451290384111",
     "model_id": "5238048161792027690",
     "telegram_document_id": "5238048161792027690",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rDiOwbuxiUrfQqohOZafxbsAAIqbAACDUmxSNBtO0z2KT4aHgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4r40RRPL9Qip6rcPHvjtuynAAIqbAACDUmxSNBtO0z2KT4aHgQ"
   },
   {
     "name": "bank_robber",
     "rarity_percent": 1.5,
     "tgs_path": "models/jolly_chimp/bank_robber.tgs",
     "webp_path": "models/jolly_chimp/bank_robber.webp",
-    "custom_emoji_id": "5244803664312298777",
+    "custom_emoji_id": "5987748017707425740",
     "model_id": "5244803664312298777",
     "telegram_document_id": "5244803664312298777",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rADZSXbSnZxPpeoU8y4_TYzAAIZbQACJUnJSCF2bNiitwABaR4E"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4r3YM6RBpTzOng9EzyQ-MXnAAIZbQACJUnJSCF2bNiitwABaR4E"
   },
   {
     "name": "french_cafe",
     "rarity_percent": 2.0,
     "tgs_path": "models/jolly_chimp/french_cafe.tgs",
     "webp_path": "models/jolly_chimp/french_cafe.webp",
-    "custom_emoji_id": "5253514459284008581",
+    "custom_emoji_id": "5987893836142092029",
     "model_id": "5253514459284008581",
     "telegram_document_id": "5253514459284008581",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rBfXUYgJfpiNZNMjTn5jKkcAAKFbgACkTvoSN8DY0nW0UumHgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4qO_ZugugxV-kgCBuEIysPLAAKFbgACkTvoSN8DY0nW0UumHgQ"
   },
   {
     "name": "snow_yeti",
     "rarity_percent": 3.0,
     "tgs_path": "models/jolly_chimp/snow_yeti.tgs",
     "webp_path": "models/jolly_chimp/snow_yeti.webp",
-    "custom_emoji_id": "5264983791490857640",
+    "custom_emoji_id": "5988091808364644607",
     "model_id": "5264983791490857640",
     "telegram_document_id": "5264983791490857640",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rAViq0Gt7Cho9_iwkojdfkRAAKoegAC3foQSaBszevSaCM3HgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4prEXtTvXK_phauBmvzNoiXAAKoegAC3foQSaBszevSaCM3HgQ"
   },
   {
     "name": "bananas",
     "rarity_percent": 2.0,
     "tgs_path": "models/jolly_chimp/bananas.tgs",
     "webp_path": "models/jolly_chimp/bananas.webp",
-    "custom_emoji_id": "5265222952449767115",
+    "custom_emoji_id": "5987631813072265531",
     "model_id": "5265222952449767115",
     "telegram_document_id": "5265222952449767115",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rAFHrez0xsSvNNliUcu848mAALLdgACYdQRSRgBJKsIbcnCHgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4oJLBcxEeqLv6-zTQm-SVJJAALLdgACYdQRSRgBJKsIbcnCHgQ"
   },
   {
     "name": "baby_kong",
     "rarity_percent": 3.0,
     "tgs_path": "models/jolly_chimp/baby_kong.tgs",
     "webp_path": "models/jolly_chimp/baby_kong.webp",
-    "custom_emoji_id": "5280653700497436201",
+    "custom_emoji_id": "5987975895787249732",
     "model_id": "5280653700497436201",
     "telegram_document_id": "5280653700497436201",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rAyn-N2WfH1y3_fIAT7fLc-AAIpbgACkKZISaJMdpqTBDC1HgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4pOGu_rU12vnC_XnyDKkfg3AAIpbgACkKZISaJMdpqTBDC1HgQ"
   },
   {
     "name": "little_sister",
     "rarity_percent": 2.0,
     "tgs_path": "models/jolly_chimp/little_sister.tgs",
     "webp_path": "models/jolly_chimp/little_sister.webp",
-    "custom_emoji_id": "5289707775025249224",
+    "custom_emoji_id": "5988091086810130415",
     "model_id": "5289707775025249224",
     "telegram_document_id": "5289707775025249224",
-    "telegram_file_id": "BQACAgIAAxUAAWri3rDOfXnqiQLbjtXYpqh6zRxaAALIewACMtFoSQK9_XSRf2elHgQ"
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4rXAxj-WlxUWHOvQqtFlccbAALIewACMtFoSQK9_XSRf2elHgQ"
+  },
+  {
+    "name": "cherub",
+    "rarity_percent": 1.0,
+    "tgs_path": "models/jolly_chimp/cherub.tgs",
+    "webp_path": "models/jolly_chimp/cherub.webp",
+    "custom_emoji_id": "6046247160201092857",
+    "model_id": "5303542392966639610",
+    "telegram_document_id": "5303542392966639610",
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4qlRos4095Nw-qrBXlfKdHZAAL6bwACtfeZSRSSrZH4CurdHgQ"
+  },
+  {
+    "name": "retro_cartoon",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/jolly_chimp/retro_cartoon.tgs",
+    "webp_path": "models/jolly_chimp/retro_cartoon.webp",
+    "custom_emoji_id": "6046254229717261254",
+    "model_id": "5312033839663577232",
+    "telegram_document_id": "5312033839663577232",
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4qZEIKRqgnfEyxeJL2Wpm90AAKQeAACoiK4SYBWSGm7J9ZRHgQ"
+  },
+  {
+    "name": "hot_springs",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/jolly_chimp/hot_springs.tgs",
+    "webp_path": "models/jolly_chimp/hot_springs.webp",
+    "custom_emoji_id": "6046475759835422154",
+    "model_id": "5328210181148932367",
+    "telegram_document_id": "5328210181148932367",
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4p51OwxvzPTpQP1F6nIT0zwAAIPeQAC7prxSdzxahen2NmIHgQ"
+  },
+  {
+    "name": "alarm_ape",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/jolly_chimp/alarm_ape.tgs",
+    "webp_path": "models/jolly_chimp/alarm_ape.webp",
+    "custom_emoji_id": "6046403969457071645",
+    "model_id": "5341357131876561975",
+    "telegram_document_id": "5341357131876561975",
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4r1kLiS9gfa8YrSe7om3DhvAAI3dAACA1AgSuOJXPOOwh_XHgQ"
+  },
+  {
+    "name": "grayscale",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/jolly_chimp/grayscale.tgs",
+    "webp_path": "models/jolly_chimp/grayscale.webp",
+    "custom_emoji_id": "6046383293484506972",
+    "model_id": "5341718922741710323",
+    "telegram_document_id": "5341718922741710323",
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4pGxFADTqaC_GRVAeM64ZWkAALzfQACD5khSsB8_cudBCqJHgQ"
+  },
+  {
+    "name": "belle_bang",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/jolly_chimp/belle_bang.tgs",
+    "webp_path": "models/jolly_chimp/belle_bang.webp",
+    "custom_emoji_id": "6046269683009594300",
+    "model_id": "5346295291999975333",
+    "telegram_document_id": "5346295291999975333",
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4rV5XI-rV2jZMg_7aOhUCaaAAKldwACPtsxSgABNu4qFeQDkx4E"
+  },
+  {
+    "name": "monkey_mouse",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/jolly_chimp/monkey_mouse.tgs",
+    "webp_path": "models/jolly_chimp/monkey_mouse.webp",
+    "custom_emoji_id": "6046268321504961691",
+    "model_id": "5348115387470869096",
+    "telegram_document_id": "5348115387470869096",
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4oli0SGq59bav94SaPSPfmkAAJocgACnFI4Sh8TlMxb1dVLHgQ"
+  },
+  {
+    "name": "chimp_imp",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/jolly_chimp/chimp_imp.tgs",
+    "webp_path": "models/jolly_chimp/chimp_imp.webp",
+    "custom_emoji_id": "6046147001563750563",
+    "model_id": "5348214133063974947",
+    "telegram_document_id": "5348214133063974947",
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4rd6KWiaJ9BbX-_xCjr5UENAAIjgAACa6w4SqfHnjhq8VUkHgQ"
+  },
+  {
+    "name": "abubu",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/jolly_chimp/abubu.tgs",
+    "webp_path": "models/jolly_chimp/abubu.webp",
+    "custom_emoji_id": "6046403067513938848",
+    "model_id": "5355031839595590245",
+    "telegram_document_id": "5355031839595590245",
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4rnba7bY-8UbS66g0h-slhTAAJlcgACFuVQSo9Zv6awCWOhHgQ"
+  },
+  {
+    "name": "robo_kong",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/jolly_chimp/robo_kong.tgs",
+    "webp_path": "models/jolly_chimp/robo_kong.webp",
+    "custom_emoji_id": "5355109166186788884",
+    "model_id": "5355109166186788884",
+    "telegram_document_id": "5355109166186788884",
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4rvUyRfDspTjqDhxpJhA-6mAAIUeAACaitRSkWuKEfD_gYFHgQ"
+  },
+  {
+    "name": "shaman",
+    "rarity_percent": 2.0,
+    "tgs_path": "models/jolly_chimp/shaman.tgs",
+    "webp_path": "models/jolly_chimp/shaman.webp",
+    "custom_emoji_id": "5424903415538940148",
+    "model_id": "5424903415538940148",
+    "telegram_document_id": "5424903415538940148",
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4q5Skz90ahu7Zlda-wCQOsSAAL0eAAC6iBJS8k-AVBsD--4HgQ"
+  },
+  {
+    "name": "gravity_bangs",
+    "rarity_percent": 1.5,
+    "tgs_path": "models/jolly_chimp/gravity_bangs.tgs",
+    "webp_path": "models/jolly_chimp/gravity_bangs.webp",
+    "custom_emoji_id": "5429622596754765541",
+    "model_id": "5429622596754765541",
+    "telegram_document_id": "5429622596754765541",
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4rv6QJ0JERA7EhFp_spQ7vZAALldgAC_ORZS-rPZNMvIbs2HgQ"
+  },
+  {
+    "name": "toddler",
+    "rarity_percent": 2.5,
+    "tgs_path": "models/jolly_chimp/toddler.tgs",
+    "webp_path": "models/jolly_chimp/toddler.webp",
+    "custom_emoji_id": "5447496734517262441",
+    "model_id": "5447496734517262441",
+    "telegram_document_id": "5447496734517262441",
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4q3vbXxsAnfq_2AySI_3p09AAJpeAACa2WZS91Ffe6MmYUaHgQ"
+  },
+  {
+    "name": "patchwork",
+    "rarity_percent": 3.0,
+    "tgs_path": "models/jolly_chimp/patchwork.tgs",
+    "webp_path": "models/jolly_chimp/patchwork.webp",
+    "custom_emoji_id": "5452063723566952870",
+    "model_id": "5452063723566952870",
+    "telegram_document_id": "5452063723566952870",
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4r2HgAByqSFU5MAAYCXm-SAefoAAqZxAAISn6lL5vajMynSBQMeBA"
+  },
+  {
+    "name": "clash_elixir",
+    "rarity_percent": 3.0,
+    "tgs_path": "models/jolly_chimp/clash_elixir.tgs",
+    "webp_path": "models/jolly_chimp/clash_elixir.webp",
+    "custom_emoji_id": "5463299559876753701",
+    "model_id": "5463299559876753701",
+    "telegram_document_id": "5463299559876753701",
+    "telegram_file_id": "BQACAgIAAxUAAWr9A4r1KGPs8JiUcRIs-0Xdn3tuAAIleQACAYrRS7CQx_8HVzSaHgQ"
   }
 ]
