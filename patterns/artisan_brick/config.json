@@ -152,10 +152,6 @@
     "rarity_percent": 0.7
   },
   {
-    "name": "Axe",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Pickaxe",
     "rarity_percent": 0.2
   },
@@ -292,10 +288,6 @@
     "rarity_percent": 0.7
   },
   {
-    "name": "Carrot",
-    "rarity_percent": 0.4
-  },
-  {
     "name": "Seahorse",
     "rarity_percent": 0.7
   },
@@ -325,10 +317,6 @@
   },
   {
     "name": "Cobra",
-    "rarity_percent": 0.4
-  },
-  {
-    "name": "Turtle",
     "rarity_percent": 0.4
   },
   {
@@ -373,6 +361,10 @@
   },
   {
     "name": "Moon",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "UFO",
     "rarity_percent": 0.2
   },
   {
@@ -520,6 +512,10 @@
     "rarity_percent": 0.5
   },
   {
+    "name": "Aztec Falcon",
+    "rarity_percent": 0.4
+  },
+  {
     "name": "Lion of Babylon",
     "rarity_percent": 0.4
   },
@@ -592,6 +588,10 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Wise Raven",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Puzzle",
     "rarity_percent": 0.7
   },
@@ -630,10 +630,6 @@
   {
     "name": "Radar",
     "rarity_percent": 0.7
-  },
-  {
-    "name": "Sleepy Unicorn",
-    "rarity_percent": 0.2
   },
   {
     "name": "Sea Dragon",
@@ -680,7 +676,7 @@
     "rarity_percent": 0.4
   },
   {
-    "name": "Mafdet",
+    "name": "Pegasus",
     "rarity_percent": 0.2
   },
   {
@@ -694,9 +690,5 @@
   {
     "name": "Totem Bear",
     "rarity_percent": 0.2
-  },
-  {
-    "name": "Alkonost",
-    "rarity_percent": 0.4
   }
 ]
