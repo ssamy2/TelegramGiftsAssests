@@ -572,10 +572,6 @@
     "rarity_percent": 0.5
   },
   {
-    "name": "Star Crown",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Conch",
     "rarity_percent": 0.5
   },
@@ -682,10 +678,6 @@
   {
     "name": "Cicada",
     "rarity_percent": 0.4
-  },
-  {
-    "name": "Maple Leaf",
-    "rarity_percent": 0.2
   },
   {
     "name": "Bread",
@@ -806,6 +798,10 @@
   {
     "name": "Diamond",
     "rarity_percent": 0.4
+  },
+  {
+    "name": "Love Lock",
+    "rarity_percent": 0.2
   },
   {
     "name": "Viking",
