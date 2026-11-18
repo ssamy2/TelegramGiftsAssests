@@ -76,6 +76,10 @@
     "rarity_percent": 1.0
   },
   {
+    "name": "Satin Gold",
+    "rarity_percent": 1.2
+  },
+  {
     "name": "Pure Gold",
     "rarity_percent": 1.5
   },
@@ -278,6 +282,10 @@
   {
     "name": "Mexican Pink",
     "rarity_percent": 1.5
+  },
+  {
+    "name": "Tomato",
+    "rarity_percent": 1.0
   },
   {
     "name": "Fire Engine",
