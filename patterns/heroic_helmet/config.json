@@ -1,5 +1,9 @@
 [
   {
+    "name": "Shuriken",
+    "rarity_percent": 0.4
+  },
+  {
     "name": "Two Katanas",
     "rarity_percent": 0.5
   },
@@ -12,8 +16,8 @@
     "rarity_percent": 0.4
   },
   {
-    "name": "Bonsai",
-    "rarity_percent": 0.2
+    "name": "Paper Lantern",
+    "rarity_percent": 0.5
   },
   {
     "name": "Yin-Yang",
@@ -25,6 +29,10 @@
   },
   {
     "name": "Nigiri",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Geisha Fan",
     "rarity_percent": 0.2
   },
   {
@@ -46,6 +54,10 @@
   {
     "name": "Twin Koi",
     "rarity_percent": 0.5
+  },
+  {
+    "name": "Bowler Hat",
+    "rarity_percent": 0.2
   },
   {
     "name": "Academic Cap",
@@ -132,10 +144,6 @@
     "rarity_percent": 0.5
   },
   {
-    "name": "Chest",
-    "rarity_percent": 0.5
-  },
-  {
     "name": "Cocktail",
     "rarity_percent": 0.5
   },
@@ -168,11 +176,11 @@
     "rarity_percent": 0.5
   },
   {
-    "name": "Garden Pot",
-    "rarity_percent": 0.2
+    "name": "The Eye",
+    "rarity_percent": 0.4
   },
   {
-    "name": "The Eye",
+    "name": "Scarab",
     "rarity_percent": 0.4
   },
   {
@@ -188,7 +196,15 @@
     "rarity_percent": 0.5
   },
   {
+    "name": "Handset",
+    "rarity_percent": 0.4
+  },
+  {
     "name": "Coat of Arms",
+    "rarity_percent": 0.4
+  },
+  {
+    "name": "Palette",
     "rarity_percent": 0.4
   },
   {
@@ -210,10 +226,6 @@
   {
     "name": "Bottlenose",
     "rarity_percent": 0.5
-  },
-  {
-    "name": "Sauron",
-    "rarity_percent": 0.2
   },
   {
     "name": "Shark Knife",
@@ -256,10 +268,6 @@
     "rarity_percent": 0.5
   },
   {
-    "name": "Bread",
-    "rarity_percent": 0.4
-  },
-  {
     "name": "Pizza Slice",
     "rarity_percent": 0.5
   },
@@ -272,11 +280,19 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Ladybug",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Cobra",
     "rarity_percent": 0.5
   },
   {
     "name": "Turtle",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Rook",
     "rarity_percent": 0.5
   },
   {
@@ -290,10 +306,6 @@
   {
     "name": "Gift Box",
     "rarity_percent": 0.2
-  },
-  {
-    "name": "Pyramid",
-    "rarity_percent": 0.5
   },
   {
     "name": "Royal Crown",
@@ -312,7 +324,15 @@
     "rarity_percent": 0.5
   },
   {
+    "name": "Book",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Sword",
+    "rarity_percent": 0.2
+  },
+  {
+    "name": "Crystal Ball",
     "rarity_percent": 0.2
   },
   {
@@ -360,7 +380,7 @@
     "rarity_percent": 0.4
   },
   {
-    "name": "Anchor",
+    "name": "PC Mouse",
     "rarity_percent": 0.5
   },
   {
@@ -369,10 +389,6 @@
   },
   {
     "name": "Ball",
-    "rarity_percent": 0.5
-  },
-  {
-    "name": "Cactus",
     "rarity_percent": 0.5
   },
   {
@@ -397,6 +413,10 @@
   },
   {
     "name": "Diamond",
+    "rarity_percent": 0.5
+  },
+  {
+    "name": "Love Lock",
     "rarity_percent": 0.5
   },
   {
@@ -468,15 +488,15 @@
     "rarity_percent": 0.4
   },
   {
+    "name": "Aztec Totem",
+    "rarity_percent": 0.4
+  },
+  {
     "name": "Silver Ibis",
     "rarity_percent": 0.2
   },
   {
     "name": "Anubis",
-    "rarity_percent": 0.4
-  },
-  {
-    "name": "Griffon",
     "rarity_percent": 0.4
   },
   {
@@ -616,10 +636,6 @@
     "rarity_percent": 0.5
   },
   {
-    "name": "Beer",
-    "rarity_percent": 0.2
-  },
-  {
     "name": "Double Axe",
     "rarity_percent": 0.5
   },
@@ -630,6 +646,10 @@
   {
     "name": "Neptune",
     "rarity_percent": 0.4
+  },
+  {
+    "name": "Radar",
+    "rarity_percent": 0.2
   },
   {
     "name": "Magic Vial",
@@ -652,12 +672,20 @@
     "rarity_percent": 0.2
   },
   {
+    "name": "Bastet",
+    "rarity_percent": 0.2
+  },
+  {
     "name": "Celtic Wolf",
     "rarity_percent": 0.5
   },
   {
     "name": "Sun Lion",
     "rarity_percent": 0.4
+  },
+  {
+    "name": "Mountain Goat",
+    "rarity_percent": 0.2
   },
   {
     "name": "Inca Sun",
@@ -692,6 +720,10 @@
     "rarity_percent": 0.5
   },
   {
+    "name": "Yogi Shaman",
+    "rarity_percent": 0.4
+  },
+  {
     "name": "Mayan Moth",
     "rarity_percent": 0.5
   },
@@ -706,10 +738,6 @@
   {
     "name": "Mountain Lion",
     "rarity_percent": 0.4
-  },
-  {
-    "name": "Bull of Heaven",
-    "rarity_percent": 0.5
   },
   {
     "name": "Ram of Amun",
